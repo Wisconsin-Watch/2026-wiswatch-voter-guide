@@ -4,6 +4,25 @@
 </svelte:head>
 
 <style>
+    .sponsor-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 16px;
+        }
+    .sponsor-slot {
+        width: 300px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        }
+    .sponsor-slot img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        }
+
     .address-search-container {
         max-width: 800px;
         margin: 2rem auto;
@@ -1299,12 +1318,11 @@
 
                     <section id="Keydates" style="margin: 0 0; overflow-x: hidden; width: 100%; position: relative;">
                         <h2 class="wp-block-heading has-text-align-center">Save these dates</h2>
-                        <p class="has-text-align-center"><small><i>Hover over highlighted dates for details.</i></small></p>
-                        <p class="has-text-align-center calendar-actions" style="margin-bottom: 0;"><strong>Add to your calendar:</strong></p>
                         <div class="calendar-actions">
-                            <a href={webcalUrl} class="calendar-link">Subscribe to Calendar</a>
-                            <a href="{base}/others/WI-2026-Election-Key-Dates.ics" class="calendar-link" target="_blank" rel="noopener">Download .ics</a>
+                            <a href={webcalUrl} class="calendar-link">Add to Google, Apple, or Outlook calendar</a>
+                            <a href="{base}/others/WI-2026-Election-Key-Dates.ics" class="calendar-link" target="_blank" rel="noopener">Download to local (.ics)</a>
                         </div>
+                        <p class="has-text-align-center"><small><i>Hover over highlighted dates for details.</i></small></p>
                         
                         <!-- Dedicated Tooltip Container -->
                         <div class="tooltip-container">
@@ -1519,6 +1537,31 @@
                                     </section>
                                 {/each}
                             </div>
+
+
+                    <!--Credit and Sponsor section-->
+                    <section id="credit-sponsor-section">
+                        <h4 class="wp-block-heading has-text-align-left">Credits</h4>
+                            <p class="has-text-align-left" style="font-size: 14px;"><strong>Reporting</strong> XXXX</p>
+                            <p class="has-text-align-left" style="font-size: 14px;"><strong>Design and development</strong> XXXXX</p>
+                            <p class="has-text-align-left" style="font-size: 14px;"><strong>Editing</strong> XXXX</p>
+                        <h4 class="wp-block-heading has-text-align-left">Special thanks to our sponsors</h4>
+
+                        <div class="sponsor-grid">
+                            <!-- Example image slots; replace src with your PNG paths -->
+                            <div class="sponsor-slot">
+                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+                            </div>
+                            <div class="sponsor-slot">
+                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+                            </div>
+                            <div class="sponsor-slot">
+                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+                            </div>
+                        </div>
+
+                    </section>
+
                     </div>
                 </div> 
         </main>

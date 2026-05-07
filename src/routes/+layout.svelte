@@ -94,16 +94,6 @@
 </div>	
 
 <footer style="background-color: #eee; padding: 1rem 0.5rem">
-
-	<!--Credit section-->
-    <div class="credits wrapper">
-        <small>
-			<strong>Credits:</strong><br>
-			<p>Reporting by Testing Name, Testing Name</p>
-			<p>Editing by Testing Name, Testing Name</p>
-			<p>Photography by Testing Name, Testing Name</p>
-        </small>
-    </div>
 	<div class="footer-branding" style="padding-bottom: 1rem;">
 		<div class="wrapper">
 		<style>.site-header .custom-logo{height:auto;max-height:90px;max-width:320px;width:auto;}@media (max-width: 781px){.site-header .custom-logo{max-width:175px;max-height:56px;}}@media (min-width: 782px){.h-stk:not(.h-sub) .site-header .custom-logo{max-height:90px;max-width:320px;}.h-sub .site-header .custom-logo{max-width:220px;max-height:70px;}}@media (max-width: 1199px) and (min-width: 782px){.h-stk.h-cl:not(.h-sub) .site-header .custom-logo{max-width: 100%;width: auto;}}</style><a href="https://wisconsinwatch.org/" class="custom-logo-link" rel="home"><img width="700" height="223" src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&amp;quality=100&amp;ssl=1" class="custom-logo" alt="Wisconsin Watch" decoding="async" srcset="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?w=700&amp;quality=100&amp;ssl=1 700w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=336%2C107&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=140%2C45&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=400%2C127&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=150%2C48&amp;quality=100&amp;ssl=1 150w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&amp;quality=100&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 700px) 100vw, 700px"></a>	<nav class="social-navigation" aria-label="Social Links Menu">

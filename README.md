@@ -8,7 +8,6 @@ No, this is not a finished website. All data are fake
 
 - Separate Governor race into primary for Dem and Rep
 - How to create list of major donors, do we want to move the credit lines there?
-- Arts & Designs for hero and other elements
 
 <strong>April:</strong>
 
