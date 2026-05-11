@@ -14,6 +14,15 @@ const DISTRICT_RACES = [
 	{ value: 'US Congress', label: 'U.S. Congress', hasDistricts: true }
 ];
 
+// Races that have sub-race options instead of districts
+const SUB_RACE_OPTIONS = {
+	'Governor': [
+		{ label: 'Republican Primary', raceTypeParam: 'governor-republican-primary', raceId: 'go-r' },
+		{ label: 'Democrat Primary', raceTypeParam: 'governor-democrat-primary', raceId: 'go-d' },
+		{ label: 'General Race', raceTypeParam: 'governor', raceId: '1' }
+	]
+};
+
 let RACE_TYPES = [...DISTRICT_RACES];
 let raceTypeData = {};
 
@@ -102,11 +111,34 @@ async function handleRaceTypeChange(e) {
 		await loadDistricts(raceType);
 		districtGroup.style.display = 'block';
 		raceSearchBtn.style.display = 'none';
+	} else if (SUB_RACE_OPTIONS[raceType]) {
+		// Show sub-race picker (e.g. Governor primaries vs general)
+		loadSubRaceOptions(raceType);
+		districtGroup.style.display = 'block';
+		raceSearchBtn.style.display = 'none';
 	} else {
-		// No districts needed (like Governor)
+		// No districts needed
 		districtGroup.style.display = 'none';
 		raceSearchBtn.style.display = 'block';
 	}
+}
+
+/**
+ * Load sub-race options (e.g. Governor primaries vs general)
+ */
+function loadSubRaceOptions(raceType) {
+	const districtSelect = document.getElementById('district-select');
+	if (!districtSelect) return;
+
+	const options = SUB_RACE_OPTIONS[raceType];
+	districtSelect.innerHTML = '<option value="">Select race...</option>';
+	options.forEach(opt => {
+		const option = document.createElement('option');
+		option.value = opt.raceId;
+		option.dataset.raceTypeParam = opt.raceTypeParam;
+		option.textContent = opt.label;
+		districtSelect.appendChild(option);
+	});
 }
 
 /**
@@ -202,7 +234,16 @@ function handleRaceSearch() {
 	}
 	
 	// Get race-id if applicable
-	if (hasDistricts) {
+	if (SUB_RACE_OPTIONS[raceType]) {
+		// Governor-style: district select holds sub-race options
+		if (!districtSelect || !districtSelect.value) {
+			alert('Please select a race');
+			return;
+		}
+		const selectedOption = districtSelect.options[districtSelect.selectedIndex];
+		raceTypeParam = selectedOption.dataset.raceTypeParam || raceTypeParam;
+		raceId = selectedOption.value;
+	} else if (hasDistricts) {
 		if (!districtSelect || !districtSelect.value) {
 			alert('Please select a district');
 			return;

@@ -2,4 +2,4 @@
     import GovernorRaceRedirect from '$lib/GovernorRaceRedirect.svelte';
 </script>
 
-<GovernorRaceRedirect raceType="governor" raceId="1" />
+<GovernorRaceRedirect raceType="governor-republican-primary" raceId="go-r" />

@@ -47,6 +47,22 @@
         }
     };
     
+    // Statewide races that share a sheet but need distinct display names
+    const STATEWIDE_RACE_CONFIG = {
+        'governor-republican-primary': {
+            displayName: 'Wisconsin Governor Republican Primary',
+            raceType: 'Governor',
+            hasMap: false,
+            urlPath: 'governor-republican-primary'
+        },
+        'governor-democrat-primary': {
+            displayName: 'Wisconsin Governor Democrat Primary',
+            raceType: 'Governor',
+            hasMap: false,
+            urlPath: 'governor-democrat-primary'
+        }
+    };
+
     /**
      * Generate configuration for a statewide race
      * @param {string} raceTypeSlug - URL slug like 'governor', 'attorney-general'
@@ -87,6 +103,9 @@
         // Check if it's a district-based race first
         if (DISTRICT_RACE_CONFIG[raceTypeParam]) {
             config = DISTRICT_RACE_CONFIG[raceTypeParam];
+        } else if (STATEWIDE_RACE_CONFIG[raceTypeParam]) {
+            // Check explicit statewide race config (e.g. primaries sharing a sheet)
+            config = STATEWIDE_RACE_CONFIG[raceTypeParam];
         } else {
             // Assume it's a statewide race and generate config dynamically
             config = generateStatewideConfig(raceTypeParam);
@@ -286,7 +305,7 @@
                         </div>
                     {/if}
                     
-                    {#if raceTypeParam === 'governor' && race['district-race-nutshell']}
+                    {#if (raceTypeParam === 'governor' || raceTypeParam === 'governor-republican-primary' || raceTypeParam === 'governor-democrat-primary') && race['district-race-nutshell']}
                         <div class="info-section">
                             <h2>Race Overview</h2>
                             <p>{@html race['district-race-nutshell'].replace(/\n/g, '<br>')}</p>

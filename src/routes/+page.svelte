@@ -422,6 +422,43 @@
         color: #515151;
     }
 
+    .governor-race-bkg {
+        grid-column: 3 / 11;
+        z-index: -1;
+        inset: 10px;
+    }
+
+    .governor-winner-left {
+        grid-column: 1 / 6;
+    }
+    
+    .governor-winner-right {
+        grid-column: 8 / 13;
+    }
+
+    .governor-winner-main {
+        grid-column: 4 / 10;
+    }
+
+    .governor-winner-main, .governor-winner-left, .governor-winner-right {
+        background: white;
+        border-radius: 50px;
+        padding: 1.5rem;
+        text-align: center;
+        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+        border: #D5E2EE 2px solid;
+    }
+
+    .governor-winner-main:hover, .governor-winner-left:hover, .governor-winner-right:hover {
+        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.2);
+        border: #233166 2px solid;
+        transition: all 0.3s ease;
+    }
+
+    .governor-winner-main picture, .governor-winner-left picture, .governor-winner-right picture {
+        border-radius: 50px !important;
+    }
+
     @media (max-width: 820px) {
         .calendars-container {
             padding: 0 0.5rem;
@@ -498,6 +535,67 @@
             max-width: min(280px, calc(100vw - 2rem));
             font-size: 1rem;
             padding: 0.5rem 0.75rem;
+        }
+
+        .governor-race-bkg {
+            grid-column: 3 / 11;
+            z-index: -1;
+        }
+
+        .governor-winner-left {
+            grid-column: 1 / 7;
+        }
+        
+        .governor-winner-right {
+            grid-column: 7 / 13;
+        }
+    }
+
+    @media (min-width: 760px) {
+        #governors-race .bento-container {
+            display: grid !important;
+            grid-template-columns: 1fr 2fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            grid-auto-flow: unset;
+            position: relative;
+        }
+
+        #governors-race .governor-winner-left {
+            grid-column: 1 !important;
+            grid-row: 1 !important;
+        }
+
+        #governors-race .governor-winner-right {
+            grid-column: 1 !important;
+            grid-row: 2 !important;
+        }
+
+        #governors-race .governor-race-bkg {
+            grid-column: 2 !important;
+            grid-row: 1 / 3 !important;
+            position: relative !important;
+            inset: auto !important;
+            z-index: 0;
+            height: 100%;
+            align-self: stretch;
+        }
+
+        #governors-race .governor-race-bkg picture,
+        #governors-race .governor-race-bkg img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        #governors-race .governor-winner-main {
+            grid-column: 3 !important;
+            grid-row: 1 / 3 !important;
+            align-self: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
         }
     }
 
@@ -1148,29 +1246,51 @@
                 </header>
             </section>
 
+
+
             <div class="entry-content" style="padding-top: 4rem;">
+
                 <div class="entry-content">
+
+                    <section id="governors-race">
+                        <h2 class="wp-block-heading has-text-align-center">Governor's Race</h2>
+
+                        <div class="bento-container grid grid-cols-12 grid-flow-dense gap-4">
+                            <a class="bento-item governor-winner-left" href="{base}/race/governor-republican-primary/go-r">
+                                <div class="winner-label">
+                                    <h4>Republican Primary</h4>
+                                </div>
+                                <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
+                            </a>
+                            <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d">
+                                <div class="winner-label">
+                                    <h4>Democrat Primary</h4>
+                                </div>
+                                <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
+                            </a>
+                            <!-- Background -->
+                            <div class="governor-race-bkg absolute inset-0 z-0 flex justify-center items-center">
+                                <picture>
+                                    <source 
+                                        srcset="{base}/graphics/racecard-bkg_Mobile.png" 
+                                        media="(max-width: 760px)" />
+                                    
+                                    <img src="{base}/graphics/racecard-bkg_Desktop.png"
+                                        alt="Governor's race background image"
+                                        class="governor-race-image w-full h-full object-cover opacity-80" />
+                                </picture>
+                            </div>
+                            <!-- Main Governor Race-->
+                            <a class="bento-item governor-winner-main" href="{base}/race/governor/1">
+                                <div class="winner-label">
+                                    <h4>Final Race</h4>
+                                </div>
+                                <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
+                            </a>
+                        </div>
+
+                    </section>
 		
-                    <h2 class="wp-block-heading has-text-align-center">Key Wisconsin elections</h2>
-
-                        <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
-                            {#each primaryRaces as race}
-                                <button class="election-button primary-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
-                                    {race.label}
-                                </button>
-                            {/each}
-                        </div>
-
-                    <h3 class="wp-block-heading has-text-align-center">Other Wisconsin elections</h3>
-
-                        <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
-                            {#each otherRaces as race}
-                                <button class="election-button other-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
-                                    {race.label}
-                                </button>
-                            {/each}
-                        </div>
-
                     <section id="address-map">
                         <h2 class="wp-block-heading has-text-align-center"><strong>Find Your Districts</strong></h2>
                         <p class="has-text-align-center">Enter your Wisconsin address to find your <strong>Assembly</strong>, <strong>Senate</strong>, and <strong>Congressional</strong> districts.</p>
@@ -1314,6 +1434,29 @@
                                 </div>
                             </div> 
                         {/if}
+                    </section>
+
+                    <section id="other-races">
+                        <h2 class="wp-block-heading has-text-align-center">Key Wisconsin elections</h2>
+
+                        <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
+                            {#each primaryRaces as race}
+                                <button class="election-button primary-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
+                                    {race.label}
+                                </button>
+                            {/each}
+                        </div>
+
+                    <h3 class="wp-block-heading has-text-align-center">Other Wisconsin elections</h3>
+
+                        <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
+                            {#each otherRaces as race}
+                                <button class="election-button other-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
+                                    {race.label}
+                                </button>
+                            {/each}
+                        </div>
+
                     </section>
 
                     <section id="Keydates" style="margin: 0 0; overflow-x: hidden; width: 100%; position: relative;">
