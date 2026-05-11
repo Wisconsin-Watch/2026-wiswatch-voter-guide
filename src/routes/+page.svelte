@@ -552,6 +552,12 @@
     }
 
     @media (min-width: 760px) {
+
+        .hero {
+            padding-top: 15vh !important;
+            padding-bottom: 10vh !important;
+        }
+
         #governors-race .bento-container {
             display: grid !important;
             grid-template-columns: 1fr 2fr 1fr;
@@ -1001,9 +1007,9 @@
             const races = await getStatewideRaces();
             statewideRaces = races;
             
-            // Separate primary races (Governor, Attorney General) from others
+            // Separate primary races (Attorney General) from others
             primaryRaces = races.filter(race => 
-                race.value === 'Governor' || race.value === 'Attorney General'
+                race.value === 'Attorney General'
             );
             
             otherRaces = races.filter(race => 
@@ -1437,7 +1443,7 @@
                     </section>
 
                     <section id="other-races">
-                        <h2 class="wp-block-heading has-text-align-center">Key Wisconsin elections</h2>
+                        <h2 class="wp-block-heading has-text-align-center">Other general Wisconsin elections</h2>
 
                         <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
                             {#each primaryRaces as race}
@@ -1445,13 +1451,8 @@
                                     {race.label}
                                 </button>
                             {/each}
-                        </div>
-
-                    <h3 class="wp-block-heading has-text-align-center">Other Wisconsin elections</h3>
-
-                        <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
                             {#each otherRaces as race}
-                                <button class="election-button other-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
+                                <button class="election-button primary-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
                                     {race.label}
                                 </button>
                             {/each}
@@ -1648,7 +1649,7 @@
                         <h2 class="wp-block-heading has-text-align-center" id="News">Latest election news from Wisconsin Watch</h2>
                             <div class="recent-news ento-container grid grid-cols-12 grid-flow-dense gap-4" id="latest-election-2024-news-and-resources">
                                 {#each data.stories as story (story.id)}
-                                    <section class="bento-section bento-section-secondary ring col-span-full md:col-span-12 xl:col-span-4 xl:row-span-1">
+                                    <section class="bento-section bento-section-secondary ring col-span-full md:col-span-6 lg:col-span-3">
                                             {#if story.image}
                                                 <figure class="post-content">
                                                     <img 
