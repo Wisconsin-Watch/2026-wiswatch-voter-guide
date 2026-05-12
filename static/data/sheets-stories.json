@@ -1,0 +1,37 @@
+{
+  "lastUpdated": "2026-05-12T15:54:32.225Z",
+  "stories": [
+    {
+      "id": 0,
+      "headline": "As the Tony Evers chapter of Wisconsin history draws to a close, a new chapter is just beginning",
+      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/03/asse6524220-scaled.jpg?resize=800%2C600&quality=100&ssl=1",
+      "url": "https://wisconsinwatch.org/2026/02/wisconsin-governor-tony-evers-final-state-of-the-state-brittany-carloni/",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "race_id": "go-1"
+    },
+    {
+      "id": 1,
+      "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
+      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/02/asse20260217-State-of-the-State-Timmerman-023-scaled.jpg?resize=800%2C600&quality=100&ssl=1",
+      "url": "https://wisconsinwatch.org/2026/02/wisconsin-election-campaign-spending-montana-corporations-donation-citizens-united/",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "race_id": "go-1"
+    },
+    {
+      "id": 2,
+      "headline": "As the Tony Evers chapter of Wisconsin history draws to a close, a new chapter is just beginning",
+      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/03/asse6524220-scaled.jpg?resize=800%2C600&quality=100&ssl=1",
+      "url": "https://wisconsinwatch.org/2026/02/wisconsin-governor-tony-evers-final-state-of-the-state-brittany-carloni/",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "race_id": "se-1"
+    },
+    {
+      "id": 3,
+      "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
+      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/02/asse20260217-State-of-the-State-Timmerman-023-scaled.jpg?resize=800%2C600&quality=100&ssl=1",
+      "url": "https://wisconsinwatch.org/2026/02/wisconsin-election-campaign-spending-montana-corporations-donation-citizens-united/",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "race_id": "se-1"
+    }
+  ]
+}

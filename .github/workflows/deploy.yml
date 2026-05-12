@@ -33,7 +33,10 @@ jobs:
       - name: Build
         env:
           VITE_MAPBOX_ACCESS_TOKEN: ${{ secrets.VITE_MAPBOX_ACCESS_TOKEN }}
-          VITE_GOOGLE_SHEETS_API_KEY: ${{ secrets.VITE_GOOGLE_SHEETS_API_KEY }}
+          # VITE_GOOGLE_SHEETS_API_KEY is intentionally omitted here.
+          # On the deployed site, all Sheets data is served from pre-generated
+          # static JSON files (updated by fetch-sheets.yml). The API key is
+          # only needed by the fetch-sheets workflow, which runs server-side.
         run: npm run build
 
       - name: Upload artifact

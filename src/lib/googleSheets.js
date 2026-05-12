@@ -1,10 +1,17 @@
 /**
  * Google Sheets API Utility
  *
- * This module provides functions to fetch data from Google Sheets using the
- * Google Sheets API directly from the client. To reduce API usage, results
- * are cached in `sessionStorage` per tab until the tab is closed.
+ * Data loading strategy (in order of preference):
+ *  1. Static pre-generated JSON files served alongside the site
+ *     (static/data/candidates.json, races.json, sheets-stories.json).
+ *     These are kept up-to-date by the fetch-sheets GitHub Action and are
+ *     the only source used on the deployed GitHub Pages site.
+ *  2. Google Sheets API — used as a fallback when the JSON files are absent
+ *     (e.g. local development before the first `node scripts/fetch-sheets.js`
+ *     run). Results are cached in sessionStorage to conserve API quota.
  */
+
+import { base } from '$app/paths';
 
 const SPREADSHEET_ID = '1H2tgXpnn7kt8KxvPkLSELsU5ohYFM0p2tvBQJi5M44E';
 const RACES_SPREADSHEET_ID = '1XecLv5Q-ZFr-5ijvhHqEiVbX6MPl61jJDmiS4GuG-SY';
@@ -77,13 +84,48 @@ async function fetchSpreadsheetMetadataWithCache(spreadsheetId) {
     });
 }
 
+// ── Static JSON helpers ───────────────────────────────────────────────────
+
 /**
- * Fetch candidate data from Google Sheets using Google Sheets API directly
- * All candidates are now in a single "Candidate" tab
- * @param {string} sheetName - Deprecated parameter, kept for backward compatibility. Always uses "Candidate" tab.
+ * Fetch a pre-generated static JSON file with sessionStorage caching.
+ * Returns null (without caching) when the file is not available so that
+ * subsequent calls will retry — useful during local development before the
+ * first `node scripts/fetch-sheets.js` run.
+ */
+async function fetchStaticJson(url) {
+    const cacheKey = `gs:static:${url}`;
+    try {
+        const cached = sessionStorage.getItem(cacheKey);
+        if (cached) return JSON.parse(cached);
+    } catch { /* ignore */ }
+
+    const response = await fetch(url);
+    if (!response.ok) return null; // not found — do not cache
+
+    const data = await response.json();
+    try {
+        sessionStorage.setItem(cacheKey, JSON.stringify(data));
+    } catch { /* ignore quota errors */ }
+    return data;
+}
+
+/**
+ * Fetch candidate data.
+ * Tries static JSON (fast, no quota) first; falls back to the live Sheets API.
+ * @param {string} sheetName - Deprecated parameter, kept for backward compatibility.
  * @returns {Promise<Array>} Array of candidate objects
  */
 export async function fetchCandidatesFromAPI(sheetName = 'Candidate') {
+    // 1. Static pre-generated JSON
+    try {
+        const json = await fetchStaticJson(`${base}/data/candidates.json`);
+        if (json && json.candidates) {
+            console.log(`Loaded ${json.candidates.length} candidates from static JSON (updated: ${json.lastUpdated})`);
+            return json.candidates;
+        }
+    } catch { /* fall through */ }
+
+    // 2. Live Google Sheets API
     const range = `'${sheetName}'!A:Z`;
     try {
         const data = await fetchSheetValuesWithCache(SPREADSHEET_ID, range);
@@ -157,11 +199,21 @@ export async function getCandidateByCandidateId(candidateId, sheetName) {
 }
 
 /**
- * Fetch race data from the races spreadsheet
- * @param {string} sheetName - The name of the sheet to fetch from (e.g., 'Assembly', 'Senate', 'Congress')
+ * Fetch race data for a specific sheet tab.
+ * Tries static JSON first; falls back to the live Sheets API.
+ * @param {string} sheetName - The name of the sheet to fetch from (e.g., 'Assembly', 'Senate', 'US Congress')
  * @returns {Promise<Array>} Array of race objects
  */
 export async function fetchRacesFromAPI(sheetName) {
+    // 1. Static pre-generated JSON
+    try {
+        const json = await fetchStaticJson(`${base}/data/races.json`);
+        if (json && json.sheets && json.sheets[sheetName]) {
+            return json.sheets[sheetName];
+        }
+    } catch { /* fall through */ }
+
+    // 2. Live Google Sheets API
     const range = `'${sheetName}'!A:Z`;
     try {
         const data = await fetchSheetValuesWithCache(RACES_SPREADSHEET_ID, range);
@@ -204,10 +256,20 @@ export async function getRaceByRaceId(raceId, sheetName) {
 }
 
 /**
- * Fetch stories from the stories spreadsheet
+ * Fetch stories from the stories spreadsheet.
+ * Tries static JSON first; falls back to the live Sheets API.
  * @returns {Promise<Array>} Array of story objects
  */
 export async function fetchStoriesFromAPI() {
+    // 1. Static pre-generated JSON
+    try {
+        const json = await fetchStaticJson(`${base}/data/sheets-stories.json`);
+        if (json && json.stories) {
+            return json.stories;
+        }
+    } catch { /* fall through */ }
+
+    // 2. Live Google Sheets API
     const range = `'Sheet1'!A:Z`;
     try {
         const data = await fetchSheetValuesWithCache(STORIES_SPREADSHEET_ID, range);
@@ -240,10 +302,20 @@ export async function getStoriesByRaceId(raceId) {
 }
 
 /**
- * Fetch all sheet names from the Elections Running 2026 spreadsheet
+ * Fetch all sheet names from the races spreadsheet.
+ * Tries static JSON first; falls back to the live Sheets metadata API.
  * @returns {Promise<Array>} Array of sheet names
  */
 export async function getAvailableSheets() {
+    // 1. Static pre-generated JSON (sheet names = top-level keys)
+    try {
+        const json = await fetchStaticJson(`${base}/data/races.json`);
+        if (json && json.sheets) {
+            return Object.keys(json.sheets);
+        }
+    } catch { /* fall through */ }
+
+    // 2. Live Sheets metadata API
     try {
         const data = await fetchSpreadsheetMetadataWithCache(RACES_SPREADSHEET_ID);
         const sheets = (data && data.sheets) || [];

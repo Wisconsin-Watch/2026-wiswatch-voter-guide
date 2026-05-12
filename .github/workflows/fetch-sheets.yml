@@ -1,0 +1,57 @@
+name: Fetch Google Sheets Data
+
+on:
+  schedule:
+    # Every 30 minutes from 8 AM to 6 PM Central Daylight Time (UTC-5)
+    # 8 AM CDT = 13:00 UTC  |  6 PM CDT = 23:00 UTC
+    - cron: '0,30 13-23 * * *'
+  workflow_dispatch: # Allow manual triggering at any time
+
+permissions:
+  contents: write # Required to commit updated JSON files
+
+jobs:
+  fetch-sheets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch data from Google Sheets
+        env:
+          GOOGLE_SHEETS_API_KEY: ${{ secrets.VITE_GOOGLE_SHEETS_API_KEY }}
+        run: node scripts/fetch-sheets.js
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code \
+            static/data/candidates.json \
+            static/data/races.json \
+            static/data/sheets-stories.json \
+            || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated data
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add \
+            static/data/candidates.json \
+            static/data/races.json \
+            static/data/sheets-stories.json
+          git commit -m "Update election data from Google Sheets [automated]"
+          git push
+        # Pushing to main automatically triggers the deploy.yml workflow
+
+      - name: No changes detected
+        if: steps.git-check.outputs.changed != 'true'
+        run: echo "All data is up to date — skipping commit."
