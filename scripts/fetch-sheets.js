@@ -59,11 +59,19 @@ async function fetchSpreadsheetMetadata(spreadsheetId) {
 
 // ── Row → object conversion ──────────────────────────────────────────────────
 
-function rowsToObjects(rows) {
+/**
+ * Convert a 2-D array of sheet values to an array of plain objects.
+ * @param {string[][]} rows - Raw values from the Sheets API (first row = headers).
+ * @param {boolean} replaceHyphens - When true, hyphens in header names are also
+ *   replaced with underscores (used for the stories sheet to match the live-API
+ *   behaviour in googleSheets.js). Defaults to false so that hyphenated column
+ *   names like "race-id" and "district-number" are preserved exactly as the rest
+ *   of the codebase expects them.
+ */
+function rowsToObjects(rows, replaceHyphens = false) {
   if (!rows || rows.length === 0) return [];
-  const headers = rows[0].map(h =>
-    h.toLowerCase().replace(/[\s-]+/g, '_')
-  );
+  const pattern = replaceHyphens ? /[\s-]+/g : /\s+/g;
+  const headers = rows[0].map(h => h.toLowerCase().replace(pattern, '_'));
   return rows.slice(1).map((row, index) => {
     const obj = { id: index };
     headers.forEach((header, i) => {
@@ -134,7 +142,7 @@ async function fetchAllRaces() {
 async function fetchSheetsStories() {
   console.log('Fetching stories from Google Sheets…');
   const data = await fetchSheetValues(STORIES_SPREADSHEET_ID, "'Sheet1'!A:Z");
-  return rowsToObjects((data && data.values) || []);
+  return rowsToObjects((data && data.values) || [], true); // replaceHyphens=true matches googleSheets.js behaviour
 }
 
 // ── Main ─────────────────────────────────────────────────────────────────────
