@@ -18,10 +18,15 @@
     // Pre-seed with known district race slugs so that URL params like 'congress'
     // (used by the district page) resolve correctly even though the sheet is
     // named 'US Congress' (which would otherwise slugify to 'us-congress').
+    // Governor primary slugs are also pre-seeded because the Governor sheet
+    // has no race-type-slug fields to build them dynamically.
     let dynamicRaceConfig = {
         assembly: { displayName: 'Wisconsin State Assembly', raceType: 'Assembly' },
         senate:   { displayName: 'Wisconsin State Senate',   raceType: 'Senate' },
-        congress: { displayName: 'U.S. House of Representatives', raceType: 'US Congress' }
+        congress: { displayName: 'U.S. House of Representatives', raceType: 'US Congress' },
+        governor: { displayName: 'Wisconsin Governor', raceType: 'Governor' },
+        'governor-democrat-primary':  { displayName: 'Wisconsin Governor Democratic Primary', raceType: 'Governor' },
+        'governor-republican-primary': { displayName: 'Wisconsin Governor Republican Primary', raceType: 'Governor' }
     };
     let config = null;
     let raceTypeParam = '';
