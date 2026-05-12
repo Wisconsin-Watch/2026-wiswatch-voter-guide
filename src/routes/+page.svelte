@@ -9,14 +9,15 @@
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap: 16px;
         }
+
     .sponsor-slot {
-        width: 300px;
         height: 100px;
         display: flex;
         align-items: center;
         justify-content: center;
         overflow: hidden;
         }
+        
     .sponsor-slot img {
         max-width: 100%;
         max-height: 100%;
@@ -1693,6 +1694,9 @@
 
                         <div class="sponsor-grid">
                             <!-- Example image slots; replace src with your PNG paths -->
+                            <div class="sponsor-slot">
+                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+                            </div>
                             <div class="sponsor-slot">
                                 <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
                             </div>

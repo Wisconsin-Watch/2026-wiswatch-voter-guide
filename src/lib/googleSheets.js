@@ -86,6 +86,11 @@ async function fetchSpreadsheetMetadataWithCache(spreadsheetId) {
 
 // ── Static JSON helpers ───────────────────────────────────────────────────
 
+// Bump this version string any time you make a breaking change to the JSON
+// schema (e.g. column renames). It invalidates all existing sessionStorage
+// caches for every visitor on their next page load.
+const CACHE_VERSION = 'v2';
+
 /**
  * Fetch a pre-generated static JSON file with sessionStorage caching.
  * Returns null (without caching) when the file is not available so that
@@ -93,7 +98,7 @@ async function fetchSpreadsheetMetadataWithCache(spreadsheetId) {
  * first `node scripts/fetch-sheets.js` run.
  */
 async function fetchStaticJson(url) {
-    const cacheKey = `gs:static:${url}`;
+    const cacheKey = `gs:static:${CACHE_VERSION}:${url}`;
     try {
         const cached = sessionStorage.getItem(cacheKey);
         if (cached) return JSON.parse(cached);

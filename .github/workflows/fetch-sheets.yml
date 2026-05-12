@@ -27,7 +27,7 @@ jobs:
 
       - name: Fetch data from Google Sheets
         env:
-          GOOGLE_SHEETS_API_KEY: ${{ secrets.GOOGLE_SHEETS_SERVER_API_KEY }}
+          GOOGLE_SHEETS_API_KEY: ${{ secrets.GOOGLE_SHEETS_API_KEY }}
         run: node scripts/fetch-sheets.js
 
       - name: Check for changes
