@@ -27,7 +27,7 @@ jobs:
 
       - name: Fetch data from Google Sheets
         env:
-          GOOGLE_SHEETS_API_KEY: ${{ secrets.VITE_GOOGLE_SHEETS_API_KEY }}
+          GOOGLE_SHEETS_API_KEY: ${{ secrets.GOOGLE_SHEETS_SERVER_API_KEY }}
         run: node scripts/fetch-sheets.js
 
       - name: Check for changes
@@ -50,7 +50,12 @@ jobs:
             static/data/sheets-stories.json
           git commit -m "Update election data from Google Sheets [automated]"
           git push
-        # Pushing to main automatically triggers the deploy.yml workflow
+
+      - name: Trigger site deployment
+        if: steps.git-check.outputs.changed == 'true'
+        run: gh workflow run deploy.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: No changes detected
         if: steps.git-check.outputs.changed != 'true'
