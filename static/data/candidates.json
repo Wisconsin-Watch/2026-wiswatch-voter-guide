@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T15:54:32.225Z",
+  "lastUpdated": "2026-05-14T19:32:19.040Z",
   "candidates": [
     {
       "id": 0,
@@ -39,7 +39,7 @@
       "id": 2,
       "candidate_id": "t-schumacher1",
       "name": "Thaddeus Schumacher",
-      "party": "Democrat",
+      "party": "Independent",
       "email": "schumacher.thad@gmail.com",
       "phone_number": "608-886-7117",
       "municipality": "Wauwatosa, WI 53213",
@@ -56,7 +56,7 @@
       "id": 3,
       "candidate_id": "c-erikson1",
       "name": "Chuck Erikson ",
-      "party": "Democrat",
+      "party": "Independent",
       "email": "info@chuckforassembly.com",
       "phone_number": "",
       "municipality": "",
