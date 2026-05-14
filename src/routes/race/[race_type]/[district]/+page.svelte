@@ -231,14 +231,28 @@
         }
     }
     
+    function handleIframeMessage(event) {
+        // Handle height resize messages from embedded iframes (e.g. AP results)
+        if (event.data && typeof event.data === 'object' && event.data.height) {
+            const iframes = document.querySelectorAll('.ap-result-section iframe');
+            iframes.forEach(iframe => {
+                if (event.source === iframe.contentWindow) {
+                    iframe.style.height = event.data.height + 'px';
+                }
+            });
+        }
+    }
+
     onMount(() => {
         // Initialize Pym.js for iframe embedding
         if (typeof window !== 'undefined' && window.pym) {
             pymChild = new window.pym.Child();
         }
+        window.addEventListener('message', handleIframeMessage);
     });
     
     onDestroy(() => {
+        window.removeEventListener('message', handleIframeMessage);
         if (districtMap) {
             districtMap.remove();
         }
@@ -304,6 +318,13 @@
                             </div>
                         </div>
                     {/if}
+
+                    {#if race['ap-result']}
+                        <div class="info-section ap-result-section">
+                            {@html race['ap-result']}
+                        </div>
+                    {/if}
+
                     
                     {#if (raceTypeParam === 'governor' || raceTypeParam === 'governor-republican-primary' || raceTypeParam === 'governor-democrat-primary') && race['district-race-nutshell']}
                         <div class="info-section">

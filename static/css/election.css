@@ -31,6 +31,17 @@
     margin-top: 1rem !important;
 }
 
+.ap-result-section {
+    padding: 0;
+    overflow: hidden;
+}
+
+.ap-result-section iframe {
+    display: block;
+    width: 100%;
+    border: none;
+}
+
 .info-section h2 {
     border-bottom: #D5E2EE 2px solid;
     padding-bottom: 0.5rem;
