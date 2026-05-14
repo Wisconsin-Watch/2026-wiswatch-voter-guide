@@ -6,10 +6,9 @@ No, this is not a finished website. All data are fake
 
 <strong>ASAP:</strong>
 
-- Separate Governor race into primary for Dem and Rep
 - How to create list of major donors, do we want to move the credit lines there?
 
-<strong>April:</strong>
+<strong>May:</strong>
 
 - Update Q&A section
 - Create info input guide for interns

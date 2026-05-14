@@ -289,7 +289,7 @@
                                             <img src="{base}/graphics/plus.svg" alt="View details" />
                                         </div>
                                         {#if candidate.candidate_id}
-                                            <img src="{base}/graphics/candidates/{candidate.candidate_id}.jpg" alt={candidate.name} class="candidate-photo" />
+                                            <img src="{base}/graphics/candidates/{candidate.candidate_id}.jpg" alt={candidate.name} class="candidate-photo" on:error={(e) => { e.target.src = `${base}/graphics/candidates/winner-who.png`; }} />
                                         {:else}
                                             <div class="candidate-placeholder">?</div>
                                         {/if}

@@ -30,7 +30,11 @@
   <div class="candidate-header">
     <div class="candidate-photo">
       {#if candidate.candidate_id}
-        <img src="{base}/graphics/candidates/{candidate.candidate_id}.jpg" alt={candidate.name} />
+        <img 
+          src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
+          alt={candidate.name}
+          on:error={(e) => { e.target.src = `${base}/graphics/candidates/winner-who.png`; }}
+        />
       {:else}
         <div class="placeholder-image">?</div>
       {/if}
@@ -54,7 +58,7 @@
             <span style="font-weight: 600;">Republican</span>
           </p>
         {:else}
-          <p style="font-weight: 600; margin: 0.5rem 0; color: #e69f00;">Non-Partisan</p>
+          <p style="font-weight: 600; margin: 0.5rem 0; color: #e69f00;">Independent</p>
         {/if}
         </div>
         {#if candidate.phone_number}

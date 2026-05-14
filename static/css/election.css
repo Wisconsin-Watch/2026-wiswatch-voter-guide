@@ -126,7 +126,7 @@
 }
 
 .candidate-info {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
     z-index: 2;
     grid-area: stack;
     padding-top: 60%;
@@ -145,6 +145,8 @@
 
 .candidate-info p,.candidate-info h1, .candidate-info h2, .candidate-info h3, .candidate-info h4 {
     color: #f5f7fa !important;
+    -webkit-text-stroke: 2px rgba(35, 49, 102, 0.8);
+    paint-order: stroke fill;
 }
 
 .candidate-name {
