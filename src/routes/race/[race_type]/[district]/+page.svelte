@@ -177,6 +177,14 @@
                 }
             }
             
+            // Mark the incumbent candidate based on race data
+            if (race['incumbent']) {
+                candidates = candidates.map(c => ({
+                    ...c,
+                    incumbent: c.candidate_id === race['incumbent'] ? 'TRUE' : ''
+                }));
+            }
+
             // Load stories for this race using the actual race-id
             stories = await getStoriesByRaceId(race['race-id']);
             
@@ -308,6 +316,9 @@
                                             <div class="candidate-placeholder">?</div>
                                         {/if}
                                         <div class="candidate-info">
+                                            {#if candidate.incumbent === 'TRUE'}
+                                                <p class="candidate-incumbent">INCUMBENT</p>
+                                            {/if}
                                             <p class="candidate-name">{candidate.name}</p>
                                             {#if candidate.party}
                                                 <p class="candidate-party">{candidate.party}</p>
