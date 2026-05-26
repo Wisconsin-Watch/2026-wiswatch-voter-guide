@@ -3,7 +3,6 @@ name: Fetch Latest Election Stories
 on:
   schedule:
     # Run at 7:00 AM Central Time (12:00 PM UTC) every day
-    # Adjust hours based on your timezone (CT is UTC-6 in winter, UTC-5 in summer)
     - cron: '0 12 * * *'
   workflow_dispatch: # Allow manual triggering
 

@@ -10,7 +10,7 @@ export async function load({ fetch }) {
 		const response = await fetch(`${base}/data/stories.json`);
 		if (response.ok) {
 			const data = await response.json();
-			stories = data.stories || [];
+			stories = (data.stories || []).slice(0, 4); // Change 4 to your desired number
 			console.log(`Loaded ${stories.length} stories (last updated: ${data.lastUpdated})`);
 		} else {
 			console.warn('Stories JSON not found, using empty array');

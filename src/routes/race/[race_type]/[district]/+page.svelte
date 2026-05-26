@@ -325,35 +325,25 @@
                         </div>
                     {/if}
 
-                    
-                    {#if (raceTypeParam === 'governor' || raceTypeParam === 'governor-republican-primary' || raceTypeParam === 'governor-democrat-primary') && race['district-race-nutshell']}
+                    {#if race['district-info']}
+                        <div class="info-section">
+                            <h2>District Overview</h2>
+                            <p>{race['district-info']}</p>
+                        </div>
+                    {/if}
+
+                    {#if race['district-race-nutshell']}
                         <div class="info-section">
                             <h2>Race Overview</h2>
                             <p>{@html race['district-race-nutshell'].replace(/\n/g, '<br>')}</p>
                         </div>
                     {/if}
-                    
-                    {#if raceTypeParam !== 'governor'}
-                        {#if race['district-info']}
-                            <div class="info-section">
-                                <h2>District Overview</h2>
-                                <p>{race['district-info']}</p>
-                            </div>
-                        {/if}
-                        
-                        {#if race['district-race-nutshell']}
-                            <div class="info-section">
-                                <h2>Race Overview</h2>
-                                <div style="white-space: pre-wrap;">{race['district-race-nutshell']}</div>
-                            </div>
-                        {/if}
-                        
-                        {#if race['primary-results']}
-                            <div class="info-section">
-                                <h2>Primary Results</h2>
-                                <p>{race['primary-results']}</p>
-                            </div>
-                        {/if}
+
+                    {#if race['primary-results']}
+                        <div class="info-section">
+                            <h2>Primary Results</h2>
+                            <p>{race['primary-results']}</p>
+                        </div>
                     {/if}
                     
                     {#if stories.length > 0}
