@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T19:32:19.040Z",
+  "lastUpdated": "2026-05-26T19:16:29.031Z",
   "candidates": [
     {
       "id": 0,
@@ -16,7 +16,8 @@
       "facebook": "https://www.facebook.com/Maiaforwisconsin/?paipv=0&eav=AfbR3oUN7i8Oa8XNNxFSm-PPc7fY_fGE8HNGIP4bXI9TiSPztooX4apMlJSkwjBzFeM",
       "twitter": "https://x.com/",
       "ins": "https://www.instagram.com/",
-      "youtube": "https://www.youtube.com/"
+      "youtube": "https://www.youtube.com/",
+      "incumbent": "TRUE"
     },
     {
       "id": 1,
@@ -33,7 +34,8 @@
       "facebook": "https://www.facebook.com/Maiaforwisconsin/?paipv=0&eav=AfbR3oUN7i8Oa8XNNxFSm-PPc7fY_fGE8HNGIP4bXI9TiSPztooX4apMlJSkwjBzFeM",
       "twitter": "https://x.com/",
       "ins": "https://www.instagram.com/",
-      "youtube": "https://www.youtube.com/"
+      "youtube": "https://www.youtube.com/",
+      "incumbent": "TRUE"
     },
     {
       "id": 2,
@@ -50,7 +52,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 3,
@@ -67,7 +70,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": "TRUE"
     },
     {
       "id": 4,
@@ -84,7 +88,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 5,
@@ -101,7 +106,8 @@
       "facebook": "https://www.facebook.com/Maiaforwisconsin/?paipv=0&eav=AfbR3oUN7i8Oa8XNNxFSm-PPc7fY_fGE8HNGIP4bXI9TiSPztooX4apMlJSkwjBzFeM",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 6,
@@ -118,7 +124,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 7,
@@ -135,7 +142,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 8,
@@ -152,7 +160,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 9,
@@ -169,7 +178,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     },
     {
       "id": 10,
@@ -186,7 +196,8 @@
       "facebook": "",
       "twitter": "",
       "ins": "",
-      "youtube": ""
+      "youtube": "",
+      "incumbent": ""
     }
   ]
 }
