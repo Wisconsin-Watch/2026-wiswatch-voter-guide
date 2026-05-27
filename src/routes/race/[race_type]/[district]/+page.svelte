@@ -165,24 +165,27 @@
                 return;
             }
             
-            // Load up to 5 candidates if they exist
+            // DEBUG: log race incumbent field and all candidate IDs
+            console.log('[DEBUG] race-id:', race['race-id']);
+            console.log('[DEBUG] race["incumbent"] value:', JSON.stringify(race['incumbent']));
+            console.log('[DEBUG] all race keys:', Object.keys(race));
+
+            // Load up to 5 candidates, setting incumbent solely from the race sheet's
+            // 'incumbent' column (contains the candidate_id, or empty if none).
             candidates = [];
             for (let i = 1; i <= 5; i++) {
                 const candidateKey = `candidate-${i}`;
                 if (race[candidateKey]) {
                     const candidate = await getCandidateByCandidateId(race[candidateKey], config.raceType);
                     if (candidate) {
-                        candidates.push(candidate);
+                        const isIncumbent = race['incumbent'] && candidate.candidate_id === race['incumbent'];
+                        console.log(`[DEBUG] candidate ${candidate.candidate_id}: race["incumbent"]="${race['incumbent']}", match=${isIncumbent}`);
+                        candidates.push({
+                            ...candidate,
+                            incumbent: isIncumbent ? 'TRUE' : ''
+                        });
                     }
                 }
-            }
-            
-            // Mark the incumbent candidate based on race data
-            if (race['incumbent']) {
-                candidates = candidates.map(c => ({
-                    ...c,
-                    incumbent: c.candidate_id === race['incumbent'] ? 'TRUE' : ''
-                }));
             }
 
             // Load stories for this race using the actual race-id
