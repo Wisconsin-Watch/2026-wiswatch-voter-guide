@@ -64,6 +64,7 @@
 	tabindex="0"
 	aria-label="Close menu overlay"
 ></div>
+
 <div id="nav-menu" class="nav-menu" class:open={menuOpen}>
 	<div class="nav-menu-header">
 		<h2>Know your race?</h2>
@@ -94,6 +95,41 @@
 </div>	
 
 <footer style="background-color: #eee; padding: 1rem 0.5rem">
+	<!-- Credits and sponsorships -->
+	<div class="footer-branding">
+		<div class="wrapper">
+			<div class="footer-credits-sponsors">
+				<!-- Credits: 1/4 -->
+				<div class="footer-credits text-widget">
+					<h4 class="wp-block-heading has-text-align-left">Credits</h4>
+					<p class="has-text-align-left" style="font-size: 14px;"><strong>Reporting</strong> XXXX</p>
+					<p class="has-text-align-left" style="font-size: 14px;"><strong>Design and development</strong> XXXXX</p>
+					<p class="has-text-align-left" style="font-size: 14px;"><strong>Editing</strong> XXXX</p>
+					<p class="has-text-align-left" style="font-size: 14px;"><strong>Data entry</strong> XXXX</p>
+				</div>
+				<!-- Sponsors: 3/4, each logo in its own column -->
+				<div class="footer-sponsors">
+					<h4 class="wp-block-heading has-text-align-left">Special thanks to our sponsors</h4>
+					<div class="sponsor-grid">
+						<div class="sponsor-slot">
+							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+						</div>
+						<div class="sponsor-slot">
+							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+						</div>
+						<div class="sponsor-slot">
+							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+						</div>
+						<div class="sponsor-slot">
+							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Branding and social links -->
 	<div class="footer-branding" style="padding-bottom: 1rem;">
 		<div class="wrapper">
 		<style>.site-header .custom-logo{height:auto;max-height:90px;max-width:320px;width:auto;}@media (max-width: 781px){.site-header .custom-logo{max-width:175px;max-height:56px;}}@media (min-width: 782px){.h-stk:not(.h-sub) .site-header .custom-logo{max-height:90px;max-width:320px;}.h-sub .site-header .custom-logo{max-width:220px;max-height:70px;}}@media (max-width: 1199px) and (min-width: 782px){.h-stk.h-cl:not(.h-sub) .site-header .custom-logo{max-width: 100%;width: auto;}}</style><a href="https://wisconsinwatch.org/" class="custom-logo-link" rel="home"><img width="700" height="223" src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&amp;quality=100&amp;ssl=1" class="custom-logo" alt="Wisconsin Watch" decoding="async" srcset="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?w=700&amp;quality=100&amp;ssl=1 700w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=336%2C107&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=140%2C45&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=400%2C127&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?resize=150%2C48&amp;quality=100&amp;ssl=1 150w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&amp;quality=100&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 700px) 100vw, 700px"></a>	<nav class="social-navigation" aria-label="Social Links Menu">
@@ -113,4 +149,47 @@
 		</div><!-- .wrapper -->
 	</div>
 </footer>
+
+<style>
+	/* Credits + Sponsors: side-by-side, credits 1/4, sponsors 3/4 */
+	.footer-credits-sponsors {
+		display: grid;
+		grid-template-columns: 1fr 3fr;
+		gap: 2rem;
+		align-items: start;
+		padding: 1rem 0;
+	}
+
+	/* Sponsor logos: each in its own equal-width column */
+	.footer-sponsors .sponsor-grid {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 1rem;
+		align-items: center;
+	}
+
+	.footer-sponsors .sponsor-slot {
+		height: 80px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		overflow: hidden;
+	}
+
+	.footer-sponsors .sponsor-slot img {
+		max-width: 100%;
+		max-height: 100%;
+		object-fit: contain;
+	}
+
+	/* Stack vertically on small screens */
+	@media (max-width: 600px) {
+		.footer-credits-sponsors {
+			grid-template-columns: 1fr;
+		}
+		.footer-sponsors .sponsor-grid {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+</style>
 

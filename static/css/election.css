@@ -32,8 +32,9 @@
 }
 
 .ap-result-section {
-    padding: 0;
+    padding: 1rem;
     overflow: hidden;
+    background-color: white;
 }
 
 .ap-result-section iframe {

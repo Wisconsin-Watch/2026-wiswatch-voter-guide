@@ -164,11 +164,6 @@
                 loading = false;
                 return;
             }
-            
-            // DEBUG: log race incumbent field and all candidate IDs
-            console.log('[DEBUG] race-id:', race['race-id']);
-            console.log('[DEBUG] race["incumbent"] value:', JSON.stringify(race['incumbent']));
-            console.log('[DEBUG] all race keys:', Object.keys(race));
 
             // Load up to 5 candidates, setting incumbent solely from the race sheet's
             // 'incumbent' column (contains the candidate_id, or empty if none).
@@ -179,7 +174,6 @@
                     const candidate = await getCandidateByCandidateId(race[candidateKey], config.raceType);
                     if (candidate) {
                         const isIncumbent = race['incumbent'] && candidate.candidate_id === race['incumbent'];
-                        console.log(`[DEBUG] candidate ${candidate.candidate_id}: race["incumbent"]="${race['incumbent']}", match=${isIncumbent}`);
                         candidates.push({
                             ...candidate,
                             incumbent: isIncumbent ? 'TRUE' : ''

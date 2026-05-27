@@ -1683,33 +1683,6 @@
                                 {/each}
                             </div>
 
-
-                    <!--Credit and Sponsor section-->
-                    <section id="credit-sponsor-section">
-                        <h4 class="wp-block-heading has-text-align-left">Credits</h4>
-                            <p class="has-text-align-left" style="font-size: 14px;"><strong>Reporting</strong> XXXX</p>
-                            <p class="has-text-align-left" style="font-size: 14px;"><strong>Design and development</strong> XXXXX</p>
-                            <p class="has-text-align-left" style="font-size: 14px;"><strong>Editing</strong> XXXX</p>
-                        <h4 class="wp-block-heading has-text-align-left">Special thanks to our sponsors</h4>
-
-                        <div class="sponsor-grid">
-                            <!-- Example image slots; replace src with your PNG paths -->
-                            <div class="sponsor-slot">
-                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
-                            </div>
-                            <div class="sponsor-slot">
-                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
-                            </div>
-                            <div class="sponsor-slot">
-                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
-                            </div>
-                            <div class="sponsor-slot">
-                                <img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
-                            </div>
-                        </div>
-
-                    </section>
-
                     </div>
                 </div> 
         </main>
