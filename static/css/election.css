@@ -269,6 +269,10 @@
     color: #515151;
 }
 
+ .story-data a {
+    font-family: 'Publico Banner', sans-serif;
+ }
+
 @media (max-width: 768px) {
     .info-grid {
         grid-template-columns: 1fr;

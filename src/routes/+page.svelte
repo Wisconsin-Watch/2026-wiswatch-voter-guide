@@ -24,6 +24,10 @@
         object-fit: contain;
         }
 
+    .post-content a {
+        font-family: 'Publico Banner', sans-serif;
+    }
+
     .address-search-container {
         max-width: 800px;
         margin: 2rem auto;
