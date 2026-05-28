@@ -111,7 +111,7 @@
 	</div>
 	
 	<!-- Credits and sponsorships -->
-	<div class="footer-branding" style="padding-top: 0;">
+	<div class="footer-branding" style="padding-bottom: 1rem; padding-top: 0;">
 		<div class="wrapper" style="padding-top: 0;">
 			<div class="footer-credits-sponsors">
 				<!-- Credits: 1/4 -->
