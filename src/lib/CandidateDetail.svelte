@@ -57,8 +57,12 @@
             <img src={base + '/graphics/logos/rep.svg'} alt="Republican" style="height:1.5em; margin-right:0.5rem; vertical-align:-0.125em" loading="lazy" />
             <span style="font-weight: 600;">Republican</span>
           </p>
+        {:else if candidate.party === 'Independent'}
+          <p style="margin: 0.5rem 0; color: #e69f00; display:flex; align-items:center;">
+            <span style="font-weight: 600;">Independent</span>
+          </p>
         {:else}
-          <p style="font-weight: 600; margin: 0.5rem 0; color: #e69f00;">Independent</p>
+          <p style="font-weight: 600; margin: 0.5rem 0; color: #515151;">{candidate.party}</p>
         {/if}
         </div>
         {#if candidate.phone_number}
