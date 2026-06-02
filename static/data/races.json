@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T14:43:11.153Z",
+  "lastUpdated": "2026-06-02T18:55:51.614Z",
   "sheets": {
     "Assembly": [
       {
@@ -2259,7 +2259,7 @@
         "candidate-1": "c-taylor1",
         "candidate-2": "m-lazar1",
         "candidate-3": "t-schumacher1",
-        "candidate-4": "",
+        "candidate-4": "c-erikson1",
         "candidate-5": "",
         "ap-result": "<iframe class=\"ap-embed\" title=\"Live election results via the Associated Press\" src=\"https://interactives.ap.org/election-results/customers/layouts/organization-layouts/published/120503/25185.html\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\"></iframe><script defer src=\"https://interactives.ap.org/election-results/assets/microsite/resizeClient.js\"></script>",
         "incumbent": "t-schumacher1"
@@ -2275,7 +2275,7 @@
         "candidate-1": "c-taylor1",
         "candidate-2": "c-erikson1",
         "candidate-3": "t-schumacher1",
-        "candidate-4": "",
+        "candidate-4": "c-erikson1",
         "candidate-5": "",
         "ap-result": "<iframe class=\"ap-embed\" title=\"Live election results via the Associated Press\" src=\"https://interactives.ap.org/election-results/customers/layouts/organization-layouts/published/120503/25185.html\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\"></iframe><script defer src=\"https://interactives.ap.org/election-results/assets/microsite/resizeClient.js\"></script>",
         "incumbent": "t-schumacher1"
@@ -2291,7 +2291,7 @@
         "candidate-1": "r-vining1",
         "candidate-2": "m-lazar1",
         "candidate-3": "t-schumacher1",
-        "candidate-4": "",
+        "candidate-4": "c-erikson1",
         "candidate-5": "",
         "ap-result": "<iframe class=\"ap-embed\" title=\"Live election results via the Associated Press\" src=\"https://interactives.ap.org/election-results/customers/layouts/organization-layouts/published/120503/25185.html\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\"></iframe><script defer src=\"https://interactives.ap.org/election-results/assets/microsite/resizeClient.js\"></script>",
         "incumbent": "t-schumacher1"
