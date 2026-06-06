@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-05T13:15:42.826Z",
+  "lastUpdated": "2026-06-06T12:39:24.775Z",
   "stories": [
+    {
+      "id": "https://wisconsinwatch.org/?p=1317748",
+      "title": "Former Madison deputy clerk removed from election tasks after misplacing 23 Supreme Court race ballots",
+      "url": "https://wisconsinwatch.org/2026/06/wisconsin-madison-ballots-deputy-clerk-removed-election-supreme-court/",
+      "creator": "Alexander Shur / Votebeat",
+      "pubDate": "Fri, 05 Jun 2026 17:03:58 +0000",
+      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?fit=1024%2C683&amp;quality=100&amp;ssl=1",
+      "imageAlt": "A person holds a pen over a ballot at a table covered with voting instructions, forms and other materials.",
+      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?w=2560&amp;quality=100&amp;ssl=1 2560w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=782%2C521&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=768%2C512&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=1536%2C1024&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=2048%2C1365&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=1200%2C800&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=1024%2C683&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=2000%2C1333&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=780%2C520&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=400%2C267&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?resize=706%2C471&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/06/asse20260407-Spring-Election-Timmerman-022-scaled.jpg?fit=1024%2C683&amp;quality=100&amp;ssl=1&amp;w=370 370w",
+      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
+      "imageWidth": "1024",
+      "imageHeight": "683"
+    },
     {
       "id": "https://wisconsinwatch.org/?p=1317555",
       "title": "Sometimes officials send duplicate ballots. Here’s how security measures prevent double voting.",
@@ -65,19 +78,6 @@
       "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
       "imageWidth": "1024",
       "imageHeight": "542"
-    },
-    {
-      "id": "https://wisconsinwatch.org/?p=1316727",
-      "title": "Wisconsin Elections Commission overrules ballot-counting decisions in Madison and Mequon",
-      "url": "https://wisconsinwatch.org/2026/05/wisconsin-elections-commission-overrules-ballot-counting-decisions-madison-mequon/",
-      "creator": "Alexander Shur / Votebeat",
-      "pubDate": "Fri, 01 May 2026 16:43:03 +0000",
-      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?fit=1024%2C682&amp;quality=100&amp;ssl=1",
-      "imageAlt": "Ballots on table next to blue bin and red sign that says &quot;REJECTED ABSENTEES&quot;",
-      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?w=2500&amp;quality=100&amp;ssl=1 2500w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=782%2C521&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=768%2C512&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=1536%2C1024&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=2048%2C1365&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=1200%2C800&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=1024%2C682&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=2000%2C1333&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=780%2C520&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=400%2C267&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?resize=706%2C470&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2025/05/Absentee-ballots.jpg?fit=1024%2C682&amp;quality=100&amp;ssl=1&amp;w=370 370w",
-      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
-      "imageWidth": "1024",
-      "imageHeight": "682"
     }
   ]
 }
