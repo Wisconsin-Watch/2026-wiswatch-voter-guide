@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T15:54:32.225Z",
+  "lastUpdated": "2026-06-18T20:16:13.983Z",
   "stories": [
     {
       "id": 0,
@@ -32,6 +32,14 @@
       "url": "https://wisconsinwatch.org/2026/02/wisconsin-election-campaign-spending-montana-corporations-donation-citizens-united/",
       "byline": "Brittany Carloni / Wisconsin Watch",
       "race_id": "se-1"
+    },
+    {
+      "id": 4,
+      "headline": "Transportation lobbyists have donated thousands to Sean Duffy’s son-in-law as he runs for Congress",
+      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/03/AP26051725584334-scaled.jpg?w=2560&quality=100&ssl=1",
+      "url": "https://wisconsinwatch.org/2026/03/transportation-lobbyists-have-donated-thousands-to-sean-duffys-son-in-law-as-he-runs-for-congress/",
+      "byline": "Megan O'Matz / ProPublica",
+      "race_id": "co-7"
     }
   ]
 }
