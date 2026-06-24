@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:19:19.228Z",
+  "lastUpdated": "2026-06-24T20:14:07.704Z",
   "stories": [
     {
       "id": 0,
@@ -123,11 +123,11 @@
     },
     {
       "id": 15,
-      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
-      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/01/asse20250114-Assembly-Floor-Session-Timmerman-74.jpg?w=1200&quality=100&ssl=1",
-      "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
-      "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "as-88"
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "Clara Strecker / Milwaukee Journal Sentinel",
+      "race_id": "as-51"
     },
     {
       "id": 16,
@@ -135,10 +135,34 @@
       "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/01/asse20250114-Assembly-Floor-Session-Timmerman-74.jpg?w=1200&quality=100&ssl=1",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "as-61"
+      "race_id": "as-88"
     },
     {
       "id": 17,
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "",
+      "race_id": "as-88"
+    },
+    {
+      "id": 18,
+      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
+      "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/01/asse20250114-Assembly-Floor-Session-Timmerman-74.jpg?w=1200&quality=100&ssl=1",
+      "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "race_id": "as-61"
+    },
+    {
+      "id": 19,
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "",
+      "race_id": "as-61"
+    },
+    {
+      "id": 20,
       "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/01/asse20250114-Assembly-Floor-Session-Timmerman-74.jpg?w=1200&quality=100&ssl=1",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
@@ -146,7 +170,7 @@
       "race_id": "as-85"
     },
     {
-      "id": 18,
+      "id": 21,
       "headline": "Wisconsin Democrats say they won’t act like Republicans if they win a legislative majority in 2026",
       "cover_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2018/12/2018_bestpics_10.jpg?w=3000&quality=100&ssl=1",
       "url": "https://wisconsinwatch.org/2025/12/wisconsin-democrat-republican-legislative-majority-2026-assembly-senate/",
@@ -154,7 +178,7 @@
       "race_id": "se-27"
     },
     {
-      "id": 19,
+      "id": 22,
       "headline": "5 candidates for Madison seat in state Assembly explain their views",
       "cover_img": "",
       "url": "https://captimes.com/news/government/5-candidates-for-madison-seat-in-state-assembly-explain-their-views/article_6f017b78-e9e2-4265-b153-5b791e7ccd7b.html",
@@ -162,7 +186,7 @@
       "race_id": "as-76"
     },
     {
-      "id": 20,
+      "id": 23,
       "headline": "Meet the candidates running for Wisconsin lieutenant governor",
       "cover_img": "",
       "url": "https://www.jsonline.com/story/news/politics/elections/2026/06/08/meet-the-candidates-running-for-wisconsin-lieutenant-governor-in-2026/90406057007/",
@@ -170,7 +194,7 @@
       "race_id": "lg-1"
     },
     {
-      "id": 21,
+      "id": 24,
       "headline": "Meet the candidates running for Wisconsin state treasurer",
       "cover_img": "",
       "url": "https://www.jsonline.com/story/news/politics/elections/2026/06/17/meet-the-candidates-running-for-wisconsin-state-treasurer/90460147007/",
@@ -178,12 +202,44 @@
       "race_id": "tr-1"
     },
     {
-      "id": 22,
+      "id": 25,
       "headline": "AG race could focus on crime lab backlogs. Here's what to know",
       "cover_img": "",
       "url": "https://www.jsonline.com/story/news/politics/2026/06/03/ag-race-could-focus-on-crime-lab-backlogs-heres-what-to-know/90295008007/",
       "byline": "Laura Schulte / Milwaukee Journal Sentinel",
       "race_id": "ag-1"
+    },
+    {
+      "id": 26,
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "Clara Strecker / Milwaukee Journal Sentinel",
+      "race_id": "se-5"
+    },
+    {
+      "id": 27,
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "",
+      "race_id": "se-17"
+    },
+    {
+      "id": 28,
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "",
+      "race_id": "se-21"
+    },
+    {
+      "id": 29,
+      "headline": "",
+      "cover_img": "",
+      "url": "",
+      "byline": "",
+      "race_id": "se-31"
     }
   ]
 }
