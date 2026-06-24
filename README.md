@@ -18,10 +18,4 @@ No, this is not a finished website. All data are fake
 
 - Use the coding in clone site to insert iframe into the post, hence we will have Pase.ly to track the user data.
 
-
-
-
-
-Color coding: Yellow for independet, gray for any other parties
-
-Elected_experience: title - location - years (get it like this and I will convert it for website display)
+- Elected_experience: title - location - years (get it like this and I will convert it for website display)
