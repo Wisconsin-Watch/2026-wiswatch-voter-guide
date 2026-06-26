@@ -997,23 +997,28 @@
         // Initialize Broadstreet ads - wait for library to load
         // Use a global flag to ensure watch() is only called once
         if (typeof window !== 'undefined' && !window.__broadstreetInitialized) {
-            const checkBroadstreet = () => {
-                if (window.broadstreet) {
-                    window.broadstreet.watch({ networkId: 9723 });
-                    window.__broadstreetInitialized = true;
-                    
-                    // Give broadstreet a moment to scan for zones, then manually reload them
-                    setTimeout(() => {
-                        if (window.broadstreet && window.broadstreet.reloadZones) {
-                            window.broadstreet.reloadZones();
-                        }
-                    }, 500);
-                } else {
-                    // Retry after a short delay if not loaded yet
-                    setTimeout(checkBroadstreet, 100);
+            const initBroadstreet = () => {
+                if (!window.broadstreet) {
+                    setTimeout(initBroadstreet, 100);
+                    return;
                 }
+                
+                // Check if the zone element exists in the DOM before calling watch
+                const zoneElement = document.querySelector('broadstreet-zone[zone-id="190680"]');
+                if (!zoneElement) {
+                    // Zone not in DOM yet, wait a bit longer
+                    setTimeout(initBroadstreet, 200);
+                    return;
+                }
+                
+                // Everything is ready, initialize
+                window.broadstreet.watch({ networkId: 9723 });
+                window.__broadstreetInitialized = true;
+                console.log('Broadstreet initialized and zone found');
             };
-            checkBroadstreet();
+            
+            // Start checking after a short delay to ensure DOM is ready
+            setTimeout(initBroadstreet, 500);
         }
 
         // Initialize pym.js child
