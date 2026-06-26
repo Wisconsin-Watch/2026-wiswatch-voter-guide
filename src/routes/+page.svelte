@@ -2,7 +2,6 @@
     <link rel="stylesheet" href="{base}/css/bento-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.15.0/dist/maplibre-gl.css">
     <script src="https://cdn.broadstreetads.com/init-2.min.js"></script>
-    <script>broadstreet.watch({ networkId: 9723 })</script>
 </svelte:head>
 
 <style>
@@ -995,6 +994,28 @@
     }
 
     onMount(async () => {
+        // Initialize Broadstreet ads - wait for library to load
+        // Use a global flag to ensure watch() is only called once
+        if (typeof window !== 'undefined' && !window.__broadstreetInitialized) {
+            const checkBroadstreet = () => {
+                if (window.broadstreet) {
+                    window.broadstreet.watch({ networkId: 9723 });
+                    window.__broadstreetInitialized = true;
+                    
+                    // Give broadstreet a moment to scan for zones, then manually reload them
+                    setTimeout(() => {
+                        if (window.broadstreet && window.broadstreet.reloadZones) {
+                            window.broadstreet.reloadZones();
+                        }
+                    }, 500);
+                } else {
+                    // Retry after a short delay if not loaded yet
+                    setTimeout(checkBroadstreet, 100);
+                }
+            };
+            checkBroadstreet();
+        }
+
         // Initialize pym.js child
         if (typeof window !== 'undefined' && window.pym) {
             pymChild = new window.pym.Child();
