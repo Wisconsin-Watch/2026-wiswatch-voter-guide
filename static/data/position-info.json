@@ -1,0 +1,34 @@
+[
+  {
+    "position-name": "Governor",
+    "information": "Wisconsin’s governor is the state’s top executive. The governor considers all bills approved by the Legislature and has the power to sign, veto, or, in the case of appropriation bills, partially veto proposed legislation that comes to their desk. They can also call the Legislature into special sessions and ask lawmakers to consider specific types of legislation. \nThe governor appoints heads of executive agencies, such as the Department of Natural Resources, and many state boards and commissions. Most appointees require Senate confirmation. \nThe governor can also make appointments to vacant judicial seats and county-level offices. \nWisconsin’s governor has the power to pardon or grant clemency for individuals in the state’s criminal justice system.  \nThe governor is the commander in chief of the Wisconsin National Guard and can decide if and when to deploy soldiers."
+  },
+  {
+    "position-name": "Attorney General",
+    "information": "The attorney general heads the Wisconsin Department of Justice, which provides legal advice and representation, investigates criminal activity, and provides various law enforcement services for the state. \nThe attorney general is one of three members of the state’s Board of Commissioners of Public Lands along with the secretary of state and the state treasurer."
+  },
+  {
+    "position-name": "Lieutenant Gov",
+    "information": "The lieutenant governor serves as Wisconsin’s governor when there is a vacancy in the state’s top executive office.\nThe person takes on duties assigned by the governor, which can include serving on statutory or nonstatutory boards, committees or intergovernmental programs and coordinating state programs."
+  },
+  {
+    "position-name": "Secretary of State",
+    "information": "The secretary of state is Wisconsin’s official record keeper, which includes keeping track of enrolled laws, resolutions, official acts, fees, positions and appointments. They also maintain the state seal and add it to official acts taken by the governor. \nUnlike many other states, the Secretary of State does not administer Wisconsin’s elections. That power lies with local governments and the Wisconsin Elections Commission. \nThe Secretary of State is one of three members of the state’s Board of Commissioners of Public Lands along with the attorney general and the state treasurer."
+  },
+  {
+    "position-name": "Treasurer",
+    "information": "The treasurer signs checks and oversees the promotion of Wisconsin’s unclaimed property program. \nThe treasurer is one of three members of the state’s Board of Commissioners of Public Lands along with the attorney general and the secretary of state."
+  },
+  {
+    "position-name": "Congress",
+    "information": "Members of Congress write, review and vote on legislation. Bills often move more quickly through the U.S. House than the U.S. Senate.\nRepresentatives often serve on one or more committees where they hold information hearings, review legislation and sometimes conduct investigations. \nCongresspeople also oversee a staff, often maintaining both a Washington office and a district office in their home state."
+  },
+  {
+    "position-name": "Senate",
+    "information": "State senators write, review and vote on legislation that becomes state law if approved by the Legislature and signed by the governor.\nThey vet some political appointees made by the governor, including cabinet secretaries.\nSenators serve on one or more of 20 committees that take public testimony on bills and review legislation. \nThey work on a state budget every other year to determine how tens of billions of dollars are spent.\nSenators also oversee a staff that helps provide constituent services. Each member of the state Senate represents roughly 175,000 people."
+  },
+  {
+    "position-name": "Assembly",
+    "information": "State representatives write, review and vote on legislation that becomes state law if approved by the Legislature and signed by the governor.\nState representatives serve on one or more of 37 committees that take public testimony on bills and review legislation. \nThey work on a state budget every other year to determine how tens of billions of dollars are spent.\nState representatives also oversee a small staff that helps provide constituent services. Each member of the Assembly represents roughly 59,000 people."
+  }
+]

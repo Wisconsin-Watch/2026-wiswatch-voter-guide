@@ -214,7 +214,9 @@ export async function fetchRacesFromAPI(sheetName) {
     try {
         const json = await fetchStaticJson(`${base}/data/races.json`);
         if (json && json.sheets && json.sheets[sheetName]) {
-            return json.sheets[sheetName];
+            // New structure: sheets[sheetName] is { information, races }
+            const sheetData = json.sheets[sheetName];
+            return Array.isArray(sheetData) ? sheetData : sheetData.races || [];
         }
     } catch { /* fall through */ }
 
@@ -236,6 +238,26 @@ export async function fetchRacesFromAPI(sheetName) {
         console.error('Error fetching race data:', error);
         throw error;
     }
+}
+
+/**
+ * Get position information for a specific race type.
+ * @param {string} sheetName - The name of the sheet (e.g., 'Assembly', 'Senate', 'US Congress')
+ * @returns {Promise<string>} Position information text
+ */
+export async function getPositionInfo(sheetName) {
+    try {
+        const json = await fetchStaticJson(`${base}/data/races.json`);
+        if (json && json.sheets && json.sheets[sheetName]) {
+            const sheetData = json.sheets[sheetName];
+            return (typeof sheetData === 'object' && !Array.isArray(sheetData)) 
+                ? sheetData.information || '' 
+                : '';
+        }
+    } catch (error) {
+        console.error('Error fetching position info:', error);
+    }
+    return '';
 }
 
 /**

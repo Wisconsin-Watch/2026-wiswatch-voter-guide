@@ -353,6 +353,13 @@
                             <p>{race['primary-results']}</p>
                         </div>
                     {/if}
+
+                    {#if race['information']}
+                        <div class="info-section">
+                            <h2>What does this position do?</h2>
+                            <p>{race['information']}</p>
+                        </div>
+                    {/if}
                     
                     {#if stories.length > 0}
                         <div class="info-section">

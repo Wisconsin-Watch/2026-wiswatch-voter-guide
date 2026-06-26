@@ -145,6 +145,56 @@ async function fetchSheetsStories() {
   return rowsToObjects((data && data.values) || [], true); // replaceHyphens=true matches googleSheets.js behaviour
 }
 
+// ── Position Info ────────────────────────────────────────────────────────────
+
+/**
+ * Load position-info.json and return a map of position-name to information.
+ */
+function loadPositionInfo() {
+  const positionInfoPath = resolve(__dirname, '../static/data/position-info.json');
+  if (!existsSync(positionInfoPath)) {
+    console.warn('Warning: position-info.json not found');
+    return {};
+  }
+  const data = JSON.parse(readFileSync(positionInfoPath, 'utf-8'));
+  const map = {};
+  for (const item of data) {
+    map[item['position-name']] = item.information || '';
+  }
+  return map;
+}
+
+/**
+ * Transform sheets object to include position information.
+ * Changes structure from { "Assembly": [...] } to { "Assembly": { information: "...", races: [...] } }
+ */
+function addPositionInfoToSheets(sheets) {
+  const positionInfo = loadPositionInfo();
+  const transformed = {};
+  
+  // Map sheet names to position-info names
+  const nameMap = {
+    'US Congress': 'Congress',
+    'Assembly': 'Assembly',
+    'Senate': 'Senate',
+    'Governor': 'Governor',
+    'Attorney General': 'Attorney General',
+    'Lieutenant Gov': 'Lieutenant Gov',
+    'Treasurer': 'Treasurer',
+    'Secretary of State': 'Secretary of State'
+  };
+  
+  for (const [sheetName, races] of Object.entries(sheets)) {
+    const positionName = nameMap[sheetName] || sheetName;
+    transformed[sheetName] = {
+      information: positionInfo[positionName] || '',
+      races: races
+    };
+  }
+  
+  return transformed;
+}
+
 // ── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
@@ -167,7 +217,8 @@ async function main() {
 
   // Races (all tabs)
   const sheets = await fetchAllRaces();
-  if (saveIfChanged(`${DATA_DIR}/races.json`, { lastUpdated: now, sheets })) {
+  const sheetsWithInfo = addPositionInfoToSheets(sheets);
+  if (saveIfChanged(`${DATA_DIR}/races.json`, { lastUpdated: now, sheets: sheetsWithInfo })) {
     anyChanged = true;
   }
 
