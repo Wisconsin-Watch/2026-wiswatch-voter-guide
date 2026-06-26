@@ -1,7 +1,6 @@
 <svelte:head>
     <link rel="stylesheet" href="{base}/css/bento-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.15.0/dist/maplibre-gl.css">
-    <script src="https://cdn.broadstreetads.com/init-2.min.js"></script>
 </svelte:head>
 
 <style>
@@ -994,32 +993,6 @@
     }
 
     onMount(async () => {
-        // Initialize Broadstreet ads - wait for library to load
-        // Use a global flag to ensure watch() is only called once
-        if (typeof window !== 'undefined' && !window.__broadstreetInitialized) {
-            const initBroadstreet = () => {
-                if (!window.broadstreet) {
-                    setTimeout(initBroadstreet, 100);
-                    return;
-                }
-                
-                // Check if the zone element exists in the DOM before calling watch
-                const zoneElement = document.querySelector('broadstreet-zone[zone-id="190680"]');
-                if (!zoneElement) {
-                    // Zone not in DOM yet, wait a bit longer
-                    setTimeout(initBroadstreet, 200);
-                    return;
-                }
-                
-                // Everything is ready, initialize
-                window.broadstreet.watch({ networkId: 9723 });
-                window.__broadstreetInitialized = true;
-                console.log('Broadstreet initialized and zone found');
-            };
-            
-            // Start checking after a short delay to ensure DOM is ready
-            setTimeout(initBroadstreet, 500);
-        }
 
         // Initialize pym.js child
         if (typeof window !== 'undefined' && window.pym) {
@@ -1165,6 +1138,7 @@
 
         // After tooltip renders, clamp horizontally and adjust arrow
         setTimeout(() => {
+            if (!tooltipElement) return;
             const tRect = tooltipElement.getBoundingClientRect();
             const halfWidth = tRect.width / 2;
             const padding = 12; // keep tooltip away from edges
@@ -1494,6 +1468,12 @@
                     </section>
 
                     <!-- Voter Guide Test -->
+                    <script>
+                        if (!window.__broadstreetInitialized) {
+                            broadstreet.watch({ networkId: 9723 });
+                            window.__broadstreetInitialized = true;
+                        }
+                    </script>
                     <broadstreet-zone zone-id="190680"></broadstreet-zone>
 
                     <section id="Keydates" style="margin: 0 0; overflow-x: hidden; width: 100%; position: relative;">
