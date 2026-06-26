@@ -566,6 +566,10 @@
         .governor-winner-right {
             grid-column: 7 / 13;
         }
+
+        .governor-winner-main {
+            grid-column: 2 / 12;
+        }
     }
 
     @media (min-width: 760px) {

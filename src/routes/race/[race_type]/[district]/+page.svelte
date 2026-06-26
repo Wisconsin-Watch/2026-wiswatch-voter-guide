@@ -13,7 +13,7 @@
     import { onMount, onDestroy } from 'svelte';
     import { page } from '$app/stores';
     import { goto } from '$app/navigation';
-    import { getRaceByRaceId, getCandidateByCandidateId, getStoriesByRaceId } from '$lib/googleSheets.js';
+    import { getRaceByRaceId, getCandidateByCandidateId, getStoriesByRaceId, getPositionInfo } from '$lib/googleSheets.js';
     import { initializeSingleDistrictMap } from '$lib/mapUtils.js';
     import { saveSourceRace, clearSourceRace } from '$lib/raceStorage.js';
     
@@ -86,6 +86,7 @@
     let race = null;
     let candidates = [];
     let stories = [];
+    let positionInfo = '';
     let loading = true;
     let error = null;
     let pymChild;
@@ -184,6 +185,9 @@
 
             // Load stories for this race using the actual race-id
             stories = await getStoriesByRaceId(race['race-id']);
+            
+            // Load position information from the sheet level
+            positionInfo = await getPositionInfo(config.raceType);
             
             loading = false;
         } catch (err) {
@@ -354,10 +358,10 @@
                         </div>
                     {/if}
 
-                    {#if race['information']}
+                    {#if positionInfo}
                         <div class="info-section">
                             <h2>What does this position do?</h2>
-                            <p>{race['information']}</p>
+                            <p>{@html positionInfo.replace(/\n/g, '<br>')}</p>
                         </div>
                     {/if}
                     
