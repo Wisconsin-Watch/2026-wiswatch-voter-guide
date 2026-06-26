@@ -1,0 +1,134 @@
+[
+  {
+    "question_id": "leg_q1",
+    "question_text": "Why should voters elect you?"
+  },
+  {
+    "question_id": "leg_q2",
+    "question_text": "What is the top issue in your district? How would you address it?"
+  },
+  {
+    "question_id": "leg_q3",
+    "question_text": "How should Wisconsin government operate differently than in the past?"
+  },
+  {
+    "question_id": "leg_q4",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "cong_q1",
+    "question_text": "Why should voters send you to congress?"
+  },
+  {
+    "question_id": "cong_q2",
+    "question_text": "What is the top issue in your district? How would you address it?"
+  },
+  {
+    "question_id": "cong_q3",
+    "question_text": "What expertise would you bring into congress? How would it help your district?"
+  },
+  {
+    "question_id": "cong_q4",
+    "question_text": "Should Congress exert more oversight over the president? Why or why not?"
+  },
+  {
+    "question_id": "cong_q5",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "ltgov_q1",
+    "question_text": "Why should voters elect you as lieutenant governor?"
+  },
+  {
+    "question_id": "ltgov_q2",
+    "question_text": "How would you make the lieutenant governor’s office more visible and effective?"
+  },
+  {
+    "question_id": "ltgov_q3",
+    "question_text": "What expertise would you bring to the lieutenant governor’s office and how would it help Wisconsinites?"
+  },
+  {
+    "question_id": "ltgov_q4",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "gov_q1",
+    "question_text": "Why should voters elect you the next governor of Wisconsin?"
+  },
+  {
+    "question_id": "gov_q2",
+    "question_text": "What is the top issue facing Wisconsinites and how would you address it?"
+  },
+  {
+    "question_id": "gov_q3",
+    "question_text": "What is the top policy goal you would like to accomplish in your first 100 days in office?"
+  },
+  {
+    "question_id": "gov_q4",
+    "question_text": "What kind of relationship should Wisconsin’s governor have with the federal government?"
+  },
+  {
+    "question_id": "gov_q5",
+    "question_text": "How would you approach working with the Legislature if there are Republicans in power in one or both chambers?"
+  },
+  {
+    "question_id": "gov_q6",
+    "question_text": "How would you approach working with the Legislature if there are Democrats in power in one or both chambers?"
+  },
+  {
+    "question_id": "gov_q7",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "treas_q1",
+    "question_text": "Why should voters elect you as state treasurer?"
+  },
+  {
+    "question_id": "treas_q2",
+    "question_text": "What expertise would you bring to the treasurer’s office and how would it help Wisconsinites?"
+  },
+  {
+    "question_id": "treas_q3",
+    "question_text": "Should the Treasurer’s office be given more or fewer responsibilities? Explain."
+  },
+  {
+    "question_id": "treas_q4",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "secstate_q1",
+    "question_text": "Why should voters elect you as Secretary of State?"
+  },
+  {
+    "question_id": "secstate_q2",
+    "question_text": "What expertise would you bring to the Secretary of State’s office and how would it help Wisconsinites?"
+  },
+  {
+    "question_id": "secstate_q3",
+    "question_text": "Should the Secretary of State be given more or fewer responsibilities? Explain."
+  },
+  {
+    "question_id": "secstate_q4",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "attygen_q1",
+    "question_text": "Why should voters elect you to be attorney general?"
+  },
+  {
+    "question_id": "attygen_q2",
+    "question_text": "Why should voters not elect your opponent?"
+  },
+  {
+    "question_id": "attygen_q3",
+    "question_text": "What are your top accomplishments in your current office?"
+  },
+  {
+    "question_id": "attygen_q4",
+    "question_text": "What should be the top priorities of the Department of Justice?"
+  },
+  {
+    "question_id": "attygen_q5",
+    "question_text": "What is your favorite fun Wisconsin history fact?"
+  }
+]

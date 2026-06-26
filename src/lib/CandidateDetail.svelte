@@ -7,6 +7,16 @@
   export let base = '';
   export let showReturnToRace = true;
   export let returnToRace = () => {};
+  export let questions = [];
+
+  // Get questions and answers for the candidate
+  $: candidateQuestionsAndAnswers = questions
+    .map(q => ({
+      question_id: q.question_id,
+      question_text: q.question_text,
+      answer: candidate?.[q.question_id]
+    }))
+    .filter(qa => qa.answer && qa.answer.trim() !== '');
 </script>
 
 {#if showReturnToRace && raceId}
@@ -77,6 +87,11 @@
             {candidate.municipality}
           </div>
         {/if}
+        {#if candidate.age}
+          <div class="contact-icons hover-tooltip" data-tooltip="Age as of election day" style="font-size:0.95rem;margin-bottom:0.25rem">
+            <strong>Age:</strong> {candidate.age}
+          </div>
+        {/if}
         <div class="contact-icons" style="margin-top:1.5rem">
           {#if candidate.email}
             <a class="hover-tooltip" data-tooltip="Email" href={"mailto:" + candidate.email} aria-label="Email">
@@ -116,10 +131,10 @@
     </div>
   </div>
 
-  {#if candidate.bio}
+  {#if candidate.elected_experience}
     <div class="info-section">
-      <h2>Biography</h2>
-      <p>{candidate.bio}</p>
+      <h2>Elected Experience</h2>
+      <p>{candidate.elected_experience}</p>
     </div>
   {/if}
 
@@ -136,6 +151,20 @@
     </div>
   </div>
 
-
+  {#if candidateQuestionsAndAnswers.length > 0}
+    <div class="info-section">
+      <h2>Q&A with the Candidate</h2>
+      {#each candidateQuestionsAndAnswers as qa}
+        <div class="qa-item" style="margin-bottom: 1.5rem;">
+          <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; color: #333;">
+            {qa.question_text}
+          </h3>
+          <p style="margin: 0; line-height: 1.6; color: #555;">
+            {qa.answer}
+          </p>
+        </div>
+      {/each}
+    </div>
+  {/if}
 
 {/if}

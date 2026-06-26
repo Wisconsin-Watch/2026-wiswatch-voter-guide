@@ -14,6 +14,25 @@
     import { loadSourceRace, clearSourceRace } from '$lib/raceStorage.js';
     import CandidateDetail from '$lib/CandidateDetail.svelte';
     
+    let questions = [];
+
+    async function loadQuestions() {
+        try {
+            console.log('Starting to load questions from:', `${base}/data/candidate-questions.json`);
+            const response = await fetch(`${base}/data/candidate-questions.json`);
+            console.log('Fetch response:', response.status, response.ok);
+            
+            if (!response.ok) {
+                throw new Error(`Failed to fetch: ${response.status}`);
+            }
+            
+            questions = await response.json();
+            console.log('Loaded questions:', questions);
+        } catch (e) {
+            console.error('Error loading questions:', e);
+        }
+    }
+    
     // Dynamic race type configuration
     // Pre-seed with known district race slugs so that URL params like 'congress'
     // (used by the district page) resolve correctly even though the sheet is
@@ -79,17 +98,6 @@
     let raceId = null;
     let pymChild;
     let contentElement;
-
-    // Build config on mount
-    onMount(async () => {
-        await buildRaceConfig();
-        raceTypeParam = $page.params.race_type;
-        config = dynamicRaceConfig[raceTypeParam];
-        if (!config) {
-            error = 'Invalid race type';
-            loading = false;
-        }
-    });
     
     function returnToRace() {
         const sourceRace = loadSourceRace();
@@ -144,6 +152,7 @@
     }
     
     onMount(async () => {
+        await loadQuestions();
         await buildRaceConfig();
         raceTypeParam = $page.params.race_type.toLowerCase();
         config = dynamicRaceConfig[raceTypeParam];
@@ -191,6 +200,7 @@
                     base={base}
                     showReturnToRace={$page.params.race_type !== undefined}
                     returnToRace={returnToRace}
+                    questions={questions}
                 />
             </div>
         </main>

@@ -6,6 +6,8 @@
 </svelte:head>
 
 <script>
+    console.log('=== CANDIDATE PAGE SCRIPT LOADED ===');
+    
     import { base } from '$app/paths';
     import { onMount, afterUpdate } from 'svelte';
     import { afterNavigate } from '$app/navigation';
@@ -21,6 +23,26 @@
     let raceId = null;
     let pymChild;
     let contentElement;
+    let questions = [];
+    
+    console.log('=== SCRIPT VARIABLES INITIALIZED ===');
+
+    async function loadQuestions() {
+        try {
+            console.log('Starting to load questions from:', `${base}/data/candidate-questions.json`);
+            const response = await fetch(`${base}/data/candidate-questions.json`);
+            console.log('Fetch response:', response.status, response.ok);
+            
+            if (!response.ok) {
+                throw new Error(`Failed to fetch: ${response.status}`);
+            }
+            
+            questions = await response.json();
+            console.log('Loaded questions:', questions);
+        } catch (e) {
+            console.error('Error loading questions:', e);
+        }
+    }
 
     async function buildRaceConfig() {
         const sheetNames = await getAvailableSheets();
@@ -79,10 +101,19 @@
     }
 
     onMount(async () => {
-        await buildRaceConfig();
-        await fetchCandidate();
-        if (typeof window !== 'undefined' && window.pym) {
-            pymChild = new window.pym.Child();
+        console.log('=== onMount CALLED ===');
+        try {
+            await loadQuestions();
+            console.log('=== loadQuestions COMPLETED ===');
+            await buildRaceConfig();
+            console.log('=== buildRaceConfig COMPLETED ===');
+            await fetchCandidate();
+            console.log('=== fetchCandidate COMPLETED ===');
+            if (typeof window !== 'undefined' && window.pym) {
+                pymChild = new window.pym.Child();
+            }
+        } catch (err) {
+            console.error('=== onMount ERROR ===', err);
         }
     });
 
@@ -107,6 +138,7 @@
                     base={base}
                     showReturnToRace={false}
                     returnToRace={() => {}}
+                    questions={questions}
                 />
             </div>
         </main>
