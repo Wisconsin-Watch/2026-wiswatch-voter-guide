@@ -121,7 +121,7 @@ function saveIfChanged(filePath, payload) {
 
 async function fetchCandidates() {
   console.log('Fetching candidates…');
-  const data = await fetchSheetValues(SPREADSHEET_ID, "'Candidate'!A:Z");
+  const data = await fetchSheetValues(SPREADSHEET_ID, "'Candidate'!A:AY");
   return rowsToObjects((data && data.values) || []);
 }
 
