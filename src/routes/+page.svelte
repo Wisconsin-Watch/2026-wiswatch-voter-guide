@@ -1,6 +1,8 @@
 <svelte:head>
     <link rel="stylesheet" href="{base}/css/bento-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.15.0/dist/maplibre-gl.css">
+    <script src="https://cdn.broadstreetads.com/init-2.min.js"></script>
+    <script>broadstreet.watch({ networkId: 9723 })</script>
 </svelte:head>
 
 <style>
@@ -1464,6 +1466,9 @@
                         </div>
 
                     </section>
+
+                    <!-- Voter Guide Test -->
+                    <broadstreet-zone zone-id="190680"></broadstreet-zone>
 
                     <section id="Keydates" style="margin: 0 0; overflow-x: hidden; width: 100%; position: relative;">
                         <h2 class="wp-block-heading has-text-align-center">Save these dates</h2>

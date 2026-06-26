@@ -49,7 +49,7 @@
     <div class="candidate-photo">
       {#if candidate.candidate_id}
         <img 
-          src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
+          src="{base}/graphics/candidates/{candidate.candidate_id}.jpg ; {base}/graphics/candidates/{candidate.candidate_id}.png"
           alt={candidate.name}
           on:error={(e) => { e.target.src = `${base}/graphics/candidates/winner-who.png`; }}
         />
@@ -159,6 +159,16 @@
           </p>
         </div>
       {/each}
+    </div>
+  {/if}
+
+  {#if candidate.interview_video}
+    <div class="info-section">
+      <h2>Candidate Interview</h2>
+      <video controls>
+        <source src="{candidate.interview_video}" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
     </div>
   {/if}
 
