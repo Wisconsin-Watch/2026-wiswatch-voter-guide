@@ -101,14 +101,10 @@
     }
 
     onMount(async () => {
-        console.log('=== onMount CALLED ===');
         try {
             await loadQuestions();
-            console.log('=== loadQuestions COMPLETED ===');
             await buildRaceConfig();
-            console.log('=== buildRaceConfig COMPLETED ===');
             await fetchCandidate();
-            console.log('=== fetchCandidate COMPLETED ===');
             if (typeof window !== 'undefined' && window.pym) {
                 pymChild = new window.pym.Child();
             }

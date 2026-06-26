@@ -146,19 +146,6 @@
     </div>
   {/if}
 
-    
-
-  <div class="info-section">
-    <h2>Basic Information</h2>
-    <div class="candidate-basic-info">
-      {#if candidate.basic_information}
-        <div class="info-value">
-          {candidate.basic_information}
-        </div>
-      {/if}
-    </div>
-  </div>
-
   {#if candidateQuestionsAndAnswers.length > 0}
     <div class="info-section">
       <h2>Q&A with the Candidate</h2>
