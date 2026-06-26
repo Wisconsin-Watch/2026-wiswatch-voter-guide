@@ -17,6 +17,14 @@
       answer: candidate?.[q.question_id]
     }))
     .filter(qa => qa.answer && qa.answer.trim() !== '');
+  
+  // Debug logging
+  $: if (candidate && questions.length > 0) {
+    console.log('Candidate loaded:', candidate.name);
+    console.log('Questions available:', questions.length);
+    console.log('Matched Q&A:', candidateQuestionsAndAnswers.length);
+    console.log('Q&A details:', candidateQuestionsAndAnswers);
+  }
 </script>
 
 {#if showReturnToRace && raceId}
