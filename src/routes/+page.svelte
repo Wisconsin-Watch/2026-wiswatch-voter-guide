@@ -435,10 +435,12 @@
 
     .governor-winner-left {
         grid-column: 1 / 6;
+        border: #e9151f 15px solid !important;
     }
     
     .governor-winner-right {
         grid-column: 8 / 13;
+        border: #0b3eb6 15px solid !important;
     }
 
     .governor-winner-main {
@@ -451,13 +453,23 @@
         padding: 1.5rem;
         text-align: center;
         box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
-        border: #D5E2EE 2px solid;
+        border: #D5E2EE 15px solid;
     }
 
     .governor-winner-main:hover, .governor-winner-left:hover, .governor-winner-right:hover {
         box-shadow: 0 6px 16px rgba(35, 49, 102, 0.2);
-        border: #233166 2px solid;
+        border: #233166 15px solid !important;
         transition: all 0.3s ease;
+    }
+
+    .governor-winner-main.disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+    }
+
+    .governor-winner-main.disabled:hover {
+        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+        border: #D5E2EE 15px solid !important;
     }
 
     .governor-winner-main picture, .governor-winner-left picture, .governor-winner-right picture {
@@ -689,6 +701,10 @@
     
     // Saved races from localStorage
     let savedRaces = null;
+    
+    // Date check for governor-winner-main link
+    const enableGovernorLinkDate = new Date('2026-08-11T00:00:00');
+    $: isGovernorLinkEnabled = new Date() >= enableGovernorLinkDate;
     
     // Tooltip state
     let currentTooltipText = '';
@@ -1294,12 +1310,22 @@
                                 </picture>
                             </div>
                             <!-- Main Governor Race-->
-                            <a class="bento-item governor-winner-main" href="{base}/race/governor/1">
-                                <div class="winner-label">
-                                    <h4>Final Race</h4>
+                            {#if isGovernorLinkEnabled}
+                                <a class="bento-item governor-winner-main" href="{base}/race/governor/1">
+                                    <div class="winner-label">
+                                        <h4>Final Race</h4>
+                                    </div>
+                                    <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
+                                </a>
+                            {:else}
+                                <div class="bento-item governor-winner-main disabled">
+                                    <div class="winner-label">
+                                        <h4>Final Race</h4>
+                                        <small>(Unlock after primary race)</small>
+                                    </div>
+                                    <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                                 </div>
-                                <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
-                            </a>
+                            {/if}
                         </div>
 
                     </section>

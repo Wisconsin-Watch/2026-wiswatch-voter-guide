@@ -49,7 +49,7 @@
     <div class="candidate-photo">
       {#if candidate.candidate_id}
         <img 
-          src="{base}/graphics/candidates/{candidate.candidate_id}.jpg ; {base}/graphics/candidates/{candidate.candidate_id}.png"
+          src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
           alt={candidate.name}
           on:error={(e) => { e.target.src = `${base}/graphics/candidates/winner-who.png`; }}
         />
