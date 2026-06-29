@@ -172,20 +172,8 @@ function addPositionInfoToSheets(sheets) {
   const positionInfo = loadPositionInfo();
   const transformed = {};
   
-  // Map sheet names to position-info names
-  const nameMap = {
-    'US Congress': 'Congress',
-    'Assembly': 'Assembly',
-    'Senate': 'Senate',
-    'Governor': 'Governor',
-    'Attorney General': 'AttorneyGeneral',
-    'Lieutenant Gov': 'LieutenantGov',
-    'Treasurer': 'Treasurer',
-    'Secretary of State': 'SecretaryofState'
-  };
-  
   for (const [sheetName, races] of Object.entries(sheets)) {
-    const positionName = nameMap[sheetName] || sheetName;
+    const positionName = sheetName;
     transformed[sheetName] = {
       information: positionInfo[positionName] || '',
       races: races
