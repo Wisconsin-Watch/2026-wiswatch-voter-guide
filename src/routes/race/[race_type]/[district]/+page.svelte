@@ -190,6 +190,7 @@
             
             // Load position information from the sheet level
             positionInfo = await getPositionInfo(config.raceType);
+            console.log('Position info loaded:', positionInfo);
             
             loading = false;
         } catch (err) {
@@ -366,7 +367,7 @@
                     {#if positionInfo}
                         <div class="info-section">
                             <h2>What does this position do?</h2>
-                            <p>{@html positionInfo.replace(/\n/g, '<br>')}</p>
+                            <p>{@html positionInfo.replace(/\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
                     
