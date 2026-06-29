@@ -71,6 +71,15 @@ body {
     background-color: #F3F6FA;
 }
 
+broadstreet-zone {
+    display: flex !important;
+    flex-direction: column;
+}
+
+broadstreet-zone div{
+    margin: auto;
+}
+
 img {
     border-radius: 8px;
 }
