@@ -6,13 +6,8 @@ No, this is not a finished website. All data are fake
 
 <strong>ASAP:</strong>
 
-- How to create list of major donors, do we want to move the credit lines there?
-
-<strong>June:</strong>
-
-- Data entering begins
-- Photo gathering begins
-- Update Q&A section
+- Remove phone and email info
+- Reformat related stories so it do not need cover images.
 
 <strong>When online:</strong>
 

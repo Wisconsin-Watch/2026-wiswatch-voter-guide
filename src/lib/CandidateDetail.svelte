@@ -83,12 +83,6 @@
           <p style="font-weight: 600; margin: 0.5rem 0; color: #515151;">{candidate.party}</p>
         {/if}
         </div>
-        {#if candidate.phone_number}
-          <div class="contact-icons hover-tooltip" data-tooltip="Phone Number" style="font-size:0.95rem;margin-bottom:0.25rem">
-            <img src={base + '/graphics/phone.svg'} alt="Phone Number" style="height:1.5em;vertical-align:middle;margin-right:0.5rem" loading="lazy" />
-            {candidate.phone_number}
-          </div>
-        {/if}
         {#if candidate.municipality}
           <div class="contact-icons hover-tooltip" data-tooltip="Residence" style="font-size:0.95rem;margin-bottom:0.25rem">
             <img src={base + '/graphics/location.svg'} alt="Residence" style="height:1.5em;vertical-align:middle;margin-right:0.5rem" loading="lazy" />
@@ -101,11 +95,6 @@
           </div>
         {/if}
         <div class="contact-icons" style="margin-top:1.5rem">
-          {#if candidate.email}
-            <a class="hover-tooltip" data-tooltip="Email" href={"mailto:" + candidate.email} aria-label="Email">
-              <img src={base + '/graphics/email.svg'} alt="Email" loading="lazy" />
-            </a>
-          {/if}
           {#if candidate.website}
             <a class="hover-tooltip" data-tooltip="Website" href={candidate.website} target="_blank" rel="noopener noreferrer" aria-label="Website">
               <img src={base + '/graphics/hyperlink.svg'} alt="Website" loading="lazy" />
