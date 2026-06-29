@@ -359,14 +359,14 @@
                     {#if race['district-race-nutshell']}
                         <div class="info-section">
                             <h2>Race Overview</h2>
-                            <p>{@html race['district-race-nutshell'].replace(/\n/g, '<br>')}</p>
+                            <p>{@html race['district-race-nutshell'].replace(/\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
 
                     {#if race['primary-results']}
                         <div class="info-section">
                             <h2>Primary Results</h2>
-                            <p>{race['primary-results']}</p>
+                            <p>{@html race['primary-results'].replace(/\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
 
@@ -391,9 +391,6 @@
                                                 <div class="story-byline">by <strong>{story.byline}</strong></div>
                                             {/if}
                                         </div>
-                                        {#if story.cover_img}
-                                            <img src={story.cover_img} alt={story.headline} class="story-cover-img" />
-                                        {/if}
                                     </div>
                                 {/each}
                             </div>

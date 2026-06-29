@@ -128,6 +128,7 @@
     .results-container {
         border-radius: 25px;
         padding: 2rem;
+        padding-bottom: 0;
         margin-top: 1.5rem;
     }
 
@@ -144,8 +145,8 @@
     }
 
     .district-results {
-        display: grid;
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: row;
         gap: 1.5rem;
         margin: 1.5rem 0;
         max-width: 800px;
@@ -160,7 +161,6 @@
         text-align: center;
         display: flex;
         flex-direction: column;
-        border-bottom: 2px solid #D5E2EE;
     }
     
     .district-card canvas {
@@ -172,10 +172,16 @@
         color: inherit;
         transition: all 0.3s ease;
         cursor: pointer;
+        width: 30%;
+        border: #FFFFFF 2px solid;
+        border-bottom: 2px solid #D5E2EE;
+        border-top: 2px solid #D5E2EE;
     }
 
     .district-card-link:hover {
         transform: translateY(-4px);
+        border: #D5E2EE 2px solid;
+        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
     }
 
     .click-hint {
@@ -193,14 +199,14 @@
 
     .district-number {
         margin: 0;
-        font-size: 1.75rem;
+        font-size: 1.2rem;
         font-weight: bold;
         color: #233166;
     }
 
     .district-map {
         width: 100%;
-        height: 350px;
+        aspect-ratio: 1 / 1;
         position: relative;
         border-radius: 4px;
         margin-top: 1rem;
@@ -512,10 +518,6 @@
             width: 100%;
         }
 
-        .previous-results-buttons {
-            gap: 0.5rem;
-        }
-
         .calendars-container {
             grid-template-columns: 1fr;
             gap: 1.5rem;
@@ -554,6 +556,15 @@
             padding: 0.5rem 0.75rem;
         }
 
+        .district-card-link {
+            width: 100%;
+        }
+
+        .district-results {
+            grid-auto-flow: row;
+            flex-direction: column;
+        }
+
         .governor-race-bkg {
             grid-column: 3 / 11;
             z-index: -1;
@@ -569,6 +580,10 @@
 
         .governor-winner-main {
             grid-column: 2 / 12;
+        }
+
+        .previous-results-buttons {
+            gap: 0.5rem;
         }
     }
 
@@ -1399,7 +1414,7 @@
                                         {#if districtResults.raceIds?.assembly}
                                             <a href="{base}/race/assembly/{districtResults.raceIds.assembly}" class="district-card district-card-link">
                                                 <p class="district-number">
-                                                    Assembly {districtResults.districts.assembly ? `District ${districtResults.districts.assembly}` : 'Not found'}
+                                                    Assembly {districtResults.districts.assembly ? `District ${districtResults.districts.assembly}` : 'Not found'} <br><br>
                                                 </p>
                                                 {#if districtResults.districts.assembly}
                                                     <div id="assembly-map" class="district-map"></div>
@@ -1415,7 +1430,7 @@
                                         {#if districtResults.raceIds?.senate}
                                             <a href="{base}/race/senate/{districtResults.raceIds.senate}" class="district-card district-card-link">
                                                 <p class="district-number">
-                                                    Senate {districtResults.districts.senate ? `District ${districtResults.districts.senate}` : 'Not found'}
+                                                    Senate {districtResults.districts.senate ? `District ${districtResults.districts.senate}` : 'Not found'} <br><br>
                                                 </p>
                                                 {#if districtResults.districts.senate}
                                                     <div id="senate-map" class="district-map"></div>
@@ -1454,7 +1469,7 @@
                         
                         {#if savedRaces && (savedRaces.assembly || savedRaces.senate || savedRaces.congress)}
                             <div class="previous-results-container">
-                                <h3 style="margin-bottom: 0; margin-top: 0;">Your Previous Search Results</h3>
+                                <h3 style="margin-bottom: 0; margin-top: 0;">Your previous search results</h3>
                                 {#if savedRaces.address}
                                     <small class="address-result"><strong>Address:</strong> {savedRaces.address}</small>
                                 {/if}

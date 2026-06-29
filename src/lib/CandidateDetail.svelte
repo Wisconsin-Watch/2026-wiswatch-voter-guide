@@ -144,7 +144,7 @@
             {qa.question_text}
           </h3>
           <p style="margin: 0; line-height: 1.6; color: #555;">
-            {qa.answer}
+            {@html qa.answer.replace(/\n/g, '</p><p>')}
           </p>
         </div>
       {/each}
