@@ -268,6 +268,7 @@
 
     .calendar {
         background: white;
+        border: #D5E2EE 2px solid;
         border-radius: 50px;
         padding: 1.5rem;
         box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
@@ -657,6 +658,7 @@
 
         .calendar-grid {
             gap: 0.1rem;
+            padding-bottom: 1.5em;
         }
 
         .calendar-day {

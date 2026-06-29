@@ -196,7 +196,6 @@
             
             // Load position information from the sheet level
             positionInfo = await getPositionInfo(config.raceType);
-            console.log('Position info loaded:', positionInfo);
             
             loading = false;
         } catch (err) {
@@ -381,14 +380,25 @@
                         <div class="info-section">
                             <h2>Stories about this race</h2>
                             <div class="stories-list">
-                                {#each stories as story}
+                                {#each [...stories]
+                                    .sort((a, b) =>
+                                        new Date(b.published_date).getTime() -
+                                        new Date(a.published_date).getTime()
+                                    ) as story}
                                     <div class="story-item">
                                         <div class="story-data">
-                                            <a href={story.url} target="_blank" rel="noopener noreferrer" class="story-headline">
+                                            <a
+                                                href={story.url}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                class="story-headline"
+                                            >
                                                 {story.headline}
                                             </a>
                                             {#if story.byline}
-                                                <div class="story-byline">by <strong>{story.byline}</strong></div>
+                                                <div class="story-byline">
+                                                    by <strong>{story.byline}</strong>
+                                                </div>
                                             {/if}
                                         </div>
                                     </div>
