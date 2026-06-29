@@ -271,6 +271,10 @@ button, summary, span, .calendar-tooltip {
     font-family: 'Heebo', sans-serif;
 }
 
+#post-title {
+    font-size: 0.9em;
+}
+
 .race-header {
     text-align: center;
     padding: 1rem;

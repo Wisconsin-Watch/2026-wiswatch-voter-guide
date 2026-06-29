@@ -232,7 +232,7 @@
 
 .story-headline {
     display: block;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     font-weight: 700;
     color: #233166 !important;
     text-decoration: none;
@@ -258,13 +258,13 @@
 }
 
 .story-byline {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-family: 'Heebo', sans-serif;
     color: #515151;
 }
 
 .story-publisher {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-family: 'Heebo', sans-serif;
     color: #515151;
 }
