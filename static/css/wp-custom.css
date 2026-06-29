@@ -95,6 +95,7 @@ div, small, p, i, input {
 
 h1, h2, h3, h4, h5, h6{
     font-family: "Publico Banner", "Georgia", "serif";
+    text-shadow: 3px 3px 2px rgba(213,226,238,0.65);
     color: #233166;
 }
 
