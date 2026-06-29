@@ -99,6 +99,10 @@ h1, h2, h3, h4, h5, h6{
     color: #233166;
 }
 
+h5 {
+    font-size: 0.9em !important;
+}
+
 div, small, p, i {
     color: #1F2937;
 }

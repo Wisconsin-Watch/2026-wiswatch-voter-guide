@@ -429,7 +429,7 @@
 
     #author, #date {
         font-family: 'Heebo', sans-serif;
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         margin: 0.25rem 0 0 0;
         color: #515151;
     }
@@ -1730,9 +1730,9 @@
                                                 </figure>
                                             {/if}
                                             <div class="post-content">
-                                                <strong><a data-post-id={story.id} id="post-title" href={story.url} style="color: #233166 !important;">
-                                                    {story.title}
-                                                </a></strong>
+                                                <a data-post-id={story.id} id="post-title" href={story.url} style="color: #233166 !important;">
+                                                    <h5>{story.title}</h5>
+                                                </a>
                                                 {#if story.creator}
                                                     <p id="author">By <strong>{story.creator}</strong></p>
                                                 {/if}
