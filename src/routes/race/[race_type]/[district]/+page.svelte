@@ -60,6 +60,12 @@
             raceType: 'Governor',
             hasMap: false,
             urlPath: 'governor-democrat-primary'
+        },
+        'secretary-of-state': {
+            displayName: 'Wisconsin Secretary of State Race',
+            raceType: 'Secretary of State',
+            hasMap: false,
+            urlPath: 'secretary-of-state'
         }
     };
 
