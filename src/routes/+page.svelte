@@ -537,11 +537,12 @@
         }
 
         .calendar-day-header {
-            font-size: 1.25rem;
+            font-size: 1rem;
             padding: 0.35rem 0;
         }
 
         .calendar-header {
+            margin-top: 0.75rem;
             margin-bottom: 0.75rem;
             padding-bottom: 0.5rem;
         }

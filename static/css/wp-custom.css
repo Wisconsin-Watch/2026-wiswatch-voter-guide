@@ -80,11 +80,12 @@ section {
     padding-bottom: 0.5rem;
 }
 
-div, small, p, i, h1, h2, h3, h4, h5, h6, input {
+div, small, p, i, input {
     font-family: "Publico Roman","Georgia","serif";
 }
 
 h1, h2, h3, h4, h5, h6{
+    font-family: "Publico Banner", "Georgia", "serif";
     color: #233166;
 }
 
