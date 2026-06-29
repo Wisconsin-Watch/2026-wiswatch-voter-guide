@@ -1,166 +1,189 @@
 {
-  "lastUpdated": "2026-06-29T16:43:03.884Z",
+  "lastUpdated": "2026-06-29T20:35:33.881Z",
   "stories": [
     {
       "id": 0,
-      "headline": "Top two in Democratic gubernatorial straw poll highlight classic debate: Appeal to general electorate or the base?",
       "url": "https://wisconsinwatch.org/2026/06/wisconsin-democratic-party-gubernatorial-governor-election-2026-straw-poll-convention-candidates/",
+      "race_id": "go-1",
+      "headline": "Top two in Democratic gubernatorial straw poll highlight classic debate: Appeal to general electorate or the base?",
       "byline": "Brittany Carloni / Wisconsin Watch and Audrey Lopez-Stane / Wisconsin Watch",
-      "race_id": "go-1"
+      "published_date": ""
     },
     {
       "id": 1,
-      "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
       "url": "https://wisconsinwatch.org/2026/02/wisconsin-election-campaign-spending-montana-corporations-donation-citizens-united/",
+      "race_id": "go-1",
+      "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
       "byline": "Noe Goldhaber / Wisconsin Watch",
-      "race_id": "go-1"
+      "published_date": ""
     },
     {
       "id": 2,
-      "headline": "As the Tony Evers chapter of Wisconsin history draws to a close, a new chapter is just beginning",
       "url": "https://wisconsinwatch.org/2026/02/wisconsin-governor-tony-evers-final-state-of-the-state-brittany-carloni/",
+      "race_id": "se-1",
+      "headline": "As the Tony Evers chapter of Wisconsin history draws to a close, a new chapter is just beginning",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "se-1"
+      "published_date": ""
     },
     {
       "id": 3,
-      "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
       "url": "https://wisconsinwatch.org/2026/02/wisconsin-election-campaign-spending-montana-corporations-donation-citizens-united/",
+      "race_id": "se-1",
+      "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "se-1"
+      "published_date": ""
     },
     {
       "id": 4,
-      "headline": "Transportation lobbyists have donated thousands to Sean Duffy’s son-in-law as he runs for Congress",
       "url": "https://wisconsinwatch.org/2026/03/transportation-lobbyists-have-donated-thousands-to-sean-duffys-son-in-law-as-he-runs-for-congress/",
+      "race_id": "co-7",
+      "headline": "Transportation lobbyists have donated thousands to Sean Duffy’s son-in-law as he runs for Congress",
       "byline": "Megan O'Matz / ProPublica",
-      "race_id": "co-7"
+      "published_date": ""
     },
     {
       "id": 5,
-      "headline": "Northern Wisconsin House primary tests power of Trump endorsement",
       "url": "https://www.wpr.org/news/northern-wisconsin-house-primary-power-trump-endorsement-2026-election",
+      "race_id": "co-7",
+      "headline": "Northern Wisconsin House primary tests power of Trump endorsement",
       "byline": "Rich Kremer / WPR",
-      "race_id": "co-7"
+      "published_date": ""
     },
     {
       "id": 6,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-1",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-1"
+      "published_date": ""
     },
     {
       "id": 7,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-2",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-2"
+      "published_date": ""
     },
     {
       "id": 8,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-3",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-3"
+      "published_date": ""
     },
     {
       "id": 9,
-      "headline": "Democrats vying for 3rd Congressional District face off in candidate forum",
       "url": "https://www.wpr.org/news/democrats-vying-3rd-us-house-district-2026-candidate-forum",
+      "race_id": "co-3",
+      "headline": "Democrats vying for 3rd Congressional District face off in candidate forum",
       "byline": "Rich Kremer / WPR",
-      "race_id": "co-3"
+      "published_date": ""
     },
     {
       "id": 10,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-4",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-4"
+      "published_date": ""
     },
     {
       "id": 11,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-5",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-5"
+      "published_date": ""
     },
     {
       "id": 12,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-6",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-6"
+      "published_date": ""
     },
     {
       "id": 13,
-      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-congressional-delegation-wealth-change-washington-lawmakers-net-worth/",
+      "race_id": "co-8",
+      "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "race_id": "co-8"
+      "published_date": ""
     },
     {
       "id": 14,
-      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
+      "race_id": "as-51",
+      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "as-51"
+      "published_date": ""
     },
     {
       "id": 15,
-      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
+      "race_id": "as-88",
+      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "as-88"
+      "published_date": ""
     },
     {
       "id": 16,
-      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
+      "race_id": "as-61",
+      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "as-61"
+      "published_date": ""
     },
     {
       "id": 17,
-      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "url": "https://wisconsinwatch.org/2026/05/wisconsin-republican-ad-campaign-health-postpartum-medicaid-cancer-conservative-bipartisan/",
+      "race_id": "as-85",
+      "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "as-85"
+      "published_date": ""
     },
     {
       "id": 18,
-      "headline": "Wisconsin Democrats say they won’t act like Republicans if they win a legislative majority in 2026",
       "url": "https://wisconsinwatch.org/2025/12/wisconsin-democrat-republican-legislative-majority-2026-assembly-senate/",
+      "race_id": "se-27",
+      "headline": "Wisconsin Democrats say they won’t act like Republicans if they win a legislative majority in 2026",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "race_id": "se-27"
+      "published_date": ""
     },
     {
       "id": 19,
-      "headline": "5 candidates for Madison seat in state Assembly explain their views",
       "url": "https://captimes.com/news/government/5-candidates-for-madison-seat-in-state-assembly-explain-their-views/article_6f017b78-e9e2-4265-b153-5b791e7ccd7b.html",
+      "race_id": "as-76",
+      "headline": "5 candidates for Madison seat in state Assembly explain their views",
       "byline": "Enjoyiana Nururdin / The Cap Times",
-      "race_id": "as-76"
+      "published_date": ""
     },
     {
       "id": 20,
-      "headline": "Meet the candidates running for Wisconsin lieutenant governor",
       "url": "https://www.jsonline.com/story/news/politics/elections/2026/06/08/meet-the-candidates-running-for-wisconsin-lieutenant-governor-in-2026/90406057007/",
+      "race_id": "lg-1",
+      "headline": "Meet the candidates running for Wisconsin lieutenant governor",
       "byline": "Clara Strecker / Milwaukee Journal Sentinel",
-      "race_id": "lg-1"
+      "published_date": ""
     },
     {
       "id": 21,
-      "headline": "Meet the candidates running for Wisconsin state treasurer",
       "url": "https://www.jsonline.com/story/news/politics/elections/2026/06/17/meet-the-candidates-running-for-wisconsin-state-treasurer/90460147007/",
+      "race_id": "tr-1",
+      "headline": "Meet the candidates running for Wisconsin state treasurer",
       "byline": "Clara Strecker / Milwaukee Journal Sentinel",
-      "race_id": "tr-1"
+      "published_date": ""
     },
     {
       "id": 22,
-      "headline": "AG race could focus on crime lab backlogs. Here's what to know",
       "url": "https://www.jsonline.com/story/news/politics/2026/06/03/ag-race-could-focus-on-crime-lab-backlogs-heres-what-to-know/90295008007/",
+      "race_id": "ag-1",
+      "headline": "AG race could focus on crime lab backlogs. Here's what to know",
       "byline": "Laura Schulte / Milwaukee Journal Sentinel",
-      "race_id": "ag-1"
+      "published_date": ""
     }
   ]
 }
