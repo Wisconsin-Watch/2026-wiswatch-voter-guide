@@ -171,13 +171,15 @@
             candidates = [];
             for (let i = 1; i <= 5; i++) {
                 const candidateKey = `candidate-${i}`;
+                const statusKey = `candidate-${i}-status`;
                 if (race[candidateKey]) {
                     const candidate = await getCandidateByCandidateId(race[candidateKey], config.raceType);
                     if (candidate) {
                         const isIncumbent = race['incumbent'] && candidate.candidate_id === race['incumbent'];
                         candidates.push({
                             ...candidate,
-                            incumbent: isIncumbent ? 'TRUE' : ''
+                            incumbent: isIncumbent ? 'TRUE' : '',
+                            status: race[statusKey] || ''
                         });
                     }
                 }
@@ -319,6 +321,9 @@
                                         <div class="candidate-info">
                                             {#if candidate.incumbent === 'TRUE'}
                                                 <p class="candidate-incumbent">INCUMBENT</p>
+                                            {/if}
+                                            {#if candidate.status === 'dropped-out'}
+                                                <p class="candidate-incumbent">DROPPED OUT</p>
                                             {/if}
                                             <p class="candidate-name">{candidate.name}</p>
                                             {#if candidate.party}
