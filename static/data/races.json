@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T16:43:03.884Z",
+  "lastUpdated": "2026-06-29T17:31:13.774Z",
   "sheets": {
     "Assembly": {
       "information": "State representatives write, review and vote on legislation that becomes state law if approved by the Legislature and signed by the governor.State representatives serve on one or more of 37 committees that take public testimony on bills and review legislation. They work on a state budget every other year to determine how tens of billions of dollars are spent.State representatives also oversee a small staff that helps provide constituent services. Each member of the Assembly represents roughly 59,000 people.",
@@ -2783,8 +2783,8 @@
         }
       ]
     },
-    "US Congress": {
-      "information": "Members of Congress write, review and vote on legislation. Bills often move more quickly through the U.S. House than the U.S. Senate.Representatives often serve on one or more committees where they hold information hearings, review legislation and sometimes conduct investigations. Congresspeople also oversee a staff, often maintaining both a Washington office and a district office in their home state.",
+    "USCongress": {
+      "information": "",
       "races": [
         {
           "id": 0,
@@ -3036,8 +3036,8 @@
         }
       ]
     },
-    "Attorney General": {
-      "information": "The attorney general heads the Wisconsin Department of Justice, which provides legal advice and representation, investigates criminal activity, and provides various law enforcement services for the state. The attorney general is one of three members of the state&rsquo;s Board of Commissioners of Public Lands along with the secretary of state and the state treasurer.",
+    "AttorneyGeneral": {
+      "information": "",
       "races": [
         {
           "id": 0,
@@ -3062,8 +3062,8 @@
         }
       ]
     },
-    "Lieutenant Gov": {
-      "information": "The lieutenant governor serves as Wisconsin&rsquo;s governor when there is a vacancy in the state&rsquo;s top executive office.The person takes on duties assigned by the governor, which can include serving on statutory or nonstatutory boards, committees or intergovernmental programs and coordinating state programs.",
+    "LieutenantGov": {
+      "information": "",
       "races": [
         {
           "id": 0,
@@ -3114,8 +3114,8 @@
         }
       ]
     },
-    "Secretary of State": {
-      "information": "The secretary of state is Wisconsin&rsquo;s official record keeper, which includes keeping track of enrolled laws, resolutions, official acts, fees, positions and appointments. They also maintain the state seal and add it to official acts taken by the governor.  /n Unlike many other states, the Secretary of State does not administer Wisconsin&rsquo;s elections. That power lies with local governments and the Wisconsin Elections Commission. The Secretary of State is one of three members of the state&rsquo;s Board of Commissioners of Public Lands along with the attorney general and the state treasurer.",
+    "SecretaryofState": {
+      "information": "",
       "races": [
         {
           "id": 0,
