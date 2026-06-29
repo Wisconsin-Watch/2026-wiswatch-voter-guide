@@ -6,11 +6,9 @@ No, this is not a finished website. All data are fake
 
 <strong>ASAP:</strong>
 
-- Remove phone and email info
 - Reformat related stories so it do not need cover images.
 
 <strong>When online:</strong>
 
 - Use the coding in clone site to insert iframe into the post, hence we will have Pase.ly to track the user data.
 
-- Elected_experience: title - location - years (get it like this and I will convert it for website display)

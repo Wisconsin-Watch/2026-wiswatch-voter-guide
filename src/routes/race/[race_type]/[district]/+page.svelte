@@ -305,7 +305,7 @@
                     
                     {#if candidates.length > 0}
                         <div class="info-section">
-                            <h2>Candidates</h2>
+                            <h2 data-tooltip="Candidates are sorted by last name.">Candidates</h2>
                             <div class="candidates-grid">
                                 {#each candidates as candidate}
                                     <div class="candidate-card" role="button" tabindex="0" 

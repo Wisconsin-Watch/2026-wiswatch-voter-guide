@@ -174,14 +174,14 @@ function addPositionInfoToSheets(sheets) {
   
   // Map sheet names to position-info names
   const nameMap = {
-    'US Congress': 'Congress',
+    'USCongress': 'Congress',
     'Assembly': 'Assembly',
     'Senate': 'Senate',
     'Governor': 'Governor',
-    'Attorney General': 'Attorney General',
-    'Lieutenant Gov': 'Lieutenant Gov',
+    'AttorneyGeneral': 'Attorney General',
+    'LieutenantGov': 'Lieutenant Gov',
     'Treasurer': 'Treasurer',
-    'Secretary of State': 'Secretary of State'
+    'SecretaryofState': 'Secretary of State'
   };
   
   for (const [sheetName, races] of Object.entries(sheets)) {
