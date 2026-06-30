@@ -72,6 +72,10 @@
     aspect-ratio: 3/4;
 }
 
+.candidate-card:only-child {
+    max-width: 50%;
+}
+
 .candidate-card:hover {
     transform: translateY(-7px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
@@ -138,7 +142,7 @@
 }
 
 .candidate-info {
-    padding-bottom: 0.5rem;
+    padding-bottom: 1rem;
     z-index: 2;
     grid-area: stack;
     padding-top: 60%;

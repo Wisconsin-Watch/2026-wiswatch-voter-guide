@@ -7,7 +7,7 @@
     .calendar-link {
         text-align: center;
     }
-    
+
     .sponsor-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -1307,6 +1307,15 @@
 
                 <div class="entry-content">
 
+                    <!-- Ads -->
+                    <script>
+                        if (!window.__broadstreetInitialized) {
+                            broadstreet.watch({ networkId: 9723 });
+                            window.__broadstreetInitialized = true;
+                        }
+                    </script>
+                    <broadstreet-zone zone-id="190680"></broadstreet-zone>
+
                     <section id="governors-race">
                         <h2 class="wp-block-heading has-text-align-center">Governor's Race</h2>
 
@@ -1519,7 +1528,7 @@
 
                     </section>
 
-                    <!-- Voter Guide Test -->
+                    <!-- Ads -->
                     <script>
                         if (!window.__broadstreetInitialized) {
                             broadstreet.watch({ networkId: 9723 });
