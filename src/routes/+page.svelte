@@ -4,6 +4,10 @@
 </svelte:head>
 
 <style>
+    .calendar-link {
+        text-align: center;
+    }
+    
     .sponsor-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
