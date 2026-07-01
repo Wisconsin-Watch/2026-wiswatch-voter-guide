@@ -193,13 +193,13 @@ button, summary, span, .calendar-tooltip {
     font-family: 'Publico Banner', sans-serif;
 }
 
-.entry-content a {
+.entry-content a, .info-section a {
     color: #3090c9 !important;
     text-decoration: none !important;
     transition: all 0.2s !important;
 }
 
-.entry-content a:active, .entry-content a:hover {
+.entry-content a:active, .entry-content a:hover, .info-section a:active, .info-section a:hover {
     color: #233166 !important;
     text-decoration: underline !important;
 }

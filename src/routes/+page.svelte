@@ -463,12 +463,12 @@
         border-radius: 50px;
         padding: 1.5rem;
         text-align: center;
-        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+        box-shadow: 0 5px 25px rgba(35, 49, 102, 0.1);
         border: #D5E2EE 15px solid;
     }
 
     .governor-winner-main:hover, .governor-winner-left:hover, .governor-winner-right:hover {
-        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.2);
+        box-shadow: 0 10px 25px rgba(35, 49, 102, 0.1);
         border: #233166 15px solid !important;
         transition: all 0.3s ease;
     }
@@ -479,7 +479,7 @@
     }
 
     .governor-winner-main.disabled:hover {
-        box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+        box-shadow: 0 10px 25px rgba(35, 49, 102, 0.1);
         border: #D5E2EE 15px solid !important;
     }
 

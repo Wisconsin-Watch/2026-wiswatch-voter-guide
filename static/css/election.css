@@ -13,11 +13,11 @@
     border-radius: 50px;
     padding: 1.5rem;
     overflow: hidden;
-    box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+    box-shadow: 0 10px 25px rgba(35, 49, 102, 0.1);
 }
 
 .info-section {
-    box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+    box-shadow: 0 10px 25px rgba(35, 49, 102, 0.1);
     margin: 2rem 0;
     background-color: rgba(255, 255, 255, 0.5);
     backdrop-filter: blur(10px);
@@ -234,7 +234,7 @@
     border-bottom: none;
 }
 
-.story-headline {
+.story-headline, .story-data > a.story-headline {
     display: block;
     font-size: 0.9rem;
     font-weight: 700;

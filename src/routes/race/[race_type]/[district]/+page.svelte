@@ -358,21 +358,21 @@
                     {#if race['district-race-nutshell']}
                         <div class="info-section">
                             <h2>Race Overview</h2>
-                            <p>{@html race['district-race-nutshell'].replace(/\n/g, '</p><p>')}</p>
+                            <p>{@html race['district-race-nutshell'].replace(/\r?\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
 
                     {#if race['primary-results']}
                         <div class="info-section">
                             <h2>Primary Results</h2>
-                            <p>{@html race['primary-results'].replace(/\n/g, '</p><p>')}</p>
+                            <p>{@html race['primary-results'].replace(/\r?\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
 
                     {#if positionInfo}
                         <div class="info-section">
                             <h2>What does this position do?</h2>
-                            <p>{@html positionInfo.replace(/\n/g, '</p><p>')}</p>
+                            <p>{@html positionInfo.replace(/\r?\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
                     
