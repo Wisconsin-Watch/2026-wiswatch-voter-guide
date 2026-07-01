@@ -56,7 +56,7 @@
             urlPath: 'governor-republican-primary'
         },
         'governor-democrat-primary': {
-            displayName: 'Wisconsin Governor Democrat Primary',
+            displayName: 'Wisconsin Governor Democratic Primary',
             raceType: 'Governor',
             hasMap: false,
             urlPath: 'governor-democrat-primary'
@@ -172,10 +172,10 @@
                 return;
             }
 
-            // Load up to 5 candidates, setting incumbent solely from the race sheet's
+            // Load up to 9 candidates, setting incumbent solely from the race sheet's
             // 'incumbent' column (contains the candidate_id, or empty if none).
             candidates = [];
-            for (let i = 1; i <= 5; i++) {
+            for (let i = 1; i <= 9; i++) {
                 const candidateKey = `candidate-${i}`;
                 const statusKey = `candidate-${i}-status`;
                 if (race[candidateKey]) {
@@ -320,7 +320,22 @@
                                             <img src="{base}/graphics/plus.svg" alt="View details" />
                                         </div>
                                         {#if candidate.candidate_id}
-                                            <img src="{base}/graphics/candidates/{candidate.candidate_id}.jpg" alt={candidate.name} class="candidate-photo" on:error={(e) => { e.target.src = `${base}/graphics/candidates/winner-who.png`; }} />
+                                            <img
+                                                src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
+                                                alt={candidate.name}
+                                                class="candidate-photo"
+                                                class:dropped-out={candidate.status === 'dropped-out'}
+                                                on:error={(e) => {
+                                                    const img = e.currentTarget;
+
+                                                    if (!img.dataset.triedUppercase) {
+                                                    img.dataset.triedUppercase = "true";
+                                                    img.src = `${base}/graphics/candidates/${candidate.candidate_id}.JPG`;
+                                                    } else {
+                                                    img.src = `${base}/graphics/candidates/winner-who.png`;
+                                                    }
+                                                }}
+                                            />
                                         {:else}
                                             <div class="candidate-placeholder">?</div>
                                         {/if}

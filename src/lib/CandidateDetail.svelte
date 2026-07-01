@@ -51,7 +51,16 @@
         <img 
           src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
           alt={candidate.name}
-          on:error={(e) => { e.target.src = `${base}/graphics/candidates/winner-who.png`; }}
+          on:error={(e) => {
+            const img = e.currentTarget;
+
+            if (!img.dataset.triedUppercase) {
+              img.dataset.triedUppercase = "true";
+              img.src = `${base}/graphics/candidates/${candidate.candidate_id}.JPG`;
+            } else {
+              img.src = `${base}/graphics/candidates/winner-who.png`;
+            }
+          }}
         />
       {:else}
         <div class="placeholder-image">?</div>

@@ -1332,7 +1332,7 @@
                             </a>
                             <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d">
                                 <div class="winner-label">
-                                    <h4>Democrat Primary</h4>
+                                    <h4>Democratic Primary</h4>
                                 </div>
                                 <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                             </a>

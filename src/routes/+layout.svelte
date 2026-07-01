@@ -119,7 +119,7 @@
 					<h5 class="wp-block-heading has-text-align-left">Credits</h5>
 					<p class="has-text-align-left" style="font-size: 14px;"><strong>Data entry:</strong> Brittany Carloni, Zoey Elwood, Audrey Lopez-Stane, Tom Kertscher</p>
 					<p class="has-text-align-left" style="font-size: 14px;"><strong>Design and development:</strong> Hongyu Liu</p>
-					<p class="has-text-align-left" style="font-size: 14px;"><strong>Editing:</strong> Matt DeFour</p>
+					<p class="has-text-align-left" style="font-size: 14px;"><strong>Editing:</strong> Matthew DeFour</p>
 				</div>
 				<!-- Sponsors: 3/4, each logo in its own column -->
 				<div class="footer-sponsors">

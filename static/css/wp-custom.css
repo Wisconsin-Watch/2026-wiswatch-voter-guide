@@ -309,6 +309,10 @@ footer {
     box-shadow: inset 0px 5px 5px 5px #0000001a;
 }
 
+.dropped-out {
+    filter: grayscale(100%);
+}
+
 @media (min-width: 782px) {
     .wp-block-heading {
         scroll-margin-top: 170px;
