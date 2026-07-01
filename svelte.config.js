@@ -13,7 +13,7 @@ const config = {
 			strict: false
 		}),
 		paths: {
-			base: dev ? '' : '/testwebsite'
+			base: dev ? '' : '/2026-wiswatch-voter-guide'
 		},
 		prerender: {
 			handleMissingId: 'warn',
