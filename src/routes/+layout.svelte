@@ -126,16 +126,16 @@
 					<h5 class="wp-block-heading has-text-align-left">Special thanks to our sponsors</h5>
 					<div class="sponsor-grid">
 						<div class="sponsor-slot">
-							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+							<img src="{base}/graphics/logos/HerbKohl_BlackBlue_horizontal.png" alt="Herb Kohl" />
 						</div>
 						<div class="sponsor-slot">
-							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+							<!-- <img src="" alt="Wiswatch" /> -->
 						</div>
 						<div class="sponsor-slot">
-							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+							<!-- <img src="" alt="Wiswatch" />	 -->
 						</div>
 						<div class="sponsor-slot">
-							<img src="https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/06/ww-logo-footer.png?fit=700%2C223&quality=100&ssl=1&w=370" alt="Wiswatch" />
+							<!-- <img src="" alt="Wiswatch" /> -->
 						</div>
 					</div>
 				</div>

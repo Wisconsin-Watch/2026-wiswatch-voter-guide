@@ -593,7 +593,7 @@
         }
 
         .previous-results-buttons {
-            gap: 0.5rem;
+            gap: 1rem;
         }
     }
 
