@@ -529,6 +529,10 @@
             padding: 0 0.5rem;
         }
 
+        .results-container {
+            padding: 0;
+        }
+
         .calendar {
             padding: 0.75rem;
         }
@@ -596,8 +600,8 @@
     @media (min-width: 760px) {
 
         .hero {
-            padding-top: 15vh !important;
-            padding-bottom: 10vh !important;
+            padding-top: 20vh !important;
+            padding-bottom: 20vh !important;
         }
 
         #governors-race .bento-container {
@@ -1314,7 +1318,7 @@
                             window.__broadstreetInitialized = true;
                         }
                     </script>
-                    <broadstreet-zone zone-id="190680"></broadstreet-zone>
+                    <broadstreet-zone zone-id=""></broadstreet-zone>
 
                     <section id="governors-race">
                         <h2 class="wp-block-heading has-text-align-center">Governor's Race</h2>
