@@ -137,6 +137,16 @@
     </div>
   </div>
 
+                      <!-- Ads -->
+                    <script>
+                        if (!window.__broadstreetInitialized) {
+                            broadstreet.watch({ networkId: 9723 });
+                            window.__broadstreetInitialized = true;
+                        }
+                    </script>
+                    <!-- Homepage -->
+                    <broadstreet-zone zone-id="190811"></broadstreet-zone>
+
   {#if candidate.elected_experience}
     <div class="info-section">
       <h2>Elected Experience</h2>

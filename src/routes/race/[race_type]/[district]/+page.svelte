@@ -357,6 +357,16 @@
                         </div>
                     {/if}
 
+                    <!-- Ads -->
+                    <script>
+                        if (!window.__broadstreetInitialized) {
+                            broadstreet.watch({ networkId: 9723 });
+                            window.__broadstreetInitialized = true;
+                        }
+                    </script>
+                    <!-- Voter Guide article pages -->
+                    <broadstreet-zone zone-id="190810"></broadstreet-zone>
+
                     {#if race['ap-result']}
                         <div class="info-section ap-result-section">
                             {@html race['ap-result']}

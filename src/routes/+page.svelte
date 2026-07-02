@@ -1334,7 +1334,8 @@
                             window.__broadstreetInitialized = true;
                         }
                     </script>
-                    <broadstreet-zone zone-id=""></broadstreet-zone>
+                    <!-- Homepage -->
+                    <broadstreet-zone zone-id="190809"></broadstreet-zone>
 
                     <section id="governors-race">
                         <h2 class="wp-block-heading has-text-align-center">Governor's Race</h2>
@@ -1549,12 +1550,6 @@
                     </section>
 
                     <!-- Ads -->
-                    <script>
-                        if (!window.__broadstreetInitialized) {
-                            broadstreet.watch({ networkId: 9723 });
-                            window.__broadstreetInitialized = true;
-                        }
-                    </script>
                     <broadstreet-zone zone-id="190680"></broadstreet-zone>
 
                     <section id="Keydates" style="margin: 0 0; overflow-x: hidden; width: 100%; position: relative;">
