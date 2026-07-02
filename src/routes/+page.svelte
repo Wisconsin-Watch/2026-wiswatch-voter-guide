@@ -1560,7 +1560,7 @@ onMount(async () => {
                             {#each otherRaces as race}
                             <button
                                 class="election-button primary-race"
-                                on:click={() => window.location.href = `/race/${race.slug}/1`}
+                                on:click={() => window.location.href = `${base}/race/${race.slug}/1`}
                             >
                                 {race.label.charAt(0).toUpperCase() + race.label.slice(1).toLowerCase()} <!--So that all lowercase except the initial-->
                             </button>
