@@ -1077,11 +1077,11 @@
             
             // Separate primary races (Attorney General) from others
             primaryRaces = races.filter(race => 
-                race.value === 'Attorney General'
+                race.value === 'Attorney general'
             );
             
             otherRaces = races.filter(race => 
-                race.value !== 'Governor' && race.value !== 'Attorney General'
+                race.value !== 'Governor' && race.value !== 'Attorney general'
             );
         } catch (error) {
             console.error('Error loading statewide races:', error);
