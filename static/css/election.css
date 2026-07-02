@@ -72,10 +72,6 @@
     aspect-ratio: 3/4;
 }
 
-.candidate-card:only-child {
-    max-width: 50%;
-}
-
 .candidate-card:hover {
     transform: translateY(-7px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
@@ -277,7 +273,13 @@
     font-family: 'Publico Banner', sans-serif;
  }
 
-@media (max-width: 768px) {
+@media (min-width: 770px) {
+    .candidate-card:only-child {
+        max-width: 50%;
+    }
+}
+
+@media (max-width: 769px) {
     .info-grid {
         grid-template-columns: 1fr;
     }

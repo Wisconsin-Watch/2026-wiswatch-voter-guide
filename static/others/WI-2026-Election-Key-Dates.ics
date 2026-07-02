@@ -7,7 +7,7 @@ DTSTAMP:20260303T160131Z
 UID:1772553451051-26546@ical.marudot.com
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:Deadline to use mail or internet submissions to register for participation in the Partisan Primary
+SUMMARY:Deadline for mail or online voter registration for partisan primary
 DESCRIPTION:After this date\, electors must register in person in the municipal clerk's office or at the polling place. 
 END:VEVENT
 BEGIN:VEVENT
@@ -15,7 +15,7 @@ DTSTAMP:20260303T160131Z
 UID:1772467663144-17046@ical.marudot.com
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
-SUMMARY:Primary elections early in-person voting begins
+SUMMARY:Primary early in-person voting begins
 DESCRIPTION:Clerks may begin to issue in person absentee ballots at the clerk’s office or designated alternate location(s).
 END:VEVENT
 BEGIN:VEVENT
@@ -38,7 +38,7 @@ DTSTAMP:20260303T160131Z
 UID:1772553592745-34737@ical.marudot.com
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Deadline to use mail or internet submissions to register for participation in the General Election.
+SUMMARY:Deadline for mail or online voter registration for general election.
 DESCRIPTION:After this date\, electors must register in person at the municipal clerk's office or at the polling place. 
 END:VEVENT
 BEGIN:VEVENT

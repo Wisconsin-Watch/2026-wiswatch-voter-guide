@@ -689,6 +689,19 @@
             font-size: 0.9rem;
             padding: 0.4rem 0.6rem;
         }
+
+        .governor-winner-left {
+            border: #e9151f 10px solid !important;
+        }
+    
+        .governor-winner-right {
+            border: #0b3eb6 10px solid !important;
+        }
+
+
+        .governor-winner-left, .governor-winner-right {
+            padding: 0.5rem;
+        }
     }
 </style>
 

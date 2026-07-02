@@ -99,7 +99,7 @@
           </div>
         {/if}
         {#if candidate.age}
-          <div class="contact-icons hover-tooltip" data-tooltip="Age as of election day" style="font-size:0.95rem;margin-bottom:0.25rem">
+          <div class="contact-icons hover-tooltip" data-tooltip="Age as of Election Day" style="font-size:0.95rem;margin-bottom:0.25rem">
             <strong>Age:</strong> {candidate.age}
           </div>
         {/if}
