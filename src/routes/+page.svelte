@@ -1338,18 +1338,18 @@
                     <broadstreet-zone zone-id="190809"></broadstreet-zone>
 
                     <section id="governors-race">
-                        <h2 class="wp-block-heading has-text-align-center">Governor's Race</h2>
+                        <h2 class="wp-block-heading has-text-align-center">Governor's race</h2>
 
                         <div class="bento-container grid grid-cols-12 grid-flow-dense gap-4">
                             <a class="bento-item governor-winner-left" href="{base}/race/governor-republican-primary/go-r">
                                 <div class="winner-label">
-                                    <h4>Republican Primary</h4>
+                                    <h4>Republican primary</h4>
                                 </div>
                                 <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                             </a>
                             <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d">
                                 <div class="winner-label">
-                                    <h4>Democratic Primary</h4>
+                                    <h4>Democratic primary</h4>
                                 </div>
                                 <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                             </a>
@@ -1369,14 +1369,14 @@
                             {#if isGovernorLinkEnabled}
                                 <a class="bento-item governor-winner-main" href="{base}/race/governor/1">
                                     <div class="winner-label">
-                                        <h4>Final Race</h4>
+                                        <h4>Final race</h4>
                                     </div>
                                     <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                                 </a>
                             {:else}
                                 <div class="bento-item governor-winner-main disabled">
                                     <div class="winner-label">
-                                        <h4>Final Race</h4>
+                                        <h4>Final race</h4>
                                         <small>(Unlock after primary race)</small>
                                     </div>
                                     <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
@@ -1387,8 +1387,8 @@
                     </section>
 		
                     <section id="address-map">
-                        <h2 class="wp-block-heading has-text-align-center"><strong>Find Your Districts</strong></h2>
-                        <p class="has-text-align-center">Enter your Wisconsin address to find your <strong>Assembly</strong>, <strong>Senate</strong>, and <strong>Congressional</strong> districts.</p>
+                        <h2 class="wp-block-heading has-text-align-center"><strong>Find your districts</strong></h2>
+                        <p class="has-text-align-center">Enter your Wisconsin address to find your <strong>Assembly</strong>, <strong>Senate</strong> and <strong>congressional</strong> districts.</p>
                         <div class="address-search-container">
                             <div class="search-box">
                                 <input 
@@ -1541,9 +1541,12 @@
                                 </button>
                             {/each}
                             {#each otherRaces as race}
-                                <button class="election-button primary-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
-                                    {race.label}
-                                </button>
+                            <button
+                                class="election-button primary-race"
+                                on:click={() => navigate(`/race/${race.slug}/1`)}
+                            >
+                                {race.label.charAt(0).toUpperCase() + race.label.slice(1).toLowerCase()} <!--So that all lowercase except the initial-->
+                            </button>
                             {/each}
                         </div>
 
@@ -1698,7 +1701,7 @@
                                 <div class="bento-body">
                                     <h3 class="wp-block-heading has-text-align-center"><strong>How do you check if you're registered?</strong></h3>
                                     <p>You can check your registration status on the MyVote Wisconsin website <a href="https://myvote.wi.gov/en-us/Register-To-Vote">here</a> by entering your name and date of birth.</p>
-                                    <p>The deadline to register <a href="https://myvote.wi.gov/en-us/Register-To-Vote">online</a> or by mail is Oct. 16. The deadline to register in person at your municipal clerk's office is Nov. 1 at 5 p.m. If you haven't registered to vote before Nov. 5, don't panic. You can register to vote in person at your polling place on Election Day. You'll just need to bring an <a href="https://myvote.wi.gov/Portals/0/Documents/AcceptablePhotoIDs.pdf?ver=vS9TnMVULlI9Yi0mGe-P0g%3D%3D">accepted form of ID</a> and <a href="https://myvote.wi.gov/Portals/0/Documents/ProofOfResidence.pdf?ver=vS9TnMVULlI9Yi0mGe-P0g%3d%3d">proof of residence</a> (and meet the requirements listed above).</p>
+                                    <p>The deadline to register <a href="https://myvote.wi.gov/en-us/Register-To-Vote">online</a> or by mail is Oct. 14. The deadline to register in person at your municipal clerk's office is Oct. 30 at 5 p.m. If you haven't registered to vote before Nov. 3, don't panic. You can register to vote in person at your polling place on Election Day. You'll just need to bring an <a href="https://myvote.wi.gov/Portals/0/Documents/AcceptablePhotoIDs.pdf?ver=vS9TnMVULlI9Yi0mGe-P0g%3D%3D">accepted form of ID</a> and <a href="https://myvote.wi.gov/Portals/0/Documents/ProofOfResidence.pdf?ver=vS9TnMVULlI9Yi0mGe-P0g%3d%3d">proof of residence</a> (and meet the voting requirements).</p>
                                 </div>
                                 <div class="bento-image-container">
                                     <img srcset="https://wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg">
