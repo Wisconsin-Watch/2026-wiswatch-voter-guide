@@ -126,7 +126,9 @@
 					<h5 class="wp-block-heading has-text-align-left">Special thanks to our sponsors</h5>
 					<div class="sponsor-grid">
 						<div class="sponsor-slot">
-							<img src="{base}/graphics/logos/HerbKohl_BlackBlue_horizontal.png" alt="Herb Kohl" />
+							<a href="https://www.herbkohlphilanthropies.org/">
+								<img src="{base}/graphics/logos/HerbKohl_BlackBlue_horizontal.png" alt="Herb Kohl" />
+							</a>
 						</div>
 						<div class="sponsor-slot">
 							<!-- <img src="" alt="Wiswatch" /> -->
