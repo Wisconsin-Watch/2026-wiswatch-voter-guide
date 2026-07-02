@@ -1291,6 +1291,22 @@
         });
     });
 
+    //Ads
+onMount(async () => {
+  await tick();
+  await new Promise(requestAnimationFrame);
+
+  const zones = document.querySelectorAll('broadstreet-zone');
+  console.log('Broadstreet zones found:', [...zones].map(z => ({
+    id: z.id,
+    zoneId: z.getAttribute('zone-id')
+  })));
+
+  if (!window.__broadstreetWatched && window.broadstreet?.watch) {
+    window.__broadstreetWatched = true;
+    window.broadstreet.watch({ networkId: 9723 });
+  }
+});
 </script>
 
 <div id="content" class="site-content" bind:this={contentElement}>
@@ -1321,33 +1337,26 @@
                 </header>
             </section>
 
-
+        <broadstreet-zone id="after-hero" zone-id="190680"></broadstreet-zone>
 
             <div class="entry-content" style="padding-top: 4rem;">
 
                 <div class="entry-content">
 
-                    <!-- Ads -->
-                    <script>
-                        if (!window.__broadstreetInitialized) {
-                            broadstreet.watch({ networkId: 9723 });
-                            window.__broadstreetInitialized = true;
-                        }
-                    </script>
                     <!-- Homepage -->
-                    <broadstreet-zone zone-id="190809"></broadstreet-zone>
+                    
 
                     <section id="governors-race">
                         <h2 class="wp-block-heading has-text-align-center">Governor's race</h2>
 
                         <div class="bento-container grid grid-cols-12 grid-flow-dense gap-4">
-                            <a class="bento-item governor-winner-left" href="{base}/race/governor-republican-primary/go-r">
+                            <a class="bento-item governor-winner-left" href="{base}/race/governor-republican-primary/go-r" data-sveltekit-reload>
                                 <div class="winner-label">
                                     <h4>Republican primary</h4>
                                 </div>
                                 <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                             </a>
-                            <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d">
+                            <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d" data-sveltekit-reload>
                                 <div class="winner-label">
                                     <h4>Democratic primary</h4>
                                 </div>
@@ -1367,7 +1376,7 @@
                             </div>
                             <!-- Main Governor Race-->
                             {#if isGovernorLinkEnabled}
-                                <a class="bento-item governor-winner-main" href="{base}/race/governor/1">
+                                <a class="bento-item governor-winner-main" href="{base}/race/governor/1" data-sveltekit-reload>
                                     <div class="winner-label">
                                         <h4>Final race</h4>
                                     </div>
@@ -1449,7 +1458,7 @@
                                     
                                     <div class="district-results">
                                         {#if districtResults.raceIds?.assembly}
-                                            <a href="{base}/race/assembly/{districtResults.raceIds.assembly}" class="district-card district-card-link">
+                                            <a href="{base}/race/assembly/{districtResults.raceIds.assembly}" class="district-card district-card-link" data-sveltekit-reload>
                                                 <p class="district-number">
                                                     Assembly {districtResults.districts.assembly ? `District ${districtResults.districts.assembly}` : 'Not found'} <br><br>
                                                 </p>
@@ -1465,7 +1474,7 @@
                                         {/if}
 
                                         {#if districtResults.raceIds?.senate}
-                                            <a href="{base}/race/senate/{districtResults.raceIds.senate}" class="district-card district-card-link">
+                                            <a href="{base}/race/senate/{districtResults.raceIds.senate}" class="district-card district-card-link" data-sveltekit-reload>
                                                 <p class="district-number">
                                                     Senate {districtResults.districts.senate ? `District ${districtResults.districts.senate}` : 'Not found'} <br><br>
                                                 </p>
@@ -1481,7 +1490,7 @@
                                         {/if}
 
                                         {#if districtResults.raceIds?.congress}
-                                            <a href="{base}/race/congress/{districtResults.raceIds.congress}" class="district-card district-card-link">
+                                            <a href="{base}/race/congress/{districtResults.raceIds.congress}" class="district-card district-card-link" data-sveltekit-reload>
                                                 <p class="district-number">
                                                    U.S. Congress {districtResults.districts.congress ? `District ${districtResults.districts.congress}` : 'Not found'}
                                                 </p>
@@ -1512,17 +1521,25 @@
                                 {/if}
                                 <div class="previous-results-buttons">
                                     {#if savedRaces.assembly}
-                                        <button class="previous-result-button" on:click={() => goto(`${base}/race/assembly/${savedRaces.assembly}`)}>
+                                        <button
+                                            class="previous-result-button" on:click={() => window.location.href = `${base}/race/assembly/${savedRaces.assembly}`}
+                                        >
                                             Assembly
                                         </button>
                                     {/if}
                                     {#if savedRaces.senate}
-                                        <button class="previous-result-button" on:click={() => goto(`${base}/race/senate/${savedRaces.senate}`)}>
+                                        <button
+                                            class="previous-result-button"
+                                            on:click={() => window.location.href = `${base}/race/senate/${savedRaces.senate}`}
+                                        >
                                             Senate
                                         </button>
                                     {/if}
                                     {#if savedRaces.congress}
-                                        <button class="previous-result-button" on:click={() => goto(`${base}/race/congress/${savedRaces.congress}`)}>
+                                        <button
+                                            class="previous-result-button"
+                                            on:click={() => window.location.href = `${base}/race/congress/${savedRaces.congress}`}
+                                        >
                                             U.S. Congress
                                         </button>
                                     {/if}
@@ -1536,14 +1553,14 @@
 
                         <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
                             {#each primaryRaces as race}
-                                <button class="election-button primary-race" on:click={() => navigate(`/race/${race.slug}/1`)}>
+                                <button class="election-button primary-race" on:click={() => window.location.href = `/race/${race.slug}/1`}>
                                     {race.label}
                                 </button>
                             {/each}
                             {#each otherRaces as race}
                             <button
                                 class="election-button primary-race"
-                                on:click={() => navigate(`/race/${race.slug}/1`)}
+                                on:click={() => window.location.href = `/race/${race.slug}/1`}
                             >
                                 {race.label.charAt(0).toUpperCase() + race.label.slice(1).toLowerCase()} <!--So that all lowercase except the initial-->
                             </button>
@@ -1553,7 +1570,7 @@
                     </section>
 
                     <!-- Ads -->
-                    <broadstreet-zone zone-id="190680"></broadstreet-zone>
+                    <broadstreet-zone id="before-dates" zone-id="190809"></broadstreet-zone>
 
                     <section id="Keydates" style="margin: 0 0; overflow-x: hidden; width: 100%; position: relative;">
                         <h2 class="wp-block-heading has-text-align-center">Save these dates</h2>

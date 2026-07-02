@@ -25,6 +25,24 @@
     console.log('Matched Q&A:', candidateQuestionsAndAnswers.length);
     console.log('Q&A details:', candidateQuestionsAndAnswers);
   }
+
+      //Ads
+      import {onMount, tick} from 'svelte';
+onMount(async () => {
+  await tick();
+  await new Promise(requestAnimationFrame);
+
+  const zones = document.querySelectorAll('broadstreet-zone');
+  console.log('Broadstreet zones found:', [...zones].map(z => ({
+    id: z.id,
+    zoneId: z.getAttribute('zone-id')
+  })));
+
+  if (!window.__broadstreetWatched && window.broadstreet?.watch) {
+    window.__broadstreetWatched = true;
+    window.broadstreet.watch({ networkId: 9723 });
+  }
+});
 </script>
 
 {#if showReturnToRace && raceId}
@@ -137,15 +155,8 @@
     </div>
   </div>
 
-                      <!-- Ads -->
-                    <script>
-                        if (!window.__broadstreetInitialized) {
-                            broadstreet.watch({ networkId: 9723 });
-                            window.__broadstreetInitialized = true;
-                        }
-                    </script>
-                    <!-- Homepage -->
-                    <broadstreet-zone zone-id="190811"></broadstreet-zone>
+  <!-- Homepage -->
+  <broadstreet-zone zone-id="190811"></broadstreet-zone>
 
   {#if candidate.elected_experience}
     <div class="info-section">

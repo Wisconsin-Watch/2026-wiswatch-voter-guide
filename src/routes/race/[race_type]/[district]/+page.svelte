@@ -10,7 +10,7 @@
 
 <script>
     import { base } from '$app/paths';
-    import { onMount, onDestroy } from 'svelte';
+    import { onMount, onDestroy, tick } from 'svelte';
     import { page } from '$app/stores';
     import { goto } from '$app/navigation';
     import { getRaceByRaceId, getCandidateByCandidateId, getStoriesByRaceId, getPositionInfo } from '$lib/googleSheets.js';
@@ -18,6 +18,23 @@
     import { saveSourceRace, clearSourceRace } from '$lib/raceStorage.js';
     
     export let data;
+
+    //Ads
+    onMount(async () => {
+    await tick();
+    await new Promise(requestAnimationFrame);
+
+    const zones = document.querySelectorAll('broadstreet-zone');
+    console.log('Broadstreet zones found:', [...zones].map(z => ({
+        id: z.id,
+        zoneId: z.getAttribute('zone-id')
+    })));
+
+    if (!window.__broadstreetWatched && window.broadstreet?.watch) {
+        window.__broadstreetWatched = true;
+        window.broadstreet.watch({ networkId: 9723 });
+    }
+    });
     
     // District-based race configurations (these have maps and happens every two years)
     const DISTRICT_RACE_CONFIG = {
@@ -133,7 +150,7 @@
         if (race && config) {
             saveSourceRace(raceTypeParam, race['race-id']);
             const configKey = getRaceConfigKey(raceTypeParam);
-            goto(`${base}/race/${configKey}/candidate/${candidateId}`);
+            window.location.href = `${base}/race/${configKey}/candidate/${candidateId}`;
         }
     }
     
@@ -266,6 +283,7 @@
             pymChild = new window.pym.Child();
         }
         window.addEventListener('message', handleIframeMessage);
+
     });
     
     onDestroy(() => {
@@ -281,6 +299,7 @@
     $: if (pymChild && pymChild.sendHeight) {
         pymChild.sendHeight();
     }
+
 </script>
 
 <div id="content" class="site-content" bind:this={contentDiv}>
@@ -357,13 +376,6 @@
                         </div>
                     {/if}
 
-                    <!-- Ads -->
-                    <script>
-                        if (!window.__broadstreetInitialized) {
-                            broadstreet.watch({ networkId: 9723 });
-                            window.__broadstreetInitialized = true;
-                        }
-                    </script>
                     <!-- Voter Guide article pages -->
                     <broadstreet-zone zone-id="190810"></broadstreet-zone>
 
