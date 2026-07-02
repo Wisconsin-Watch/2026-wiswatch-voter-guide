@@ -698,9 +698,12 @@
             border: #0b3eb6 10px solid !important;
         }
 
-
         .governor-winner-left, .governor-winner-right {
             padding: 0.5rem;
+        }
+
+        .governor-winner-main:hover, .governor-winner-left:hover, .governor-winner-right:hover {
+            border: #233166 10px solid !important;
         }
     }
 </style>
