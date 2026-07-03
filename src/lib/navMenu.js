@@ -263,7 +263,7 @@ function handleRaceSearch() {
 	
 	const url = `${base}/race/${raceTypeParam}/${raceId}`;
 	closeMenu();
-	goto(url);
+	 window.location.href = (url);
 }
 
 /**

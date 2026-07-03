@@ -1313,7 +1313,7 @@ onMount(async () => {
     <section id="primary" class="content-area">
         <main id="main" class="site-main" role="main">
 
-            <section class="hero">
+            <section class="hero" style="padding-bottom: 4rem;">
                 <header class="entry-header">
                     <object type="image/svg+xml" data="{base}/graphics/banner/Banner_PC.svg" id="header-banner-full"></object>	
                     <object type="image/svg+xml" data="{base}/graphics/banner/Banner_Mobile.svg" id="header-banner-mobile"></object>
