@@ -8,3 +8,4 @@
 
 - Updated Geocoding service to Mapbox v6.
 - Fixed bug for not able to jump back to homepage in iframe.
+- Candidates now sorted by last name.

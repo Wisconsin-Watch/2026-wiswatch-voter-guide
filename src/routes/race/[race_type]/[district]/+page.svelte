@@ -208,6 +208,19 @@
                 }
             }
 
+            // Sort candidates alphabetically by last name
+            candidates.sort((a, b) => {
+                const getLastName = (name) => {
+                    const parts = name.trim().split(/\s+/);
+                    return parts[parts.length - 1].toLowerCase();
+                };
+
+                const lastCompare = getLastName(a.name).localeCompare(getLastName(b.name));
+
+                // If last names are the same, sort by full name
+                return lastCompare || a.name.localeCompare(b.name);
+            });
+
             // Load stories for this race using the actual race-id
             stories = await getStoriesByRaceId(race['race-id']);
             
