@@ -13,7 +13,7 @@
 export async function geocodeAddress(address, mapboxToken) {
     // Call Mapbox Geocoding API directly from client
     const encodedAddress = encodeURIComponent(address);
-    const url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodedAddress}.json?access_token=${mapboxToken}&country=US&types=address&bbox=-92.889,42.491,-86.249,47.309&limit=1`;
+    const url = `https://api.mapbox.com/search/geocode/v6/forward?q=${encodedAddress}&country=US&bbox=-92.889,42.491,-86.249,47.309&access_token=${mapboxToken}`;
 
     try {
         const response = await fetch(url);
@@ -30,28 +30,24 @@ export async function geocodeAddress(address, mapboxToken) {
         const feature = data.features[0];
         
         // Additional validation: ensure it's actually an address type, not a place/city
-        if (!feature.place_type || !feature.place_type.includes('address')) {
-            throw new Error('Please enter a complete physical address with a street number, not just a city or street name.');
+        if (!feature.properties.feature_type || !feature.properties.feature_type.includes('address')) {
+            throw new Error('districtLookup: Please enter a complete physical address with a street number, not just a city or street name.');
         }
         
-        // Verify it's in Wisconsin
-        const context = feature.context || [];
-        const isInWisconsin = context.some(ctx => 
-            ctx.id.startsWith('region') && 
-            (ctx.text === 'Wisconsin' || ctx.short_code === 'US-WI')
-        );
+        const context = data.features[1].properties.context || {};
+        const isInWisconsin = context.region?.region_code === "WI";
         
         if (!isInWisconsin) {
             throw new Error('Address must be in Wisconsin');
         }
         
-        const [lng, lat] = feature.center;
+        const [lng, lat] = feature.geometry.coordinates;
 
         return {
             lat,
             lng,
-            formattedAddress: feature.place_name,
-            bbox: feature.bbox
+            formattedAddress: feature.properties.full_address,
+            bbox: data.features[1].properties.bbox
         };
     } catch (error) {
         console.error('Geocoding error:', error);

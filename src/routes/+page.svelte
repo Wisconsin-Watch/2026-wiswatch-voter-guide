@@ -917,31 +917,24 @@
             // Call Mapbox API directly with the public token
             const encodedQuery = encodeURIComponent(query);
             const mapboxToken = data.mapboxToken;
-            const url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodedQuery}.json?access_token=${mapboxToken}&country=US&limit=5&types=address&bbox=-92.889,42.491,-86.249,47.309`;
+            const url = `https://api.mapbox.com/search/geocode/v6/forward?q=${encodedQuery}&country=US&bbox=-92.889,42.491,-86.249,47.309&access_token=${mapboxToken}`;
             
             const response = await fetch(url);
             if (response.ok) {
                 const responseData = await response.json();
                 // Filter to only include Wisconsin addresses with complete street addresses
                 const wisconsinSuggestions = responseData.features.filter(feature => {
-                    const context = feature.context || [];
-                    const isInWisconsin = context.some(ctx => 
-                        ctx.id.startsWith('region') && 
-                        (ctx.text === 'Wisconsin' || ctx.short_code === 'US-WI')
-                    );
-                    
-                    // Ensure it's a complete address (has street number)
-                    const addressText = feature.place_name || feature.text || '';
-                    const hasStreetNumber = /^\d+/.test(addressText.trim());
+                    const context = feature.properties.context || {};
+                    const isInWisconsin = context.region?.region_code === "WI";
                     
                     // Ensure it's actually an address type, not just a street
-                    const isAddressType = feature.place_type && feature.place_type.includes('address');
-                    return isInWisconsin && hasStreetNumber && isAddressType;
+                    const isAddressType = feature.properties.feature_type && feature.properties.feature_type.includes('address');
+                    return isInWisconsin && isAddressType;
                 });
                 
                 suggestions = wisconsinSuggestions.map(feature => ({
-                    text: feature.place_name,
-                    coordinates: feature.center
+                    text: feature.properties.full_address,
+                    coordinates: feature.geometry.coordinates
                 }));
                 showSuggestions = suggestions.length > 0;
             }
@@ -965,8 +958,6 @@
     }
 
     function validateAddressFormat(address) {
-        // Check if address contains a street number at the beginning
-        const hasStreetNumber = /^\d+/.test(address.trim());
         
         // Check if address has multiple components (street number, street name, city)
         const parts = address.split(',').map(p => p.trim()).filter(p => p.length > 0);
@@ -980,7 +971,7 @@
         const streetOnlyPattern = /^[A-Za-z\s]+(Street|St|Avenue|Ave|Road|Rd|Drive|Dr|Lane|Ln|Boulevard|Blvd|Court|Ct|Way|Circle|Cir)$/i;
         const isStreetOnly = streetOnlyPattern.test(address.trim());
         
-        return hasStreetNumber && hasMultipleParts && !isCityOnly && !isStreetOnly;
+        return hasMultipleParts && !isCityOnly && !isStreetOnly;
     }
 
     async function handleAddressSearch() {
