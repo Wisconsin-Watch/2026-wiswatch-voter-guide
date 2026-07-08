@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T14:50:28.980Z",
+  "lastUpdated": "2026-07-08T17:14:25.349Z",
   "stories": [
     {
       "id": 0,
@@ -176,6 +176,30 @@
       "headline": "AG race could focus on crime lab backlogs. Here's what to know",
       "byline": "Laura Schulte / Milwaukee Journal Sentinel",
       "published_date": "2026-06-03T5:03:00.000Z"
+    },
+    {
+      "id": 22,
+      "url": "https://isthmus.com/news/news/who-will-take-over-francesca-hongs-seat/",
+      "race_id": "as-76",
+      "headline": "Priorities differentiate Madison Dems running in Assembly primary",
+      "byline": "Chali Pittman / ISTHMUS",
+      "published_date": "2026-07-06T13:15:00.000Z"
+    },
+    {
+      "id": 23,
+      "url": "https://www.wdio.com/top-stories/wisconsin-7th-congressional-district-republican-primary-debate/",
+      "race_id": "co-7",
+      "headline": "Wisconsin 7th Congressional District Republican Primary debate",
+      "byline": "Eleanore Hunt / WDIO.com",
+      "published_date": "2026-07-08T04:56:47.000Z"
+    },
+    {
+      "id": 24,
+      "url": "https://www.postcrescent.com/story/news/politics/elections/2026/07/08/grace-abitz-shawna-riley-compete-in-democratic-primary-in-district-56/90684874007/",
+      "race_id": "as-56",
+      "headline": "Grace Abitz, Shawna Riley compete in Democratic primary in District 56",
+      "byline": "Duke Behnke / The Post-Crescent",
+      "published_date": "2026-07-08T10:02:27.000Z"
     }
   ]
 }
