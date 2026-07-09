@@ -766,12 +766,12 @@
 
     async function fetchAndParseICS() {
         try {
-            const resp = await fetch(`${base}/others/WI-2026-Election-Key-Dates.ics`);
-            if (!resp.ok) return;
-            const icsText = await resp.text();
-            keyDates = parseICSForDates(icsText);
+        const resp = await fetch(`${base}/others/WI-2026-Election-Key-Dates.ics`);
+        if (!resp.ok) return;
+        const icsText = await resp.text();
+        keyDates = parseICSForDates(icsText);
         } catch (e) {
-            console.error('Failed to load ICS:', e);
+        console.error('Failed to load ICS:', e);
         }
     }
 
@@ -1079,12 +1079,8 @@
         }
 
         // Load key dates from ICS so calendar highlights come from the .ics file
-        fetchAndParseICS();
-
-        // Add tooltip positioning logic after a short delay to ensure DOM is ready
-        setTimeout(() => {
-            setupTooltipPositioning();
-        }, 100);
+        await fetchAndParseICS();
+        await tick();
 
         // Reposition tooltip on scroll/resize and add outside-click unpin
         window.addEventListener('scroll', handleScroll, true);
@@ -1104,125 +1100,98 @@
         window.removeEventListener('resize', handleResize);
     });
 
-    function setupTooltipPositioning() {
-        // Get all highlighted calendar days
-        const highlightedDays = document.querySelectorAll('.calendar-day.highlighted');
+    function showTooltip(target, tooltip) {
+        if (!tooltip) return;
 
-        highlightedDays.forEach(day => {
-            day.addEventListener('mouseenter', (e) => {
-                const tooltip = e.currentTarget.getAttribute('data-tooltip');
-                if (tooltip) {
-                    currentTooltipText = tooltip;
-                    tooltipVisible = true;
-                    currentTooltipTarget = e.currentTarget;
-                    // Position above the element (centered)
-                    positionTooltipAboveElement(e.currentTarget);
-                }
-            });
+        currentTooltipText = tooltip;
+        tooltipVisible = true;
+        currentTooltipTarget = target;
 
-            // Keyboard accessibility: show tooltip on focus
-            day.addEventListener('focus', (e) => {
-                const tooltip = e.currentTarget.getAttribute('data-tooltip');
-                if (tooltip) {
-                    currentTooltipText = tooltip;
-                    tooltipVisible = true;
-                    currentTooltipTarget = e.currentTarget;
-                    positionTooltipAboveElement(e.currentTarget);
-                }
-            });
-
-            // Hide on mouse leave or blur
-            day.addEventListener('mouseleave', () => {
-                // only hide if this day isn't pinned by click
-                if (pinnedTooltipTarget !== day) {
-                    tooltipVisible = false;
-                    currentTooltipText = '';
-                    currentTooltipTarget = null;
-                }
-            });
-
-            day.addEventListener('blur', () => {
-                if (pinnedTooltipTarget !== day) {
-                    tooltipVisible = false;
-                    currentTooltipText = '';
-                    currentTooltipTarget = null;
-                }
-            });
-
-            // Click to pin/unpin the tooltip for this day
-            day.addEventListener('click', (e) => {
-                const tooltip = e.currentTarget.getAttribute('data-tooltip');
-                if (!tooltip) return;
-
-                if (pinnedTooltipTarget === e.currentTarget) {
-                    // Unpin
-                    pinnedTooltipTarget = null;
-                    tooltipVisible = false;
-                    currentTooltipText = '';
-                    currentTooltipTarget = null;
-                } else {
-                    // Pin this element
-                    pinnedTooltipTarget = e.currentTarget;
-                    currentTooltipText = tooltip;
-                    tooltipVisible = true;
-                    currentTooltipTarget = e.currentTarget;
-                    positionTooltipAboveElement(e.currentTarget);
-                }
-            });
+        tick().then(() => {
+        positionTooltipAboveElement(target);
         });
     }
-    
-    function positionTooltipAboveElement(targetEl) {
-        const tooltipElement = document.querySelector('.calendar-tooltip');
-        const section = document.querySelector('#Keydates');
 
-        if (!tooltipElement || !section || !targetEl) return;
+    function maybeHideTooltip(target) {
+        if (pinnedTooltipTarget === target) return;
 
-        const rect = targetEl.getBoundingClientRect();
+        tooltipVisible = false;
+        currentTooltipText = '';
+        currentTooltipTarget = null;
+    }
 
-        // Center X of the target element (viewport coords)
-        const centerX = rect.left + rect.width / 2;
-        // Use the element's top (viewport coords); CSS transform moves tooltip upward
-        const topY = rect.top;
+    function togglePinnedTooltip(target, tooltip) {
+        if (!tooltip) return;
 
-        tooltipLeft = `${centerX}px`;
-        tooltipTop = `${topY}px`;
-        arrowLeft = '50%';
+        if (pinnedTooltipTarget === target) {
+        pinnedTooltipTarget = null;
+        maybeHideTooltip(target);
+        return;
+        }
 
-        // After tooltip renders, clamp horizontally and adjust arrow
-        setTimeout(() => {
-            if (!tooltipElement) return;
-            const tRect = tooltipElement.getBoundingClientRect();
-            const halfWidth = tRect.width / 2;
-            const padding = 12; // keep tooltip away from edges
+        pinnedTooltipTarget = target;
+        currentTooltipText = tooltip;
+        tooltipVisible = true;
+        currentTooltipTarget = target;
 
-            let finalCenter = centerX;
-            const minCenter = halfWidth + padding;
-            const maxCenter = window.innerWidth - halfWidth - padding;
-            if (finalCenter < minCenter) finalCenter = minCenter;
-            if (finalCenter > maxCenter) finalCenter = maxCenter;
+        tick().then(() => {
+        positionTooltipAboveElement(target);
+        });
+    }
 
-            tooltipLeft = `${finalCenter}px`;
-
-            // Arrow offset percent relative to tooltip width
-            const arrowOffset = centerX - finalCenter;
-            const arrowPct = 50 + ((arrowOffset / tRect.width) * 100);
-            arrowLeft = `${Math.max(15, Math.min(85, arrowPct))}%`;
-        }, 0);
+    function handleDocumentClick(e) {
+        if (!e.target.closest?.('.calendar-day.highlighted')) {
+        pinnedTooltipTarget = null;
+        tooltipVisible = false;
+        currentTooltipText = '';
+        currentTooltipTarget = null;
+        }
     }
 
     function handleScroll() {
         const target = pinnedTooltipTarget || currentTooltipTarget;
         if (tooltipVisible && target) {
-            positionTooltipAboveElement(target);
+        positionTooltipAboveElement(target);
         }
     }
 
     function handleResize() {
         const target = pinnedTooltipTarget || currentTooltipTarget;
         if (tooltipVisible && target) {
-            positionTooltipAboveElement(target);
+        positionTooltipAboveElement(target);
         }
+    }
+
+    function positionTooltipAboveElement(targetEl) {
+        const tooltipElement = document.querySelector('.calendar-tooltip');
+        if (!tooltipElement || !targetEl) return;
+
+        const rect = targetEl.getBoundingClientRect();
+        const centerX = rect.left + rect.width / 2;
+        const topY = rect.top;
+
+        tooltipLeft = `${centerX}px`;
+        tooltipTop = `${topY}px`;
+        arrowLeft = '50%';
+
+        tick().then(() => {
+        const tRect = tooltipElement.getBoundingClientRect();
+        const halfWidth = tRect.width / 2;
+        const padding = 12;
+
+        let finalCenter = centerX;
+        const minCenter = halfWidth + padding;
+        const maxCenter = window.innerWidth - halfWidth - padding;
+
+        if (finalCenter < minCenter) finalCenter = minCenter;
+        if (finalCenter > maxCenter) finalCenter = maxCenter;
+
+        tooltipLeft = `${finalCenter}px`;
+
+        const arrowOffset = centerX - finalCenter;
+        const arrowPct = 50 + (arrowOffset / tRect.width) * 100;
+        arrowLeft = `${Math.max(15, Math.min(85, arrowPct))}%`;
+        });
     }
 
     // Script for animated banner
@@ -1253,7 +1222,6 @@
         });
     });
 
-
     // Script for animated banner
 
     onMount(() => {
@@ -1283,21 +1251,28 @@
     });
 
     //Ads
-onMount(async () => {
-  await tick();
-  await new Promise(requestAnimationFrame);
+    onMount(async () => {
+    await tick();
+    await new Promise(requestAnimationFrame);
 
-  const zones = document.querySelectorAll('broadstreet-zone');
-  console.log('Broadstreet zones found:', [...zones].map(z => ({
-    id: z.id,
-    zoneId: z.getAttribute('zone-id')
-  })));
+    const zones = document.querySelectorAll('broadstreet-zone');
+    console.log('Broadstreet zones found:', [...zones].map(z => ({
+        id: z.id,
+        zoneId: z.getAttribute('zone-id')
+    })));
 
-  if (!window.__broadstreetWatched && window.broadstreet?.watch) {
-    window.__broadstreetWatched = true;
-    window.broadstreet.watch({ networkId: 9723 });
-  }
-});
+    if (!window.__broadstreetWatched && window.broadstreet?.watch) {
+        window.__broadstreetWatched = true;
+        window.broadstreet.watch({ networkId: 9723 });
+    }
+    });
+
+  $: calendars = [
+    { title: 'July 2026', days: julyDays },
+    { title: 'August 2026', days: augustDays },
+    { title: 'October 2026', days: octoberDays },
+    { title: 'November 2026', days: novemberDays }
+  ];
 </script>
 
 <div id="content" class="site-content" bind:this={contentElement}>
@@ -1580,108 +1555,51 @@ onMount(async () => {
                         </div>
                         
                         <div class="calendars-container">
-                            <!-- July 2026 Calendar -->
+                        {#each calendars as calendar}
                             <div class="calendar">
-                                <div class="calendar-header">
-                                    <h4>July 2026</h4>
-                                </div>
-                                <div class="calendar-grid">
-                                    <div class="calendar-day-header">Sun</div>
-                                    <div class="calendar-day-header">Mon</div>
-                                    <div class="calendar-day-header">Tue</div>
-                                    <div class="calendar-day-header">Wed</div>
-                                    <div class="calendar-day-header">Thu</div>
-                                    <div class="calendar-day-header">Fri</div>
-                                    <div class="calendar-day-header">Sat</div>
-                                    
-                                    {#each julyDays as dayInfo}
-                                        <div class="calendar-day {dayInfo.isEmpty ? 'empty' : ''} {dayInfo.isHighlighted ? 'highlighted' : ''}" 
-                                             data-tooltip="{dayInfo.isHighlighted ? dayInfo.tooltip : ''}">
-                                            {#if !dayInfo.isEmpty}
-                                                {dayInfo.day}
-                                            {/if}
-                                        </div>
-                                    {/each}
-                                </div>
+                            <div class="calendar-header">
+                                <h4>{calendar.title}</h4>
                             </div>
 
-                        <!-- August 2026 Calendar -->
-                            <div class="calendar">
-                                <div class="calendar-header">
-                                    <h4>August 2026</h4>
-                                </div>
-                                <div class="calendar-grid">
-                                    <div class="calendar-day-header">Sun</div>
-                                    <div class="calendar-day-header">Mon</div>
-                                    <div class="calendar-day-header">Tue</div>
-                                    <div class="calendar-day-header">Wed</div>
-                                    <div class="calendar-day-header">Thu</div>
-                                    <div class="calendar-day-header">Fri</div>
-                                    <div class="calendar-day-header">Sat</div>
-                                    
-                                    {#each augustDays as dayInfo}
-                                        <div class="calendar-day {dayInfo.isEmpty ? 'empty' : ''} {dayInfo.isHighlighted ? 'highlighted' : ''}" 
-                                             data-tooltip="{dayInfo.isHighlighted ? dayInfo.tooltip : ''}">
-                                            {#if !dayInfo.isEmpty}
-                                                {dayInfo.day}
-                                            {/if}
-                                        </div>
-                                    {/each}
-                                </div>
-                            </div>
+                            <div class="calendar-grid">
+                                {#each ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'] as weekday}
+                                <div class="calendar-day-header">{weekday}</div>
+                                {/each}
 
-                            <!-- October 2026 Calendar -->
-                            <div class="calendar">
-                                <div class="calendar-header">
-                                    <h4>October 2026</h4>
+                                {#each calendar.days as dayInfo}
+                                <div
+                                    class="calendar-day"
+                                    class:empty={dayInfo.isEmpty}
+                                    class:highlighted={dayInfo.isHighlighted}
+                                    data-tooltip={dayInfo.tooltip || ''}
+                                    tabindex={dayInfo.isHighlighted ? 0 : undefined}
+                                    role={dayInfo.isHighlighted ? 'button' : undefined}
+                                    on:mouseenter={(e) => showTooltip(e.currentTarget, dayInfo.tooltip)}
+                                    on:focus={(e) => showTooltip(e.currentTarget, dayInfo.tooltip)}
+                                    on:mouseleave={(e) => maybeHideTooltip(e.currentTarget)}
+                                    on:blur={(e) => maybeHideTooltip(e.currentTarget)}
+                                    on:click|stopPropagation={(e) => togglePinnedTooltip(e.currentTarget, dayInfo.tooltip)}
+                                >
+                                    {#if !dayInfo.isEmpty}
+                                    {dayInfo.day}
+                                    {/if}
                                 </div>
-                                <div class="calendar-grid">
-                                    <div class="calendar-day-header">Sun</div>
-                                    <div class="calendar-day-header">Mon</div>
-                                    <div class="calendar-day-header">Tue</div>
-                                    <div class="calendar-day-header">Wed</div>
-                                    <div class="calendar-day-header">Thu</div>
-                                    <div class="calendar-day-header">Fri</div>
-                                    <div class="calendar-day-header">Sat</div>
-                                    
-                                    {#each octoberDays as dayInfo}
-                                        <div class="calendar-day {dayInfo.isEmpty ? 'empty' : ''} {dayInfo.isHighlighted ? 'highlighted' : ''}" 
-                                             data-tooltip="{dayInfo.isHighlighted ? dayInfo.tooltip : ''}"
-                                             tabindex={dayInfo.isEmpty ? undefined : 0}>
-                                            {#if !dayInfo.isEmpty}
-                                                {dayInfo.day}
-                                            {/if}
-                                        </div>
-                                    {/each}
-                                </div>
+                                {/each}
                             </div>
-
-                            <!-- November 2026 Calendar -->
-                            <div class="calendar">
-                                <div class="calendar-header">
-                                    <h4>November 2026</h4>
-                                </div>
-                                <div class="calendar-grid">
-                                    <div class="calendar-day-header">Sun</div>
-                                    <div class="calendar-day-header">Mon</div>
-                                    <div class="calendar-day-header">Tue</div>
-                                    <div class="calendar-day-header">Wed</div>
-                                    <div class="calendar-day-header">Thu</div>
-                                    <div class="calendar-day-header">Fri</div>
-                                    <div class="calendar-day-header">Sat</div>
-                                    
-                                    {#each novemberDays as dayInfo}
-                                        <div class="calendar-day {dayInfo.isEmpty ? 'empty' : ''} {dayInfo.isHighlighted ? 'highlighted' : ''}" 
-                                             data-tooltip="{dayInfo.isHighlighted ? dayInfo.tooltip : ''}"
-                                             tabindex={dayInfo.isEmpty ? undefined : 0}>
-                                            {#if !dayInfo.isEmpty}
-                                                {dayInfo.day}
-                                            {/if}
-                                        </div>
-                                    {/each}
-                                </div>
                             </div>
+                        {/each}
                         </div>
+
+                        {#if tooltipVisible}
+                        <div
+                            class="calendar-tooltip"
+                            style:left={tooltipLeft}
+                            style:top={tooltipTop}
+                        >
+                            {currentTooltipText}
+                            <div class="calendar-tooltip-arrow" style:left={arrowLeft}></div>
+                        </div>
+                        {/if}
                     </section>
 
                     <section id="voting-info">

@@ -4,8 +4,12 @@
 
 <h1>Release Update</h1>
 
-<h4>Update Jul.6, 2026</h4>
+<h4>Update Jul. 6, 2026</h4>
 
 - Updated Geocoding service to Mapbox v6.
 - Fixed bug for not able to jump back to homepage in iframe.
 - Candidates now sorted by last name.
+
+<h4>Update Jul. 9, 2026</h4>
+
+- Fixed bug with calendar key dayes tooltip display.
