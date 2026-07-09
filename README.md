@@ -13,3 +13,4 @@
 <h4>Update Jul. 9, 2026</h4>
 
 - Fixed bug with calendar key dayes tooltip display.
+- New visual hierarchy for previous search results if available.

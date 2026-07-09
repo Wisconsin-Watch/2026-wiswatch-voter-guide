@@ -243,10 +243,10 @@
     .previous-results-container {
         background-color: #EAF1F7;
         padding: 1rem;
-        margin-top: 1.5rem;
+        margin-top: -1rem;
         text-align: center;
-        border-bottom-left-radius: 50px;
-        border-bottom-right-radius: 50px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
         margin-left: -1rem;
         margin-right: -1rem;
     }
@@ -1362,6 +1362,41 @@
                     </section>
 		
                     <section id="address-map">
+
+                        {#if savedRaces && (savedRaces.assembly || savedRaces.senate || savedRaces.congress)}
+                            <div class="previous-results-container">
+                                <h3 style="margin-bottom: 0; margin-top: 0;">Your previous search results</h3>
+                                {#if savedRaces.address}
+                                    <small class="address-result"><strong>Address:</strong> {savedRaces.address}</small>
+                                {/if}
+                                <div class="previous-results-buttons">
+                                    {#if savedRaces.assembly}
+                                        <button
+                                            class="previous-result-button" on:click={() => window.location.href = `${base}/race/assembly/${savedRaces.assembly}`}
+                                        >
+                                            Assembly
+                                        </button>
+                                    {/if}
+                                    {#if savedRaces.senate}
+                                        <button
+                                            class="previous-result-button"
+                                            on:click={() => window.location.href = `${base}/race/senate/${savedRaces.senate}`}
+                                        >
+                                            Senate
+                                        </button>
+                                    {/if}
+                                    {#if savedRaces.congress}
+                                        <button
+                                            class="previous-result-button"
+                                            on:click={() => window.location.href = `${base}/race/congress/${savedRaces.congress}`}
+                                        >
+                                            U.S. Congress
+                                        </button>
+                                    {/if}
+                                </div>
+                            </div> 
+                        {/if}
+                        
                         <h2 class="wp-block-heading has-text-align-center"><strong>Find your districts</strong></h2>
                         <p class="has-text-align-center">Enter your Wisconsin address to find your <strong>Assembly</strong>, <strong>Senate</strong> and <strong>congressional</strong> districts.</p>
                         <div class="address-search-container">
@@ -1479,39 +1514,6 @@
                             {/if}
                         </div>
                         
-                        {#if savedRaces && (savedRaces.assembly || savedRaces.senate || savedRaces.congress)}
-                            <div class="previous-results-container">
-                                <h3 style="margin-bottom: 0; margin-top: 0;">Your previous search results</h3>
-                                {#if savedRaces.address}
-                                    <small class="address-result"><strong>Address:</strong> {savedRaces.address}</small>
-                                {/if}
-                                <div class="previous-results-buttons">
-                                    {#if savedRaces.assembly}
-                                        <button
-                                            class="previous-result-button" on:click={() => window.location.href = `${base}/race/assembly/${savedRaces.assembly}`}
-                                        >
-                                            Assembly
-                                        </button>
-                                    {/if}
-                                    {#if savedRaces.senate}
-                                        <button
-                                            class="previous-result-button"
-                                            on:click={() => window.location.href = `${base}/race/senate/${savedRaces.senate}`}
-                                        >
-                                            Senate
-                                        </button>
-                                    {/if}
-                                    {#if savedRaces.congress}
-                                        <button
-                                            class="previous-result-button"
-                                            on:click={() => window.location.href = `${base}/race/congress/${savedRaces.congress}`}
-                                        >
-                                            U.S. Congress
-                                        </button>
-                                    {/if}
-                                </div>
-                            </div> 
-                        {/if}
                     </section>
 
                     <section id="other-races">

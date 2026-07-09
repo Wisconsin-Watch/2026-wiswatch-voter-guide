@@ -328,8 +328,8 @@
                 </div>
             {:else if race && config}
                 <div class="race-detail">
-                    <button class="back-button" on:click={() => goto(`${base}/`)}>
-                        <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" /> Home
+                    <button class="back-button" on:click={() => goto(`${base}/#address-map`)}>
+                        <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />Home
                     </button>
                     
                     <div class="race-header">
