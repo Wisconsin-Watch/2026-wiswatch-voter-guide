@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T17:14:25.349Z",
+  "lastUpdated": "2026-07-10T21:09:29.762Z",
   "stories": [
     {
       "id": 0,
@@ -200,6 +200,38 @@
       "headline": "Grace Abitz, Shawna Riley compete in Democratic primary in District 56",
       "byline": "Duke Behnke / The Post-Crescent",
       "published_date": "2026-07-08T10:02:27.000Z"
+    },
+    {
+      "id": 25,
+      "url": "https://apnews.com/article/wisconsin-governor-hong-socialist-democrats-barnes-3387bbcf863f2e9c9781477c3e7a4d46",
+      "race_id": "go-d",
+      "headline": "A democratic socialist in Wisconsin tests how far left voters want to go in a battleground state",
+      "byline": "Scott Bauer/ AP News",
+      "published_date": "2026-07-09T15:30:26.000Z"
+    },
+    {
+      "id": 26,
+      "url": "https://www.milwaukeemag.com/candidates-wisconsin-governor-2026/?oly_enc_id=8464I6074134I5C",
+      "race_id": "go-d",
+      "headline": "Here Are All the Candidates Running for Wisconsin Governor in 2026",
+      "byline": "Larry Sandler / Milwaukee Magazine",
+      "published_date": "2026-07-08T23:25:00.000Z"
+    },
+    {
+      "id": 27,
+      "url": "https://www.milwaukeemag.com/candidates-wisconsin-governor-2026/?oly_enc_id=8464I6074134I5C",
+      "race_id": "go-r",
+      "headline": "Here Are All the Candidates Running for Wisconsin Governor in 2026",
+      "byline": "Larry Sandler / Milwaukee Magazine",
+      "published_date": "2026-07-08T23:25:00.000Z"
+    },
+    {
+      "id": 28,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/07/10/meet-the-candidates-running-for-wisconsin-secretary-of-state/90410384007/",
+      "race_id": "sc-1",
+      "headline": "Meet the candidates running for Wisconsin secretary of state",
+      "byline": "Clara Strecker / Journal Sentinel",
+      "published_date": "2026-07-10T10:01:09.000Z"
     }
   ]
 }
