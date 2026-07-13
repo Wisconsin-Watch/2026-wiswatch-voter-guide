@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T21:09:29.762Z",
+  "lastUpdated": "2026-07-13T23:41:46.538Z",
   "stories": [
     {
       "id": 0,
@@ -232,6 +232,14 @@
       "headline": "Meet the candidates running for Wisconsin secretary of state",
       "byline": "Clara Strecker / Journal Sentinel",
       "published_date": "2026-07-10T10:01:09.000Z"
+    },
+    {
+      "id": 29,
+      "url": "https://apnews.com/article/wisconsin-governor-rodriguez-e944dfdf6bd4a63b3e126926dcfd86d6",
+      "race_id": "go-d",
+      "headline": "Wisconsin governor candidate says her campaign has far less money than she thought",
+      "byline": "Scott Bauer / AP News",
+      "published_date": "2026-07-14T02:15:59.000Z"
     }
   ]
 }
