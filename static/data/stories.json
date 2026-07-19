@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-18T13:36:30.740Z",
+  "lastUpdated": "2026-07-19T13:38:55.749Z",
   "stories": [
+    {
+      "id": "https://wisconsinwatch.org/?p=1318937",
+      "title": "David Crowley returns to governor’s race in last-minute effort to win Democratic primary",
+      "url": "https://wisconsinwatch.org/2026/07/crowley-returns-to-governors-race-in-last-minute-effort-to-win-democratic-primary/",
+      "creator": "Shawn Johnson / WPR and Rich Kremer / WPR",
+      "pubDate": "Sat, 18 Jul 2026 20:28:39 +0000",
+      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?fit=1024%2C683&amp;quality=100&amp;ssl=1",
+      "imageAlt": "A man speaks at a podium",
+      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?w=2560&amp;quality=100&amp;ssl=1 2560w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=782%2C522&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=768%2C512&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=1536%2C1024&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=2048%2C1366&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=1200%2C800&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=1024%2C683&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=2000%2C1334&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=780%2C520&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=400%2C267&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?resize=706%2C471&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse260614_WISDEMCONV17-scaled.jpg?fit=1024%2C683&amp;quality=100&amp;ssl=1&amp;w=370 370w",
+      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
+      "imageWidth": "1024",
+      "imageHeight": "683"
+    },
     {
       "id": "https://wisconsinwatch.org/?p=1318913",
       "title": "Wisconsin Lt. Gov. Sara Rodriguez quits Democratic governor&#8217;s race over campaign finance problems",
@@ -65,19 +78,6 @@
       "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
       "imageWidth": "1024",
       "imageHeight": "576"
-    },
-    {
-      "id": "https://wisconsinwatch.org/?p=1318492",
-      "title": "How inconsistent standards led to dozens of disenfranchised voters in Mequon",
-      "url": "https://wisconsinwatch.org/2026/07/wisconsin-election-mequon-disenfranchised-voters-absentee-ballot-envelope-witness-addresses/",
-      "creator": "Alexander Shur / Votebeat",
-      "pubDate": "Mon, 06 Jul 2026 10:00:00 +0000",
-      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?fit=1024%2C682&amp;quality=100&amp;ssl=1",
-      "imageAlt": "A person holds five absentee ballot forms near blue bins while others stand nearby.",
-      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?w=2500&amp;quality=100&amp;ssl=1 2500w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=782%2C521&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=768%2C512&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=1536%2C1024&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=2048%2C1365&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=1200%2C800&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=1024%2C682&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=1568%2C1045&amp;quality=100&amp;ssl=1 1568w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=2000%2C1333&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=400%2C267&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?resize=706%2C470&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg?fit=1024%2C682&amp;quality=100&amp;ssl=1&amp;w=370 370w",
-      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
-      "imageWidth": "1024",
-      "imageHeight": "682"
     }
   ]
 }
