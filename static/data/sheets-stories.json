@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T23:41:46.538Z",
+  "lastUpdated": "2026-07-21T15:52:25.444Z",
   "stories": [
     {
       "id": 0,
@@ -240,6 +240,46 @@
       "headline": "Wisconsin governor candidate says her campaign has far less money than she thought",
       "byline": "Scott Bauer / AP News",
       "published_date": "2026-07-14T02:15:59.000Z"
+    },
+    {
+      "id": 30,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/07/15/oak-creek-mayor-faces-former-priest-in-assembly-democratic-primary/90911106007/",
+      "race_id": "as-21",
+      "headline": "Former priest faces current mayor in Assembly Democratic primary",
+      "byline": "Erik S. Hanley / Journal Sentinel",
+      "published_date": "2026-07-15T10:01:05.000Z"
+    },
+    {
+      "id": 31,
+      "url": "https://www.leadertelegram.com/news/daily-updates/berge-cooke-square-off-in-3rd-congressional-district-forum/article_bfa3f676-e560-4ea8-a1e8-313f3a0b13e6.html",
+      "race_id": "co-3",
+      "headline": "Berge, Cooke square off in 3rd Congressional District forum",
+      "byline": "Chris Vetter Leader-Telegram staff / Leader-Telegram",
+      "published_date": "2026-07-15T01:30:00.000Z"
+    },
+    {
+      "id": 32,
+      "url": "https://www.wpr.org/rural-voices/northwoods-democrats-7th-congressional-district-murray-clark-armstrong",
+      "race_id": "co-7",
+      "headline": "Northwoods Democrats promise to stand up to Trump in primary debate",
+      "byline": "Avery Martinez / WPR",
+      "published_date": "2026-07-15T01:26:06.000Z"
+    },
+    {
+      "id": 33,
+      "url": "https://www.wpr.org/news/kelda-roys-democratic-primary-campaign-governor-2026",
+      "race_id": "go-d",
+      "headline": "Kelda Roys leans on experience, attention to detail in second bid for governor",
+      "byline": "Sarah Lehr / WPR",
+      "published_date": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": 34,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/07/21/wisconsin-assembly-district-9-election-prado-reza-voter-guide/90906717007/",
+      "race_id": "as-9",
+      "headline": "Meet the Democratic candidates in the 2026 Assembly District 9 race",
+      "byline": "Adrienne Davis / Journal Sentinel",
+      "published_date": "2026-07-21T10:03:36.000Z"
     }
   ]
 }
