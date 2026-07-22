@@ -7,6 +7,7 @@
 <h4>Update Jul. 22, 2026</h4>
 
 - Added Wiseye interviews to candidate pages.
+- Moved dropped out candidates to the back.
 
 <h4>Update Jul. 9, 2026</h4>
 

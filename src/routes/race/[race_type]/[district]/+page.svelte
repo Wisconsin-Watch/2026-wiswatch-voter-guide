@@ -208,12 +208,23 @@
                 }
             }
 
-            // Sort candidates alphabetically by last name
+            // Sort candidates with active candidates first, dropped-out last,
+            // then alphabetically by last name within each group.
             candidates.sort((a, b) => {
                 const getLastName = (name) => {
                     const parts = name.trim().split(/\s+/);
                     return parts[parts.length - 1].toLowerCase();
                 };
+
+                const isDroppedOut = (candidate) => (candidate.status || '').toLowerCase() === 'dropped-out';
+
+                const dropA = isDroppedOut(a);
+                const dropB = isDroppedOut(b);
+
+                // Non-dropped candidates come first.
+                if (dropA !== dropB) {
+                    return dropA ? 1 : -1;
+                }
 
                 const lastCompare = getLastName(a.name).localeCompare(getLastName(b.name));
 
