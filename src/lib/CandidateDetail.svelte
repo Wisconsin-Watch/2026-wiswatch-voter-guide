@@ -182,7 +182,7 @@ onMount(async () => {
   {/if}
 
   {#if candidate.interview_video}
-    <div class="info-section">
+    <div class="info-section" id="candidate-interview">
       <h2>Candidate Interview</h2>
         {@html candidate.interview_video}
     </div>

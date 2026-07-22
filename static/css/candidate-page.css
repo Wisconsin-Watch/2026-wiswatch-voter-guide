@@ -95,6 +95,12 @@
     font-family: 'Heebo', sans-serif;
 }
 
+#candidate-interview iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 5px;
+}
+
 @media (max-width: 700px) {
     .candidate-basic-info {
         padding-left: 1rem;
