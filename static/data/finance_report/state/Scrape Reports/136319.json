@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 72,
+            "total": 10220,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 22,
+            "total": 4861.639999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 6949825,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Plumber & Steamfitter Lcl 400"
+          },
+          {
+            "id": 2824198,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Gary Underwood"
+          },
+          {
+            "id": 6469717,
+            "count": 2,
+            "total": 550,
+            "nameLabel": "Donald Zimmer"
+          },
+          {
+            "id": 10760390,
+            "count": 1,
+            "total": 500,
+            "nameLabel": " SCI STATEWIDE CONDUIT FUND "
+          },
+          {
+            "id": 30955,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Binsfeld for Senate"
+          },
+          {
+            "id": 9144541,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Scottie Dayton"
+          },
+          {
+            "id": 16205,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Friends of Rachael Cabral Guevara"
+          },
+          {
+            "id": 664426,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "WIA PAC"
+          }
+        ]
+      }
+    }
+  }
+}

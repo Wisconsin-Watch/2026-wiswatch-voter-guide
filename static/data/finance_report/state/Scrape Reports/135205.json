@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 190,
+            "total": 32754.58,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 28598.190000000002,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 58,
+            "total": 12801.739999999996,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 234,
+            "count": 1,
+            "total": 28505.99,
+            "nameLabel": "Assembly Democratic Camp Comm"
+          },
+          {
+            "id": 12308912,
+            "count": 2,
+            "total": 1500,
+            "nameLabel": "Sara Paretsky"
+          },
+          {
+            "id": 12018434,
+            "count": 2,
+            "total": 1061,
+            "nameLabel": "Joe Sheehan"
+          },
+          {
+            "id": 34817,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Pipe Trades Assn PAC"
+          },
+          {
+            "id": 653823,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC Region 3 PAC"
+          },
+          {
+            "id": 664167,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy WI Gov Act Cte"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 17181,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "TIP FOR WI"
+          },
+          {
+            "id": 12168418,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Lynde B. Uihlein"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 63,
+            "total": 11765,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 518.12,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 29,
+            "total": 2039.3000000000004,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 900,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 10728078,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Operating Engineers Local 139 PAC"
+          },
+          {
+            "id": 1147732,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Pipe Trades Association PAC Fund"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 8410850,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee"
+          },
+          {
+            "id": 12146740,
+            "count": 3,
+            "total": 518.12,
+            "nameLabel": "Margaret Arney"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 17203,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends of La Tonya Johnson"
+          },
+          {
+            "id": 1968756,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Volunteers For Agriculture"
+          },
+          {
+            "id": 8110312,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 9663424,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Carpenters Political Action Committee"
+          }
+        ]
+      }
+    }
+  }
+}

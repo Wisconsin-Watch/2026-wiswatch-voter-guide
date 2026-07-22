@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 303,
+            "total": 24280,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 5,
+            "total": 7444.379999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12050939,
+            "count": 1,
+            "total": 3500,
+            "nameLabel": "Democratic Party of Jefferson County"
+          },
+          {
+            "id": 10924660,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kathryn Q Flores"
+          },
+          {
+            "id": 921181,
+            "count": 2,
+            "total": 725,
+            "nameLabel": "Jane Miscavage"
+          },
+          {
+            "id": 12251268,
+            "count": 1,
+            "total": 600,
+            "nameLabel": "Jan Hardy"
+          },
+          {
+            "id": 1305821,
+            "count": 6,
+            "total": 600,
+            "nameLabel": "Brett Swanson"
+          },
+          {
+            "id": 1411262,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Stephen Zeisler"
+          },
+          {
+            "id": 1135417,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Margaret Gintoft"
+          },
+          {
+            "id": 6588267,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Ann D. Moran Lecher"
+          },
+          {
+            "id": 919533,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Thomas Rohe"
+          },
+          {
+            "id": 1287887,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Monty Johnson"
+          }
+        ]
+      }
+    }
+  }
+}

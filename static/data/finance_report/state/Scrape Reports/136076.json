@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 14,
+            "total": 3250,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 7903116,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Paul Johnson"
+          },
+          {
+            "id": 6812202,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Stephen and Chris Smith"
+          },
+          {
+            "id": 1349069,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Peter Hubin"
+          },
+          {
+            "id": 11933138,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "KIMBERLY STRUM"
+          },
+          {
+            "id": 9842323,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Joan Cervenka"
+          },
+          {
+            "id": 5195401,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Ellen La Fans"
+          },
+          {
+            "id": 12158143,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Ellen Holmes Lafans"
+          },
+          {
+            "id": 12341527,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Ann Matza"
+          },
+          {
+            "id": 9906827,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Michael B Shouldice"
+          },
+          {
+            "id": 11715876,
+            "count": 2,
+            "total": 50,
+            "nameLabel": "Mark and Pamela Dryer"
+          }
+        ]
+      }
+    }
+  }
+}

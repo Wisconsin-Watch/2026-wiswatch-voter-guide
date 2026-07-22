@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 97,
+            "total": 8642.359999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 4,
+            "total": 1087.5,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 94,
+            "total": 2118.770000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1145087,
+            "count": 5,
+            "total": 1137.5,
+            "nameLabel": "Karen Flood"
+          },
+          {
+            "id": 653823,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC Region 3 PAC"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 12229678,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Stanley Zanarotti"
+          },
+          {
+            "id": 843012,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Andrea Gage"
+          },
+          {
+            "id": 1146187,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Local 158 PAC"
+          },
+          {
+            "id": 12229677,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Ed and Barbara Dorff"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 1195196,
+            "count": 6,
+            "total": 225,
+            "nameLabel": "Katherine Klass"
+          },
+          {
+            "id": 2136103,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Diane Zenz"
+          }
+        ]
+      }
+    }
+  }
+}

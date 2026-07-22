@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 165,
+            "total": 12642.620000000003,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 6,
+            "total": 434.75,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 47,
+            "total": 4530.759999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 8835231,
+            "count": 1,
+            "total": 6000,
+            "nameLabel": "Virginia Ortlieb"
+          },
+          {
+            "id": 12338325,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Robert Wood"
+          },
+          {
+            "id": 12023500,
+            "count": 5,
+            "total": 330.75,
+            "nameLabel": "BRAYDEN MYER"
+          },
+          {
+            "id": 2777840,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Richard W. Graber"
+          },
+          {
+            "id": 2825838,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Donald Zimmer"
+          },
+          {
+            "id": 12037902,
+            "count": 1,
+            "total": 260.25,
+            "nameLabel": "LAURA ACKMANN"
+          },
+          {
+            "id": 11497076,
+            "count": 1,
+            "total": 260.25,
+            "nameLabel": "Dean Ackmann"
+          },
+          {
+            "id": 5297708,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Don Wolding"
+          },
+          {
+            "id": 1989657,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Marquette Co Republican Party"
+          },
+          {
+            "id": 12338445,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Catherine Wolding"
+          }
+        ]
+      }
+    }
+  }
+}

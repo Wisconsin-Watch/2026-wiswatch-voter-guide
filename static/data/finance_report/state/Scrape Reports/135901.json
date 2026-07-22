@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 14,
+            "total": 3360,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 11,
+            "total": 2996.4799999999996,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 651739,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "IBEW Local 494 PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 12241084,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Richard Phillips"
+          },
+          {
+            "id": 11388477,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Lauren Baker"
+          },
+          {
+            "id": 12231490,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "ATU COPE Voluntary Account"
+          },
+          {
+            "id": 10350763,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Forbes Mc Intosh"
+          },
+          {
+            "id": 12317126,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Gary Goyke"
+          },
+          {
+            "id": 12022340,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Friends of DiAndre Jackson"
+          },
+          {
+            "id": 1188974,
+            "count": 1,
+            "total": 75,
+            "nameLabel": "Andrew Hysell"
+          }
+        ]
+      }
+    }
+  }
+}

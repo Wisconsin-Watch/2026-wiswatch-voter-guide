@@ -1,0 +1,55 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 2,
+            "total": 800,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": []
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12362764,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Republican Assembly Campaign Committee"
+          },
+          {
+            "id": 664207,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Knodl 4 Wisconsin"
+          },
+          {
+            "id": 7601866,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Bonnie Lee"
+          }
+        ]
+      }
+    }
+  }
+}

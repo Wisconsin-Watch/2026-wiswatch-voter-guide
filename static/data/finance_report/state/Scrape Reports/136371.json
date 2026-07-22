@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 19,
+            "total": 36385,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 3876.98,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 3,
+            "total": 930,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9968039,
+            "count": 1,
+            "total": 20000,
+            "nameLabel": "Diane M. Hendricks"
+          },
+          {
+            "id": 16896,
+            "count": 1,
+            "total": 10000,
+            "nameLabel": "Republican Party of Wisconsin"
+          },
+          {
+            "id": 12058590,
+            "count": 1,
+            "total": 2500,
+            "nameLabel": "Kathryn Burke"
+          },
+          {
+            "id": 9893649,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Matt Neumann"
+          },
+          {
+            "id": 15594,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends & Neighbors of Robin Vos"
+          },
+          {
+            "id": 17338,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends of Van Wanggaard"
+          },
+          {
+            "id": 2796509,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Jack C. Yuds"
+          },
+          {
+            "id": 7879015,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Chris Goebel"
+          },
+          {
+            "id": 1694811,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Joan Ballweg"
+          },
+          {
+            "id": 662968,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jennifer Holter"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 39,
+            "total": 8027.5,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 62.5,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 12,
+            "total": 1710.0600000000002,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 12147226,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND"
+          },
+          {
+            "id": 12274159,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Association of SC WI - PAC"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 2810673,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Jerome Jerome"
+          },
+          {
+            "id": 7999036,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Terry Miller"
+          },
+          {
+            "id": 6953139,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Robert Taber"
+          },
+          {
+            "id": 5168602,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Gary Johnson"
+          }
+        ]
+      }
+    }
+  }
+}

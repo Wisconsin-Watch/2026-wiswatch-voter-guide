@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 61,
+            "total": 25365,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 9032.46,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 16,
+            "total": 3850,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 10,
+            "total": 22315.660000000003,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16896,
+            "count": 1,
+            "total": 9032.46,
+            "nameLabel": "Republican Party of Wisconsin"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 16281,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kurtz for Assembly"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 664067,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Assn of SC WI PAC"
+          },
+          {
+            "id": 1936792,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Todd Koss"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 66,
+            "total": 15860,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 700,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 1,
+            "total": 119.22,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 2,
+            "total": 11069.05,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 8,
+            "total": 4719.649999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 102,
+            "count": 6,
+            "total": 730,
+            "nameLabel": "Donation to Charitable Organization"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12238749,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Institute of CPAs PAC"
+          },
+          {
+            "id": 12238751,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Plumbers &Steamfitters Local 400 COPE fund"
+          },
+          {
+            "id": 34817,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Pipe Trades Assn PAC"
+          },
+          {
+            "id": 7819648,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy PCA "
+          },
+          {
+            "id": 651869,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest Co Potawatomi Comm PAC"
+          },
+          {
+            "id": 664274,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Milwaukee Police Association Political Action Committee"
+          },
+          {
+            "id": 665806,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "TDS Telecommunication Corporation PAC"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 651778,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEC Energy Group PAC (WEC PAC)"
+          },
+          {
+            "id": 12238770,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wei-Chuan Wang"
+          }
+        ]
+      }
+    }
+  }
+}

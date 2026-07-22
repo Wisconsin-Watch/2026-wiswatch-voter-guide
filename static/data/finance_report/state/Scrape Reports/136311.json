@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1,
+            "count": 26,
+            "total": 16467.5,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 9,
+            "count": 54,
+            "total": 12845,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 2,
+            "total": 17572.1,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 35,
+            "total": 9150.52,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11971916,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Stephanie Spaeth"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 651856,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Beer Distributors PAC"
+          },
+          {
+            "id": 11965932,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sue Decker"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 664067,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Assn of SC WI PAC"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 657672,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rob G. Rybarczyk"
+          },
+          {
+            "id": 663983,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Housing Alliance Political Action Committee"
+          },
+          {
+            "id": 11972671,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Travis L. Ploman"
+          }
+        ]
+      }
+    }
+  }
+}

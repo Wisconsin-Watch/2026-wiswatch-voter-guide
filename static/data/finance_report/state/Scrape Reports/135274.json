@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 282,
+            "total": 30360.180000000004,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 9,
+            "total": 9432.599999999999,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 52,
+            "total": 21071.399999999998,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11954495,
+            "count": 2,
+            "total": 2001,
+            "nameLabel": "Corrine Charity Hendrickson"
+          },
+          {
+            "id": 12290104,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Tony Cerniglia"
+          },
+          {
+            "id": 12290107,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Pat McConnell"
+          },
+          {
+            "id": 12290108,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Thomas Heiber-Cobb"
+          },
+          {
+            "id": 12290106,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "James Young"
+          },
+          {
+            "id": 12241026,
+            "count": 2,
+            "total": 1125,
+            "nameLabel": "Steve Demler"
+          },
+          {
+            "id": 12241032,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Phil Scott"
+          },
+          {
+            "id": 12240953,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joseph Schutte"
+          },
+          {
+            "id": 12241022,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Mary Bowden"
+          },
+          {
+            "id": 12240931,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sarah O'Neill"
+          }
+        ]
+      }
+    }
+  }
+}

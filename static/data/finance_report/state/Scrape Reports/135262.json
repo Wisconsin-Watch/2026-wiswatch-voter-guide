@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12,
+            "count": 5,
+            "total": 47500,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 9,
+            "count": 49,
+            "total": 18220,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 33,
+            "total": 36509.53,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12187975,
+            "count": 8,
+            "total": 60100,
+            "nameLabel": "Kevin Krentz"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 2742886,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Donald Nelson"
+          },
+          {
+            "id": 12251141,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Doug Richesin"
+          },
+          {
+            "id": 2862140,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Lynn Leahy"
+          },
+          {
+            "id": 8301045,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Steve Diercks"
+          },
+          {
+            "id": 1702944,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Richard Hansen"
+          },
+          {
+            "id": 2910510,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Tyler Kettlewell"
+          },
+          {
+            "id": 6225998,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Jerry West"
+          },
+          {
+            "id": 2907750,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Robert Fox"
+          }
+        ]
+      }
+    }
+  }
+}

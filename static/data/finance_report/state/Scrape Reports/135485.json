@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 93,
+            "total": 22015,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 15,
+            "total": 2897.2200000000003,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 2000,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 13,
+            "total": 3915.02,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 10044296,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Lacrosse County Republican Party"
+          },
+          {
+            "id": 12226906,
+            "count": 11,
+            "total": 1059.75,
+            "nameLabel": "Keith Bernard Purnell"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 8896925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert Keller"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 9893649,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Matt Neumann"
+          },
+          {
+            "id": 9841528,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Patrick English"
+          },
+          {
+            "id": 16263,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Citizens for August"
+          },
+          {
+            "id": 30381,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Kevin Hoyer"
+          },
+          {
+            "id": 10405453,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Daniel Kunz"
+          }
+        ]
+      }
+    }
+  }
+}

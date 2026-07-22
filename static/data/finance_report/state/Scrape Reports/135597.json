@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 77,
+            "total": 9254,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 66.02,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 0.41000000000000003,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 28,
+            "total": 3815.3799999999997,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 948926,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Democratic Party of Walworth County"
+          },
+          {
+            "id": 12281979,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jane Taylor"
+          },
+          {
+            "id": 12281996,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Donald Katz"
+          },
+          {
+            "id": 7925421,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Diane Schuchardt"
+          },
+          {
+            "id": 12282003,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Bruce Peterson"
+          },
+          {
+            "id": 12281984,
+            "count": 10,
+            "total": 360,
+            "nameLabel": "Ron Jahnke"
+          },
+          {
+            "id": 12281989,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Todd Mortensen"
+          },
+          {
+            "id": 12281985,
+            "count": 5,
+            "total": 250,
+            "nameLabel": "Ellen Holly"
+          },
+          {
+            "id": 12146923,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Adam Jaramillo"
+          },
+          {
+            "id": 12281975,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Kathleen Janik"
+          }
+        ]
+      }
+    }
+  }
+}

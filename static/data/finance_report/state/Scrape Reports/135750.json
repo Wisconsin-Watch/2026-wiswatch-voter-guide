@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 1187,
+            "total": 56115.86,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 5,
+            "total": 1369.1100000000001,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 117,
+            "total": 50339.389999999985,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12320216,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Gregg May"
+          },
+          {
+            "id": 12320297,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "March On PAC"
+          },
+          {
+            "id": 12309164,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Eliot Butler"
+          },
+          {
+            "id": 12362581,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Young People for MGR Govindarajan"
+          },
+          {
+            "id": 1991415,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Fire Fighters Local 311 FirePac"
+          },
+          {
+            "id": 11956902,
+            "count": 10,
+            "total": 919,
+            "nameLabel": "John Oates Smallwood"
+          },
+          {
+            "id": 12172098,
+            "count": 2,
+            "total": 794,
+            "nameLabel": "Eileen Harrington"
+          },
+          {
+            "id": 11997850,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "Carter Baldwin"
+          },
+          {
+            "id": 11998200,
+            "count": 2,
+            "total": 750,
+            "nameLabel": "Betty Custer"
+          },
+          {
+            "id": 16754,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "Friends of Melissa Ratcliff"
+          }
+        ]
+      }
+    }
+  }
+}

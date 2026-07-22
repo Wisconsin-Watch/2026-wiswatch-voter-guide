@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 136,
+            "total": 15426.960000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 1,
+            "total": 3000,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 5,
+            "count": 7,
+            "total": 1924.26,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 3,
+            "count": 2,
+            "total": 160.5,
+            "nameLabel": "Expense Refund"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 75,
+            "total": 14098.829999999998,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12147097,
+            "count": 4,
+            "total": 3161.5,
+            "nameLabel": "Jordan Roman"
+          },
+          {
+            "id": 12325045,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Ellen Brown"
+          },
+          {
+            "id": 653480,
+            "count": 2,
+            "total": 955.26,
+            "nameLabel": "Wisconsin Progress PAC"
+          },
+          {
+            "id": 12325098,
+            "count": 2,
+            "total": 800,
+            "nameLabel": "Patricia Singh"
+          },
+          {
+            "id": 12325047,
+            "count": 1,
+            "total": 800,
+            "nameLabel": "Keniah Robinson"
+          },
+          {
+            "id": 12325067,
+            "count": 2,
+            "total": 600,
+            "nameLabel": "Anita Roman"
+          },
+          {
+            "id": 12325012,
+            "count": 2,
+            "total": 525,
+            "nameLabel": "Jeff Roman"
+          },
+          {
+            "id": 12325020,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Evan Reed"
+          },
+          {
+            "id": 12325028,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Michael Terrell"
+          },
+          {
+            "id": 12325071,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Dora Lewis"
+          }
+        ]
+      }
+    }
+  }
+}

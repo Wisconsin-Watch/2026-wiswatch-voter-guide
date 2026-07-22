@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 13,
+            "total": 6658.290000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 16535.05,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 4,
+            "total": 5000,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 28,
+            "count": 1,
+            "total": 421.77,
+            "nameLabel": "Contribution to Committee (In-Kind)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1500,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 6123355,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "GE Healthcare"
+          },
+          {
+            "id": 11109380,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "John Helmenstine"
+          },
+          {
+            "id": 7161358,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Molina Healthcare"
+          },
+          {
+            "id": 664067,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "REALTORS Assn of SC WI PAC"
+          },
+          {
+            "id": 1160721,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Carol Carlin"
+          },
+          {
+            "id": 7191056,
+            "count": 4,
+            "total": 28.8,
+            "nameLabel": "Laura Vanderbilt"
+          },
+          {
+            "id": 11849601,
+            "count": 1,
+            "total": 27.57,
+            "nameLabel": "DONALD CARLSON"
+          },
+          {
+            "id": 7689521,
+            "count": 1,
+            "total": 1.92,
+            "nameLabel": "Mark Kaminski"
+          }
+        ]
+      }
+    }
+  }
+}

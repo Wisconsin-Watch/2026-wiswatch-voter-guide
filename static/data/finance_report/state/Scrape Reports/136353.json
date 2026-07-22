@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 29,
+            "total": 5809.35,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 2,
+            "total": 8500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 23,
+            "total": 2929.41,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 10300643,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Gerald Julius"
+          },
+          {
+            "id": 12054128,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Realtors Association PAC"
+          },
+          {
+            "id": 12325628,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Society of Anesthesiologists PAC"
+          },
+          {
+            "id": 664011,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Association of Health Plans PAC"
+          },
+          {
+            "id": 660694,
+            "count": 1,
+            "total": 260.25,
+            "nameLabel": "Jim Villa"
+          },
+          {
+            "id": 11703942,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Robert Zillmer"
+          },
+          {
+            "id": 6989360,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "John Fleckenstein"
+          },
+          {
+            "id": 11544531,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Tyler Vorpagel"
+          },
+          {
+            "id": 5527379,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "David Horstick"
+          },
+          {
+            "id": 12371552,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Aaron Gudeyon"
+          }
+        ]
+      }
+    }
+  }
+}

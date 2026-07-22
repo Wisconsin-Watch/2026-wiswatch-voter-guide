@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 32,
+            "total": 9155.7,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 41,
+            "count": 1,
+            "total": 50000,
+            "nameLabel": "Personal Loan Payment"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 12500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 2,
+            "total": 1791.21,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651869,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest Co Potawatomi Comm PAC"
+          },
+          {
+            "id": 11699811,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Adam Beren"
+          },
+          {
+            "id": 12226353,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Cyra Schneider"
+          },
+          {
+            "id": 9028962,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jerald Schneider"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 6790486,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sandra Mills"
+          },
+          {
+            "id": 15850,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Hospitals PAC"
+          },
+          {
+            "id": 1695840,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Linda Hash"
+          },
+          {
+            "id": 8835591,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Stacey Elliott"
+          },
+          {
+            "id": 8835377,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Steffen Joan"
+          }
+        ]
+      }
+    }
+  }
+}

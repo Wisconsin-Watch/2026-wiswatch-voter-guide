@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 49,
+            "total": 9388.76,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 16,
+            "total": 5235.050000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12327366,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Montgomery Trapper Sexton"
+          },
+          {
+            "id": 11830213,
+            "count": 2,
+            "total": 1500,
+            "nameLabel": "Walter Ellis"
+          },
+          {
+            "id": 5329452,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Maeve Quinn"
+          },
+          {
+            "id": 11830214,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Jennifer Bryant"
+          },
+          {
+            "id": 11064897,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Donald Floyd"
+          },
+          {
+            "id": 1242327,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Christine Burr"
+          },
+          {
+            "id": 10779343,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Hugh Ross"
+          },
+          {
+            "id": 10337914,
+            "count": 3,
+            "total": 300,
+            "nameLabel": "John Binder"
+          },
+          {
+            "id": 12018632,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Julie Stodolka"
+          },
+          {
+            "id": 12209394,
+            "count": 2,
+            "total": 250,
+            "nameLabel": "Deborah Binversie"
+          }
+        ]
+      }
+    }
+  }
+}

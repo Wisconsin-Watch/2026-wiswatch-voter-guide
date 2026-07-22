@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 72,
+            "total": 21622,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 1700,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 25,
+            "total": 26749.82,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 102,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Donation to Charitable Organization"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 15637,
+            "count": 3,
+            "total": 8500,
+            "nameLabel": "Brent William Jacobson"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 12240479,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Steven Greiner"
+          },
+          {
+            "id": 11523714,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Operating Engineers Local 139 PAC"
+          },
+          {
+            "id": 658032,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jeff Lindemann"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 6777578,
+            "count": 2,
+            "total": 750,
+            "nameLabel": "Sandra Jacobson"
+          },
+          {
+            "id": 7174656,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 2811952,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Thomas Hecox"
+          }
+        ]
+      }
+    }
+  }
+}

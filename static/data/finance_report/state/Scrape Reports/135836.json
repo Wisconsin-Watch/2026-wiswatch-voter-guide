@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 53,
+            "total": 19010,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 17,
+            "total": 6875,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 6302.1,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 3531.55,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16896,
+            "count": 1,
+            "total": 6302.1,
+            "nameLabel": "Republican Party of Wisconsin"
+          },
+          {
+            "id": 16281,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kurtz for Assembly"
+          },
+          {
+            "id": 663314,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Donald Wahlin"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 658032,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jeff Lindemann"
+          },
+          {
+            "id": 651763,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Tavern Industry PAC"
+          },
+          {
+            "id": 664011,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Association of Health Plans PAC"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 1936189,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Patrick English"
+          }
+        ]
+      }
+    }
+  }
+}

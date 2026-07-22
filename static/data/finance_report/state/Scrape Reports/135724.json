@@ -1,0 +1,122 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 184,
+            "total": 27022,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 1,
+            "total": 11200,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 5,
+            "count": 22,
+            "total": 7815.169999999999,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 200,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 18,
+            "total": 17788.71,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 41,
+            "count": 1,
+            "total": 6850,
+            "nameLabel": "Personal Loan Payment"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16545,
+            "count": 21,
+            "total": 18806.58,
+            "nameLabel": "Tara Johnson"
+          },
+          {
+            "id": 12114101,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Peter Mensch"
+          },
+          {
+            "id": 1252025,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Mary Nelson"
+          },
+          {
+            "id": 12295716,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Karen Lumb"
+          },
+          {
+            "id": 16089,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sarah Godlewski"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 12321142,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jeanetta Kirkpatrick"
+          },
+          {
+            "id": 651843,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "IBEW-PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 16691,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends Of Steve Doyle"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 21,
+            "total": 3793,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 67,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 24,
+            "total": 7714.15,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651763,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Tavern Industry PAC"
+          },
+          {
+            "id": 7027468,
+            "count": 1,
+            "total": 567,
+            "nameLabel": "James Marshall"
+          },
+          {
+            "id": 11906797,
+            "count": 1,
+            "total": 267,
+            "nameLabel": "Jan Miller"
+          },
+          {
+            "id": 12231056,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Association of Progressive Rental Orgaizations"
+          },
+          {
+            "id": 10804052,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Michael Hohnstein"
+          },
+          {
+            "id": 12231137,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "PROG Holdings, Inc Political Action Committee"
+          },
+          {
+            "id": 2773775,
+            "count": 2,
+            "total": 167,
+            "nameLabel": "Mark Schnellbaecher"
+          },
+          {
+            "id": 10720454,
+            "count": 1,
+            "total": 167,
+            "nameLabel": "Victoria Ostry"
+          },
+          {
+            "id": 7072960,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "Steve Rinzel"
+          },
+          {
+            "id": 8016117,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Paul Fuerst"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 54,
+            "total": 18380.16,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 36,
+            "total": 3816,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 11,
+            "total": 6900,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 11,
+            "total": 5143.530000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 75,
+            "count": 4,
+            "total": 1200,
+            "nameLabel": "Returned Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 664067,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Assn of SC WI PAC"
+          },
+          {
+            "id": 664167,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy WI Gov Act Cte"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 34817,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Pipe Trades Assn PAC"
+          },
+          {
+            "id": 651763,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Tavern Industry PAC"
+          },
+          {
+            "id": 651856,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Beer Distributors PAC"
+          },
+          {
+            "id": 651869,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest Co Potawatomi Comm PAC"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 651778,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEC Energy Group PAC (WEC PAC)"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          }
+        ]
+      }
+    }
+  }
+}

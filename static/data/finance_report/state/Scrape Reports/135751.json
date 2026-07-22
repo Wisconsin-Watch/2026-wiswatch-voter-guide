@@ -1,0 +1,68 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 4,
+            "total": 665,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 32,
+            "total": 5038.799999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 5308507,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "MICHAEL GRAJEDA"
+          },
+          {
+            "id": 12193516,
+            "count": 2,
+            "total": 125,
+            "nameLabel": "Edgard Delgado Jr"
+          },
+          {
+            "id": 12228984,
+            "count": 1,
+            "total": 40,
+            "nameLabel": "Darrell Woyak"
+          }
+        ]
+      }
+    }
+  }
+}

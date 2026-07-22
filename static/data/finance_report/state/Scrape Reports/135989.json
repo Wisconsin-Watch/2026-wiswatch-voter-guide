@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 357,
+            "total": 64109.47999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 28578.83,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 46,
+            "total": 3200,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 61.790000000000006,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 47,
+            "total": 15350.71,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 234,
+            "count": 1,
+            "total": 28028.83,
+            "nameLabel": "Assembly Democratic Camp Comm"
+          },
+          {
+            "id": 1146150,
+            "count": 1,
+            "total": 8000,
+            "nameLabel": "Eau Claire County Democratic Party"
+          },
+          {
+            "id": 12073260,
+            "count": 2,
+            "total": 1500,
+            "nameLabel": "Jeanne Foust"
+          },
+          {
+            "id": 651843,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "IBEW-PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 30614,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Wisconsin REALTORS Political Fund"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 34817,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Pipe Trades Assn PAC"
+          },
+          {
+            "id": 664167,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy WI Gov Act Cte"
+          },
+          {
+            "id": 664116,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Soc Anesthesiologists PAC"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 13,
+            "total": 9835,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 300,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 48,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12320339,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Society of Anesthesiologists PAC"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 1674829,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Bell Ambulance, Inc. Employees PAC"
+          },
+          {
+            "id": 2014752,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "500146 REALTORS - RPAC"
+          },
+          {
+            "id": 6700702,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Paul Kluskowski"
+          },
+          {
+            "id": 7367309,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Pipe Trades Association PAC"
+          },
+          {
+            "id": 12274159,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Association of SC WI - PAC"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 12231137,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "PROG Holdings, Inc Political Action Committee"
+          }
+        ]
+      }
+    }
+  }
+}

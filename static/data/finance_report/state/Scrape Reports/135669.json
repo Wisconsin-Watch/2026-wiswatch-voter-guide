@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 11,
+            "total": 3665,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 2,
+            "total": 507,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 663978,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Institute of CPA's PAC"
+          },
+          {
+            "id": 651869,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest Co Potawatomi Comm PAC"
+          },
+          {
+            "id": 5556764,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Art Binhack"
+          },
+          {
+            "id": 663065,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Teresa Hesselbein"
+          },
+          {
+            "id": 654205,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Eric R. Schumann"
+          },
+          {
+            "id": 12290024,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Frank Jaber"
+          },
+          {
+            "id": 8768718,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Dan Kacmarcik"
+          },
+          {
+            "id": 12290021,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Barbara A Jamerson"
+          },
+          {
+            "id": 2714834,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Michael Kroes"
+          },
+          {
+            "id": 5556635,
+            "count": 1,
+            "total": 20,
+            "nameLabel": "Gary Boldt"
+          }
+        ]
+      }
+    }
+  }
+}

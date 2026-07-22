@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 39,
+            "total": 30998.86,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 47,
+            "total": 10512.300000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5559751,
+            "count": 3,
+            "total": 25100,
+            "nameLabel": "Steve Wicklund"
+          },
+          {
+            "id": 7989354,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert Kordus"
+          },
+          {
+            "id": 12339466,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends and Neighbors of Tom Weatherston"
+          },
+          {
+            "id": 12322881,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Daniel McHugh"
+          },
+          {
+            "id": 30346,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends and Neighbors of Amanda Nedweski"
+          },
+          {
+            "id": 661339,
+            "count": 1,
+            "total": 260.73,
+            "nameLabel": "Ralph Malicki"
+          },
+          {
+            "id": 10716159,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "WILLIAM L McREYNOLDS"
+          },
+          {
+            "id": 12322882,
+            "count": 2,
+            "total": 208.96,
+            "nameLabel": "Jayme Cristiano"
+          },
+          {
+            "id": 662263,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Jean Jacobson"
+          },
+          {
+            "id": 5558250,
+            "count": 1,
+            "total": 156.56,
+            "nameLabel": "Stephanie Kurt"
+          }
+        ]
+      }
+    }
+  }
+}

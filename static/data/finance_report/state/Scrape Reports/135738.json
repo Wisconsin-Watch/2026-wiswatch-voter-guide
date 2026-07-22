@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 10,
+            "total": 2364,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 490.75,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 12,
+            "count": 1,
+            "total": 80,
+            "nameLabel": "Personal Loan"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 38,
+            "count": 6,
+            "total": 2305.78,
+            "nameLabel": "Incurred Obligation Paid"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 653487,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Polk County Democratic Party"
+          },
+          {
+            "id": 653532,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "Burnett Co Democratic Party"
+          },
+          {
+            "id": 12271877,
+            "count": 1,
+            "total": 490.75,
+            "nameLabel": "DPW"
+          },
+          {
+            "id": 2104298,
+            "count": 1,
+            "total": 400,
+            "nameLabel": "Hal Halverson"
+          },
+          {
+            "id": 2853943,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Charly Ray"
+          },
+          {
+            "id": 12160693,
+            "count": 1,
+            "total": 80,
+            "nameLabel": "Keith Joseph Mogel"
+          },
+          {
+            "id": 12091603,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Rachel Dole"
+          },
+          {
+            "id": 2103993,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Anne Taylor"
+          },
+          {
+            "id": 10279893,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Robert Dueholm"
+          },
+          {
+            "id": 11679261,
+            "count": 1,
+            "total": 5,
+            "nameLabel": "Jim Pounds"
+          }
+        ]
+      }
+    }
+  }
+}

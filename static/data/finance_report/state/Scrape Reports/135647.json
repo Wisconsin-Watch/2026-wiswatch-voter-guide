@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 5,
+            "total": 3058.96,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 11,
+            "total": 2910,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 14,
+            "total": 1619.4900000000002,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12225840,
+            "count": 2,
+            "total": 1458.9599999999998,
+            "nameLabel": "Valerie Han Kretchmer"
+          },
+          {
+            "id": 21421,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Barb Griffin"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12331270,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Robert Leary"
+          },
+          {
+            "id": 30346,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends and Neighbors of Amanda Nedweski"
+          },
+          {
+            "id": 664274,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Milwaukee Police Association Political Action Committee"
+          },
+          {
+            "id": 12176504,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Friends of Duane O'Keefe"
+          },
+          {
+            "id": 30175,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "James Kedrow"
+          },
+          {
+            "id": 25934,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "O'Keefe Duane"
+          },
+          {
+            "id": 22348,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Linda Kretchmer"
+          }
+        ]
+      }
+    }
+  }
+}

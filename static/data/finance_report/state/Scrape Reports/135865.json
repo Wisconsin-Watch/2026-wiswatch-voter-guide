@@ -1,0 +1,128 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 474,
+            "total": 66899.42000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 2,
+            "total": 24452.68,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 35,
+            "total": 3651,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 20.549999999999997,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 61,
+            "total": 10149.939999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 75,
+            "count": 2,
+            "total": 514.29,
+            "nameLabel": "Returned Contribution"
+          },
+          {
+            "id": 27,
+            "count": 2,
+            "total": 450,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 234,
+            "count": 1,
+            "total": 24202.68,
+            "nameLabel": "Assembly Democratic Camp Comm"
+          },
+          {
+            "id": 843012,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Andrea Gage"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 653823,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC Region 3 PAC"
+          },
+          {
+            "id": 17181,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "TIP FOR WI"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 664116,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Soc Anesthesiologists PAC"
+          },
+          {
+            "id": 651843,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "IBEW-PAC"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          }
+        ]
+      }
+    }
+  }
+}

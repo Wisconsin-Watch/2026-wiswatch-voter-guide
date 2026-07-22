@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 13,
+            "total": 3295,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 8,
+            "total": 2908.53,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 6,
+            "total": 822.3499999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12229693,
+            "count": 4,
+            "total": 1048.57,
+            "nameLabel": "Rick Stacey"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 7180146,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Ann Zess"
+          },
+          {
+            "id": 7874820,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Ted Zess"
+          },
+          {
+            "id": 12231037,
+            "count": 2,
+            "total": 897.58,
+            "nameLabel": "Lisa Stacey"
+          },
+          {
+            "id": 12295690,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "James Sands"
+          },
+          {
+            "id": 12295544,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "joseph Jones"
+          },
+          {
+            "id": 12295695,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Susan Flavin"
+          },
+          {
+            "id": 12295547,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Susan Pruessing"
+          },
+          {
+            "id": 6986724,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "James Wolter"
+          }
+        ]
+      }
+    }
+  }
+}

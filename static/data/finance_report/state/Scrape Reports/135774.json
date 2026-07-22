@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 253,
+            "total": 22838,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 11,
+            "total": 1100,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 62,
+            "total": 5607.240000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 2,
+            "total": 500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1170175,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Thrivent Wisconsin PAC"
+          },
+          {
+            "id": 1666131,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Eric Swanson"
+          },
+          {
+            "id": 653823,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC Region 3 PAC"
+          },
+          {
+            "id": 12307059,
+            "count": 2,
+            "total": 625,
+            "nameLabel": "Brian Blazer"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 12307024,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Daniel Wessel"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 5465305,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Pam Sealy"
+          },
+          {
+            "id": 12103927,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "LKQ Corporate Employee Good Government Fund"
+          },
+          {
+            "id": 12274160,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "IBEW PAC Voluntary Fund"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 29,
+            "total": 7372.47,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 24.05,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9841528,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Patrick English"
+          },
+          {
+            "id": 16281,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kurtz for Assembly"
+          },
+          {
+            "id": 9909448,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "MATT NUEMANN"
+          },
+          {
+            "id": 10240628,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Theodore Galloway"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 16263,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Citizens for August"
+          },
+          {
+            "id": 12231835,
+            "count": 1,
+            "total": 472.47,
+            "nameLabel": "Lucy Daniels"
+          },
+          {
+            "id": 12227978,
+            "count": 2,
+            "total": 350,
+            "nameLabel": "David  Merle Daniels"
+          },
+          {
+            "id": 8749313,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Douglas Horan"
+          },
+          {
+            "id": 9038001,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Gail Minks"
+          }
+        ]
+      }
+    }
+  }
+}

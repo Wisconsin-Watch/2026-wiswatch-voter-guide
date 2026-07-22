@@ -1,0 +1,128 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 128,
+            "total": 22003,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 8,
+            "total": 799.71,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 250,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 2,
+            "total": 15500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 32,
+            "total": 7019.070000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 102,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Donation to Charitable Organization"
+          },
+          {
+            "id": 28,
+            "count": 2,
+            "total": 69.4,
+            "nameLabel": "Contribution to Committee (In-Kind)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12282516,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Stephanie Knueppel"
+          },
+          {
+            "id": 12238280,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 12282511,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Michelle Farr"
+          },
+          {
+            "id": 10772423,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Darcie Ware"
+          },
+          {
+            "id": 1683673,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Harjinder Samra"
+          },
+          {
+            "id": 10772592,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joey Knueppel"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 10772055,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jaspreet Gill"
+          },
+          {
+            "id": 12331603,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Association of South Central Wisconsin"
+          }
+        ]
+      }
+    }
+  }
+}

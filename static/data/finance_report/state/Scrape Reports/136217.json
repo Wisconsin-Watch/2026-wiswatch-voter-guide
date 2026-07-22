@@ -1,0 +1,56 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 3,
+            "total": 662.56,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 2,
+            "total": 342.42,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12231471,
+            "count": 1,
+            "total": 535.29,
+            "nameLabel": "JASON DEAN"
+          },
+          {
+            "id": 12226772,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "DIANNE POLLOCK"
+          },
+          {
+            "id": 12231469,
+            "count": 1,
+            "total": 27.27,
+            "nameLabel": "SAVANNA WARTHEN"
+          }
+        ]
+      }
+    }
+  }
+}

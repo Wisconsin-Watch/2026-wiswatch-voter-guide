@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 24,
+            "total": 6713.580000000002,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 13,
+            "total": 2620.51,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11386330,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Self"
+          },
+          {
+            "id": 9130717,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Richard Illgen"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12232105,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Chad Helmer"
+          },
+          {
+            "id": 16281,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kurtz for Assembly"
+          },
+          {
+            "id": 2788917,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "M Faye Wollaeger"
+          },
+          {
+            "id": 9132691,
+            "count": 2,
+            "total": 175,
+            "nameLabel": "Marcia Christensen"
+          },
+          {
+            "id": 3109217,
+            "count": 1,
+            "total": 125,
+            "nameLabel": "Marcia Christensen"
+          },
+          {
+            "id": 6966469,
+            "count": 1,
+            "total": 104.1,
+            "nameLabel": "Bill Feehan"
+          },
+          {
+            "id": 2809800,
+            "count": 1,
+            "total": 104.1,
+            "nameLabel": "Sandy Bakk"
+          }
+        ]
+      }
+    }
+  }
+}

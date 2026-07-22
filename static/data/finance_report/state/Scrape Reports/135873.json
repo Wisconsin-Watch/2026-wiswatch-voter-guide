@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 29,
+            "total": 2737,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 2,
+            "total": 132.47,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 4,
+            "total": 286.85,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12271151,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Catherine Bloss"
+          },
+          {
+            "id": 1316539,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Penelope Jones"
+          },
+          {
+            "id": 1190169,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Todd Mortensen"
+          },
+          {
+            "id": 1056249,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "George Wen"
+          },
+          {
+            "id": 12228296,
+            "count": 1,
+            "total": 125,
+            "nameLabel": "Rick  Bailey"
+          },
+          {
+            "id": 11886857,
+            "count": 1,
+            "total": 119.88,
+            "nameLabel": "GoDaddy"
+          },
+          {
+            "id": 1098952,
+            "count": 2,
+            "total": 112.59,
+            "nameLabel": "Susan Beyler"
+          },
+          {
+            "id": 1680047,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Sue Beyler"
+          },
+          {
+            "id": 1577981,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Cynthia Morimoto"
+          },
+          {
+            "id": 7922925,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Mary Burpee"
+          }
+        ]
+      }
+    }
+  }
+}

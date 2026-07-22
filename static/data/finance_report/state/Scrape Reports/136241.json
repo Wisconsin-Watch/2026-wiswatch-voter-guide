@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 114,
+            "total": 9629.810000000005,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 129,
+            "total": 7627.5599999999995,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 3,
+            "count": 1,
+            "total": 13.44,
+            "nameLabel": "Expense Refund"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 75,
+            "total": 9573.760000000006,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11946759,
+            "count": 112,
+            "total": 9279.810000000003,
+            "nameLabel": "Lisa Rose White"
+          },
+          {
+            "id": 12336589,
+            "count": 2,
+            "total": 650,
+            "nameLabel": "Susan Krause"
+          },
+          {
+            "id": 12336620,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Joan Harvey"
+          },
+          {
+            "id": 12336611,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Joseph Patrick Eckstein"
+          },
+          {
+            "id": 12336573,
+            "count": 8,
+            "total": 300,
+            "nameLabel": "Lisa Gellings"
+          },
+          {
+            "id": 12336619,
+            "count": 2,
+            "total": 250,
+            "nameLabel": "Sharon Adkins"
+          },
+          {
+            "id": 12336591,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "irene Kendall"
+          },
+          {
+            "id": 12336606,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Cory Jacobson"
+          },
+          {
+            "id": 12336622,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Tammi J. Droessler"
+          },
+          {
+            "id": 12336569,
+            "count": 2,
+            "total": 220,
+            "nameLabel": "Bruce Palmer"
+          }
+        ]
+      }
+    }
+  }
+}

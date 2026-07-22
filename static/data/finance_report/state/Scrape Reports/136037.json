@@ -1,0 +1,68 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 3,
+            "total": 1250,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 1008.69,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 10103582,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Matt Neuman"
+          },
+          {
+            "id": 12293784,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "i360 Holdings"
+          },
+          {
+            "id": 12331258,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "Thomas Desotell"
+          },
+          {
+            "id": 9645201,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Joe Heidemann"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 43,
+            "total": 2850,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 15,
+            "total": 1000,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 490.77,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 11,
+            "total": 2491.08,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 490.77,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 12232212,
+            "count": 1,
+            "total": 255,
+            "nameLabel": "Charles Collier "
+          },
+          {
+            "id": 10736382,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Mark Schleiss"
+          },
+          {
+            "id": 7063079,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Laurie Fannin"
+          },
+          {
+            "id": 12238805,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Betty Wihongi"
+          },
+          {
+            "id": 12232183,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Nancy  Manion "
+          },
+          {
+            "id": 1183556,
+            "count": 2,
+            "total": 125,
+            "nameLabel": "Tom Hartfiel"
+          },
+          {
+            "id": 843353,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Emily Tseffos for Wisconsin"
+          },
+          {
+            "id": 1173576,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jerry Fannin"
+          },
+          {
+            "id": 12232192,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Amber Schabo "
+          }
+        ]
+      }
+    }
+  }
+}

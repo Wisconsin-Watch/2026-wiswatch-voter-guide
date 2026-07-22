@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 14,
+            "total": 1900,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 2,
+            "total": 1304,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9173547,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Dr Jeffrey Jones"
+          },
+          {
+            "id": 11543060,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Eddy Herbison"
+          },
+          {
+            "id": 10759268,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Scott Randall"
+          },
+          {
+            "id": 6955894,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Howard Ludwigson"
+          },
+          {
+            "id": 6959634,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jeff Tucker"
+          },
+          {
+            "id": 11997240,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jeanette Cefasky"
+          },
+          {
+            "id": 6467866,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Brian Stabenow"
+          },
+          {
+            "id": 6953700,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Sheldon Bearrood"
+          },
+          {
+            "id": 10802569,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Richard Ziemann"
+          },
+          {
+            "id": 2774025,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Allen F. Susedik"
+          }
+        ]
+      }
+    }
+  }
+}

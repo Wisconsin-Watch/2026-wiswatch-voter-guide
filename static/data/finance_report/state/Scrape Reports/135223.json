@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 137,
+            "total": 18454.55,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 2,
+            "total": 867.5,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 550,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 143,
+            "total": 3755.119999999994,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 651856,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Beer Distributors PAC"
+          },
+          {
+            "id": 7179090,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy Wisconsin Governmental"
+          },
+          {
+            "id": 12184957,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rebecca Oettinger"
+          },
+          {
+            "id": 10655594,
+            "count": 2,
+            "total": 867.5,
+            "nameLabel": "NextLevel"
+          },
+          {
+            "id": 10474455,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Karen Evenson"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 2132287,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "IBEW PAC Voluntary Fund"
+          },
+          {
+            "id": 12099517,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "United Associated of Journeyman & 75 PPF"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 50,
+            "total": 16080,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 68,
+            "total": 7500,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 24,
+            "total": 5932.150000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 37,
+            "count": 1,
+            "total": 126.15,
+            "nameLabel": "Incurred Obligation"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12008214,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Pipe Trades Association PAC Fund"
+          },
+          {
+            "id": 2735942,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Hugh McLaughlin"
+          },
+          {
+            "id": 10376179,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Judy Domaszck"
+          },
+          {
+            "id": 10376663,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Glenn Madrigrano, Jr."
+          },
+          {
+            "id": 661682,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert Trone"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 651763,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Tavern Industry PAC"
+          },
+          {
+            "id": 7174656,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 10376521,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Benjamin Roovers"
+          },
+          {
+            "id": 12074863,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Melissa Toldness"
+          }
+        ]
+      }
+    }
+  }
+}

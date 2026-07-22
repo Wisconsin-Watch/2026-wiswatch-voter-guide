@@ -184,10 +184,7 @@ onMount(async () => {
   {#if candidate.interview_video}
     <div class="info-section">
       <h2>Candidate Interview</h2>
-      <video controls>
-        <source src="{candidate.interview_video}" type="video/mp4" />
-        Your browser does not support the video tag.
-      </video>
+        {@html candidate.interview_video}
     </div>
   {/if}
 

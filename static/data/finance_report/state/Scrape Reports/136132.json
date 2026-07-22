@@ -1,0 +1,134 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 1044,
+            "total": 34723.619999999995,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 13,
+            "total": 1393.03,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 159,
+            "total": 26495.95,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 37,
+            "count": 3,
+            "total": 961.24,
+            "nameLabel": "Incurred Obligation"
+          },
+          {
+            "id": 75,
+            "count": 5,
+            "total": 472.07,
+            "nameLabel": "Returned Contribution"
+          },
+          {
+            "id": 102,
+            "count": 1,
+            "total": 113.33,
+            "nameLabel": "Donation to Charitable Organization"
+          },
+          {
+            "id": 41,
+            "count": 1,
+            "total": 97.24,
+            "nameLabel": "Personal Loan Payment"
+          },
+          {
+            "id": 101,
+            "count": 1,
+            "total": 20,
+            "nameLabel": "Donated Excess Anonymous Contributions"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12338616,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joseph DiZoglio Jr."
+          },
+          {
+            "id": 12337522,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Katherine Telma"
+          },
+          {
+            "id": 12148236,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Kathleen Chung"
+          },
+          {
+            "id": 12338568,
+            "count": 1,
+            "total": 800,
+            "nameLabel": "Friends of Eli Tsarovsky "
+          },
+          {
+            "id": 12338867,
+            "count": 2,
+            "total": 780,
+            "nameLabel": "Huma Ahsan"
+          },
+          {
+            "id": 12337014,
+            "count": 2,
+            "total": 750,
+            "nameLabel": "David Gordon"
+          },
+          {
+            "id": 12147578,
+            "count": 2,
+            "total": 700,
+            "nameLabel": "Preston Austin"
+          },
+          {
+            "id": 12336830,
+            "count": 1,
+            "total": 650,
+            "nameLabel": "Dilaine Noel"
+          },
+          {
+            "id": 12338593,
+            "count": 4,
+            "total": 600,
+            "nameLabel": "Katherine Klass"
+          },
+          {
+            "id": 12338580,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Olufemi Obiwumi"
+          }
+        ]
+      }
+    }
+  }
+}

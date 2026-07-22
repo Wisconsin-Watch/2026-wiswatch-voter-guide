@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 112,
+            "total": 28565,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 68,
+            "total": 13625,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 25,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Returned Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 4,
+            "total": 46000,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 13,
+            "total": 8016.490000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 16134,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Jesse James"
+          },
+          {
+            "id": 5449520,
+            "count": 2,
+            "total": 2000,
+            "nameLabel": "Tavern League of WI Direct Givers Fund "
+          },
+          {
+            "id": 7193501,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Jason Anderson"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 1100,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 651778,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEC Energy Group PAC (WEC PAC)"
+          },
+          {
+            "id": 664182,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Professional Insurance Agents PAC"
+          },
+          {
+            "id": 655536,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Harold Freymiller"
+          },
+          {
+            "id": 651856,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Beer Distributors PAC"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 9,
+            "total": 523.8800000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 265.7,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12229966,
+            "count": 8,
+            "total": 323.88,
+            "nameLabel": "John Michael Donohue"
+          },
+          {
+            "id": 12362872,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Patrick McGinty"
+          }
+        ]
+      }
+    }
+  }
+}

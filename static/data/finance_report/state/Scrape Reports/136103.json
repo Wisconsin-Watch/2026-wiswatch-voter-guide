@@ -1,0 +1,128 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 309,
+            "total": 229708,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 118,
+            "total": 63340,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 10,
+            "count": 7,
+            "total": 7147.150000000001,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 121,
+            "total": 17217.579999999984,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 75,
+            "count": 12,
+            "total": 7200,
+            "nameLabel": "Returned Contribution"
+          },
+          {
+            "id": 27,
+            "count": 2,
+            "total": 90,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 2,
+            "total": 110080,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 11949936,
+            "count": 7,
+            "total": 7147.15,
+            "nameLabel": "BMO Harris Bank"
+          },
+          {
+            "id": 11994702,
+            "count": 1,
+            "total": 3000,
+            "nameLabel": "Daniel Jansen"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 663314,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Donald Wahlin"
+          },
+          {
+            "id": 17316,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Feyen for Senate"
+          },
+          {
+            "id": 15879,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Testin for Senate"
+          },
+          {
+            "id": 15453,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Julian Bradley"
+          },
+          {
+            "id": 658809,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Scott Frank"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Concerned Realtors Committee"
+          }
+        ]
+      }
+    }
+  }
+}

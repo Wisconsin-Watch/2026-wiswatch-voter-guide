@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 26,
+            "total": 5811,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 67.13,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 5.38,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 2,
+            "total": 558.8,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12275043,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sandy  Claerbout"
+          },
+          {
+            "id": 11897781,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Daven Claerbout"
+          },
+          {
+            "id": 5187308,
+            "count": 1,
+            "total": 600,
+            "nameLabel": "Robert Murphy"
+          },
+          {
+            "id": 10293369,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Lisa Pankratz"
+          },
+          {
+            "id": 12232140,
+            "count": 1,
+            "total": 400,
+            "nameLabel": "John Lavey"
+          },
+          {
+            "id": 5319989,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Russell Otten"
+          },
+          {
+            "id": 8838184,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Karen Fannin"
+          },
+          {
+            "id": 2115680,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Andy Huebschmann"
+          },
+          {
+            "id": 12232129,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Michael  Dulmes"
+          },
+          {
+            "id": 12232164,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Lester Simmelink"
+          }
+        ]
+      }
+    }
+  }
+}

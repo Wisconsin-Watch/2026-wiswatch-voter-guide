@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 6,
+            "total": 1984.91,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 11,
+            "total": 1120,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 2,
+            "total": 35.550000000000004,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 1152.15,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 1147710,
+            "count": 4,
+            "total": 856.23,
+            "nameLabel": "Steven John Doelder"
+          },
+          {
+            "id": 1943903,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Bruce Krawisz"
+          },
+          {
+            "id": 7932933,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Yousefian Barbara"
+          },
+          {
+            "id": 1030689,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Janice Frankel"
+          },
+          {
+            "id": 12233416,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Diane Pierce"
+          },
+          {
+            "id": 12233417,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jane McMillan"
+          },
+          {
+            "id": 12233418,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Deron Johnson"
+          },
+          {
+            "id": 11800945,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Ali Yousefian"
+          },
+          {
+            "id": 1147708,
+            "count": 2,
+            "total": 76.53,
+            "nameLabel": "Steven John Doelder"
+          }
+        ]
+      }
+    }
+  }
+}

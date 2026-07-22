@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 26,
+            "total": 681,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 56,
+            "total": 1415.0199999999998,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12379086,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Lori Schultz"
+          },
+          {
+            "id": 12379085,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Patricia Schubert"
+          },
+          {
+            "id": 7822787,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "ted hankes"
+          },
+          {
+            "id": 1278481,
+            "count": 7,
+            "total": 70,
+            "nameLabel": "Robert Lauer"
+          },
+          {
+            "id": 1057572,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Angie Kirst"
+          },
+          {
+            "id": 12379082,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Susan Linde"
+          },
+          {
+            "id": 12379083,
+            "count": 2,
+            "total": 40,
+            "nameLabel": "Adam Brabender"
+          },
+          {
+            "id": 12379088,
+            "count": 1,
+            "total": 37,
+            "nameLabel": "Sarah Kazell"
+          },
+          {
+            "id": 12274911,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Bryna Caves"
+          },
+          {
+            "id": 12157885,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Katherine Berkvam"
+          }
+        ]
+      }
+    }
+  }
+}

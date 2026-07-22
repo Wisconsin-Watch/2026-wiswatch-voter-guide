@@ -1,0 +1,56 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 3,
+            "total": 699,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 89,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12381601,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Rebecca Miller"
+          },
+          {
+            "id": 12381144,
+            "count": 1,
+            "total": 110,
+            "nameLabel": "Kimberly Miracko"
+          },
+          {
+            "id": 12228353,
+            "count": 1,
+            "total": 89,
+            "nameLabel": "Gregory Miller"
+          }
+        ]
+      }
+    }
+  }
+}

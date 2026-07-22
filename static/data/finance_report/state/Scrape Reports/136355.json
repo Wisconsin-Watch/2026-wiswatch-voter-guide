@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 716,
+            "total": 29167.2,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 5,
+            "total": 7884.41,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 5780.57,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 843351,
+            "count": 5,
+            "total": 7884.410000000001,
+            "nameLabel": "Emily Tseffos"
+          },
+          {
+            "id": 12320642,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Plumbers & Steamfitters Local 400 COPE Fund"
+          },
+          {
+            "id": 12320819,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Terence Kelly"
+          },
+          {
+            "id": 12320761,
+            "count": 7,
+            "total": 600,
+            "nameLabel": "Tom Hartfiel"
+          },
+          {
+            "id": 12321012,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Margaret Voissem"
+          },
+          {
+            "id": 12320644,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wayde Lawler"
+          },
+          {
+            "id": 12321044,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Elizabeth Holdren"
+          },
+          {
+            "id": 12320884,
+            "count": 2,
+            "total": 350,
+            "nameLabel": "Katherine Leyes"
+          },
+          {
+            "id": 12320651,
+            "count": 3,
+            "total": 300,
+            "nameLabel": "Kristin Hunger"
+          },
+          {
+            "id": 12320625,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Sean O'Hagan"
+          }
+        ]
+      }
+    }
+  }
+}

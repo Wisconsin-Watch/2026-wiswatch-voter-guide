@@ -1,0 +1,80 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 5,
+            "total": 2165,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 14,
+            "total": 781.8400000000003,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12200438,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Republican Party of La Crosse County"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 11391119,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Adrian Hendrickson"
+          },
+          {
+            "id": 5605880,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Bill Fasching"
+          },
+          {
+            "id": 1922332,
+            "count": 1,
+            "total": 20,
+            "nameLabel": "Martin Gunderson"
+          },
+          {
+            "id": 12284464,
+            "count": 1,
+            "total": 20,
+            "nameLabel": "Jay Larochelle"
+          }
+        ]
+      }
+    }
+  }
+}

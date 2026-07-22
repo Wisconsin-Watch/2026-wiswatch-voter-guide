@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12,
+            "count": 1,
+            "total": 20000,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 9,
+            "count": 5,
+            "total": 2700,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 9,
+            "total": 7643.860000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 3,
+            "total": 85,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12226049,
+            "count": 1,
+            "total": 20000,
+            "nameLabel": "Bradley Petersen"
+          },
+          {
+            "id": 12280135,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Matthew Elbe"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12280131,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Brooks for Assembly"
+          },
+          {
+            "id": 12280137,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Christopher  Elbe"
+          },
+          {
+            "id": 12280130,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Ron De Troye"
+          },
+          {
+            "id": 12280128,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Mel Lepp"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 44,
+            "total": 8250,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 1,
+            "total": 0.3,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 23,
+            "total": 6210.639999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 12073313,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WALPAC for Responsible Government Political Action Committee"
+          },
+          {
+            "id": 6707744,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "JOHN MACY"
+          },
+          {
+            "id": 663922,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Alliance of Health Insurers PAC"
+          },
+          {
+            "id": 6973965,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Elizabeth Meier"
+          },
+          {
+            "id": 12271099,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Washington County Republican Party"
+          },
+          {
+            "id": 2797169,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Thomas Ehrsam"
+          },
+          {
+            "id": 2010357,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Marcel Cesar"
+          },
+          {
+            "id": 8012905,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Travis E. Schlarb"
+          }
+        ]
+      }
+    }
+  }
+}

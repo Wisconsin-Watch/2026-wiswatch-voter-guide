@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 24,
+            "total": 4940,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 1,
+            "total": 5000,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 4,
+            "total": 1300.42,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9998541,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Duane Schutz"
+          },
+          {
+            "id": 9997269,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Sara Nikolay"
+          },
+          {
+            "id": 2807716,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Ronald J Fischer"
+          },
+          {
+            "id": 9997849,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Robert Roehl"
+          },
+          {
+            "id": 2831455,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Timothy Wengert"
+          },
+          {
+            "id": 852754,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "PAUL HARKINS"
+          },
+          {
+            "id": 11955001,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Sentry Insurance --Federal PAC"
+          },
+          {
+            "id": 9955470,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Robert Nikolai"
+          },
+          {
+            "id": 664219,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Aggregate Producers of Wisconsin Political Action Committee"
+          },
+          {
+            "id": 12231056,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Association of Progressive Rental Orgaizations"
+          }
+        ]
+      }
+    }
+  }
+}

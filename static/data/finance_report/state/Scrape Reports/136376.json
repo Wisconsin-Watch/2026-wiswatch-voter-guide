@@ -1,0 +1,122 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 429,
+            "total": 30223.219999999998,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 11,
+            "total": 1564.1100000000001,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 2.91,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 428,
+            "total": 11928.050000000037,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 3,
+            "total": 1290,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11948290,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Jessica Seawright"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 12225869,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Tom Preston-Werner"
+          },
+          {
+            "id": 12148236,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Kathleen Chung"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 7840732,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Theresa Preston-Werner"
+          },
+          {
+            "id": 955243,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Janan Najeeb"
+          },
+          {
+            "id": 12307749,
+            "count": 3,
+            "total": 900,
+            "nameLabel": "John Holm"
+          },
+          {
+            "id": 11603426,
+            "count": 1,
+            "total": 885,
+            "nameLabel": "Pamela Clancy"
+          },
+          {
+            "id": 12240890,
+            "count": 2,
+            "total": 600,
+            "nameLabel": "Miriam Hasan"
+          }
+        ]
+      }
+    }
+  }
+}

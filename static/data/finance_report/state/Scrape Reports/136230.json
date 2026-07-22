@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 73,
+            "total": 1119.6900000000003,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 114.92,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12336686,
+            "count": 4,
+            "total": 212.16,
+            "nameLabel": "Andrew Manske"
+          },
+          {
+            "id": 12336679,
+            "count": 6,
+            "total": 128.46,
+            "nameLabel": "Jonas Manske"
+          },
+          {
+            "id": 12336694,
+            "count": 1,
+            "total": 105.75,
+            "nameLabel": "James Nichols"
+          },
+          {
+            "id": 12336678,
+            "count": 6,
+            "total": 65.16,
+            "nameLabel": "Isis Manske"
+          },
+          {
+            "id": 12336681,
+            "count": 6,
+            "total": 65.16,
+            "nameLabel": "Casper Galliart"
+          },
+          {
+            "id": 12336682,
+            "count": 6,
+            "total": 65.16,
+            "nameLabel": "Jane Smith"
+          },
+          {
+            "id": 12336687,
+            "count": 6,
+            "total": 65.16,
+            "nameLabel": "Cori Manske"
+          },
+          {
+            "id": 12336684,
+            "count": 6,
+            "total": 65.16,
+            "nameLabel": "Mark Harper"
+          },
+          {
+            "id": 12336685,
+            "count": 6,
+            "total": 65.16,
+            "nameLabel": "Luke Larsen"
+          },
+          {
+            "id": 12336677,
+            "count": 5,
+            "total": 54.3,
+            "nameLabel": "David Heinen"
+          }
+        ]
+      }
+    }
+  }
+}

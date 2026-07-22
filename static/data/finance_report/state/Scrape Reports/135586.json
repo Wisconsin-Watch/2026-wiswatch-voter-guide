@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 56,
+            "total": 24045,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 12,
+            "total": 6000,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 15,
+            "total": 14660.91,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 12133004,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 12229726,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 15513,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Mary"
+          },
+          {
+            "id": 12221540,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Plumbers & Steamfitters Local 400 Cope Fund"
+          },
+          {
+            "id": 10308863,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Katsma Terry"
+          },
+          {
+            "id": 651856,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Beer Distributors PAC"
+          },
+          {
+            "id": 663891,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Volunteers for Agriculture VFA"
+          },
+          {
+            "id": 658032,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jeff Lindemann"
+          },
+          {
+            "id": 651939,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Milwaukee Professional Firefighters Local 215"
+          }
+        ]
+      }
+    }
+  }
+}

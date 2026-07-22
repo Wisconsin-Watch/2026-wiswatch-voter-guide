@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 93,
+            "total": 19939,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 5,
+            "total": 1642,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 280,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 1,
+            "total": 17500,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 29,
+            "total": 6256.29,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 2014752,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "500146 REALTORS - RPAC"
+          },
+          {
+            "id": 7819648,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy PCA "
+          },
+          {
+            "id": 651849,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "AT&T Wisconsin Employee PAC"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 651778,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEC Energy Group PAC (WEC PAC)"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 664067,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Assn of SC WI PAC"
+          },
+          {
+            "id": 651763,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Tavern Industry PAC"
+          },
+          {
+            "id": 12147226,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND"
+          }
+        ]
+      }
+    }
+  }
+}

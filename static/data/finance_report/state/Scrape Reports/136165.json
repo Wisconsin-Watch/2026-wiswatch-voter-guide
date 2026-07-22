@@ -1,0 +1,56 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 2,
+            "total": 9800,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 15,
+            "total": 7307.58,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 6,
+            "total": 518,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 8310897,
+            "count": 1,
+            "total": 9300,
+            "nameLabel": "Jay Schroeder"
+          },
+          {
+            "id": 10744423,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Bradley Tangen"
+          }
+        ]
+      }
+    }
+  }
+}

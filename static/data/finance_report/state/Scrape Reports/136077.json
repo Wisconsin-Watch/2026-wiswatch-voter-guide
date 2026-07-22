@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 85,
+            "total": 5860,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 3,
+            "total": 5000,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 3,
+            "count": 2,
+            "total": 342.21,
+            "nameLabel": "Expense Refund"
+          },
+          {
+            "id": 10,
+            "count": 5,
+            "total": 0.13,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 29,
+            "total": 5135.01,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12228946,
+            "count": 2,
+            "total": 4000,
+            "nameLabel": "Joshua John Mittness-Buol"
+          },
+          {
+            "id": 12240921,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Josh Mittness"
+          },
+          {
+            "id": 12225708,
+            "count": 2,
+            "total": 600,
+            "nameLabel": "Paul Augustine"
+          },
+          {
+            "id": 12226071,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wanda Behling"
+          },
+          {
+            "id": 12225707,
+            "count": 2,
+            "total": 500,
+            "nameLabel": "Amy Zwicker"
+          },
+          {
+            "id": 12225897,
+            "count": 1,
+            "total": 325,
+            "nameLabel": "Sean Meirose"
+          },
+          {
+            "id": 12225706,
+            "count": 2,
+            "total": 325,
+            "nameLabel": "Garrett Matthew Wall"
+          },
+          {
+            "id": 12225709,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Mark Augustine"
+          },
+          {
+            "id": 11524753,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "ROBERT DILEONARDI"
+          },
+          {
+            "id": 12287890,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Margaret Ehlert"
+          }
+        ]
+      }
+    }
+  }
+}

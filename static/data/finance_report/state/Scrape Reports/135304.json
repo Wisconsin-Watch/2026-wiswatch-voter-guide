@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 17,
+            "total": 5279,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 2,
+            "total": 650.9,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 5,
+            "total": 48.27,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1557821,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joyce A Rogan"
+          },
+          {
+            "id": 12336006,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Eric J Frederickson"
+          },
+          {
+            "id": 12335995,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Timothy J Fredrickson"
+          },
+          {
+            "id": 12201400,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Winnebago County Democratic Party"
+          },
+          {
+            "id": 7067075,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Elizabeth Holdren"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 497.3,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 1255369,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Jennifer Neary"
+          },
+          {
+            "id": 10277782,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Gary Goyke"
+          },
+          {
+            "id": 12335976,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Me  Asbury"
+          },
+          {
+            "id": 12228151,
+            "count": 1,
+            "total": 153.6,
+            "nameLabel": "Alexandra  Victoria Corrigan"
+          }
+        ]
+      }
+    }
+  }
+}

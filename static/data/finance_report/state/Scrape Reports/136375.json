@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 66,
+            "total": 23143.010000000002,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Personal Loan"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 34,
+            "total": 4867.47,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12161282,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 12274159,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Association of SC WI - PAC"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 12147226,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 2132287,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "IBEW PAC Voluntary Fund"
+          },
+          {
+            "id": 7174656,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 12022711,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Johnny Jones"
+          },
+          {
+            "id": 12371545,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Mutual  PAC"
+          }
+        ]
+      }
+    }
+  }
+}

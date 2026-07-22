@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 25,
+            "total": 2222.11,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 478.67,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 26,
+            "total": 1973.91,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 844839,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Winnebago County Democratic Party"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 478.67,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 12226501,
+            "count": 1,
+            "total": 344.36,
+            "nameLabel": "Joey J Marschall"
+          },
+          {
+            "id": 5448975,
+            "count": 2,
+            "total": 300,
+            "nameLabel": "Peter Kronzer"
+          },
+          {
+            "id": 12121456,
+            "count": 2,
+            "total": 225,
+            "nameLabel": "Tina Smith"
+          },
+          {
+            "id": 12118968,
+            "count": 2,
+            "total": 200,
+            "nameLabel": "Susan Zuege"
+          },
+          {
+            "id": 5448575,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Ruth Caves"
+          },
+          {
+            "id": 12037795,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Randall G Trumbull Holper"
+          },
+          {
+            "id": 1061411,
+            "count": 2,
+            "total": 75,
+            "nameLabel": "Karen Goetz"
+          },
+          {
+            "id": 5448639,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Weston Zuege"
+          }
+        ]
+      }
+    }
+  }
+}

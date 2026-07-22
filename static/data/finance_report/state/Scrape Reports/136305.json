@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 19,
+            "total": 1907,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 8,
+            "total": 7457.56,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 12332350,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Benjamin Nelson"
+          },
+          {
+            "id": 12332087,
+            "count": 3,
+            "total": 300,
+            "nameLabel": "Priscila Reyes"
+          },
+          {
+            "id": 8983624,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Steven Bell"
+          },
+          {
+            "id": 12341524,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Ed Heyward"
+          },
+          {
+            "id": 12332088,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Bryce Thon"
+          },
+          {
+            "id": 12332511,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jim Meyer"
+          },
+          {
+            "id": 12339561,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Beth Riebe"
+          },
+          {
+            "id": 12339549,
+            "count": 1,
+            "total": 90,
+            "nameLabel": "Alison Miceli"
+          },
+          {
+            "id": 12339536,
+            "count": 1,
+            "total": 88,
+            "nameLabel": "Josh knaapen"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 2,
+            "total": 10209.23,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 26,
+            "total": 7310,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 2000,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 7,
+            "total": 952.52,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16896,
+            "count": 1,
+            "total": 9209.23,
+            "nameLabel": "Republican Party of Wisconsin"
+          },
+          {
+            "id": 16263,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Citizens for August"
+          },
+          {
+            "id": 8896925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert Keller"
+          },
+          {
+            "id": 9841528,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Patrick English"
+          },
+          {
+            "id": 1936792,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Todd Koss"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 9893649,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Matt Neumann"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 664274,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Milwaukee Police Association Political Action Committee"
+          },
+          {
+            "id": 12238239,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kurtz for Assembly"
+          }
+        ]
+      }
+    }
+  }
+}

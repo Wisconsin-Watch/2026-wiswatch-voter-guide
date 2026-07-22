@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 44,
+            "total": 15882.76,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 8465.84,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 10,
+            "total": 5250,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 12,
+            "total": 2323.92,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16896,
+            "count": 1,
+            "total": 8465.84,
+            "nameLabel": "Republican Party of Wisconsin"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 663314,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Donald Wahlin"
+          },
+          {
+            "id": 1936792,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Todd Koss"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 664116,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Soc Anesthesiologists PAC"
+          },
+          {
+            "id": 2717203,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Karl Schmidt"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 2725827,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "William Kress"
+          }
+        ]
+      }
+    }
+  }
+}

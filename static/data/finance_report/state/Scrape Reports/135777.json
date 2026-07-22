@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 12,
+            "total": 3596,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 8,
+            "total": 1221.9099999999999,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 6,
+            "total": 233.70999999999998,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1145530,
+            "count": 1,
+            "total": 3000,
+            "nameLabel": "Wood County Democratic Party"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 463.48,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 12228934,
+            "count": 5,
+            "total": 393.63,
+            "nameLabel": "CHRISTINE MALTESE"
+          },
+          {
+            "id": 1051871,
+            "count": 2,
+            "total": 368.8,
+            "nameLabel": "David Gorski"
+          },
+          {
+            "id": 12045657,
+            "count": 4,
+            "total": 346,
+            "nameLabel": "Deane Mathews"
+          },
+          {
+            "id": 2162187,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "JOAN SLABY"
+          },
+          {
+            "id": 1040320,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Brian Ewert"
+          },
+          {
+            "id": 10468948,
+            "count": 1,
+            "total": 20,
+            "nameLabel": "Patti Beck"
+          },
+          {
+            "id": 1060922,
+            "count": 1,
+            "total": 10,
+            "nameLabel": "Denise C. Barker"
+          },
+          {
+            "id": 1060106,
+            "count": 1,
+            "total": 10,
+            "nameLabel": "Brenda Droskiewicz"
+          }
+        ]
+      }
+    }
+  }
+}

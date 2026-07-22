@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 468,
+            "total": 59608.91,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 11,
+            "total": 46768.36,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 27,
+            "total": 2500,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 8,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Local Office"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 46,
+            "total": 10193.960000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 234,
+            "count": 2,
+            "total": 44397.85,
+            "nameLabel": "Assembly Democratic Camp Comm"
+          },
+          {
+            "id": 12352660,
+            "count": 7,
+            "total": 3438,
+            "nameLabel": "John Kroll"
+          },
+          {
+            "id": 12168418,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Lynde B. Uihlein"
+          },
+          {
+            "id": 12050015,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Weston Milliken"
+          },
+          {
+            "id": 16808,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Alex for Wisconsin"
+          },
+          {
+            "id": 6668927,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU WI State Council"
+          },
+          {
+            "id": 7967992,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Climate Cabinet PAC"
+          },
+          {
+            "id": 12049891,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Marc Katz"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 12287231,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Gregg Oppenheimer"
+          }
+        ]
+      }
+    }
+  }
+}

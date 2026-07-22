@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 30,
+            "total": 2590,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 17,
+            "total": 1350.92,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12238305,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Bonnie  Lee"
+          },
+          {
+            "id": 1614610,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Rogers Onick"
+          },
+          {
+            "id": 8047262,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Andrew McKinney"
+          },
+          {
+            "id": 12238329,
+            "count": 1,
+            "total": 110,
+            "nameLabel": "Elijah Reaves"
+          },
+          {
+            "id": 12238306,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Barbara Fishman"
+          },
+          {
+            "id": 7617601,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "SHANDOWLYON REAVES"
+          },
+          {
+            "id": 11631784,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Doris Reaves"
+          },
+          {
+            "id": 11631809,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Artie Brinson"
+          },
+          {
+            "id": 11393373,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Raymond Banks"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 28,
+            "total": 2466.33,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 9,
+            "total": 13541.01,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5982982,
+            "count": 1,
+            "total": 520.51,
+            "nameLabel": "Brad Pockat"
+          },
+          {
+            "id": 2774366,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Jerome Johnson"
+          },
+          {
+            "id": 11802652,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Steven Ozimek"
+          },
+          {
+            "id": 7059326,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "Richard Burckle"
+          },
+          {
+            "id": 12078931,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Royce D. Fillmore"
+          },
+          {
+            "id": 9847886,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Edmund Wegner"
+          },
+          {
+            "id": 2839932,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jon Pier"
+          },
+          {
+            "id": 12237394,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Bonnie Hirsch"
+          },
+          {
+            "id": 5562965,
+            "count": 2,
+            "total": 75,
+            "nameLabel": "Ken Dragotta"
+          },
+          {
+            "id": 11687663,
+            "count": 2,
+            "total": 70,
+            "nameLabel": "Charlotte Kroupa"
+          }
+        ]
+      }
+    }
+  }
+}

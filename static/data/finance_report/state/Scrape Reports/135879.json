@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 23,
+            "total": 4459.37,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 2,
+            "total": 17600,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 9,
+            "total": 400.71,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 10729298,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Meredy Hase"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 10729931,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Shirley Klauser"
+          },
+          {
+            "id": 6700732,
+            "count": 1,
+            "total": 450,
+            "nameLabel": "Alliance of Bankers for WI "
+          },
+          {
+            "id": 6111493,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Bruce Davidson"
+          },
+          {
+            "id": 10253716,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Travis Schlarb"
+          },
+          {
+            "id": 11833200,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "CFC Action Fund - Conduit "
+          },
+          {
+            "id": 8398969,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "John P Horning"
+          },
+          {
+            "id": 2777983,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Diane Gruenke"
+          },
+          {
+            "id": 10729675,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Richelle Naze"
+          }
+        ]
+      }
+    }
+  }
+}

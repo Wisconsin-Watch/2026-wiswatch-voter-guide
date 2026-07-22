@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 244,
+            "total": 67540.5,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 4,
+            "total": 3500,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 58,
+            "total": 17204.379999999997,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 102,
+            "count": 1,
+            "total": 147.7,
+            "nameLabel": "Donation to Charitable Organization"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12064820,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Connor (Conrad) Leipold"
+          },
+          {
+            "id": 8893365,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Helen Johnson Leipold"
+          },
+          {
+            "id": 7980654,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "DAVID SANCHEZ"
+          },
+          {
+            "id": 11443761,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joseph Kann"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 1194085,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Christine Kann"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 1165613,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jeffery Neubauer"
+          },
+          {
+            "id": 1349522,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Maureen Culhane"
+          },
+          {
+            "id": 12272150,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Alix Sanchez"
+          }
+        ]
+      }
+    }
+  }
+}

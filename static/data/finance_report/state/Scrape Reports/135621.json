@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 36,
+            "total": 6911.5,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 14,
+            "total": 805.38,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12230393,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Dale Staege"
+          },
+          {
+            "id": 12240669,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Alexander Barclay"
+          },
+          {
+            "id": 12230397,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "John Thur"
+          },
+          {
+            "id": 12231926,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Randall Davis"
+          },
+          {
+            "id": 5180881,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Howie Miller"
+          },
+          {
+            "id": 2117224,
+            "count": 2,
+            "total": 500,
+            "nameLabel": "Frank Frassetto"
+          },
+          {
+            "id": 9724136,
+            "count": 1,
+            "total": 257.5,
+            "nameLabel": "Ben Ganther"
+          },
+          {
+            "id": 9039313,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Anthony Phillips"
+          },
+          {
+            "id": 2796855,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Curtis Radford"
+          },
+          {
+            "id": 12189071,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Ronald Dotseth"
+          }
+        ]
+      }
+    }
+  }
+}

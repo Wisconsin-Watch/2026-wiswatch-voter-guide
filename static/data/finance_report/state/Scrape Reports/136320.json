@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 525,
+            "total": 30329.090000000004,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 25,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Returned Contribution"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 32.21,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 5,
+            "total": 13100,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 38,
+            "total": 11367.359999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 653764,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "WEAC Region 6 Political Action Committee"
+          },
+          {
+            "id": 1032652,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "mark thomsen"
+          },
+          {
+            "id": 11948290,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Jessica Seawright"
+          },
+          {
+            "id": 12147134,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Leonard J. Sobczak"
+          },
+          {
+            "id": 6668966,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends of Brandon Williford"
+          },
+          {
+            "id": 2329552,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "CHARLES KAMPS"
+          },
+          {
+            "id": 12120524,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Glen McCoy"
+          },
+          {
+            "id": 12120586,
+            "count": 2,
+            "total": 500,
+            "nameLabel": "Richard Espenscheid"
+          },
+          {
+            "id": 12047503,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Elizabeth Kessler"
+          },
+          {
+            "id": 12354643,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "John Littrell"
+          }
+        ]
+      }
+    }
+  }
+}

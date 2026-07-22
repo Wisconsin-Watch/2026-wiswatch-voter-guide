@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 23,
+            "total": 7864.55,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 24.04,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 118,
+            "total": 4095.88,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12295441,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Donald Katz"
+          },
+          {
+            "id": 12295447,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "James  Tryon"
+          },
+          {
+            "id": 12295448,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rick Tryon"
+          },
+          {
+            "id": 12295449,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Elyce Sheehan"
+          },
+          {
+            "id": 12295450,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Scottie Sheehan"
+          },
+          {
+            "id": 12295439,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Jiangnan Zhu"
+          },
+          {
+            "id": 12295455,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Jiangnan Zhu"
+          },
+          {
+            "id": 12295451,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Sunshine  Chandler"
+          },
+          {
+            "id": 12295443,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Rory Murphy"
+          },
+          {
+            "id": 12295442,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Ronnie Ellis"
+          }
+        ]
+      }
+    }
+  }
+}

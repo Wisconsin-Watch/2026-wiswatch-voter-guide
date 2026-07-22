@@ -1,0 +1,103 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 3,
+            "total": 10894.75,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 14,
+            "total": 1170,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 2,
+            "total": 577.02,
+            "nameLabel": "Personal Loan"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": []
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 3,
+            "total": 10894.75,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 12341997,
+            "count": 2,
+            "total": 577.02,
+            "nameLabel": "Scott Fleming"
+          },
+          {
+            "id": 12341988,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Warren and Eunice Hansen"
+          },
+          {
+            "id": 12341984,
+            "count": 1,
+            "total": 120,
+            "nameLabel": "Kurt and Jenny Junghen"
+          },
+          {
+            "id": 12341985,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Gordon and Nancy Haak"
+          },
+          {
+            "id": 12341990,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "David and Rebecca Robinson"
+          },
+          {
+            "id": 12341986,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Derek Meyer"
+          },
+          {
+            "id": 12341991,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Robert and Barbara Venske"
+          },
+          {
+            "id": 12341994,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Bob and Marilyn Lightfield"
+          },
+          {
+            "id": 12302479,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Terry L. Koglin"
+          }
+        ]
+      }
+    }
+  }
+}

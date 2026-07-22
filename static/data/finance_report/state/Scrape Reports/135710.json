@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 38,
+            "total": 14780,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 250,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 22,
+            "total": 13063.750000000002,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 75,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Returned Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12239882,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Angela Batterman"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 11384712,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sandra Bollinger"
+          },
+          {
+            "id": 12238246,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RPAC Wisconsin"
+          },
+          {
+            "id": 664011,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Wisconsin Association of Health Plans PAC"
+          },
+          {
+            "id": 651758,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Mutual PAC"
+          },
+          {
+            "id": 651921,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Dental Assn PAC"
+          },
+          {
+            "id": 664426,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WIA PAC"
+          },
+          {
+            "id": 2795101,
+            "count": 2,
+            "total": 600,
+            "nameLabel": "Robert L Kolb"
+          },
+          {
+            "id": 15850,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Hospitals PAC"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12,
+            "count": 4,
+            "total": 2600,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 1217.3200000000002,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 10,
+            "total": 1120.33,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12190334,
+            "count": 6,
+            "total": 2817.32,
+            "nameLabel": "Christopher Bossert"
+          },
+          {
+            "id": 12120808,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Republican Assembly Campaign Committee Segregated Fund"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 218,
+            "total": 93694.04000000007,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 2,
+            "total": 10200,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 53,
+            "total": 55640.420000000006,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 101,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Donated Excess Anonymous Contributions"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12043479,
+            "count": 1,
+            "total": 20000,
+            "nameLabel": "Diane M. Hendricks"
+          },
+          {
+            "id": 1160627,
+            "count": 1,
+            "total": 20000,
+            "nameLabel": "Wisconsin Young Republicans"
+          },
+          {
+            "id": 960426,
+            "count": 2,
+            "total": 10410.16,
+            "nameLabel": "Kathryn Burke"
+          },
+          {
+            "id": 2728401,
+            "count": 1,
+            "total": 10000,
+            "nameLabel": "Richard Sheard"
+          },
+          {
+            "id": 12250481,
+            "count": 1,
+            "total": 5000,
+            "nameLabel": "Kristie L. Letizia"
+          },
+          {
+            "id": 12250512,
+            "count": 1,
+            "total": 2602.54,
+            "nameLabel": "Mark Wieser"
+          },
+          {
+            "id": 12250506,
+            "count": 1,
+            "total": 2500,
+            "nameLabel": "John L. Fleckenstein"
+          },
+          {
+            "id": 1936561,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Diane Zore"
+          },
+          {
+            "id": 12250486,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Mark R. Clark"
+          },
+          {
+            "id": 2793179,
+            "count": 1,
+            "total": 1500,
+            "nameLabel": "Gerald Couri"
+          }
+        ]
+      }
+    }
+  }
+}

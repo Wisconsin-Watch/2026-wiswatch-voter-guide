@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 27,
+            "total": 11989.7,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 20,
+            "total": 9892.869999999999,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 1,
+            "total": 10080,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 7603692,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Kim Moeller"
+          },
+          {
+            "id": 12273545,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Richard Gross"
+          },
+          {
+            "id": 7617939,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Mike Moeller"
+          },
+          {
+            "id": 15513,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Mary"
+          },
+          {
+            "id": 11931173,
+            "count": 2,
+            "total": 750,
+            "nameLabel": "MARK GROSSKOPF"
+          },
+          {
+            "id": 6083837,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Maurice Meyers"
+          },
+          {
+            "id": 11931104,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "ROSANNA CORBIN"
+          },
+          {
+            "id": 12240664,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Brent Rushing"
+          },
+          {
+            "id": 12240690,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Ernest  Wunsch"
+          }
+        ]
+      }
+    }
+  }
+}

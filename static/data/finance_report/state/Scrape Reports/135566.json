@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 27,
+            "total": 10377.28,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 10,
+            "count": 3,
+            "total": 0.77,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 34,
+            "total": 1760.2100000000003,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1149785,
+            "count": 1,
+            "total": 5000,
+            "nameLabel": "Jeffrey Alvin Foster"
+          },
+          {
+            "id": 1688269,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jason D Bennett"
+          },
+          {
+            "id": 7037483,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Douglas Edwardsen"
+          },
+          {
+            "id": 1411160,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Daniel Erickson"
+          },
+          {
+            "id": 3778220,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Patricia Edwardsen"
+          },
+          {
+            "id": 6724186,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Gloria Hochstein"
+          },
+          {
+            "id": 9658030,
+            "count": 2,
+            "total": 400,
+            "nameLabel": "Stephen Scoll"
+          },
+          {
+            "id": 12273872,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "John Kowalewski"
+          },
+          {
+            "id": 12279982,
+            "count": 1,
+            "total": 207.28,
+            "nameLabel": "Jeff Foster for Dunn County Executive District 1"
+          },
+          {
+            "id": 1195471,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Lisa Mink"
+          }
+        ]
+      }
+    }
+  }
+}

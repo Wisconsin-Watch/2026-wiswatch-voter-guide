@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 236,
+            "total": 20809.440000000002,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 1,
+            "total": 4995,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 3672.9700000000003,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 2.18,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 71,
+            "total": 13646.349999999995,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12146615,
+            "count": 2,
+            "total": 8142,
+            "nameLabel": "David Robert Liners"
+          },
+          {
+            "id": 12271279,
+            "count": 4,
+            "total": 1100,
+            "nameLabel": "Patricia Bohlman"
+          },
+          {
+            "id": 12271244,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Duane Brett"
+          },
+          {
+            "id": 12271268,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Mary Gonzales"
+          },
+          {
+            "id": 12043436,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "AFT Local 212 COPE"
+          },
+          {
+            "id": 12219959,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Anne Brett"
+          },
+          {
+            "id": 999244,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Clancy for Assembly"
+          },
+          {
+            "id": 1069661,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Jesse Barnes"
+          },
+          {
+            "id": 12271226,
+            "count": 3,
+            "total": 500,
+            "nameLabel": "Mark Doremus"
+          },
+          {
+            "id": 11140246,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Waleed Najeeb"
+          }
+        ]
+      }
+    }
+  }
+}

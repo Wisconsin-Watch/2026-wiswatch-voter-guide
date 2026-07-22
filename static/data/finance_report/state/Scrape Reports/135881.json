@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 41,
+            "total": 15112,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 750,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 3054.67,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12320623,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Political Action Committee RPAC-Wisconsin"
+          },
+          {
+            "id": 651758,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Mutual PAC"
+          },
+          {
+            "id": 6813920,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Thrivent Wisconsin PAC"
+          },
+          {
+            "id": 12320602,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 12320624,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy Wisconsin Governmental Action Committee"
+          },
+          {
+            "id": 12160068,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "CareSource Mission PAC"
+          },
+          {
+            "id": 912453,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Republican Party of Langlade County"
+          },
+          {
+            "id": 651833,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "American Family PAC"
+          },
+          {
+            "id": 664426,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WIA PAC"
+          },
+          {
+            "id": 9898547,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "GARY SADOFF"
+          }
+        ]
+      }
+    }
+  }
+}

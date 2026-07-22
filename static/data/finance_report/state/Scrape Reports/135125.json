@@ -1,0 +1,86 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 8,
+            "total": 5624.1,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 6,
+            "total": 387.44,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 843328,
+            "count": 1,
+            "total": 5000,
+            "nameLabel": "Democratic Party of Ozaukee County"
+          },
+          {
+            "id": 1710653,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Debra Dassow"
+          },
+          {
+            "id": 11995455,
+            "count": 1,
+            "total": 135,
+            "nameLabel": "James A Blank"
+          },
+          {
+            "id": 10387929,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "James Blank"
+          },
+          {
+            "id": 958556,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Colleen McCauley"
+          },
+          {
+            "id": 955704,
+            "count": 1,
+            "total": 35,
+            "nameLabel": "Sara Dunstone"
+          },
+          {
+            "id": 12116258,
+            "count": 1,
+            "total": 4,
+            "nameLabel": "Julia Sarr"
+          },
+          {
+            "id": 11453592,
+            "count": 1,
+            "total": 0.1,
+            "nameLabel": "Landmark Credit Union"
+          }
+        ]
+      }
+    }
+  }
+}

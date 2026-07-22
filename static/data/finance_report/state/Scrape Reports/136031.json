@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 15,
+            "total": 2438,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 4,
+            "total": 1626.96,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11956891,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Assisted Living Association"
+          },
+          {
+            "id": 6988983,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Cynthia Evanoff"
+          },
+          {
+            "id": 11374293,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Gary Blumel"
+          },
+          {
+            "id": 12187693,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Society of Anesthesiologists"
+          },
+          {
+            "id": 12331440,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "jeffrey moore"
+          },
+          {
+            "id": 8080130,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Richard Kallan"
+          },
+          {
+            "id": 1696687,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Cheryl Zastrow"
+          },
+          {
+            "id": 12331438,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Ronald Petersen"
+          },
+          {
+            "id": 12331449,
+            "count": 1,
+            "total": 33,
+            "nameLabel": "jeffrey lampe"
+          },
+          {
+            "id": 12331275,
+            "count": 1,
+            "total": 30,
+            "nameLabel": "Rick Gebhard"
+          }
+        ]
+      }
+    }
+  }
+}

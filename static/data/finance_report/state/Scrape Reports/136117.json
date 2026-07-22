@@ -1,0 +1,86 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 6,
+            "total": 2975,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 38,
+            "total": 1348.6300000000003,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12120808,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Republican Assembly Campaign Committee Segregated Fund"
+          },
+          {
+            "id": 2776306,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Richard Gross"
+          },
+          {
+            "id": 998547,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Roger Lipski"
+          },
+          {
+            "id": 12336565,
+            "count": 1,
+            "total": 600,
+            "nameLabel": "John  . Saleta"
+          },
+          {
+            "id": 7601866,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Bonnie Lee"
+          },
+          {
+            "id": 7606422,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Helmut Fritz"
+          },
+          {
+            "id": 5558218,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Marissa Benson"
+          }
+        ]
+      }
+    }
+  }
+}

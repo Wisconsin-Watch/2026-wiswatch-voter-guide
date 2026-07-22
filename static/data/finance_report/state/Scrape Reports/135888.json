@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 32,
+            "total": 8665.55,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 6996.59,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 17,
+            "total": 910.3700000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 234,
+            "count": 1,
+            "total": 6275.83,
+            "nameLabel": "Assembly Democratic Camp Comm"
+          },
+          {
+            "id": 12321859,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Peggy Hedberg"
+          },
+          {
+            "id": 12050015,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Weston Milliken"
+          },
+          {
+            "id": 12168418,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Lynde B. Uihlein"
+          },
+          {
+            "id": 12308700,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Linda Hughes"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 524.76,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 12321858,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "John Duncan"
+          },
+          {
+            "id": 844839,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Winnebago County Democratic Party"
+          },
+          {
+            "id": 12308945,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Ann Reitz"
+          },
+          {
+            "id": 12321867,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Candyce Rusin"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 68,
+            "total": 17620,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 7,
+            "total": 1150,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 9,
+            "total": 1662.4299999999998,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12274159,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Association of SC WI - PAC"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 10899988,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joseph Bast"
+          },
+          {
+            "id": 12272427,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Realtors Political Action Committee RPAC-Wisconsin"
+          },
+          {
+            "id": 664126,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "ABCPAC-WIS"
+          },
+          {
+            "id": 12290038,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Chad Hertler"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 664274,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Milwaukee Police Association Political Action Committee"
+          },
+          {
+            "id": 7193551,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Courtney Sandstrom"
+          }
+        ]
+      }
+    }
+  }
+}

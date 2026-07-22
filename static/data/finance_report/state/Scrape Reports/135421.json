@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 47,
+            "total": 16715,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 49,
+            "total": 10705,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 1,
+            "total": 1587.05,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 30,
+            "total": 3659.8,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 3,
+            "total": 780,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5492203,
+            "count": 1,
+            "total": 1587.05,
+            "nameLabel": "Fox Community CU"
+          },
+          {
+            "id": 663989,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "RANW PAC"
+          },
+          {
+            "id": 664292,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Northwestern Wisconsin REALTORS PAC"
+          },
+          {
+            "id": 664011,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Association of Health Plans PAC"
+          },
+          {
+            "id": 653513,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Xcel Energy-WI PAC"
+          },
+          {
+            "id": 651849,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "AT&T Wisconsin Employee PAC"
+          },
+          {
+            "id": 665806,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "TDS Telecommunication Corporation PAC"
+          },
+          {
+            "id": 665616,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Patrick Schillinger"
+          },
+          {
+            "id": 653502,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin's Electric Cooperatives PAC"
+          },
+          {
+            "id": 964504,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert Garvin"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 310,
+            "total": 44538.64,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 34816.53999999999,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 15,
+            "total": 1000,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 70,
+            "total": 8658.74,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 7631252,
+            "count": 2,
+            "total": 34379.45,
+            "nameLabel": "ADCC"
+          },
+          {
+            "id": 1146150,
+            "count": 1,
+            "total": 4000,
+            "nameLabel": "Eau Claire County Democratic Party"
+          },
+          {
+            "id": 12272438,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "John O'Farrell"
+          },
+          {
+            "id": 11945870,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU"
+          },
+          {
+            "id": 12272430,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Weston Milliken"
+          },
+          {
+            "id": 1149163,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Berg for Assembly"
+          },
+          {
+            "id": 12272431,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Todd Vogel"
+          },
+          {
+            "id": 1622744,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Linus Upson"
+          },
+          {
+            "id": 12273689,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Chris Howard"
+          },
+          {
+            "id": 12273730,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jeffrey Martinson"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 78,
+            "total": 6606,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 30,
+            "total": 6477.33,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12331821,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Kristi Genna"
+          },
+          {
+            "id": 12332519,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Chaz Miller"
+          },
+          {
+            "id": 12338494,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Daniel Malacara"
+          },
+          {
+            "id": 7202099,
+            "count": 2,
+            "total": 300,
+            "nameLabel": "Mary Alice Alice Wimmer"
+          },
+          {
+            "id": 12331815,
+            "count": 3,
+            "total": 300,
+            "nameLabel": "William Ashenbrenner"
+          },
+          {
+            "id": 12331804,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Alfonso Zepeda-Capistran"
+          },
+          {
+            "id": 12049683,
+            "count": 4,
+            "total": 200,
+            "nameLabel": "Susan Curtis"
+          },
+          {
+            "id": 12331805,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Katherine Davey"
+          },
+          {
+            "id": 2364618,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "SAUL GLAZER"
+          },
+          {
+            "id": 12332518,
+            "count": 1,
+            "total": 160,
+            "nameLabel": "Ray Washa"
+          }
+        ]
+      }
+    }
+  }
+}

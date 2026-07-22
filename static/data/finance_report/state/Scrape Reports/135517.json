@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 14,
+            "total": 117360.6,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 12004.75,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 3100,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 50,
+            "count": 3,
+            "total": 958.17,
+            "nameLabel": "Unitemized"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16069,
+            "count": 4,
+            "total": 112004.75,
+            "nameLabel": "Committee to Elect a Republican Senate"
+          },
+          {
+            "id": 9968039,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Diane M. Hendricks"
+          },
+          {
+            "id": 10103582,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Matt Neuman"
+          },
+          {
+            "id": 15513,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Mary"
+          },
+          {
+            "id": 17316,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Feyen for Senate"
+          },
+          {
+            "id": 8896925,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Robert Keller"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 17271,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Quinn for Senate"
+          },
+          {
+            "id": 15879,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Testin for Senate"
+          },
+          {
+            "id": 5609096,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "WMC Conduit "
+          }
+        ]
+      }
+    }
+  }
+}

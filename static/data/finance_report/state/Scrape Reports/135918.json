@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 36,
+            "total": 19135.420000000002,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 41,
+            "total": 11698.820000000002,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12050370,
+            "count": 3,
+            "total": 13500,
+            "nameLabel": "JON Dale ALECKSON"
+          },
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12023227,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Bruce Bosben"
+          },
+          {
+            "id": 11533097,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jon Lancaster"
+          },
+          {
+            "id": 2809800,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Sandy Bakk"
+          },
+          {
+            "id": 2719826,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Ron Wenger"
+          },
+          {
+            "id": 12310488,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Jon  Hall"
+          },
+          {
+            "id": 12231564,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Ernest Cvetezar"
+          },
+          {
+            "id": 12231559,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Jeff Cvetezar"
+          },
+          {
+            "id": 12231577,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Michael Kraszewski"
+          }
+        ]
+      }
+    }
+  }
+}

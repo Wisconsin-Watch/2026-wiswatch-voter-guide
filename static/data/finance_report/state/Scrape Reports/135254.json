@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 45,
+            "total": 9945,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 511.15,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 20,
+            "total": 1765.4000000000003,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12226495,
+            "count": 1,
+            "total": 2105,
+            "nameLabel": "Merlin Van Buren"
+          },
+          {
+            "id": 1256838,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Gerald Anderson"
+          },
+          {
+            "id": 1051875,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "John A. Langeland"
+          },
+          {
+            "id": 1308171,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Judith Thoms"
+          },
+          {
+            "id": 2091979,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Susan Anderson"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 511.15,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 10925820,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Robert Kirschner"
+          },
+          {
+            "id": 1200764,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Richard Plonsky"
+          },
+          {
+            "id": 1244572,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Jim Leschke"
+          },
+          {
+            "id": 1481474,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Sandra McKitrick"
+          }
+        ]
+      }
+    }
+  }
+}

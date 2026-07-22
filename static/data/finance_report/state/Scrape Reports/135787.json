@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 48,
+            "total": 11884.95,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 6,
+            "total": 1073.45,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 15,
+            "total": 4642.220000000001,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12187455,
+            "count": 6,
+            "total": 3069.45,
+            "nameLabel": "Christopher Able"
+          },
+          {
+            "id": 1145586,
+            "count": 1,
+            "total": 2500,
+            "nameLabel": "Manitowoc County Democratic Party"
+          },
+          {
+            "id": 7232101,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Richard Holgate"
+          },
+          {
+            "id": 7716948,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Mimi Munch"
+          },
+          {
+            "id": 11443928,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jerome Fox"
+          },
+          {
+            "id": 2852306,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Linda Wenzel"
+          },
+          {
+            "id": 2852114,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Dave and Joan Estes"
+          },
+          {
+            "id": 1058969,
+            "count": 3,
+            "total": 300,
+            "nameLabel": "Kerry Kading"
+          },
+          {
+            "id": 2851980,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Kerry Trask"
+          },
+          {
+            "id": 2852121,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Sherrie Francar"
+          }
+        ]
+      }
+    }
+  }
+}

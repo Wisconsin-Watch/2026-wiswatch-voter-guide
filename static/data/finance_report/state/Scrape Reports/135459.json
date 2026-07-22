@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 56,
+            "total": 4764,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 4,
+            "total": 103.77000000000001,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 3,
+            "total": 1288.67,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12272139,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "robin fossum"
+          },
+          {
+            "id": 12272140,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "adam staff"
+          },
+          {
+            "id": 12272123,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "joseph huftel"
+          },
+          {
+            "id": 12271899,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "robert rogers"
+          },
+          {
+            "id": 12271895,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "samuel west"
+          },
+          {
+            "id": 12271901,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "glen anderson"
+          },
+          {
+            "id": 12272116,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "nan banks"
+          },
+          {
+            "id": 12272113,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "kris schoonover"
+          },
+          {
+            "id": 12271888,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "LINDA  Thompson"
+          },
+          {
+            "id": 12271910,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "agnes ciokosz"
+          }
+        ]
+      }
+    }
+  }
+}

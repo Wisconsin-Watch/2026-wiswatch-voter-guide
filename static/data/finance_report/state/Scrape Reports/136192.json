@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 284,
+            "total": 24725.2,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 5,
+            "total": 750,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 58,
+            "total": 7780.119999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 2,
+            "total": 60,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 651935,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 12136629,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "David Worth"
+          },
+          {
+            "id": 12109857,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Karlene Ferrante"
+          },
+          {
+            "id": 11955001,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Sentry Insurance --Federal PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 12238280,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Forest County Potawatomi Community PAC"
+          },
+          {
+            "id": 12339404,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "IBEW PAC Voluntary Fund"
+          },
+          {
+            "id": 12050996,
+            "count": 3,
+            "total": 400,
+            "nameLabel": "Tim Hess"
+          }
+        ]
+      }
+    }
+  }
+}

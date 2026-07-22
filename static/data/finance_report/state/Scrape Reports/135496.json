@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 14,
+            "total": 8959.099999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 5,
+            "total": 1757.73,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16968,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rep Assembly Campaign Com RACC"
+          },
+          {
+            "id": 12074350,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert P. Fettig"
+          },
+          {
+            "id": 12274213,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Gerald P McGraw"
+          },
+          {
+            "id": 12274214,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Teresa M Schmidt"
+          },
+          {
+            "id": 12274220,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Justin M Spaulding"
+          },
+          {
+            "id": 12274221,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Teri Baar"
+          },
+          {
+            "id": 12274224,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Joseph T Pregont"
+          },
+          {
+            "id": 12274217,
+            "count": 1,
+            "total": 800,
+            "nameLabel": "Stanley McGraw"
+          },
+          {
+            "id": 12274218,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Thomas A McGraw"
+          },
+          {
+            "id": 12274219,
+            "count": 1,
+            "total": 479.7,
+            "nameLabel": "Kim Hendricks"
+          }
+        ]
+      }
+    }
+  }
+}

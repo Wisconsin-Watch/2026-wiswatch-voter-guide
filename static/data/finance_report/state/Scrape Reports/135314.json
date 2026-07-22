@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 53,
+            "total": 7860,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 3,
+            "total": 1254.83,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 40,
+            "total": 3145.8599999999997,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 946748,
+            "count": 1,
+            "total": 5000,
+            "nameLabel": "Democratic Party of Jefferson County"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 1104.83,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 12237351,
+            "count": 2,
+            "total": 500,
+            "nameLabel": "Charles Church"
+          },
+          {
+            "id": 12157938,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Charles F. Church"
+          },
+          {
+            "id": 12237345,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Joann Stephens"
+          },
+          {
+            "id": 12237356,
+            "count": 1,
+            "total": 175,
+            "nameLabel": "David & Cheryl Lemke"
+          },
+          {
+            "id": 11848926,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "David Lemke"
+          },
+          {
+            "id": 11338562,
+            "count": 2,
+            "total": 150,
+            "nameLabel": "Ben Adams"
+          },
+          {
+            "id": 12023207,
+            "count": 2,
+            "total": 150,
+            "nameLabel": "Stephen Lizer"
+          },
+          {
+            "id": 12158497,
+            "count": 5,
+            "total": 125,
+            "nameLabel": "Ben Adams"
+          }
+        ]
+      }
+    }
+  }
+}

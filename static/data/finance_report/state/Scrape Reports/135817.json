@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 1104,
+            "total": 165603.76999999993,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 10,
+            "total": 58463.58,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 47,
+            "total": 9090,
+            "nameLabel": "Conduit Contribution"
+          },
+          {
+            "id": 10,
+            "count": 6,
+            "total": 9.14,
+            "nameLabel": "Other Income"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 133,
+            "total": 21733.84,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16330,
+            "count": 3,
+            "total": 53631.6,
+            "nameLabel": "State Senate Democratic Committee"
+          },
+          {
+            "id": 12049891,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Marc Katz"
+          },
+          {
+            "id": 7967992,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Climate Cabinet PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 12050015,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Weston Milliken"
+          },
+          {
+            "id": 651843,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "IBEW-PAC"
+          },
+          {
+            "id": 613264,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Local 400 COPE Fund"
+          },
+          {
+            "id": 16087,
+            "count": 2,
+            "total": 2000,
+            "nameLabel": "Friends of Tim Carpenter"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 12064229,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Jane Durment"
+          }
+        ]
+      }
+    }
+  }
+}

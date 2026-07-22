@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 50,
+            "total": 5400,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 287.73,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11957571,
+            "count": 12,
+            "total": 1200,
+            "nameLabel": "Robert Longwell-Grice"
+          },
+          {
+            "id": 2118038,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Wisconsin Green Party"
+          },
+          {
+            "id": 12295477,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "William Morison Morison"
+          },
+          {
+            "id": 12295359,
+            "count": 1,
+            "total": 300,
+            "nameLabel": "Howard Meyers"
+          },
+          {
+            "id": 12295392,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Ann Kowal"
+          },
+          {
+            "id": 12295458,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Emily Longwell-Grice"
+          },
+          {
+            "id": 12295358,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Marti Marino"
+          },
+          {
+            "id": 12295362,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "Peter Wells"
+          },
+          {
+            "id": 12295388,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "Thomas Bachhuber"
+          },
+          {
+            "id": 12295356,
+            "count": 2,
+            "total": 125,
+            "nameLabel": "James Longwell"
+          }
+        ]
+      }
+    }
+  }
+}

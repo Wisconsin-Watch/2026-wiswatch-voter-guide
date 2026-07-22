@@ -1,0 +1,68 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 9,
+            "count": 3,
+            "total": 229,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 1,
+            "total": 0.14,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1149780,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Dennis D Degenhardt"
+          },
+          {
+            "id": 1684615,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "John Torinus, Jr."
+          },
+          {
+            "id": 1275360,
+            "count": 1,
+            "total": 25,
+            "nameLabel": "Jason Penterman"
+          },
+          {
+            "id": 1,
+            "count": 1,
+            "total": 4,
+            "nameLabel": "Anonymous"
+          }
+        ]
+      }
+    }
+  }
+}

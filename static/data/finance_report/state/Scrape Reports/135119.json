@@ -1,0 +1,122 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 84,
+            "total": 30660,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 7,
+            "total": 7588.450000000001,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 17,
+            "total": 4700,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 3,
+            "total": 30250,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 75,
+            "count": 7,
+            "total": 7588.450000000001,
+            "nameLabel": "Returned Contribution"
+          },
+          {
+            "id": 43,
+            "count": 8,
+            "total": 3558.4500000000003,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16819,
+            "count": 7,
+            "total": 7588.450000000001,
+            "nameLabel": "Cory Tomczyk"
+          },
+          {
+            "id": 11711183,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Meryl Kelch"
+          },
+          {
+            "id": 11711348,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Kent Olson"
+          },
+          {
+            "id": 12232130,
+            "count": 1,
+            "total": 1200,
+            "nameLabel": "Patrick Heier"
+          },
+          {
+            "id": 12232108,
+            "count": 1,
+            "total": 1200,
+            "nameLabel": "Steven Lewis"
+          },
+          {
+            "id": 651778,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEC Energy Group PAC (WEC PAC)"
+          },
+          {
+            "id": 651869,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Forest Co Potawatomi Comm PAC"
+          },
+          {
+            "id": 1190379,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Keith Kocourek"
+          },
+          {
+            "id": 652099,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Jerome Brickner"
+          },
+          {
+            "id": 5316702,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Leonard Boltz"
+          }
+        ]
+      }
+    }
+  }
+}

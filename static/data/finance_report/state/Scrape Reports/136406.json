@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 11,
+            "total": 5970,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 9,
+            "total": 4475.730000000001,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 102,
+            "count": 1,
+            "total": 125,
+            "nameLabel": "Donation to Charitable Organization"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11802951,
+            "count": 2,
+            "total": 3500,
+            "nameLabel": "Steve Rydzewski"
+          },
+          {
+            "id": 11937574,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "Marg Rydzewski"
+          },
+          {
+            "id": 12337690,
+            "count": 1,
+            "total": 750,
+            "nameLabel": "Walter Rydzewski"
+          },
+          {
+            "id": 9035816,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Tony Holschbach"
+          },
+          {
+            "id": 12341417,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Sue Steele"
+          },
+          {
+            "id": 7940470,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "John Pappone"
+          },
+          {
+            "id": 12341127,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Kaitlin Rydzewski"
+          },
+          {
+            "id": 916011,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Jolene Churchill"
+          },
+          {
+            "id": 7940332,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Cathy Houchin"
+          },
+          {
+            "id": 12339709,
+            "count": 1,
+            "total": 20,
+            "nameLabel": "Ken Eckert"
+          }
+        ]
+      }
+    }
+  }
+}

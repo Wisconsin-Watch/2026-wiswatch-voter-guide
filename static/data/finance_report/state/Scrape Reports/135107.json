@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 123,
+            "total": 21530,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 4,
+            "total": 848.01,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 3,
+            "total": 250,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 10,
+            "total": 3619.2899999999995,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 946748,
+            "count": 1,
+            "total": 5500,
+            "nameLabel": "Democratic Party of Jefferson County"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 12237384,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alliant Energy Wisconsin Governmental Action Committee"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 12008214,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Pipe Trades Association PAC Fund"
+          },
+          {
+            "id": 1146127,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "SEIU Wisconsin State Council PAC"
+          },
+          {
+            "id": 651935,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 1045366,
+            "count": 3,
+            "total": 550,
+            "nameLabel": "Charles Pinckney"
+          },
+          {
+            "id": 847883,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "IBEW Local 890 PAC Fund"
+          },
+          {
+            "id": 936429,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Steve Bower"
+          }
+        ]
+      }
+    }
+  }
+}

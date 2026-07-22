@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 54,
+            "total": 7382,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 34,
+            "total": 3735.02,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 12,
+            "total": 3495.55,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 6074615,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alan Blair"
+          },
+          {
+            "id": 2791677,
+            "count": 3,
+            "total": 900,
+            "nameLabel": "Chris Munyon"
+          },
+          {
+            "id": 12362763,
+            "count": 5,
+            "total": 570,
+            "nameLabel": "Heather Vabalaitis"
+          },
+          {
+            "id": 12362871,
+            "count": 2,
+            "total": 528,
+            "nameLabel": "Michael McCusker"
+          },
+          {
+            "id": 2156394,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Jay Calhoun"
+          },
+          {
+            "id": 2156994,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "William Utphall"
+          },
+          {
+            "id": 12120668,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "James Sosniak"
+          },
+          {
+            "id": 11847142,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Mickey Hale"
+          },
+          {
+            "id": 12362750,
+            "count": 2,
+            "total": 485,
+            "nameLabel": "Gerald Simons"
+          },
+          {
+            "id": 1722855,
+            "count": 7,
+            "total": 356.02,
+            "nameLabel": "Scott Harbridge"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 22,
+            "total": 2189.13,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 2,
+            "total": 1164.1000000000001,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 12,
+            "total": 118.69,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 39,
+            "count": 1,
+            "total": 90,
+            "nameLabel": "Loan Interest"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1145445,
+            "count": 1,
+            "total": 682.44,
+            "nameLabel": "Chippewa Co Democratic Party"
+          },
+          {
+            "id": 1145596,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Price County Democratic  Party"
+          },
+          {
+            "id": 15921,
+            "count": 1,
+            "total": 481.66,
+            "nameLabel": "Democratic Party of Wisconsin"
+          },
+          {
+            "id": 10047105,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Patrica McKearn"
+          },
+          {
+            "id": 12226914,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Joseph  Stienessen"
+          },
+          {
+            "id": 12226915,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "John Kowalewski"
+          },
+          {
+            "id": 1688075,
+            "count": 1,
+            "total": 193,
+            "nameLabel": "Jason Bergeron"
+          },
+          {
+            "id": 1050905,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Chris Armstrong"
+          },
+          {
+            "id": 12004934,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Frederic Clark"
+          },
+          {
+            "id": 12068716,
+            "count": 1,
+            "total": 96.5,
+            "nameLabel": "Ginger Murray"
+          }
+        ]
+      }
+    }
+  }
+}

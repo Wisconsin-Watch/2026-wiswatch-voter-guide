@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 427,
+            "total": 76751.87999999996,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 7,
+            "total": 53403.600000000006,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 31,
+            "total": 2500,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 75,
+            "total": 16601.61,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 234,
+            "count": 6,
+            "total": 52927.630000000005,
+            "nameLabel": "Assembly Democratic Camp Comm"
+          },
+          {
+            "id": 651770,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Operating Engineers 139 PAC"
+          },
+          {
+            "id": 613283,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Plumbers Local 75 PAC"
+          },
+          {
+            "id": 34817,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Pipe Trades Assn PAC"
+          },
+          {
+            "id": 613186,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "United Association Local 118 PAC"
+          },
+          {
+            "id": 613264,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Local 400 COPE Fund"
+          },
+          {
+            "id": 651739,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "IBEW Local 494 PAC"
+          },
+          {
+            "id": 613296,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Sprinkler Fitters Local 183"
+          },
+          {
+            "id": 613307,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Steamfitters Local 601 PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WI Laborers District Council"
+          }
+        ]
+      }
+    }
+  }
+}

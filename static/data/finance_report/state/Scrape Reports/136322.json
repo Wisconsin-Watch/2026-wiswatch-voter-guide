@@ -1,0 +1,98 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 23,
+            "total": 1265,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 10,
+            "total": 278.56,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 6803661,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Stuart and Janice Walter"
+          },
+          {
+            "id": 684573,
+            "count": 1,
+            "total": 150,
+            "nameLabel": "EMILY GENE MARCUS"
+          },
+          {
+            "id": 11016342,
+            "count": 2,
+            "total": 150,
+            "nameLabel": "Priscilla Wright"
+          },
+          {
+            "id": 12362864,
+            "count": 2,
+            "total": 130,
+            "nameLabel": "Andy Lindgren"
+          },
+          {
+            "id": 12157177,
+            "count": 1,
+            "total": 100,
+            "nameLabel": " Bob Hallett"
+          },
+          {
+            "id": 12136763,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "EMILY TSEFFOS"
+          },
+          {
+            "id": 12287371,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Shawna Riley"
+          },
+          {
+            "id": 2140467,
+            "count": 2,
+            "total": 60,
+            "nameLabel": "Margaret Teske"
+          },
+          {
+            "id": 7067090,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Carla Hales"
+          },
+          {
+            "id": 12362952,
+            "count": 1,
+            "total": 50,
+            "nameLabel": "Madison  Wright"
+          }
+        ]
+      }
+    }
+  }
+}

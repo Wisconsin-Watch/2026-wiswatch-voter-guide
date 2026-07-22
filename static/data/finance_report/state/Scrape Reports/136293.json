@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 148,
+            "total": 19008,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 1,
+            "total": 2500,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 457.58,
+            "nameLabel": "In-Kind"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 43,
+            "total": 9076.77,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 1,
+            "total": 250,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11956886,
+            "count": 1,
+            "total": 2500,
+            "nameLabel": "Lawanda Chambers"
+          },
+          {
+            "id": 12282043,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Megan Hull"
+          },
+          {
+            "id": 12282079,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Linda Hughes"
+          },
+          {
+            "id": 12282082,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "PEGGY HEDBERG"
+          },
+          {
+            "id": 12282086,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Lawanda Chambers"
+          },
+          {
+            "id": 12282028,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Osama Zaal"
+          },
+          {
+            "id": 16245,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Supreme For Assembly"
+          },
+          {
+            "id": 12282020,
+            "count": 6,
+            "total": 600,
+            "nameLabel": "Alice Chambets"
+          },
+          {
+            "id": 17203,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Friends of La Tonya Johnson"
+          },
+          {
+            "id": 10084085,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Randall Luter"
+          }
+        ]
+      }
+    }
+  }
+}

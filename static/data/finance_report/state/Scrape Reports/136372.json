@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 775,
+            "total": 99277.65999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 5,
+            "total": 45722.69,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 7,
+            "total": 10000,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 179,
+            "total": 21988.579999999994,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16330,
+            "count": 3,
+            "total": 45452.22,
+            "nameLabel": "State Senate Democratic Committee"
+          },
+          {
+            "id": 12049891,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Marc Katz"
+          },
+          {
+            "id": 613283,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Plumbers Local 75 PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 613264,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Local 400 COPE Fund"
+          },
+          {
+            "id": 16143,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "KeyeskiForWI"
+          },
+          {
+            "id": 7967992,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Climate Cabinet PAC"
+          },
+          {
+            "id": 1146259,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "International Union of Painters and Allied Trades Political Action Together Political Committee"
+          },
+          {
+            "id": 1150574,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Wisconsin Carpenters PAC"
+          },
+          {
+            "id": 12296468,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Linus Upson"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 111,
+            "total": 29122,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 1,
+            "count": 7,
+            "total": 850,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 27,
+            "count": 4,
+            "total": 4625,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 43,
+            "count": 44,
+            "total": 2941.93,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 11870771,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Megan Goodrich"
+          },
+          {
+            "id": 11870731,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Naomi Camper"
+          },
+          {
+            "id": 1317865,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Karola Jungbacker"
+          },
+          {
+            "id": 10793685,
+            "count": 2,
+            "total": 1000,
+            "nameLabel": "Kathleen Chung"
+          },
+          {
+            "id": 11232970,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Melissa Scholz"
+          },
+          {
+            "id": 11196369,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Garry Jenkins"
+          },
+          {
+            "id": 651839,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "WEAC PAC"
+          },
+          {
+            "id": 1179319,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Paula Bonner"
+          },
+          {
+            "id": 2846864,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Daniel Vande Zande"
+          },
+          {
+            "id": 12271193,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "GE HealthCare Technologies Inc. PAC"
+          }
+        ]
+      }
+    }
+  }
+}

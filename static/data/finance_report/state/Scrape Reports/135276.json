@@ -1,0 +1,56 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 5,
+            "count": 10,
+            "total": 1609.5,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 9,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 2,
+            "total": 100,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12226536,
+            "count": 10,
+            "total": 1609.5,
+            "nameLabel": "Bryna Caves"
+          },
+          {
+            "id": 12274911,
+            "count": 1,
+            "total": 100,
+            "nameLabel": "Bryna Caves"
+          }
+        ]
+      }
+    }
+  }
+}

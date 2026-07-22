@@ -1,0 +1,116 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 132,
+            "total": 15565,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 5,
+            "count": 1,
+            "total": 8075.6,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 1,
+            "count": 5,
+            "total": 4700,
+            "nameLabel": "Conduit Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 36,
+            "total": 8047.919999999999,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 50,
+            "count": 6,
+            "total": 18,
+            "nameLabel": "Unitemized"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 16896,
+            "count": 1,
+            "total": 8075.6,
+            "nameLabel": "Republican Party of Wisconsin"
+          },
+          {
+            "id": 17016,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Friends of Devin LeMahieu"
+          },
+          {
+            "id": 1936792,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Todd Koss"
+          },
+          {
+            "id": 8052454,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Kevin Mehring"
+          },
+          {
+            "id": 651935,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "REALTORS Political Action Committee - Wisconsin"
+          },
+          {
+            "id": 663314,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Donald Wahlin"
+          },
+          {
+            "id": 8896925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Robert Keller"
+          },
+          {
+            "id": 651763,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Tavern Industry PAC"
+          },
+          {
+            "id": 651925,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Concerned Realtors Committee"
+          },
+          {
+            "id": 12274866,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Patrick English"
+          }
+        ]
+      }
+    }
+  }
+}

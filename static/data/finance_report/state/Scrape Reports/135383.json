@@ -1,0 +1,104 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 131,
+            "total": 19879.54,
+            "nameLabel": "Monetary"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 10,
+            "total": 2584.81,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 102,
+            "count": 5,
+            "total": 525,
+            "nameLabel": "Donation to Charitable Organization"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 1250559,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Peter Mensch"
+          },
+          {
+            "id": 12227974,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Alan Louis"
+          },
+          {
+            "id": 12228156,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Ericka Bjorngaard"
+          },
+          {
+            "id": 7236297,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Mary E Nelson"
+          },
+          {
+            "id": 10236752,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Rosalie Schnick"
+          },
+          {
+            "id": 12008214,
+            "count": 1,
+            "total": 1000,
+            "nameLabel": "Wisconsin Pipe Trades Association PAC Fund"
+          },
+          {
+            "id": 1265555,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "E Drecktrah"
+          },
+          {
+            "id": 1935382,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "IBEW-PAC"
+          },
+          {
+            "id": 651773,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "WI Laborers District Council"
+          },
+          {
+            "id": 1580800,
+            "count": 1,
+            "total": 500,
+            "nameLabel": "Patricia Heim"
+          }
+        ]
+      }
+    }
+  }
+}

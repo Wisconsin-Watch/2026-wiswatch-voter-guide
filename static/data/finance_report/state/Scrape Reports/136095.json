@@ -1,0 +1,128 @@
+{
+  "donations_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 9,
+            "count": 257,
+            "total": 75978,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 12,
+            "count": 2,
+            "total": 5000,
+            "nameLabel": "Personal Loan"
+          },
+          {
+            "id": 5,
+            "count": 2,
+            "total": 599.97,
+            "nameLabel": "In-Kind"
+          },
+          {
+            "id": 3,
+            "count": 1,
+            "total": 200,
+            "nameLabel": "Expense Refund"
+          }
+        ]
+      }
+    }
+  },
+  "spends_by_category": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 43,
+            "count": 81,
+            "total": 25486.240000000005,
+            "nameLabel": "Monetary"
+          },
+          {
+            "id": 27,
+            "count": 6,
+            "total": 830,
+            "nameLabel": "Contribution to Committee (Monetary)"
+          },
+          {
+            "id": 75,
+            "count": 2,
+            "total": 250,
+            "nameLabel": "Returned Contribution"
+          }
+        ]
+      }
+    }
+  },
+  "top_donors": {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": 12150116,
+            "count": 1,
+            "total": 20000,
+            "nameLabel": "Elise Lawson"
+          },
+          {
+            "id": 12205830,
+            "count": 4,
+            "total": 5103,
+            "nameLabel": "Yee Leng Xiong"
+          },
+          {
+            "id": 11586496,
+            "count": 1,
+            "total": 4000,
+            "nameLabel": "Douglas E Hosler"
+          },
+          {
+            "id": 12333899,
+            "count": 1,
+            "total": 3000,
+            "nameLabel": "Mai Xiong"
+          },
+          {
+            "id": 12362835,
+            "count": 5,
+            "total": 2380,
+            "nameLabel": "Sy Xiong"
+          },
+          {
+            "id": 12333939,
+            "count": 1,
+            "total": 2000,
+            "nameLabel": "Pao Vang"
+          },
+          {
+            "id": 12333904,
+            "count": 2,
+            "total": 1500,
+            "nameLabel": "Dean Dietrich"
+          },
+          {
+            "id": 12362832,
+            "count": 1,
+            "total": 1500,
+            "nameLabel": "Bee Xiong"
+          },
+          {
+            "id": 12333977,
+            "count": 2,
+            "total": 1500,
+            "nameLabel": "Victor Neng Xiong"
+          },
+          {
+            "id": 11957827,
+            "count": 2,
+            "total": 1100,
+            "nameLabel": "Gillian Battino"
+          }
+        ]
+      }
+    }
+  }
+}
