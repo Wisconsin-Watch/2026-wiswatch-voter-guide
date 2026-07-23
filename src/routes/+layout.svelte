@@ -130,11 +130,13 @@
 					<div class="sponsor-grid">
 						<div class="sponsor-slot">
 							<a href="https://www.herbkohlphilanthropies.org/">
-								<img src="{base}/graphics/logos/HerbKohl_BlackBlue_horizontal.png" alt="Herb Kohl" />
+								<img src="{base}/graphics/logos/HerbKohl_BlackBlue_horizontal.png" alt="Herb Kohl"/>
 							</a>
 						</div>
 						<div class="sponsor-slot">
-							<!-- <img src="" alt="Wiswatch" /> -->
+							<a href="https://wiseye.org/">
+								<img src="{base}/graphics/logos/WISEYE_WISPOL_LOGO_NO BACKGROUND.png" alt="Wisconsin Eye & Wis Politics"/>
+							</a>
 						</div>
 						<div class="sponsor-slot">
 							<!-- <img src="" alt="Wiswatch" />	 -->
@@ -186,7 +188,6 @@
 	}
 
 	.footer-sponsors .sponsor-slot {
-		height: 80px;
 		display: flex;
 		align-items: center;
 		justify-content: center;
