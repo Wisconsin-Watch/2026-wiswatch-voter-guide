@@ -545,6 +545,8 @@
     .top-donors-row {
         grid-template-columns: 1fr;
         gap: 0.5rem;
+        border-bottom: 1px solid #D5E2EE;
+        padding-bottom: 0.5rem;
     }
 
     .top-donors-name-group {
