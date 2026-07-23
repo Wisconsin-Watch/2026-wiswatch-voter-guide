@@ -134,9 +134,30 @@
 							</a>
 						</div>
 						<div class="sponsor-slot">
+							<!-- <img src="" alt="Wiswatch" />	 -->
+						</div>
+						<div class="sponsor-slot">
+							<!-- <img src="" alt="Wiswatch" />	 -->
+						</div>
+						<div class="sponsor-slot">
+							<!-- <img src="" alt="Wiswatch" /> -->
+						</div>
+					</div>
+				</div>
+				<!-- Credits: 1/4 -->
+				<div class="footer-credits text-widget">
+				</div>
+				<!-- Sponsors: 3/4, each logo in its own column -->
+				<div class="footer-sponsors">
+					<h5 class="wp-block-heading has-text-align-left">Special thanks to our contributors</h5>
+					<div class="sponsor-grid">
+						<div class="sponsor-slot">
 							<a href="https://wiseye.org/">
 								<img src="{base}/graphics/logos/WISEYE_WISPOL_LOGO_NO BACKGROUND.png" alt="Wisconsin Eye & Wis Politics"/>
 							</a>
+						</div>
+						<div class="sponsor-slot">
+							<!-- <img src="" alt="Wiswatch" />	 -->
 						</div>
 						<div class="sponsor-slot">
 							<!-- <img src="" alt="Wiswatch" />	 -->
@@ -174,7 +195,7 @@
 	.footer-credits-sponsors {
 		display: grid;
 		grid-template-columns: 1fr 3fr;
-		gap: 2rem;
+		gap: 0.5rem;
 		align-items: start;
 		padding: 0;
 	}
