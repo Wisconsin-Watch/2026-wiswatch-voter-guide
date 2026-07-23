@@ -458,7 +458,7 @@
                                     />
                                 {/if}
                                 <small>
-                                    <i>Data from <a href="https://campaignfinance.wi.gov/browse-data/reports?searchTerm=2026+July+Continuing">July 2026 Continuing report</a> by the State of Wisconsin Ethics Commission. Data fetched on July 22, 2026. </i>
+                                    <i>Data reflects total funds raised as reported in the July 2026 Continuing Report filed with the <a href="https://campaignfinance.wi.gov/browse-data/reports">Wisconsin Ethics Commission</a>. Data was retrieved on July 22, 2026.</i>
                                 </small>
                             </div>
                         {/if}
