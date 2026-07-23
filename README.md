@@ -4,6 +4,10 @@
 
 <h1>Release Update</h1>
 
+<h4>Update Jul. 23, 2026</h4>
+
+- Added campaign finance information.
+
 <h4>Update Jul. 22, 2026</h4>
 
 - Added Wiseye interviews to candidate pages.

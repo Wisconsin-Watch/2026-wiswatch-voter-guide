@@ -1,5 +1,7 @@
 <script>
   import { goto } from '$app/navigation';
+  import { getTopDonorsByCandidateId } from '$lib/financeReports.js';
+  import TopDonorsRanking from '$lib/TopDonorsRanking.svelte';
   export let candidate = null;
   export let loading = true;
   export let error = null;
@@ -8,6 +10,11 @@
   export let showReturnToRace = true;
   export let returnToRace = () => {};
   export let questions = [];
+
+  let topDonors = [];
+  let topDonorsLoading = false;
+  let campaignFinanceUrl = '';
+  let currentTopDonorCandidateId = '';
 
   // Get questions and answers for the candidate
   $: candidateQuestionsAndAnswers = questions
@@ -43,6 +50,51 @@ onMount(async () => {
     window.broadstreet.watch({ networkId: 9723 });
   }
 });
+
+  async function loadTopDonors(candidateId) {
+    if (!candidateId) {
+      topDonors = [];
+      campaignFinanceUrl = '';
+      currentTopDonorCandidateId = '';
+      return;
+    }
+
+    currentTopDonorCandidateId = candidateId;
+    topDonorsLoading = true;
+
+    try {
+      const result = await getTopDonorsByCandidateId(candidateId);
+
+      if (currentTopDonorCandidateId !== candidateId) {
+        return;
+      }
+
+      topDonors = result.donors;
+      campaignFinanceUrl = result.entityId
+        ? `https://campaignfinance.wi.gov/browse-data/registrant/${result.entityId}`
+        : '';
+    } catch {
+      if (currentTopDonorCandidateId === candidateId) {
+        topDonors = [];
+        campaignFinanceUrl = '';
+      }
+    } finally {
+      if (currentTopDonorCandidateId === candidateId) {
+        topDonorsLoading = false;
+      }
+    }
+  }
+
+  $: if (candidate?.candidate_id && !loading && !error) {
+    loadTopDonors(candidate.candidate_id);
+  }
+
+  $: if (!candidate?.candidate_id || loading || error) {
+    topDonorsLoading = false;
+    topDonors = [];
+    campaignFinanceUrl = '';
+    currentTopDonorCandidateId = '';
+  }
 </script>
 
 {#if showReturnToRace && raceId}
@@ -148,8 +200,6 @@ onMount(async () => {
               <img src={base + '/graphics/logos/youtube.svg'} alt="YouTube" loading="lazy" />
             </a>
           {/if}
-
-
         </div>
       </div>
     </div>
@@ -186,6 +236,19 @@ onMount(async () => {
       <h2>Candidate Interview</h2>
         {@html candidate.interview_video}
     </div>
+  {/if}
+
+  {#if topDonors.length > 0}
+  <div class="info-section">
+    <h2>Top ten donors</h2>
+      <TopDonorsRanking donors={topDonors} />
+    {#if campaignFinanceUrl}
+      <small class="top-donors-note">
+        <span class="top-donors-note-icon" aria-hidden="true">!</span>
+        <i>Click <a href={campaignFinanceUrl} target="_blank" rel="noopener noreferrer">here</a> for full campaign finance records. Data last updated on July 22, 2026.</i>
+      </small>
+    {/if}
+  </div>
   {/if}
 
 {/if}

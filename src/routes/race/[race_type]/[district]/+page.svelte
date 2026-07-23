@@ -14,6 +14,8 @@
     import { page } from '$app/stores';
     import { goto } from '$app/navigation';
     import { getRaceByRaceId, getCandidateByCandidateId, getStoriesByRaceId, getPositionInfo } from '$lib/googleSheets.js';
+    import { getFundsRaisedForCandidates } from '$lib/financeReports.js';
+    import FundsRaisedRanking from '$lib/FundsRaisedRanking.svelte';
     import { initializeSingleDistrictMap } from '$lib/mapUtils.js';
     import { saveSourceRace, clearSourceRace } from '$lib/raceStorage.js';
     
@@ -110,6 +112,8 @@
     let candidates = [];
     let stories = [];
     let positionInfo = '';
+    let fundsByCandidateId = {};
+    let financeLoading = true;
     let loading = true;
     let error = null;
     let pymChild;
@@ -117,6 +121,7 @@
     let districtMap = null;
     let config = null;
     let raceTypeParam = '';
+    let showFundsRaisedSection = true;
     let previousRaceType = '';
     let previousDistrict = '';
     
@@ -134,6 +139,8 @@
             // Assume it's a statewide race and generate config dynamically
             config = generateStatewideConfig(raceTypeParam);
         }
+
+        showFundsRaisedSection = raceTypeParam !== 'congress';
     }
 
     function getRaceConfigKey(raceTypeSlug) {
@@ -208,7 +215,7 @@
                 }
             }
 
-            // Sort candidates with active candidates first, dropped-out last,
+            // Sort candidates with active candidates first (a), dropped-out last (b),
             // then alphabetically by last name within each group.
             candidates.sort((a, b) => {
                 const getLastName = (name) => {
@@ -232,6 +239,19 @@
                 return lastCompare || a.name.localeCompare(b.name);
             });
 
+            if (showFundsRaisedSection) {
+                // Load finance totals for candidates in this race.
+                financeLoading = true;
+                const candidateIds = candidates
+                    .map((candidate) => candidate.candidate_id)
+                    .filter(Boolean);
+                fundsByCandidateId = await getFundsRaisedForCandidates(candidateIds);
+                financeLoading = false;
+            } else {
+                financeLoading = false;
+                fundsByCandidateId = {};
+            }
+
             // Load stories for this race using the actual race-id
             stories = await getStoriesByRaceId(race['race-id']);
             
@@ -241,6 +261,7 @@
             loading = false;
         } catch (err) {
             error = err.message;
+            financeLoading = false;
             loading = false;
             console.error('Error fetching race:', err);
         }
@@ -276,6 +297,8 @@
             // Reset state
             loading = true;
             error = null;
+            financeLoading = true;
+            fundsByCandidateId = {};
             
             // Clear source race when arriving at race page
             clearSourceRace();
@@ -422,6 +445,23 @@
                             <p>{@html race['district-race-nutshell'].replace(/\r?\n/g, '</p><p>')}</p>
                         </div>
                     {/if}
+
+                        {#if showFundsRaisedSection}
+                            <div class="info-section funds-raised-section">
+                                <h2>Campaign funds raised</h2>
+                                {#if financeLoading}
+                                    <p>Loading campaign finance data...</p>
+                                {:else}
+                                    <FundsRaisedRanking
+                                        candidates={candidates}
+                                        fundsByCandidateId={fundsByCandidateId}
+                                    />
+                                {/if}
+                                <small>
+                                    <i>Data from <a href="https://campaignfinance.wi.gov/browse-data/reports?searchTerm=2026+July+Continuing">July 2026 Continuing report</a> by the State of Wisconsin Ethics Commission. Data fetched on July 22, 2026. </i>
+                                </small>
+                            </div>
+                        {/if}
 
                     {#if race['primary-results']}
                         <div class="info-section">

@@ -269,6 +269,244 @@
     color: #515151;
 }
 
+.funds-raised-list {
+    display: grid;
+    gap: 0.85rem;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.funds-raised-row {
+    display: grid;
+    grid-template-columns: minmax(170px, 220px) 1fr;
+    align-items: center;
+    gap: 0.9rem;
+}
+
+.funds-raised-name {
+    font-family: "Publico Roman", "Georgia", "serif";
+    font-weight: 700;
+    color: #233166;
+    line-height: 1.25;
+    border-right: 2px solid #D5E2EE;
+}
+
+.funds-raised-bar-track {
+    position: relative;
+    width: 100%;
+    background: #F3F6FA;
+    border-radius: 12px;
+    min-height: 2.1rem;
+    display: flex;
+    align-items: stretch;
+    overflow: hidden;
+    box-shadow: inset 5px 5px 5px 0px rgba(35, 49, 102, 0.1);
+}
+
+.funds-raised-bar {
+    min-height: 2.1rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 0;
+    white-space: nowrap;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 0.88rem;
+    transition: width 250ms ease;
+}
+
+.funds-raised-bar-fill {
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 5px 5px 5px 0px rgba(35, 49, 102, 0.1);
+    transform-origin: left center;
+    transform: scaleX(1);
+}
+
+.funds-raised-list.in-view .funds-raised-bar-fill {
+    animation: funds-raised-grow 0.5s ease-out both;
+}
+
+.funds-raised-bar.with-inside-label {
+    padding: 0 0.7rem;
+}
+
+.funds-raised-amount {
+    position: relative;
+    z-index: 1;
+    font-family: 'Heebo', sans-serif;
+}
+
+.funds-raised-amount-outside {
+    position: absolute;
+    font-weight: 700;
+    right: 0.7rem;
+    font-size: 0.88rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #233166;
+}
+
+.funds-raised-bar.party-democrat .funds-raised-bar-fill {
+    background: #003cb9;
+}
+
+.funds-raised-bar.party-republican .funds-raised-bar-fill {
+    background: #e9141e;
+}
+
+.funds-raised-bar.party-independent .funds-raised-bar-fill {
+    background: #e69f00;
+}
+
+.funds-raised-bar.party-other .funds-raised-bar-fill {
+    background: #515151;
+}
+
+.top-donors-list {
+    display: grid;
+    gap: 0.85rem;
+    margin-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.top-donors-row {
+    display: grid;
+    grid-template-columns: minmax(220px, 280px) 1fr;
+    align-items: center;
+    gap: 0.9rem;
+}
+
+.top-donors-name-group {
+    padding-right: 0.8rem;
+    border-right: 2px solid #D5E2EE;
+}
+
+.top-donors-name {
+    font-family: "Publico Roman", "Georgia", "serif";
+    font-weight: 700;
+    color: #233166;
+    line-height: 1.25;
+}
+
+.top-donors-count {
+    font-size: 0.78rem;
+    color: #515151;
+    margin-top: 0.25rem;
+    font-family: 'Heebo', sans-serif;
+}
+
+.top-donors-bar-track {
+    position: relative;
+    width: 100%;
+    background: #F3F6FA;
+    border-radius: 12px;
+    min-height: 2.1rem;
+    display: flex;
+    align-items: stretch;
+    overflow: hidden;
+    box-shadow: inset 5px 5px 5px 0px rgba(35, 49, 102, 0.1);
+}
+
+.top-donors-bar {
+    min-height: 2.1rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 0;
+    white-space: nowrap;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 0.88rem;
+    transition: width 250ms ease;
+}
+
+.top-donors-bar-fill {
+    position: absolute;
+    inset: 0;
+    box-shadow: inset 5px 5px 5px 0px rgba(35, 49, 102, 0.1);
+    transform-origin: left center;
+    transform: scaleX(1);
+    background: #7CA982;
+}
+
+.top-donors-list.in-view .top-donors-bar-fill {
+    animation: funds-raised-grow 0.5s ease-out both;
+}
+
+.top-donors-bar.with-inside-label {
+    padding: 0 0.7rem;
+}
+
+.top-donors-amount {
+    position: relative;
+    z-index: 1;
+    font-family: 'Heebo', sans-serif;
+}
+
+.top-donors-amount-outside {
+    position: absolute;
+    font-weight: 700;
+    right: 0.7rem;
+    font-size: 0.88rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #233166;
+}
+
+.top-donors-note-icon {
+    width: 1.05rem;
+    height: 1.05rem;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #ffffff;
+    background: #233166;
+    flex: 0 0 auto;
+}
+
+.top-donors-note a {
+    color: #233166;
+    text-decoration: underline;
+}
+
+.top-donors-note a:hover {
+    color: #005a87;
+}
+
+@keyframes funds-raised-grow {
+    from {
+        transform: scaleX(0);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .funds-raised-list.in-view .funds-raised-bar-fill {
+        animation: none;
+    }
+
+    .funds-raised-bar-fill {
+        transform: none;
+    }
+
+    .top-donors-list.in-view .top-donors-bar-fill {
+        animation: none;
+    }
+
+    .top-donors-bar-fill {
+        transform: none;
+    }
+}
+
  .story-data a {
     font-family: 'Publico Banner', sans-serif;
  }
@@ -297,5 +535,20 @@
 
     .story-cover-img {
         margin: 0.75rem 0;
+    }
+
+    .funds-raised-row {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+
+    .top-donors-row {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+
+    .top-donors-name-group {
+        border-right: none;
+        padding-right: 0;
     }
 }
