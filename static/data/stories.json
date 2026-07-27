@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-26T12:31:55.582Z",
+  "lastUpdated": "2026-07-27T13:12:29.486Z",
   "stories": [
+    {
+      "id": "https://wisconsinwatch.org/?p=1319172",
+      "title": "Wisconsin’s Democratic primary for governor has changed a lot since January — and not much at all",
+      "url": "https://wisconsinwatch.org/2026/07/wisconsin-democratic-primary-governor-election-candidates-barnes-brennan-crowley-hong-roys/",
+      "creator": "Brittany Carloni / Wisconsin Watch",
+      "pubDate": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?fit=1024%2C525&amp;quality=100&amp;ssl=1",
+      "imageAlt": "A composite image shows five people in separate vertical panels. Campaign signs reading &quot;MANDELA BARNES&quot; and &quot;END CITIZENS UNITED&quot; appear behind one person, and another wears a &quot;ROYS&quot; button.",
+      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?w=1460&amp;quality=100&amp;ssl=1 1460w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=336%2C172&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=782%2C401&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=140%2C72&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=768%2C393&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=1200%2C615&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=1024%2C525&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=780%2C400&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=400%2C205&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?resize=706%2C362&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?fit=1024%2C525&amp;quality=100&amp;ssl=1&amp;w=370 370w",
+      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
+      "imageWidth": "1024",
+      "imageHeight": "525"
+    },
     {
       "id": "https://wisconsinwatch.org/?p=1319105",
       "title": "Can Wisconsin voters void a returned absentee ballot? New lawsuit sends issue back to court",
@@ -65,19 +78,6 @@
       "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
       "imageWidth": "1024",
       "imageHeight": "683"
-    },
-    {
-      "id": "https://wisconsinwatch.org/?p=1318769",
-      "title": "Did more Democrats run for Wisconsin governor in 2018 than in 2026?",
-      "url": "https://wisconsinwatch.org/2026/07/wisconsin-governor-election-more-democrats-2018-2026-primary-ballot-candidates/",
-      "creator": "Hope Karnopp / Milwaukee Journal Sentinel",
-      "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
-      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?fit=1024%2C537&amp;quality=100&amp;ssl=1",
-      "imageAlt": "",
-      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?w=2500&amp;quality=100&amp;ssl=1 2500w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=336%2C176&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=782%2C410&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=140%2C73&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=768%2C403&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=1536%2C806&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=2048%2C1075&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=1200%2C630&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=1024%2C537&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=1568%2C823&amp;quality=100&amp;ssl=1 1568w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=2000%2C1050&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=400%2C210&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?resize=706%2C371&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Gigafact-debate.jpg?fit=1024%2C537&amp;quality=100&amp;ssl=1&amp;w=370 370w",
-      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
-      "imageWidth": "1024",
-      "imageHeight": "537"
     }
   ]
 }
