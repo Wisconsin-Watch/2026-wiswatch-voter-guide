@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T15:52:25.444Z",
+  "lastUpdated": "2026-07-27T16:16:13.563Z",
   "stories": [
     {
       "id": 0,
@@ -7,7 +7,9 @@
       "race_id": "go-d",
       "headline": "Top two in Democratic gubernatorial straw poll highlight classic debate: Appeal to general electorate or the base?",
       "byline": "Brittany Carloni / Wisconsin Watch and Audrey Lopez-Stane / Wisconsin Watch",
-      "published_date": "2026-06-15T11:00:00.000Z"
+      "published_date": "2026-06-15T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 1,
@@ -15,7 +17,9 @@
       "race_id": "se-1",
       "headline": "As the Tony Evers chapter of Wisconsin history draws to a close, a new chapter is just beginning",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2026-02-18T12:00:00.000Z"
+      "published_date": "2026-02-18T12:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 2,
@@ -23,7 +27,9 @@
       "race_id": "se-1",
       "headline": "Can Wisconsin do what Montana is attempting to prohibit corporations from donating to campaigns?",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2026-02-13T16:35:22.000Z"
+      "published_date": "2026-02-13T16:35:22.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 3,
@@ -31,7 +37,9 @@
       "race_id": "co-7",
       "headline": "Transportation lobbyists have donated thousands to Sean Duffy’s son-in-law as he runs for Congress",
       "byline": "Megan O'Matz / ProPublica",
-      "published_date": "2026-03-22T15:12:02.000Z"
+      "published_date": "2026-03-22T15:12:02.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 4,
@@ -39,7 +47,9 @@
       "race_id": "co-7",
       "headline": "Northern Wisconsin House primary tests power of Trump endorsement",
       "byline": "Rich Kremer / WPR",
-      "published_date": "2026-05-14T10:06:00.000Z"
+      "published_date": "2026-05-14T10:06:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 5,
@@ -47,7 +57,9 @@
       "race_id": "co-1",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 6,
@@ -55,7 +67,9 @@
       "race_id": "co-2",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 7,
@@ -63,7 +77,9 @@
       "race_id": "co-3",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 8,
@@ -71,7 +87,9 @@
       "race_id": "co-3",
       "headline": "Democrats vying for 3rd Congressional District face off in candidate forum",
       "byline": "Rich Kremer / WPR",
-      "published_date": "2026-06-19T04:27:43.000Z"
+      "published_date": "2026-06-19T04:27:43.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 9,
@@ -79,7 +97,9 @@
       "race_id": "co-4",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 10,
@@ -87,7 +107,9 @@
       "race_id": "co-5",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 11,
@@ -95,7 +117,9 @@
       "race_id": "co-6",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 12,
@@ -103,7 +127,9 @@
       "race_id": "co-8",
       "headline": "Here’s how much the wealth of Wisconsin’s congressional delegation has changed since going to Washington",
       "byline": "Jade Lozada / NOTUS and Taylor Giorno / NOTUS",
-      "published_date": "2026-05-06T22:00:11.000Z"
+      "published_date": "2026-05-06T22:00:11.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 13,
@@ -111,7 +137,9 @@
       "race_id": "as-51",
       "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2026-05-04T11:00:00.000Z"
+      "published_date": "2026-05-04T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 14,
@@ -119,7 +147,9 @@
       "race_id": "as-88",
       "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2026-05-04T11:00:00.000Z"
+      "published_date": "2026-05-04T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 15,
@@ -127,7 +157,9 @@
       "race_id": "as-61",
       "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2026-05-04T11:00:00.000Z"
+      "published_date": "2026-05-04T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 16,
@@ -135,7 +167,9 @@
       "race_id": "as-85",
       "headline": "Conservative group’s ad campaign pits vulnerable Wisconsin Republicans against their own party leadership",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2026-05-04T11:00:00.000Z"
+      "published_date": "2026-05-04T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 17,
@@ -143,7 +177,9 @@
       "race_id": "se-27",
       "headline": "Wisconsin Democrats say they won’t act like Republicans if they win a legislative majority in 2026",
       "byline": "Brittany Carloni / Wisconsin Watch",
-      "published_date": "2025-12-22T12:00:00.000Z"
+      "published_date": "2025-12-22T12:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 18,
@@ -151,7 +187,9 @@
       "race_id": "as-76",
       "headline": "5 candidates for Madison seat in state Assembly explain their views",
       "byline": "Enjoyiana Nururdin / The Cap Times",
-      "published_date": "2026-06-19T10:00:00.000Z"
+      "published_date": "2026-06-19T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 19,
@@ -159,7 +197,9 @@
       "race_id": "lg-1",
       "headline": "Meet the candidates running for Wisconsin lieutenant governor",
       "byline": "Clara Strecker / Milwaukee Journal Sentinel",
-      "published_date": "2026-06-08T10:07:02.000Z"
+      "published_date": "2026-06-08T10:07:02.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 20,
@@ -167,7 +207,9 @@
       "race_id": "tr-1",
       "headline": "Meet the candidates running for Wisconsin state treasurer",
       "byline": "Clara Strecker / Milwaukee Journal Sentinel",
-      "published_date": "2026-06-17T10:02:17.000Z"
+      "published_date": "2026-06-17T10:02:17.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 21,
@@ -175,7 +217,9 @@
       "race_id": "ag-1",
       "headline": "AG race could focus on crime lab backlogs. Here's what to know",
       "byline": "Laura Schulte / Milwaukee Journal Sentinel",
-      "published_date": "2026-06-03T5:03:00.000Z"
+      "published_date": "2026-06-03T5:03:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 22,
@@ -183,7 +227,9 @@
       "race_id": "as-76",
       "headline": "Priorities differentiate Madison Dems running in Assembly primary",
       "byline": "Chali Pittman / ISTHMUS",
-      "published_date": "2026-07-06T13:15:00.000Z"
+      "published_date": "2026-07-06T13:15:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 23,
@@ -191,7 +237,9 @@
       "race_id": "co-7",
       "headline": "Wisconsin 7th Congressional District Republican Primary debate",
       "byline": "Eleanore Hunt / WDIO.com",
-      "published_date": "2026-07-08T04:56:47.000Z"
+      "published_date": "2026-07-08T04:56:47.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 24,
@@ -199,7 +247,9 @@
       "race_id": "as-56",
       "headline": "Grace Abitz, Shawna Riley compete in Democratic primary in District 56",
       "byline": "Duke Behnke / The Post-Crescent",
-      "published_date": "2026-07-08T10:02:27.000Z"
+      "published_date": "2026-07-08T10:02:27.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 25,
@@ -207,7 +257,9 @@
       "race_id": "go-d",
       "headline": "A democratic socialist in Wisconsin tests how far left voters want to go in a battleground state",
       "byline": "Scott Bauer/ AP News",
-      "published_date": "2026-07-09T15:30:26.000Z"
+      "published_date": "2026-07-09T15:30:26.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 26,
@@ -215,7 +267,9 @@
       "race_id": "go-d",
       "headline": "Here Are All the Candidates Running for Wisconsin Governor in 2026",
       "byline": "Larry Sandler / Milwaukee Magazine",
-      "published_date": "2026-07-08T23:25:00.000Z"
+      "published_date": "2026-07-08T23:25:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 27,
@@ -223,7 +277,9 @@
       "race_id": "go-r",
       "headline": "Here Are All the Candidates Running for Wisconsin Governor in 2026",
       "byline": "Larry Sandler / Milwaukee Magazine",
-      "published_date": "2026-07-08T23:25:00.000Z"
+      "published_date": "2026-07-08T23:25:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 28,
@@ -231,7 +287,9 @@
       "race_id": "sc-1",
       "headline": "Meet the candidates running for Wisconsin secretary of state",
       "byline": "Clara Strecker / Journal Sentinel",
-      "published_date": "2026-07-10T10:01:09.000Z"
+      "published_date": "2026-07-10T10:01:09.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 29,
@@ -239,7 +297,9 @@
       "race_id": "go-d",
       "headline": "Wisconsin governor candidate says her campaign has far less money than she thought",
       "byline": "Scott Bauer / AP News",
-      "published_date": "2026-07-14T02:15:59.000Z"
+      "published_date": "2026-07-14T02:15:59.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 30,
@@ -247,7 +307,9 @@
       "race_id": "as-21",
       "headline": "Former priest faces current mayor in Assembly Democratic primary",
       "byline": "Erik S. Hanley / Journal Sentinel",
-      "published_date": "2026-07-15T10:01:05.000Z"
+      "published_date": "2026-07-15T10:01:05.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 31,
@@ -255,7 +317,9 @@
       "race_id": "co-3",
       "headline": "Berge, Cooke square off in 3rd Congressional District forum",
       "byline": "Chris Vetter Leader-Telegram staff / Leader-Telegram",
-      "published_date": "2026-07-15T01:30:00.000Z"
+      "published_date": "2026-07-15T01:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 32,
@@ -263,7 +327,9 @@
       "race_id": "co-7",
       "headline": "Northwoods Democrats promise to stand up to Trump in primary debate",
       "byline": "Avery Martinez / WPR",
-      "published_date": "2026-07-15T01:26:06.000Z"
+      "published_date": "2026-07-15T01:26:06.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 33,
@@ -271,7 +337,9 @@
       "race_id": "go-d",
       "headline": "Kelda Roys leans on experience, attention to detail in second bid for governor",
       "byline": "Sarah Lehr / WPR",
-      "published_date": "2026-07-21T10:00:00.000Z"
+      "published_date": "2026-07-21T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     },
     {
       "id": 34,
@@ -279,7 +347,59 @@
       "race_id": "as-9",
       "headline": "Meet the Democratic candidates in the 2026 Assembly District 9 race",
       "byline": "Adrienne Davis / Journal Sentinel",
-      "published_date": "2026-07-21T10:03:36.000Z"
+      "published_date": "2026-07-21T10:03:36.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 35,
+      "url": "https://captimes.com/news/government/wisconsin-governor-primary-heats-up-anybody-s-ballgame-for-democrats/article_a8180383-a8bb-4173-bebf-8679c4792ae2.html",
+      "race_id": "go-d",
+      "headline": "Wisconsin governor primary heats up: Anybody’s ballgame for Democrats",
+      "byline": "Olivia Herken / The Cap Times",
+      "published_date": "2026-07-22T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 36,
+      "url": "https://www.postcrescent.com/story/news/politics/elections/2026/07/24/3-democrats-face-off-in-aug-11-primary-in-8th-congressional-district/90651577007/",
+      "race_id": "co-8",
+      "headline": "3 Democrats face off in Aug. 11 primary in 8th Congressional District",
+      "byline": "Jesse Lin / The Post-Crescent",
+      "published_date": "2026-07-24T10:01:47.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 37,
+      "url": "https://www.wpr.org/news/mandela-barnes-democratic-primary-campaign-govenror-2026",
+      "race_id": "go-d",
+      "headline": "Mandela Barnes is asking Democrats for another chance in governor's race",
+      "byline": "Rich Kremer / WPR",
+      "published_date": "2026-07-27T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 38,
+      "url": "https://www.wisn.com/article/countdown-to-debate-night-governor-candidates-in-final-hours-of-prep-ahead-of-debate-on-wisn-12/73258881",
+      "race_id": "go-d",
+      "headline": "Countdown to debate night: Governor candidates in final hours of prep ahead of debate on WISN 12",
+      "byline": "Matt Smith / WISN",
+      "published_date": "2026-07-26T14:31:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 39,
+      "url": "https://wisconsinwatch.org/2026/07/wisconsin-democratic-primary-governor-election-candidates-barnes-brennan-crowley-hong-roys/",
+      "race_id": "go-d",
+      "headline": "Wisconsin’s Democratic primary for governor has changed a lot since January — and not much at all",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "published_date": "2026-07-27T11:00:00.000Z",
+      "featured": "yes",
+      "featured_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asseDemocrats-Composite.jpg?w=1460&quality=100&ssl=1"
     }
   ]
 }
