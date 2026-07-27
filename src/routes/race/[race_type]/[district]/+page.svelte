@@ -482,23 +482,42 @@
                             <h2>Stories about this race</h2>
                             <div class="stories-list">
                                 {#each [...stories]
-                                    .sort((a, b) =>
-                                        new Date(b.published_date).getTime() -
-                                        new Date(a.published_date).getTime()
-                                    ) as story}
+                                    .sort((a, b) => {
+                                        // Featured stories always come first
+                                        if (a.featured === "yes" && b.featured !== "yes") return -1;
+                                        if (a.featured !== "yes" && b.featured === "yes") return 1;
+
+                                        // Then sort by most recent publish date
+                                        return (
+                                            new Date(b.published_date).getTime() -
+                                            new Date(a.published_date).getTime()
+                                        );
+                                    })
+                                    .slice(0, 10) as story}
                                     <div class="story-item">
                                         <div class="story-data">
-                                            <a
-                                                href={story.url}
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                class="story-headline"
-                                            >
-                                                {story.headline}
-                                            </a>
-                                            {#if story.byline}
-                                                <div class="story-byline">
-                                                    by <strong>{story.byline}</strong>
+                                            <div class="story-meta">
+                                                
+                                                <a
+                                                    href={story.url}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    class="story-headline"
+                                                >
+                                                    {story.headline}
+                                                </a>
+
+                                                {#if story.byline}
+                                                    <div class="story-byline">
+                                                        by <strong>{story.byline}</strong>
+                                                    </div>
+                                                {/if}
+
+                                            </div>
+
+                                            {#if story.featured_img}
+                                                <div class="story-featured-img">
+                                                    <img src={story.featured_img} alt={story.headline} />
                                                 </div>
                                             {/if}
                                         </div>

@@ -230,7 +230,7 @@
     border-bottom: none;
 }
 
-.story-headline, .story-data > a.story-headline {
+.story-headline, .story-meta > a.story-headline {
     display: block;
     font-size: 0.9rem;
     font-weight: 700;
@@ -254,13 +254,19 @@
 }
 
 .story-data {
-    margin-right: 0.5em;
+    display: flex;
+    flex-direction: row;
+    margin-right: 1rem;
 }
 
 .story-byline {
     font-size: 0.8rem;
     font-family: 'Heebo', sans-serif;
     color: #515151;
+}
+
+.story-featured-img {
+    width: 60%;
 }
 
 .story-publisher {
@@ -529,12 +535,21 @@
         padding: 0;
     }
 
+    .story-data {
+        flex-direction: column-reverse;
+        margin-right: 0;
+    }
+
     .story-item {
         grid-auto-flow: row;
     } 
 
     .story-cover-img {
         margin: 0.75rem 0;
+    }
+
+    .story-featured-img {
+        width: 100%;
     }
 
     .funds-raised-row {
@@ -555,4 +570,6 @@
         border-right: none;
         padding-right: 0;
     }
+
+
 }
