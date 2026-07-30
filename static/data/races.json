@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T13:22:41.877Z",
+  "lastUpdated": "2026-07-30T20:02:58.178Z",
   "sheets": {
     "Assembly": {
       "information": "State representatives write, review and vote on legislation that becomes state law if approved by the Legislature and signed by the governor.\nState representatives serve on one or more of 37 committees that take public testimony on bills and review legislation.\nThey work on a state budget every other year to determine how tens of billions of dollars are spent.\nState representatives also oversee a small staff that helps provide constituent services. Each member of the Assembly represents roughly 59,000 people.",
@@ -3260,11 +3260,11 @@
           "race-id": "go-d",
           "district-number": "",
           "district-info": "",
-          "district-race-nutshell": "After Democratic Gov. Tony Evers chose not to seek reelection this year, five candidates are running for the Democratic gubernatorial nomination. They include former Lt. Gov. Mandela Barnes, former Department of Administration Secretary Joel Brennan, Milwaukee County Executive David Crowley, Madison state Rep. Francesca Hong and Madison state Sen. Kelda Roys. The candidate that wins on Aug. 11 will face the winner of the Republican primary. Lt. Gov. Sara Rodriguez and former Wisconsin Economic Development Corp. CEO Missy Hughes will still appear on the ballot. Hughes dropped out of the race in June. Rodriguez exited in mid-July due to campaign fundraising problems. Crowley suspended his campaign in early July, but re-entered after Rodriguez dropped out. Evers has endorsed Crowley.",
+          "district-race-nutshell": "After Democratic Gov. Tony Evers chose not to seek reelection this year, four candidates are running for the Democratic gubernatorial nomination. They include former Department of Administration Secretary Joel Brennan, Milwaukee County Executive David Crowley, Madison state Rep. Francesca Hong and Madison state Sen. Kelda Roys. The candidate that wins on Aug. 11 will face the winner of the Republican primary. Lt. Gov. Sara Rodriguez and former Wisconsin Economic Development Corp. CEO Missy Hughes will still appear on the ballot. Hughes dropped out of the race in June. Rodriguez exited in mid-July due to campaign fundraising problems. Barnes left the race in late July. Crowley suspended his campaign in early July, but re-entered after Rodriguez dropped out. Evers has endorsed Crowley.",
           "primary-results": "",
           "key-races": "",
           "candidate-1": "m-barnes1",
-          "candidate-1-status": "",
+          "candidate-1-status": "dropped-out",
           "candidate-2": "j-brennan1",
           "candidate-2-status": "",
           "candidate-3": "d-crowley1",
