@@ -1,0 +1,27 @@
+{
+  "candidate_id": "r-lillesve1",
+  "entity_id": "12230218",
+  "contributions_received": 601.0,
+  "top_donors": [
+    {
+      "name": "St. Croix County Democratic Party",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Robin Lillesve",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Jane Hansen",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Anne Taylor",
+      "total": 1.0,
+      "count": 1
+    }
+  ]
+}

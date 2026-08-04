@@ -1,0 +1,57 @@
+{
+  "candidate_id": "l-snodgrass1",
+  "entity_id": "16130",
+  "contributions_received": 26282.0,
+  "top_donors": [
+    {
+      "name": "Thrivent Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 3 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eric Swanson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Brian Blazer",
+      "total": 625.0,
+      "count": 2
+    },
+    {
+      "name": "Laura Carlson",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Thomas Nelson",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Daniel Wessel",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "LKQ Corporate Employee Good Government Fund",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW PAC Voluntary Fund",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Pam Sealy",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

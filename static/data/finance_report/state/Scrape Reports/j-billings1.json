@@ -1,0 +1,57 @@
+{
+  "candidate_id": "j-billings1",
+  "entity_id": "15842",
+  "contributions_received": 38979.12,
+  "top_donors": [
+    {
+      "name": "Assembly Democratic Campaign Committee",
+      "total": 6033.96,
+      "count": 1
+    },
+    {
+      "name": "Mary E Nelson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rosalie Schnick",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alan Louis",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ericka Bjorngaard",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Wills",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Mensch",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WBD Corporate",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

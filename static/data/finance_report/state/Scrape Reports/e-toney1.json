@@ -1,0 +1,57 @@
+{
+  "candidate_id": "e-toney1",
+  "entity_id": "16017",
+  "contributions_received": 915941.33,
+  "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 30000.0,
+      "count": 1
+    },
+    {
+      "name": "Gregg E. Kunes",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Silvia Dretzka",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Elizabeth A. Uihlein",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathryn Burke",
+      "total": 19000.0,
+      "count": 2
+    },
+    {
+      "name": "Dennis A. Gasper",
+      "total": 19000.0,
+      "count": 1
+    },
+    {
+      "name": "Matthew Neumann",
+      "total": 17500.0,
+      "count": 1
+    },
+    {
+      "name": "Judith Gasper",
+      "total": 16000.0,
+      "count": 1
+    },
+    {
+      "name": "Jere Dhein",
+      "total": 15000.0,
+      "count": 3
+    },
+    {
+      "name": "Edward A. Cox",
+      "total": 14000.0,
+      "count": 1
+    }
+  ]
+}

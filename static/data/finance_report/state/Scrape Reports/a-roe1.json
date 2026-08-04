@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-roe1",
+  "entity_id": "1149157",
+  "contributions_received": 23887.28,
+  "top_donors": [
+    {
+      "name": "Ann Roe",
+      "total": 3200.0,
+      "count": 3
+    },
+    {
+      "name": "Cynthia Squire",
+      "total": 1050.0,
+      "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Thomas Lasse",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jonathan Roe",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW PAC Voluntary Fund",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Macy Ryan",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

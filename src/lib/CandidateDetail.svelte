@@ -245,7 +245,7 @@ onMount(async () => {
     {#if campaignFinanceUrl}
       <small class="top-donors-note">
         <span class="top-donors-note-icon" aria-hidden="true">!</span>
-        <i>Click <a href={campaignFinanceUrl} target="_blank" rel="noopener noreferrer">here</a> for full campaign finance records. Data last updated on July 22, 2026.</i>
+        <i>Click <a href={campaignFinanceUrl} target="_blank" rel="noopener noreferrer">here</a> for full campaign finance records. Data last updated on Aug. 4, 2026.</i>
       </small>
     {/if}
   </div>

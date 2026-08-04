@@ -1,0 +1,57 @@
+{
+  "candidate_id": "t-tranel1",
+  "entity_id": "15899",
+  "contributions_received": 12261.63,
+  "top_donors": [
+    {
+      "name": "Mound City Bank",
+      "total": 1145.0,
+      "count": 2
+    },
+    {
+      "name": "Julie Frey",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jordan Ruttenberg",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Mound City Bank",
+      "total": 867.63,
+      "count": 1
+    },
+    {
+      "name": "Tony Steinhart",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Kristine Wolf",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Joe Schambow",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Jacquelyn Kieler",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Smithwood",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

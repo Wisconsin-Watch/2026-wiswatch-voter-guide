@@ -1,0 +1,27 @@
+{
+  "candidate_id": "j-donohue1",
+  "entity_id": "12229965",
+  "contributions_received": 2103.88,
+  "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jefferson County Republican Party",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "John Michael Donohue",
+      "total": 403.88,
+      "count": 12
+    },
+    {
+      "name": "Patrick McGinty",
+      "total": 200.0,
+      "count": 1
+    }
+  ]
+}

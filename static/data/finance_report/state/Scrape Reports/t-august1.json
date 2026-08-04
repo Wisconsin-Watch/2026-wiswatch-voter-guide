@@ -1,0 +1,57 @@
+{
+  "candidate_id": "t-august1",
+  "entity_id": "16263",
+  "contributions_received": 72327.84,
+  "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 6179.0,
+      "count": 1
+    },
+    {
+      "name": "First National Bank and Trust",
+      "total": 1194.34,
+      "count": 5
+    },
+    {
+      "name": "Tad Eggenberger",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Trone",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Matthew Siebenaler",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Dental Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Harold Freymiller",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "LKQ Corporate Employee Good Government Fund",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

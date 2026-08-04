@@ -1,0 +1,57 @@
+{
+  "candidate_id": "c-maltese1",
+  "entity_id": "12228933",
+  "contributions_received": 8677.6,
+  "top_donors": [
+    {
+      "name": "Wood County Democratic Party",
+      "total": 3000.0,
+      "count": 1
+    },
+    {
+      "name": "Ron Natzke",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 463.48,
+      "count": 1
+    },
+    {
+      "name": "CHRISTINE MALTESE",
+      "total": 424.63,
+      "count": 6
+    },
+    {
+      "name": "Kevin Stellman",
+      "total": 400.0,
+      "count": 1
+    },
+    {
+      "name": "David Gorski",
+      "total": 368.8,
+      "count": 2
+    },
+    {
+      "name": "Deane Mathews",
+      "total": 366.0,
+      "count": 5
+    },
+    {
+      "name": "Deborah McCabe",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Joan Slaby",
+      "total": 150.0,
+      "count": 2
+    },
+    {
+      "name": "Jeanne  Cole",
+      "total": 120.0,
+      "count": 2
+    }
+  ]
+}

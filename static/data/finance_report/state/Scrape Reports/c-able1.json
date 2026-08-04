@@ -1,0 +1,57 @@
+{
+  "candidate_id": "c-able1",
+  "entity_id": "12225682",
+  "contributions_received": 14974.09,
+  "top_donors": [
+    {
+      "name": "Christopher Able",
+      "total": 3219.14,
+      "count": 7
+    },
+    {
+      "name": "Manitowoc County Democratic Party",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "name": "Mimi Munch",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Holgate",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jerome Fox",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Daniel Hornung",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Susan Barry",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Dave and Joan Estes",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Linda Wenzel",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Kerry Kading",
+      "total": 300.0,
+      "count": 3
+    }
+  ]
+}

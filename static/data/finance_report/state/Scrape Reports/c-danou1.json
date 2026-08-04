@@ -1,0 +1,37 @@
+{
+  "candidate_id": "c-danou1",
+  "entity_id": "17086",
+  "contributions_received": 7150,
+  "top_donors": [
+    {
+      "name": "Chris Danou",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends Of Steve Doyle",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Nancy Danou",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Erika Danou-Hasan",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Gary Christopherson",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Mike Tate",
+      "total": 50.0,
+      "count": 1
+    }
+  ]
+}

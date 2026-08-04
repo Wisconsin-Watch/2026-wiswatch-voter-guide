@@ -1,0 +1,22 @@
+{
+  "candidate_id": "n-chat1",
+  "entity_id": "12230231",
+  "contributions_received": 1260,
+  "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC -> i360 Holdings",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rolf Lindren",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Nina Chat",
+      "total": 60.0,
+      "count": 1
+    }
+  ]
+}

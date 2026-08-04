@@ -1,0 +1,57 @@
+{
+  "candidate_id": "d-glasstein1",
+  "entity_id": "843082",
+  "contributions_received": 52021.66,
+  "top_donors": [
+    {
+      "name": "Democratic Party of Ozaukee County",
+      "total": 12000.0,
+      "count": 1
+    },
+    {
+      "name": "Donald Katz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Nickolas Offerman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Linda Frank",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Daniel Armbrust",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Neil Glasstein",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Gwen Armbrust",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathy Tatterson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Gary Rintelmann",
+      "total": 750.0,
+      "count": 3
+    },
+    {
+      "name": "Joe Messinger",
+      "total": 750.0,
+      "count": 1
+    }
+  ]
+}

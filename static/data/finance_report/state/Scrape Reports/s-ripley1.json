@@ -1,0 +1,57 @@
+{
+  "candidate_id": "s-ripley1",
+  "entity_id": "11948571",
+  "contributions_received": 9806.83,
+  "top_donors": [
+    {
+      "name": "Democratic Party of Jefferson County",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 1104.83,
+      "count": 1
+    },
+    {
+      "name": "Charles Church",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "Ben Adams",
+      "total": 275.0,
+      "count": 4
+    },
+    {
+      "name": "Kathy Reimherr",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Charles F. Church",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Joann Stephens",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "David & Cheryl Lemke",
+      "total": 175.0,
+      "count": 1
+    },
+    {
+      "name": "Stephen Lizer",
+      "total": 150.0,
+      "count": 2
+    },
+    {
+      "name": "David Lemke",
+      "total": 150.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "k-knoke1",
+  "entity_id": "12154548",
+  "contributions_received": 83540.77,
+  "top_donors": [
+    {
+      "name": "Kevin Knoke",
+      "total": 7200.0,
+      "count": 1
+    },
+    {
+      "name": "Assembly Democratic Camp Comm",
+      "total": 3029.97,
+      "count": 1
+    },
+    {
+      "name": "ADCC",
+      "total": 3029.7,
+      "count": 1
+    },
+    {
+      "name": "John O'Farrell",
+      "total": 1925.98,
+      "count": 2
+    },
+    {
+      "name": "Maury Malanaphy",
+      "total": 1330.0,
+      "count": 3
+    },
+    {
+      "name": "Lynette Beinlich",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Mensch",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ben Knoke",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Lynde B. Uihlein",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Cory/Jim Pope/Caspers",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

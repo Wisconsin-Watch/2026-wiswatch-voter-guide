@@ -1,0 +1,57 @@
+{
+  "candidate_id": "d-varnam1",
+  "entity_id": "1015379",
+  "contributions_received": 41231.42,
+  "top_donors": [
+    {
+      "name": "Gary West",
+      "total": 3693.56,
+      "count": 2
+    },
+    {
+      "name": "John Fleckenstein",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Mike North",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "Jennifer North",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "John Stoesser",
+      "total": 1210.25,
+      "count": 4
+    },
+    {
+      "name": "Kirby Gibson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Clark Williams",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Pro-Life WI Victory Fund PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "James Schneller",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Don Wolding",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

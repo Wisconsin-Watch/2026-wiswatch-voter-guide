@@ -1,0 +1,57 @@
+{
+  "candidate_id": "s-omokunde1",
+  "entity_id": "16245",
+  "contributions_received": 7766.9,
+  "top_donors": [
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeffrey Zane Slavin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 566.9,
+      "count": 1
+    },
+    {
+      "name": "DRIVE Committee",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Car & Truck Retailers Pac (Car/Pac)",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "AFSCME Council 32,AFL-CIO",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Institute of Certified Public Accountant",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "PLUMBERS/FITTERS #11 PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Laborers District Council Political Fund",
+      "total": 250.0,
+      "count": 1
+    }
+  ]
+}

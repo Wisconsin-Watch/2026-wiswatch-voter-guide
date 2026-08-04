@@ -1,0 +1,52 @@
+{
+  "candidate_id": "c-bossert1",
+  "entity_id": "12190333",
+  "contributions_received": 3567.32,
+  "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee Segregated Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin REALTORS Political Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rick Gundrum for 58th Assembly",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Lois Gundrum",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Denis Kelling",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Christopher Bossert",
+      "total": 217.32,
+      "count": 2
+    },
+    {
+      "name": "Marietta Bailey",
+      "total": 125.0,
+      "count": 1
+    },
+    {
+      "name": "Loren Bailey",
+      "total": 125.0,
+      "count": 1
+    },
+    {
+      "name": "Michael Schwab",
+      "total": 100.0,
+      "count": 1
+    }
+  ]
+}

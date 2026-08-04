@@ -1,0 +1,32 @@
+{
+  "candidate_id": "m-brown1",
+  "entity_id": "1147683",
+  "contributions_received": 3330.09,
+  "top_donors": [
+    {
+      "name": "Matthew Alan Brown",
+      "total": 2100.0,
+      "count": 3
+    },
+    {
+      "name": "Michael Dill",
+      "total": 999.0,
+      "count": 1
+    },
+    {
+      "name": "Judy Zwitter",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Linda Conrath",
+      "total": 30.0,
+      "count": 1
+    },
+    {
+      "name": "Austin ` Chavrria",
+      "total": 1.09,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "m-morgan1",
+  "entity_id": "12228277",
+  "contributions_received": 2987.0,
+  "top_donors": [
+    {
+      "name": "Scott Beightol",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 611.0,
+      "count": 1
+    },
+    {
+      "name": "John Vassallo",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Bonnie Lee",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Dan Collins",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Kimberly Campbell",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Gary Binter",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Megan Prekosovich",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "LES ZORIL",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Eric Olson",
+      "total": 25.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "t-novak1",
+  "entity_id": "17280",
+  "contributions_received": 62934.28,
+  "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 15645.28,
+      "count": 2
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 15000.0,
+      "count": 1
+    },
+    {
+      "name": "Jon Ritchie",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Frank Hallada",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Dan Rohrbach",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kurtz for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends for Jessie",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Devin LeMahieu",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tom Zimbrick",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Connie Hallada",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

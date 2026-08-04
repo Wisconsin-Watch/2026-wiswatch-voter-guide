@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-binsfeld1",
+  "entity_id": "30955",
+  "contributions_received": 40125.0,
+  "top_donors": [
+    {
+      "name": "Committee to Elect a Republican Senate",
+      "total": 10080.0,
+      "count": 1
+    },
+    {
+      "name": "Katsma Terry",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "ABCPAC-WIS",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Plumbers & Steamfitters Local 400 Cope Fund",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Devin LeMahieu",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Mary",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Cable PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Volunteers for Agriculture VFA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeff Lindemann",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

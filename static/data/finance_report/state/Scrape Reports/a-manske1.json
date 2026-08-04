@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-manske1",
+  "entity_id": "11948172",
+  "contributions_received": 1382.45,
+  "top_donors": [
+    {
+      "name": "Andrew Manske",
+      "total": 212.16,
+      "count": 4
+    },
+    {
+      "name": "Jonas Manske",
+      "total": 128.46,
+      "count": 6
+    },
+    {
+      "name": "James Nichols",
+      "total": 105.75,
+      "count": 1
+    },
+    {
+      "name": "James Nichols",
+      "total": 105.75,
+      "count": 1
+    },
+    {
+      "name": "Isis Manske",
+      "total": 65.16,
+      "count": 6
+    },
+    {
+      "name": "Casper Galliart",
+      "total": 65.16,
+      "count": 6
+    },
+    {
+      "name": "Jane Smith",
+      "total": 65.16,
+      "count": 6
+    },
+    {
+      "name": "Mark Harper",
+      "total": 65.16,
+      "count": 6
+    },
+    {
+      "name": "Luke Larsen",
+      "total": 65.16,
+      "count": 6
+    },
+    {
+      "name": "Cori Manske",
+      "total": 65.16,
+      "count": 6
+    }
+  ]
+}

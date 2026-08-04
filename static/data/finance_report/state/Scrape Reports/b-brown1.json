@@ -1,0 +1,57 @@
+{
+  "candidate_id": "b-brown1",
+  "entity_id": "1147635",
+  "contributions_received": 35679.56,
+  "top_donors": [
+    {
+      "name": "Democratic Party of Jefferson County",
+      "total": 3000.0,
+      "count": 1
+    },
+    {
+      "name": "Everett Long",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "TIP for WI",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Education Assoication Council PAC WEAC PAC 33",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Walworth County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "steve Berry",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AFT Wisconsin COPE",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

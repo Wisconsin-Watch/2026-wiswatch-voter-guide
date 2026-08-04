@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-saunders1",
+  "entity_id": "843024",
+  "contributions_received": 4560.38,
+  "top_donors": [
+    {
+      "name": "Donald Baker Katz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Andrea Gage",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Brown County",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 489.38,
+      "count": 1
+    },
+    {
+      "name": "Jameson Smits",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Rebecca Smith",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Cindy Fallona",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Ryan Spaude",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Thomas Scruggs",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Cindy Fallona",
+      "total": 100.0,
+      "count": 1
+    }
+  ]
+}

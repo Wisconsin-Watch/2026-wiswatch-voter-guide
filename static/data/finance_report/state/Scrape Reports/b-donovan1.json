@@ -1,0 +1,57 @@
+{
+  "candidate_id": "b-donovan1",
+  "entity_id": "16491",
+  "contributions_received": 79327.78,
+  "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 16443.64,
+      "count": 2
+    },
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 15000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert G Donovan",
+      "total": 5100.0,
+      "count": 1
+    },
+    {
+      "name": "Matt Neumann",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends for Jessie",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kurtz for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ted Kellner",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Todd Koss",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Michael Hupy",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

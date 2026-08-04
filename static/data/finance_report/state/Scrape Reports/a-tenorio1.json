@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-tenorio1",
+  "entity_id": "1147110",
+  "contributions_received": 8344.35,
+  "top_donors": [
+    {
+      "name": "RPAC Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Education Assoication Council PAC WEAC PAC 33 Nob Hill Road Madison, WI 537088003",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest County Potawatomi Community PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Janan and Waleed Najeeb",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "William H Lynch",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Dean Schultzbank",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Andrew Fruncek",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Jean Radtke",
+      "total": 200.0,
+      "count": 3
+    },
+    {
+      "name": "Theresa Wiggins",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "David Cooper",
+      "total": 200.0,
+      "count": 2
+    }
+  ]
+}

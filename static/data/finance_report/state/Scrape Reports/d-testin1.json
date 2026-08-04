@@ -1,0 +1,57 @@
+{
+  "candidate_id": "d-testin1",
+  "entity_id": "10795942",
+  "contributions_received": 3834.4,
+  "top_donors": [
+    {
+      "name": "Dylan Testin",
+      "total": 1241.43,
+      "count": 8
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Dylan Testin",
+      "total": 763.96,
+      "count": 6
+    },
+    {
+      "name": "Jean Testin",
+      "total": 125.0,
+      "count": 1
+    },
+    {
+      "name": "Chris Bahr",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Mark Handrich",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Charlie Justmann",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Laurie Knutzen",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "name": "Alicia Weis",
+      "total": 64.01,
+      "count": 1
+    },
+    {
+      "name": "Mike Kolka",
+      "total": 60.0,
+      "count": 1
+    }
+  ]
+}

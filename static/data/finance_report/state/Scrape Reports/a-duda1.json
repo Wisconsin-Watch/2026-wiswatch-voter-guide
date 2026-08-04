@@ -1,0 +1,32 @@
+{
+  "candidate_id": "a-duda1",
+  "entity_id": "12228339",
+  "contributions_received": 24268.49,
+  "top_donors": [
+    {
+      "name": "Adam Kazimierz Duda",
+      "total": 12474.43,
+      "count": 11
+    },
+    {
+      "name": "Adam Duda",
+      "total": 9308.42,
+      "count": 4
+    },
+    {
+      "name": "Adam Kazimierz Duda",
+      "total": 1157.49,
+      "count": 5
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 1152.15,
+      "count": 1
+    },
+    {
+      "name": "Marge Fornear",
+      "total": 176.0,
+      "count": 2
+    }
+  ]
+}

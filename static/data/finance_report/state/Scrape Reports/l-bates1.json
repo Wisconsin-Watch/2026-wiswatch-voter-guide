@@ -1,0 +1,57 @@
+{
+  "candidate_id": "l-bates1",
+  "entity_id": "1149791",
+  "contributions_received": 702.0,
+  "top_donors": [
+    {
+      "name": "ted hankes",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Patricia Schubert",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Lori Schultz",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Lauer",
+      "total": 70.0,
+      "count": 7
+    },
+    {
+      "name": "Susan Linde",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Angie Kirst",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Adam Brabender",
+      "total": 40.0,
+      "count": 2
+    },
+    {
+      "name": "Sarah Kazell",
+      "total": 37.0,
+      "count": 1
+    },
+    {
+      "name": "Katherine Berkvam",
+      "total": 25.0,
+      "count": 1
+    },
+    {
+      "name": "Bryna Caves",
+      "total": 25.0,
+      "count": 1
+    }
+  ]
+}

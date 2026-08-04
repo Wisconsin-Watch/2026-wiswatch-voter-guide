@@ -1,0 +1,37 @@
+{
+  "candidate_id": "k-cleary1",
+  "entity_id": "12230199",
+  "contributions_received": 4000,
+  "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Gross",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Milwaukee County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kim Moeller",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Bonnie Lee",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "KYLE CLEARY",
+      "total": 200.0,
+      "count": 1
+    }
+  ]
+}

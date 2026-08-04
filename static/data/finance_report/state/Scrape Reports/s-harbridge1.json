@@ -1,0 +1,57 @@
+{
+  "candidate_id": "s-harbridge1",
+  "entity_id": "9169757",
+  "contributions_received": 13836.04,
+  "top_donors": [
+    {
+      "name": "Diane Bast",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alan Blair",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Chris Munyon",
+      "total": 900.0,
+      "count": 3
+    },
+    {
+      "name": "Heather Vabalaitis",
+      "total": 570.0,
+      "count": 5
+    },
+    {
+      "name": "Michael McCusker",
+      "total": 528.0,
+      "count": 2
+    },
+    {
+      "name": "James Sosniak",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Jay Calhoun",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "William Utphall",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Timothy Ramthun",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Mickey Hale",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

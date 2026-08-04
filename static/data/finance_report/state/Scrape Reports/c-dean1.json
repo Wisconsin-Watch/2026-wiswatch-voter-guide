@@ -1,0 +1,47 @@
+{
+  "candidate_id": "c-dean1",
+  "entity_id": "12184555",
+  "contributions_received": 2712.56,
+  "top_donors": [
+    {
+      "name": "DIANNE POLLOCK",
+      "total": 600.0,
+      "count": 2
+    },
+    {
+      "name": "JASON DEAN",
+      "total": 535.29,
+      "count": 1
+    },
+    {
+      "name": "ARIANNA DEAN",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "ANGELINA DEAN",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "CHASIDY BROCKMANN",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "SAVANNA WARTHEN",
+      "total": 27.27,
+      "count": 1
+    },
+    {
+      "name": "Rae Garlock",
+      "total": 25.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Morris",
+      "total": 25.0,
+      "count": 1
+    }
+  ]
+}

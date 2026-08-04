@@ -1,0 +1,57 @@
+{
+  "candidate_id": "j-kitchens1",
+  "entity_id": "17342",
+  "contributions_received": 15309.03,
+  "top_donors": [
+    {
+      "name": "Robert W. Baird & Co. Incorporated",
+      "total": 3386.03,
+      "count": 1
+    },
+    {
+      "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Lisa Karandanis",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Local 400 COPE Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eric Paulsen",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Waste Management Employees Better Government Fund",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "WI Soc Anesthesiologists PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Forest County Potawatomi Community PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Virgil Kreder",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Doneff",
+      "total": 400.0,
+      "count": 1
+    }
+  ]
+}

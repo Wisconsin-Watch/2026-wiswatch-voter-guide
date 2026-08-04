@@ -1,0 +1,22 @@
+{
+  "candidate_id": "j-schroeder1",
+  "entity_id": "8310899",
+  "contributions_received": 10800.0,
+  "top_donors": [
+    {
+      "name": "Jay Schroeder",
+      "total": 9300.0,
+      "count": 1
+    },
+    {
+      "name": "Kathy Nassios",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Bradley Tangen",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

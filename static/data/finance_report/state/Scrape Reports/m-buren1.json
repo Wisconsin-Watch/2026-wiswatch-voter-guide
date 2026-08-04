@@ -1,0 +1,57 @@
+{
+  "candidate_id": "m-buren1",
+  "entity_id": "12226543",
+  "contributions_received": 12350.15,
+  "top_donors": [
+    {
+      "name": "Merlin Van Buren",
+      "total": 2144.0,
+      "count": 2
+    },
+    {
+      "name": "Gerald Anderson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "John A. Langeland",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Judith Thoms",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Susan Anderson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Thomas Winquist",
+      "total": 514.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 511.15,
+      "count": 1
+    },
+    {
+      "name": "Robert Kirschner",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Plonsky",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Jim Leschke",
+      "total": 200.0,
+      "count": 1
+    }
+  ]
+}

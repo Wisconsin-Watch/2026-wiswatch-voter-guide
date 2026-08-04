@@ -1,0 +1,57 @@
+{
+  "candidate_id": "w-martin1",
+  "entity_id": "7006028",
+  "contributions_received": 129993.48,
+  "top_donors": [
+    {
+      "name": "Diane Hendricks",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathryn Burke",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Elizabeth Uihlein",
+      "total": 15000.0,
+      "count": 1
+    },
+    {
+      "name": "Tom Tousis",
+      "total": 10000.0,
+      "count": 1
+    },
+    {
+      "name": "John Silseth",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Katherine Horan",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Elizabeth Uihlein",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Douglas Horan",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Stephen Kieffer",
+      "total": 3500.0,
+      "count": 1
+    },
+    {
+      "name": "Matt Neumann",
+      "total": 2000.0,
+      "count": 1
+    }
+  ]
+}

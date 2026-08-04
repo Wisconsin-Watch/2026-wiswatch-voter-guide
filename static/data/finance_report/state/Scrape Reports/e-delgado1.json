@@ -1,0 +1,27 @@
+{
+  "candidate_id": "e-delgado1",
+  "entity_id": "12193515",
+  "contributions_received": 1665.0,
+  "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "MICHAEL GRAJEDA",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Edgard Delgado Jr",
+      "total": 125.0,
+      "count": 2
+    },
+    {
+      "name": "Darrell Woyak",
+      "total": 40.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "candidate_id": "s-arora1",
+  "entity_id": "12226240",
+  "contributions_received": 1797.03,
+  "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 602.03,
+      "count": 1
+    },
+    {
+      "name": "Billie Johnson",
+      "total": 120.0,
+      "count": 1
+    },
+    {
+      "name": "Dave Ripp",
+      "total": 75.0,
+      "count": 1
+    }
+  ]
+}

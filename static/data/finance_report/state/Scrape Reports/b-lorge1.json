@@ -1,0 +1,57 @@
+{
+  "candidate_id": "b-lorge1",
+  "entity_id": "3100807",
+  "contributions_received": 7703.09,
+  "top_donors": [
+    {
+      "name": "Bill Lorge",
+      "total": 3800.29,
+      "count": 15
+    },
+    {
+      "name": "Mike Hupy",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Patrice Miller",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Bernegger",
+      "total": 800.0,
+      "count": 1
+    },
+    {
+      "name": "Craig Hevey",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Bernegger",
+      "total": 160.0,
+      "count": 1
+    },
+    {
+      "name": "Aquecs",
+      "total": 132.8,
+      "count": 1
+    },
+    {
+      "name": "Paul Lorge",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Cynthia Evanoff",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Gary Bernegger",
+      "total": 100.0,
+      "count": 1
+    }
+  ]
+}

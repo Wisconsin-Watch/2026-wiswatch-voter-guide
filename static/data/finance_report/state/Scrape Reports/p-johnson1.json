@@ -1,0 +1,57 @@
+{
+  "candidate_id": "p-johnson1",
+  "entity_id": "12226466",
+  "contributions_received": 3250,
+  "top_donors": [
+    {
+      "name": "Stephen and Chris Smith",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Paul Johnson",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "KIMBERLY STRUM",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "Ellen Holmes Lafans",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Hubin",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "Ellen La Fans",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Joan Cervenka",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Ann Matza",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Michael B Shouldice",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Mark and Pamela Dryer",
+      "total": 50.0,
+      "count": 2
+    }
+  ]
+}

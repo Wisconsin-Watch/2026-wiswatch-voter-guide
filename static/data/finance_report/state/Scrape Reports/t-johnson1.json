@@ -1,0 +1,57 @@
+{
+  "candidate_id": "t-johnson1",
+  "entity_id": "16547",
+  "contributions_received": 157769.71,
+  "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 43730.08,
+      "count": 5
+    },
+    {
+      "name": "Tara Johnson",
+      "total": 25869.61,
+      "count": 28
+    },
+    {
+      "name": "La Crosse County Democratic Party",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "name": "Vernon Co Democratic Party",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Timothy D. Padesky",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin Healthcare & Service Workers Stronger Together PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeanetta Kirkpatrick",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW-PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sarah Godlewski",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

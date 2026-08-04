@@ -1,0 +1,32 @@
+{
+  "candidate_id": "c-werner1",
+  "entity_id": "7077460",
+  "contributions_received": 1400.0,
+  "top_donors": [
+    {
+      "name": "Cindy Werner",
+      "total": 600.0,
+      "count": 1
+    },
+    {
+      "name": "Cindy Werner",
+      "total": 400.0,
+      "count": 1
+    },
+    {
+      "name": "Debra Severson",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "James Engstrand",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Cindy Werner",
+      "total": 100.0,
+      "count": 1
+    }
+  ]
+}

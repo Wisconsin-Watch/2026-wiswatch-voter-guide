@@ -1,0 +1,57 @@
+{
+  "candidate_id": "p-karas1",
+  "entity_id": "10042337",
+  "contributions_received": 30664.29,
+  "top_donors": [
+    {
+      "name": "Peter Karas",
+      "total": 13000.0,
+      "count": 1
+    },
+    {
+      "name": "Halley Karas",
+      "total": 4500.0,
+      "count": 4
+    },
+    {
+      "name": "Jane Karas",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "name": "Jane Karas",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "GPUS",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Green Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "John Ballantyne",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Halley Karas",
+      "total": 750.0,
+      "count": 1
+    },
+    {
+      "name": "George Eugene Gengler",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Alaa Musa",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

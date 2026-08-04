@@ -1,0 +1,42 @@
+{
+  "candidate_id": "e-mccrank1",
+  "entity_id": "1149722",
+  "contributions_received": 555.0,
+  "top_donors": [
+    {
+      "name": "Patricia Voermans",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Gene M. Bebel",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Bob Richards",
+      "total": 100.0,
+      "count": 2
+    },
+    {
+      "name": "Derrek  Grunfelder-McCrank",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Ron Millar",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Julia Sarr",
+      "total": 4.0,
+      "count": 1
+    },
+    {
+      "name": "Anne Taylor",
+      "total": 1.0,
+      "count": 1
+    }
+  ]
+}

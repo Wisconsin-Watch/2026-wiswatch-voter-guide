@@ -1,0 +1,57 @@
+{
+  "candidate_id": "r-clancy1",
+  "entity_id": "999244",
+  "contributions_received": 39436.22,
+  "top_donors": [
+    {
+      "name": "Janan Najeeb",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Faheem Zaman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tom Preston-Werner",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Timothy Burns",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Jessica Seawright",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathleen Chung",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Theresa Preston-Werner",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Christopher Llop",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

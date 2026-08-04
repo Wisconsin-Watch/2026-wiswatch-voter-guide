@@ -1,0 +1,57 @@
+{
+  "candidate_id": "b-bock1",
+  "entity_id": "12225927",
+  "contributions_received": 5926.69,
+  "top_donors": [
+    {
+      "name": "314 Action Victory Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Patricia Bock",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tamir Kaloti",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "William Hartwell",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 457.58,
+      "count": 1
+    },
+    {
+      "name": "Scott Bowe",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Thad Schumacher",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Nancy Daly",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "John Engelhardt",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Mel Bock",
+      "total": 157.9,
+      "count": 1
+    }
+  ]
+}

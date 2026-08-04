@@ -1,0 +1,57 @@
+{
+  "candidate_id": "s-riley1",
+  "entity_id": "12228362",
+  "contributions_received": 2380.0,
+  "top_donors": [
+    {
+      "name": "Bob Hallett",
+      "total": 300.0,
+      "count": 2
+    },
+    {
+      "name": "Stuart and Janice Walter",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Bernard Schaber",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Bob Hallett",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "EMILY GENE MARCUS",
+      "total": 150.0,
+      "count": 1
+    },
+    {
+      "name": "Priscilla Wright",
+      "total": 150.0,
+      "count": 2
+    },
+    {
+      "name": "Andy Lindgren",
+      "total": 130.0,
+      "count": 2
+    },
+    {
+      "name": "Carla Hales",
+      "total": 100.0,
+      "count": 3
+    },
+    {
+      "name": "EMILY TSEFFOS",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Shawna Riley",
+      "total": 100.0,
+      "count": 1
+    }
+  ]
+}

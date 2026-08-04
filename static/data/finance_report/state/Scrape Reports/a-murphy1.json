@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-murphy1",
+  "entity_id": "12230180",
+  "contributions_received": 4620.0,
+  "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Gross",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Milwaukee County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Milwaukee Police Association UA",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Bonnie B. Lee",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Laurie Wolf",
+      "total": 260.0,
+      "count": 1
+    },
+    {
+      "name": "Peter R Zellmer",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Susan M Waarvik",
+      "total": 150.0,
+      "count": 1
+    },
+    {
+      "name": "Alan Terski",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Steven Schreiner",
+      "total": 50.0,
+      "count": 1
+    }
+  ]
+}

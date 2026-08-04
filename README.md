@@ -4,6 +4,11 @@
 
 <h1>Release Update</h1>
 
+<h4>Update Aug. 4, 2026</h4>
+
+- Updated campaign finance information.
+- Improved method for counting total funds raised and top 10 donors in 2026.
+
 <h4>Update Jul. 23, 2026</h4>
 
 - Added campaign finance information.

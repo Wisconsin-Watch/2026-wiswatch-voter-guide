@@ -1,0 +1,42 @@
+{
+  "candidate_id": "j-green1",
+  "entity_id": "12228940",
+  "contributions_received": 4185.0,
+  "top_donors": [
+    {
+      "name": "Republican Party of La Crosse County",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Adrian Hendrickson",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Bill Fasching",
+      "total": 25.0,
+      "count": 1
+    },
+    {
+      "name": "Jay Larochelle",
+      "total": 20.0,
+      "count": 1
+    },
+    {
+      "name": "John Flanagan",
+      "total": 20.0,
+      "count": 1
+    },
+    {
+      "name": "Martin Gunderson",
+      "total": 20.0,
+      "count": 1
+    }
+  ]
+}

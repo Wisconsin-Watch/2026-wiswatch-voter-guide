@@ -1,0 +1,57 @@
+{
+  "candidate_id": "j-croft1",
+  "entity_id": "12226367",
+  "contributions_received": 141762.47,
+  "top_donors": [
+    {
+      "name": "Committee to Elect a Republican Senate",
+      "total": 113007.4,
+      "count": 6
+    },
+    {
+      "name": "Fred Young",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Patrick English",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Mary",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Testin for Senate",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Devin LeMahieu",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Feyen for Senate",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Van Wanggaard",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Matt Neumann",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Julian Bradley",
+      "total": 2000.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "i-benami1",
+  "entity_id": "11957692",
+  "contributions_received": 39000.36,
+  "top_donors": [
+    {
+      "name": "Isaia S Ben-Ami",
+      "total": 6600.0,
+      "count": 4
+    },
+    {
+      "name": "Laura Chern",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Gloria Reyes",
+      "total": 1000.0,
+      "count": 4
+    },
+    {
+      "name": "Jakob Paquette",
+      "total": 800.0,
+      "count": 1
+    },
+    {
+      "name": "Stephen Hoffenberg",
+      "total": 550.0,
+      "count": 4
+    },
+    {
+      "name": "Sue Muellman",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Marline Pearson",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Daniel Silverthorne",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "Margaret Furlan",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Mayadev For Wisconsin",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

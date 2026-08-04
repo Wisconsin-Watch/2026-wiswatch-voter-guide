@@ -1,0 +1,52 @@
+{
+  "candidate_id": "d-schupbach1",
+  "entity_id": "11964896",
+  "contributions_received": 2030.06,
+  "top_donors": [
+    {
+      "name": "Wisconsin Green Party",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Pete Karas",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "David Scott Schupbach",
+      "total": 499.0,
+      "count": 8
+    },
+    {
+      "name": "Scott Schupbach",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Longwell-Grice",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Tiffany Anderson",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Joshua Anderson",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Parker Kilsdonk",
+      "total": 30.0,
+      "count": 1
+    },
+    {
+      "name": "Community First CU",
+      "total": 1.06,
+      "count": 2
+    }
+  ]
+}

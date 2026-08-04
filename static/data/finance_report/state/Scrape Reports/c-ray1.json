@@ -1,0 +1,57 @@
+{
+  "candidate_id": "c-ray1",
+  "entity_id": "11959444",
+  "contributions_received": 182659.3,
+  "top_donors": [
+    {
+      "name": "Wisconsin State Senate Democratic Committee",
+      "total": 67231.2,
+      "count": 4
+    },
+    {
+      "name": "State Senate Democratic Committee",
+      "total": 11888.51,
+      "count": 4
+    },
+    {
+      "name": "Wendy Wethington",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Haselow",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Donald Katz",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Wall for Wisconsin",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "KeyeskiForWI",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Kimberly West",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Pfaff for State Senate",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Friends of Dianne Hesselbein",
+      "total": 2000.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "r-bailey1",
+  "entity_id": "12228293",
+  "contributions_received": 5314.72,
+  "top_donors": [
+    {
+      "name": "Penelope Jones",
+      "total": 1000.0,
+      "count": 4
+    },
+    {
+      "name": "Catherine Bloss",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Caroll Pearson",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Karen Troupis",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "William A Simmons",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "George Wen",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Todd Mortensen",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Kurt Blechner",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Rick  Bailey",
+      "total": 125.0,
+      "count": 1
+    },
+    {
+      "name": "GoDaddy",
+      "total": 119.88,
+      "count": 1
+    }
+  ]
+}

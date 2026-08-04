@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-neylon1",
+  "entity_id": "17043",
+  "contributions_received": 7519.35,
+  "top_donors": [
+    {
+      "name": "Gerald Julius",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Realtors Association PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eli Lilly and Company PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Association of Health Plans PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Society of Anesthesiologists PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Andrea Bryant",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Jim Villa",
+      "total": 260.25,
+      "count": 1
+    },
+    {
+      "name": "Robert Zillmer",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "John Fleckenstein",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Kurt Schley",
+      "total": 250.0,
+      "count": 1
+    }
+  ]
+}

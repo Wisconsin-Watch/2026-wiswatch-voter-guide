@@ -122,6 +122,7 @@
     let config = null;
     let raceTypeParam = '';
     let showFundsRaisedSection = true;
+    $: hasAnyFinanceData = Object.values(fundsByCandidateId).some(v => v > 0);
     let previousRaceType = '';
     let previousDistrict = '';
     
@@ -446,7 +447,7 @@
                         </div>
                     {/if}
 
-                        {#if showFundsRaisedSection}
+                        {#if showFundsRaisedSection && (financeLoading || hasAnyFinanceData)}
                             <div class="info-section funds-raised-section">
                                 <h2>Campaign funds raised</h2>
                                 {#if financeLoading}
@@ -458,7 +459,7 @@
                                     />
                                 {/if}
                                 <small>
-                                    <i>Data reflects total funds raised as reported in the July 2026 Continuing Report filed with the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a>. Data was retrieved on July 22, 2026.</i>
+                                    <i>Data reflects <strong>monetary</strong> and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates. Personal loans are excluded. Data was retrieved on Aug. 4, 2026.</i>
                                 </small>
                             </div>
                         {/if}

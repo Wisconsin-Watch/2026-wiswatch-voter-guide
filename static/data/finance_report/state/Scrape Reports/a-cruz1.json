@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-cruz1",
+  "entity_id": "16430",
+  "contributions_received": 10206.12,
+  "top_donors": [
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Knotek",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "500146 REALTORS - RPAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Domingo Cruz",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "John Drew",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Hudson N Cavanagh",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Domingo S Cruz",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Joe Sexauer",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Gary R Goyke",
+      "total": 250.0,
+      "count": 1
+    }
+  ]
+}

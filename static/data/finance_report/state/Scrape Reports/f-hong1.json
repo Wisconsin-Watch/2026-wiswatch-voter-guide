@@ -1,0 +1,57 @@
+{
+  "candidate_id": "f-hong1",
+  "entity_id": "1145867",
+  "contributions_received": 1091258.43,
+  "top_donors": [
+    {
+      "name": "Robert Clancy",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Zachary Hoffman",
+      "total": 12000.0,
+      "count": 2
+    },
+    {
+      "name": "Ethan Schrag",
+      "total": 11250.96,
+      "count": 11
+    },
+    {
+      "name": "Melody Hanson",
+      "total": 10500.0,
+      "count": 3
+    },
+    {
+      "name": "Nathan Condella",
+      "total": 8400.0,
+      "count": 3
+    },
+    {
+      "name": "Thomas M. Neujahr",
+      "total": 8000.0,
+      "count": 2
+    },
+    {
+      "name": "Kathleen Chung",
+      "total": 7488.23,
+      "count": 6
+    },
+    {
+      "name": "Jun Wai Lee",
+      "total": 7000.0,
+      "count": 2
+    },
+    {
+      "name": "Thomas M Neujahr",
+      "total": 7000.0,
+      "count": 2
+    },
+    {
+      "name": "Thomas Preston-Werner",
+      "total": 7000.0,
+      "count": 1
+    }
+  ]
+}

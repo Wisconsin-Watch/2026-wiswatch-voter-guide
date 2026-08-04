@@ -1,0 +1,57 @@
+{
+  "candidate_id": "j-bennett1",
+  "entity_id": "11954805",
+  "contributions_received": 45529.76,
+  "top_donors": [
+    {
+      "name": "Richard Pearson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathleen Chung",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "AFT-Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Katherine Telma",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Joseph DiZoglio Jr.",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Eli Tsarovsky",
+      "total": 800.0,
+      "count": 1
+    },
+    {
+      "name": "Huma Ahsan",
+      "total": 780.0,
+      "count": 2
+    },
+    {
+      "name": "David Gordon",
+      "total": 750.0,
+      "count": 2
+    },
+    {
+      "name": "Robert Procter",
+      "total": 750.0,
+      "count": 1
+    },
+    {
+      "name": "Preston Austin",
+      "total": 700.0,
+      "count": 2
+    }
+  ]
+}

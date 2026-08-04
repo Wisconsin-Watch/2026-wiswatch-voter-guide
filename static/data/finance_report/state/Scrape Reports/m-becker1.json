@@ -1,0 +1,57 @@
+{
+  "candidate_id": "m-becker1",
+  "entity_id": "12226273",
+  "contributions_received": 30856.47,
+  "top_donors": [
+    {
+      "name": "Committee to Elect Kristin Alfheim",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeff Maras",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Katherine Klass",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Adam Kinzinger",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Marianne Lubar",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Catherine Siegel",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Patrick Warpinski",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Kate Siegel",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Sachin Shivaram",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Larry Eriksson",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

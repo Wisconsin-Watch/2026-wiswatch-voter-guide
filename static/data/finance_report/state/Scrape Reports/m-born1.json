@@ -1,0 +1,57 @@
+{
+  "candidate_id": "m-born1",
+  "entity_id": "16575",
+  "contributions_received": 84009.0,
+  "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 16289.0,
+      "count": 3
+    },
+    {
+      "name": "Julie Westra",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eli Lilly and Company PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliance of Health Insurers PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Donald Wahlin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Molina Healthcare Inc. PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "US Venture US PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Glenn Madrigrano, Jr.",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

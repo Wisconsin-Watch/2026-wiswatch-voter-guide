@@ -1,0 +1,57 @@
+{
+  "candidate_id": "a-hysell1",
+  "entity_id": "1147623",
+  "contributions_received": 12189.14,
+  "top_donors": [
+    {
+      "name": "Local 400 COPE Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Berdan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Barbara Jo Olson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "North Central States Carpenters PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin REALTORS Political Fund",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Forest County Potawatomi Community",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

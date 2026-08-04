@@ -1,0 +1,57 @@
+{
+  "candidate_id": "c-moses1",
+  "entity_id": "15939",
+  "contributions_received": 62872.64,
+  "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 15000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 7779.85,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 6660.79,
+      "count": 1
+    },
+    {
+      "name": "Robert Keller",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "ABCPAC-WIS",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tavern League of Wisconsin Inc.",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Devin Lemahieu",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest County Potawatomi Community",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kurtz for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Patrick English",
+      "total": 1000.0,
+      "count": 1
+    }
+  ]
+}

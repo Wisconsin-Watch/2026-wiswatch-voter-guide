@@ -1,0 +1,57 @@
+{
+  "candidate_id": "c-ellis1",
+  "entity_id": "12226491",
+  "contributions_received": 14879.76,
+  "top_donors": [
+    {
+      "name": "Montgomery Trapper Sexton",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Walter Ellis",
+      "total": 1540.0,
+      "count": 3
+    },
+    {
+      "name": "Brandon Jovanovich",
+      "total": 1200.0,
+      "count": 2
+    },
+    {
+      "name": "Robert Duffner",
+      "total": 1050.0,
+      "count": 1
+    },
+    {
+      "name": "Christine Burr",
+      "total": 520.0,
+      "count": 2
+    },
+    {
+      "name": "Maeve Quinn",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Donald Floyd",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Jennifer Bryant",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Hugh Ross",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "John C. Miller",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "candidate_id": "b-desmidt1",
+  "entity_id": "15509",
+  "contributions_received": 21426.0,
+  "top_donors": [
+    {
+      "name": "Kenosha County Democratic Party",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tavern League of Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "TIP FOR WI",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Shaw Johnson",
+      "total": 601.0,
+      "count": 2
+    },
+    {
+      "name": "Kevin Walker",
+      "total": 600.0,
+      "count": 2
+    },
+    {
+      "name": "Daniel Rogers",
+      "total": 500.0,
+      "count": 1
+    }
+  ]
+}

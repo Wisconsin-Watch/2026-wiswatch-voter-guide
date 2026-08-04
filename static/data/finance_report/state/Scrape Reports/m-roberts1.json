@@ -1,0 +1,57 @@
+{
+  "candidate_id": "m-roberts1",
+  "entity_id": "12047272",
+  "contributions_received": 252524.82,
+  "top_donors": [
+    {
+      "name": "Commitee to Elect a Republican",
+      "total": 50000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 30000.0,
+      "count": 2
+    },
+    {
+      "name": "Committee to Elect a Republican Senate",
+      "total": 11284.75,
+      "count": 3
+    },
+    {
+      "name": "Devin LeMahieu",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Suzy Boerke",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Physical Therapy",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "ABCPAC-WIS",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Milwaukee Police Association Political Action Committee",
+      "total": 2000.0,
+      "count": 3
+    },
+    {
+      "name": "Brandon Drusch",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Matt Neumann",
+      "total": 2000.0,
+      "count": 1
+    }
+  ]
+}
