@@ -1665,6 +1665,15 @@
                         </div>
                     </section>
 
+                    <!-- Download info-->
+                            <section class="bento-section bento-section-primary ring col-span-full md:col-span-12 xl:col-span-4 md:row-span-1">
+                                <div class="bento-body">
+                                    <h3 class="wp-block-heading has-text-align-center"><strong>Like this website?</strong></h3>
+                                    <p>Please do us a favor: Spread the word about the voter guide. <a href="https://wisconsinwatch.org/2026/07/2026-wisconsin-watch-voter-guide/">Send the link</a> to friends and family. Post it to social media.</p>
+                                    <p>And if you’re really on a roll, download free <a href="https://wisconsinwatch.org/wp-content/uploads/2026/08/WW-Voter-Guide-promo-flyers.pdf">flyers</a> or <a href="https://wisconsinwatch.org/wp-content/uploads/2026/08/WW-Voter-Guide-bookmarks.pdf">bookmarks</a> we designed to promote the voter guide. Print them out and share them in your community. Each resource includes a QR code that will take you directly to the voter guide webpage.</p>
+                                </div>
+                            </section>
+
                     
                     <!--Self populated list of stories-->
                     <!--Obtain info from "https://wisconsinwatch.org/tag/election-2026"-->
