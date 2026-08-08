@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-07T13:17:45.048Z",
+  "lastUpdated": "2026-08-08T13:01:37.028Z",
   "stories": [
+    {
+      "id": "https://wisconsinwatch.org/?p=1319609",
+      "title": "Green Bay clerk resigns amid investigations into duplicate ballot incidents",
+      "url": "https://wisconsinwatch.org/2026/08/wisconsin-green-bay-clerk-resigns-duplicate-ballot-mistakes-election/",
+      "creator": "Alexander Shur / Votebeat",
+      "pubDate": "Fri, 07 Aug 2026 18:50:10 +0000",
+      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?fit=1024%2C682&amp;quality=100&amp;ssl=1",
+      "imageAlt": "People sit at long tables covered with papers, bins and signs. One person in a blue, long-sleeved top is holding a pen and looking down at papers.",
+      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?w=2500&amp;quality=100&amp;ssl=1 2500w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=782%2C521&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=768%2C512&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=1536%2C1024&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=2048%2C1365&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=1200%2C800&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=1024%2C682&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=1568%2C1045&amp;quality=100&amp;ssl=1 1568w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=2000%2C1333&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=400%2C267&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?resize=706%2C470&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2024/11/Green-Bay-Central-Count.jpg?fit=1024%2C682&amp;quality=100&amp;ssl=1&amp;w=370 370w",
+      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
+      "imageWidth": "1024",
+      "imageHeight": "682"
+    },
     {
       "id": "https://wisconsinwatch.org/?p=1319575",
       "title": "Data centers take center stage in Wisconsin governor’s race",
@@ -65,19 +78,6 @@
       "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
       "imageWidth": "1024",
       "imageHeight": "537"
-    },
-    {
-      "id": "https://wisconsinwatch.org/?p=1319225",
-      "title": "Amid USPS delays, Wisconsin officials tell voters to mail their ballots ASAP as voters sue for more options",
-      "url": "https://wisconsinwatch.org/2026/07/wisconsin-election-officials-voters-mail-absentee-ballots-usps-delivery-delays-drop-boxes-clerks/",
-      "creator": "Alexander Shur / Votebeat",
-      "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?fit=1024%2C683&amp;quality=100&amp;ssl=1",
-      "imageAlt": "White United States Postal Service mail containers filled with envelopes sit on a table near other tables with a container labeled &quot;Election Day Ballots.&quot;",
-      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?w=2560&amp;quality=100&amp;ssl=1 2560w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=782%2C521&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=768%2C512&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=1536%2C1024&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=2048%2C1365&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=1200%2C800&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=1024%2C683&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=2000%2C1333&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=780%2C520&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=400%2C267&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?resize=706%2C471&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/asse6559371-scaled.jpg?fit=1024%2C683&amp;quality=100&amp;ssl=1&amp;w=370 370w",
-      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
-      "imageWidth": "1024",
-      "imageHeight": "683"
     }
   ]
 }
