@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T20:02:58.178Z",
+  "lastUpdated": "2026-08-11T14:49:00.809Z",
   "stories": [
     {
       "id": 0,
@@ -408,6 +408,56 @@
       "headline": "Francesca Hong has defined Wisconsin's Democratic primary for governor",
       "byline": "Anya van Wagtendonk / WPR",
       "published_date": "2026-07-28T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 41,
+      "url": "https://captimes.com/news/government/how-to-tell-candidates-for-wisconsin-governor-apart-on-key-issues/article_50c9d596-18e5-407f-964e-1a7b3e3be5d8.html",
+      "race_id": "go-d",
+      "headline": "How to tell candidates for Wisconsin governor apart, on key issues",
+      "byline": "Olivia Herken / The Cap Times",
+      "published_date": "2026-08-04T10:15:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 42,
+      "url": "https://www.wpr.org/news/gop-primary-candidate-for-25th-senate-district-angie-sapik-calls-for-tighter-data-center-controls-rejects-regional-tax-proposals",
+      "race_id": "se-25",
+      "headline": "GOP primary candidate for 25th Senate District Angie Sapik calls for tighter data center controls, rejects regional tax proposals",
+      "byline": "Robin Washington / WPR",
+      "published_date": "2026-08-04T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 43,
+      "url": "https://www.wpr.org/news/former-lawmaker-er-doctor-erik-severson-says-property-taxes-not-legal-marijuana-should-top-senate-agenda",
+      "race_id": "se-25",
+      "headline": "Former lawmaker, ER doctor Erik Severson says property taxes, not legal marijuana, should top Senate agenda",
+      "byline": "Robin Washington / WPR",
+      "published_date": "2026-08-04T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 44,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/07/31/republican-in-key-wisconsin-senate-race-claimed-residence-in-2-states/91001974007/",
+      "race_id": "se-31",
+      "headline": "Republican in key state Senate race claimed residence in two states",
+      "byline": "Zachary Suri / Milwaukee Journal Sentinel",
+      "published_date": "2026-07-31T01:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 45,
+      "url": "https://milwaukeecourier.com/news/2026/08/03/wisconsin-state-senate-candidate-mike-roberts-touts-business-success-public-records-show-tax-dispute-delinquencies",
+      "race_id": "se-5",
+      "headline": "Wisconsin State Senate candidate Mike Roberts touts business success; public records show tax dispute, delinquencies - The Milwaukee Courier",
+      "byline": "Drake Bentley / The Milwaukee Courier",
+      "published_date": "2026-08-03T10:00:00.000Z",
       "featured": "",
       "featured_img": ""
     }
