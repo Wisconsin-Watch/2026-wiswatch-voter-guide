@@ -429,7 +429,8 @@
 
                     {#if race['ap-result']}
                         <div class="info-section ap-result-section">
-                            {@html race['ap-result']}
+                            <h2>Election Results</h2>
+                            <div>{@html race['ap-result']}</div>
                         </div>
                     {/if}
 
