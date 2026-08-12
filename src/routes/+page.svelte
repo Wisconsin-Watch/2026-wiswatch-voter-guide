@@ -8,6 +8,68 @@
         text-align: center;
     }
 
+    .primary-results-notice {
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        margin-top: -0.5rem;
+        padding: 1rem 0 1rem 0;
+        background: #d97f97;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    .primary-results-notice span, .primary-results-message{
+        color: #F3F6FA !important;
+    }
+
+    .primary-results-track {
+        display: flex;
+        width: max-content;
+        min-width: 100%;
+        justify-content: center;
+    }
+
+    .primary-results-track.is-rolling {
+        justify-content: flex-start;
+        animation: roll-primary-results 12s linear infinite;
+    }
+
+    .primary-results-message {
+        flex: none;
+        margin: 0;
+        color: inherit;
+        font-family: 'Heebo', sans-serif;
+        font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+        font-weight: 700;
+        line-height: 1.35;
+        white-space: nowrap;
+    }
+
+    .is-rolling .primary-results-message {
+        padding-right: 3rem;
+    }
+
+    @keyframes roll-primary-results {
+        to { transform: translateX(-50%); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .primary-results-track.is-rolling {
+            width: 100%;
+            animation: none;
+        }
+
+        .primary-results-track.is-rolling .primary-results-message:first-child {
+            overflow-wrap: anywhere;
+            white-space: normal;
+        }
+
+        .primary-results-track.is-rolling .primary-results-message[aria-hidden='true'] {
+            display: none;
+        }
+    }
+
     .sponsor-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -730,6 +792,14 @@
     let pymChild;
     let contentElement;
     let webcalUrl = '';
+    let showPrimaryResultsNotice = false;
+    let isPrimaryResultsNoticeRolling = false;
+    let primaryResultsNoticeViewport;
+    let primaryResultsNoticeText;
+    let primaryResultsNoticeObserver;
+
+    const primaryResultsNoticeStart = Date.parse('2026-08-11T00:00:00-05:00');
+    const primaryResultsNoticeEnd = Date.parse('2026-08-19T00:00:00-05:00');
     
     // Statewide races state
     let statewideRaces = [];
@@ -1098,6 +1168,7 @@
     onDestroy(() => {
         window.removeEventListener('scroll', handleScroll, true);
         window.removeEventListener('resize', handleResize);
+        primaryResultsNoticeObserver?.disconnect();
     });
 
     function showTooltip(target, tooltip) {
@@ -1252,7 +1323,20 @@
 
     //Ads
     onMount(async () => {
+    const now = Date.now();
+    showPrimaryResultsNotice = now >= primaryResultsNoticeStart && now < primaryResultsNoticeEnd;
+
     await tick();
+    if (showPrimaryResultsNotice && primaryResultsNoticeViewport && primaryResultsNoticeText) {
+        const updateNoticeOverflow = () => {
+            isPrimaryResultsNoticeRolling = Math.ceil(primaryResultsNoticeText.getBoundingClientRect().width) > primaryResultsNoticeViewport.clientWidth;
+        };
+        updateNoticeOverflow();
+        primaryResultsNoticeObserver = new ResizeObserver(updateNoticeOverflow);
+        primaryResultsNoticeObserver.observe(primaryResultsNoticeViewport);
+        primaryResultsNoticeObserver.observe(primaryResultsNoticeText);
+    }
+
     await new Promise(requestAnimationFrame);
 
     const zones = document.querySelectorAll('broadstreet-zone');
@@ -1276,6 +1360,17 @@
 </script>
 
 <div id="content" class="site-content" bind:this={contentElement}>
+    {#if showPrimaryResultsNotice}
+        <aside class="primary-results-notice" role="status" aria-label="Primary election results update" bind:this={primaryResultsNoticeViewport}>
+            <div class="primary-results-track" class:is-rolling={isPrimaryResultsNoticeRolling}>
+                <p class="primary-results-message"><span bind:this={primaryResultsNoticeText}>Primary results are live. Visit each race page for the latest results.</span></p>
+                {#if isPrimaryResultsNoticeRolling}
+                    <p class="primary-results-message" aria-hidden="true">Primary results are live. Visit each race page for the latest results.</p>
+                {/if}
+            </div>
+        </aside>
+    {/if}
+
     <section id="primary" class="content-area">
         <main id="main" class="site-main" role="main">
 
