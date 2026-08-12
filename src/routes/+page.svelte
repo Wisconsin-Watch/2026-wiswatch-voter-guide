@@ -1363,9 +1363,9 @@
     {#if showPrimaryResultsNotice}
         <aside class="primary-results-notice" role="status" aria-label="Primary election results update" bind:this={primaryResultsNoticeViewport}>
             <div class="primary-results-track" class:is-rolling={isPrimaryResultsNoticeRolling}>
-                <p class="primary-results-message"><span bind:this={primaryResultsNoticeText}>Primary results are live. Visit each race page for the latest results.</span></p>
+                <p class="primary-results-message"><span bind:this={primaryResultsNoticeText}>Primary results are available. Visit each race page for the results.</span></p>
                 {#if isPrimaryResultsNoticeRolling}
-                    <p class="primary-results-message" aria-hidden="true">Primary results are live. Visit each race page for the latest results.</p>
+                    <p class="primary-results-message" aria-hidden="true">Primary results are available. Visit each race page for the results.</p>
                 {/if}
             </div>
         </aside>
@@ -1415,13 +1415,19 @@
                                 <div class="winner-label">
                                     <h4>Republican primary</h4>
                                 </div>
-                                <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
+                                <img src="{base}/graphics/candidates/t-tiffany1.jpg" alt="Tom Tiffany"/>
+                                <div class="winner-label">
+                                    <h5>Tom Tiffany</h5>
+                                </div>
                             </a>
                             <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d" data-sveltekit-reload>
                                 <div class="winner-label">
                                     <h4>Democratic primary</h4>
                                 </div>
-                                <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
+                                <img src="{base}/graphics/candidates/d-crowley1.jpg" alt="David Crowley"/>
+                                <div class="winner-label">
+                                    <h5>David Crowley</h5>
+                                </div>
                             </a>
                             <!-- Background -->
                             <div class="governor-race-bkg absolute inset-0 z-0 flex justify-center items-center">
