@@ -216,7 +216,7 @@
                 }
             }
 
-            // Sort candidates with active candidates first (a), dropped-out last (b),
+            // Sort candidates with active candidates first (a), inactive candidates last (b),
             // then alphabetically by last name within each group.
             candidates.sort((a, b) => {
                 const getLastName = (name) => {
@@ -224,14 +224,16 @@
                     return parts[parts.length - 1].toLowerCase();
                 };
 
-                const isDroppedOut = (candidate) => (candidate.status || '').toLowerCase() === 'dropped-out';
+                const isInactive = (candidate) => ['dropped-out', 'lost-primary'].includes(
+                    (candidate.status || '').trim().toLowerCase()
+                );
 
-                const dropA = isDroppedOut(a);
-                const dropB = isDroppedOut(b);
+                const inactiveA = isInactive(a);
+                const inactiveB = isInactive(b);
 
-                // Non-dropped candidates come first.
-                if (dropA !== dropB) {
-                    return dropA ? 1 : -1;
+                // Active candidates come first.
+                if (inactiveA !== inactiveB) {
+                    return inactiveA ? 1 : -1;
                 }
 
                 const lastCompare = getLastName(a.name).localeCompare(getLastName(b.name));
@@ -391,7 +393,7 @@
                                                 src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
                                                 alt={candidate.name}
                                                 class="candidate-photo"
-                                                class:dropped-out={candidate.status === 'dropped-out'}
+                                                class:dropped-out={['dropped-out', 'lost-primary'].includes((candidate.status || '').trim().toLowerCase())}
                                                 on:error={(e) => {
                                                     const img = e.currentTarget;
 
@@ -410,8 +412,10 @@
                                             {#if candidate.incumbent === 'TRUE'}
                                                 <p class="candidate-incumbent">INCUMBENT</p>
                                             {/if}
-                                            {#if candidate.status === 'dropped-out'}
+                                            {#if (candidate.status || '').trim().toLowerCase() === 'dropped-out'}
                                                 <p class="candidate-incumbent">DROPPED OUT</p>
+                                            {:else if (candidate.status || '').trim().toLowerCase() === 'lost-primary'}
+                                                <p class="candidate-incumbent">Lost primary</p>
                                             {/if}
                                             <p class="candidate-name">{candidate.name}</p>
                                             {#if candidate.party}
