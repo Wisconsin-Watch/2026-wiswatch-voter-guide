@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-21T12:59:42.569Z",
+  "lastUpdated": "2026-08-22T12:51:02.090Z",
   "stories": [
+    {
+      "id": "https://wisconsinwatch.org/?p=1320022",
+      "title": "Issues with election systems delayed primary results in two Wisconsin counties",
+      "url": "https://wisconsinwatch.org/2026/08/wisconsin-election-systems-delay-primary-voting-results-green-winnebago-counties/",
+      "creator": "Alexander Shur / Votebeat",
+      "pubDate": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?fit=1024%2C681&amp;quality=100&amp;ssl=1",
+      "imageAlt": "A person uses scissors to cut &quot;I VOTED TODAY&quot; stickers from a roll on a table with voting forms and supplies.",
+      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?w=2560&amp;quality=100&amp;ssl=1 2560w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=782%2C520&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=768%2C511&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=1536%2C1022&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=2048%2C1363&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=1200%2C798&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=1024%2C681&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=2000%2C1331&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=780%2C519&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=400%2C266&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?resize=706%2C470&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-27-scaled.jpg?fit=1024%2C681&amp;quality=100&amp;ssl=1&amp;w=370 370w",
+      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
+      "imageWidth": "1024",
+      "imageHeight": "681"
+    },
     {
       "id": "https://wisconsinwatch.org/?p=1320013",
       "title": "Trump embraces data centers as backlash shapes races in Wisconsin and nationwide",
@@ -65,19 +78,6 @@
       "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
       "imageWidth": "1024",
       "imageHeight": "683"
-    },
-    {
-      "id": "https://wisconsinwatch.org/?p=1319689",
-      "title": "Wisconsin 2026 primary election results: See who won",
-      "url": "https://wisconsinwatch.org/2026/08/follow-live-wisconsin-watch-primary-election-race-results-voter-guide-2026/",
-      "creator": "Wisconsin Watch",
-      "pubDate": "Wed, 12 Aug 2026 01:21:08 +0000",
-      "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?fit=1024%2C681&amp;quality=100&amp;ssl=1",
-      "imageAlt": "A sign with an American flag reads &quot;VOTE HERE&quot; as people walk nearby on a wet walkway.",
-      "imageSrcset": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?w=2560&amp;quality=100&amp;ssl=1 2560w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=336%2C224&amp;quality=100&amp;ssl=1 336w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=782%2C520&amp;quality=100&amp;ssl=1 782w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=140%2C93&amp;quality=100&amp;ssl=1 140w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=768%2C511&amp;quality=100&amp;ssl=1 768w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=1536%2C1022&amp;quality=100&amp;ssl=1 1536w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=2048%2C1363&amp;quality=100&amp;ssl=1 2048w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=1200%2C798&amp;quality=100&amp;ssl=1 1200w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=1024%2C681&amp;quality=100&amp;ssl=1 1024w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=2000%2C1331&amp;quality=100&amp;ssl=1 2000w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=780%2C519&amp;quality=100&amp;ssl=1 780w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=400%2C266&amp;quality=100&amp;ssl=1 400w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?resize=706%2C470&amp;quality=100&amp;ssl=1 706w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?w=2340&amp;quality=100&amp;ssl=1 2340w, https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse2026-08-11_Piper_Voting_Day-28-scaled.jpg?fit=1024%2C681&amp;quality=100&amp;ssl=1&amp;w=370 370w",
-      "imageSizes": "(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw",
-      "imageWidth": "1024",
-      "imageHeight": "681"
     }
   ]
 }
