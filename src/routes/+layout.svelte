@@ -35,6 +35,15 @@
 	<link rel="stylesheet" href="https://wisconsinwatch.org/wp-content/themes/newspack-theme/style.css?ver=2.17.0">
 	<link rel="stylesheet" href="{base}/css/wp-custom.css">
 	<link rel="stylesheet" href="{base}/css/drop-nav.css">
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-D2S69Y9TDB"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-D2S69Y9TDB');
+	</script>
 </svelte:head>
 
 <header id="masthead" class="site-header hide-header-search">			
