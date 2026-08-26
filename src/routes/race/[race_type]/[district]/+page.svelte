@@ -415,7 +415,7 @@
                                             {#if (candidate.status || '').trim().toLowerCase() === 'dropped-out'}
                                                 <p class="candidate-incumbent">DROPPED OUT</p>
                                             {:else if (candidate.status || '').trim().toLowerCase() === 'lost-primary'}
-                                                <p class="candidate-incumbent">Lost primary</p>
+                                                <p class="candidate-incumbent">LOST PRIMARY</p>
                                             {/if}
                                             <p class="candidate-name">{candidate.name}</p>
                                             {#if candidate.party}

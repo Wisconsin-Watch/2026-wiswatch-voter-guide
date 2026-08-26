@@ -1445,14 +1445,14 @@
                             {#if isGovernorLinkEnabled}
                                 <a class="bento-item governor-winner-main" href="{base}/race/governor/1" data-sveltekit-reload>
                                     <div class="winner-label">
-                                        <h4>Final race</h4>
+                                        <h4>General election</h4>
                                     </div>
                                     <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
                                 </a>
                             {:else}
                                 <div class="bento-item governor-winner-main disabled">
                                     <div class="winner-label">
-                                        <h4>Final race</h4>
+                                        <h4>General election</h4>
                                         <small>(Unlock after primary race)</small>
                                     </div>
                                     <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
