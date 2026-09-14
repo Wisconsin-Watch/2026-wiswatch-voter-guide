@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T14:49:00.809Z",
+  "lastUpdated": "2026-09-14T17:23:42.783Z",
   "stories": [
     {
       "id": 0,
@@ -458,6 +458,26 @@
       "headline": "Wisconsin State Senate candidate Mike Roberts touts business success; public records show tax dispute, delinquencies - The Milwaukee Courier",
       "byline": "Drake Bentley / The Milwaukee Courier",
       "published_date": "2026-08-03T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 46,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/09/14/swing-wisconsin-race-heats-up-with-ad-buys-outside-group-accusations/91661076007/",
+      "race_id": "se-21",
+      "headline": "Swing legislative race heats up with ad buys, outside group accusations",
+      "byline": "Ricardo Torres / Milwaukee Journal Sentinel",
+      "published_date": "2026-09-141T11:07:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 47,
+      "url": "https://www.sheboyganpress.com/story/news/politics/elections/2026/09/11/jack-holzman-wisconsin-assembly-district-59-candidate-profile/91679140007/",
+      "race_id": "as-59",
+      "headline": "Assembly District 59 candidate Jack Holzman answers questions",
+      "byline": "Alex Garner / The Sheboygan Press",
+      "published_date": "2026-09-11T14:01:47.000Z",
       "featured": "",
       "featured_img": ""
     }
