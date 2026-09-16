@@ -3,9 +3,8 @@
  * Handles race search functionality
  */
 
-import { fetchRacesFromAPI, getStatewideRaces } from './googleSheets.js';
+import { fetchCandidatesFromAPI, fetchRacesFromAPI, getAvailableSheets, getStatewideRaces } from './googleSheets.js';
 import { base } from '$app/paths';
-import { goto } from '$app/navigation';
 
 // District-based race types - these are constant
 const DISTRICT_RACES = [
@@ -25,6 +24,47 @@ const SUB_RACE_OPTIONS = {
 
 let RACE_TYPES = [...DISTRICT_RACES];
 let raceTypeData = {};
+let candidatesByName = new Map();
+let searchableCandidates = [];
+let highlightedCandidateIndex = -1;
+
+const DISTRICT_RACE_SLUGS = {
+	Assembly: 'assembly',
+	Senate: 'senate',
+	'US Congress': 'congress'
+};
+
+function getLastName(name = '') {
+	const parts = name.trim().split(/\s+/);
+	return parts[parts.length - 1] || '';
+}
+
+function normalizeName(name = '') {
+	return name.trim().replace(/\s+/g, ' ').toLocaleLowerCase();
+}
+
+function raceTypeToSlug(sheetName, raceId) {
+	if (raceId === 'go-r') return 'governor-republican-primary';
+	if (raceId === 'go-d') return 'governor-democrat-primary';
+	return DISTRICT_RACE_SLUGS[sheetName] || sheetName.toLowerCase().replace(/\s+/g, '-');
+}
+
+function getRaceLabel(sheetName, race) {
+	if (race['race-id'] === 'go-r') return 'Governor Republican Primary';
+	if (race['race-id'] === 'go-d') return 'Governor Democratic Primary';
+
+	const districtNumber = race['district-number'];
+	if (districtNumber) {
+		const displayName = {
+			Assembly: 'State Assembly',
+			Senate: 'State Senate',
+			'US Congress': 'U.S. Congress'
+		}[sheetName] || sheetName;
+		return `${displayName} District ${districtNumber}`;
+	}
+
+	return sheetName;
+}
 
 /**
  * Initialize the navigation menu
@@ -37,6 +77,7 @@ async function init() {
 		
 		// Populate race type dropdown
 		populateRaceTypes();
+		await populateCandidateSearch();
 		
 		// Set up event listeners
 		setupEventListeners();
@@ -44,6 +85,139 @@ async function init() {
 	} catch (error) {
 		console.error('Error initializing navigation menu:', error);
 	}
+}
+
+/**
+ * Build a candidate-to-race index from the same snapshots used by race pages.
+ * Candidates in a current/general race take precedence when an ID also occurs
+ * in a primary race.
+ */
+async function populateCandidateSearch() {
+	const input = document.getElementById('candidate-search-input');
+	const optionsList = document.getElementById('candidate-options');
+	const status = document.getElementById('candidate-search-status');
+	if (!input || !optionsList) return;
+
+	input.disabled = true;
+	input.placeholder = 'Loading candidates...';
+
+	try {
+		const [candidates, sheetNames] = await Promise.all([
+			fetchCandidatesFromAPI(),
+			getAvailableSheets()
+		]);
+		const sheetRaces = await Promise.all(
+			sheetNames.map(async sheetName => ({
+				sheetName,
+				races: await fetchRacesFromAPI(sheetName)
+			}))
+		);
+
+		const raceByCandidateId = new Map();
+		for (const { sheetName, races } of sheetRaces) {
+			for (const race of races) {
+				for (let i = 1; i <= 9; i++) {
+					const candidateId = race[`candidate-${i}`];
+					if (!candidateId || raceByCandidateId.has(candidateId)) continue;
+					raceByCandidateId.set(candidateId, {
+						raceId: race['race-id'],
+						raceTypeSlug: raceTypeToSlug(sheetName, race['race-id']),
+						raceLabel: getRaceLabel(sheetName, race)
+					});
+				}
+			}
+		}
+
+		searchableCandidates = candidates
+			.filter(candidate => candidate.name && raceByCandidateId.has(candidate.candidate_id))
+			.map(candidate => ({ ...candidate, ...raceByCandidateId.get(candidate.candidate_id) }))
+			.sort((a, b) =>
+				getLastName(a.name).localeCompare(getLastName(b.name), undefined, { sensitivity: 'base' }) ||
+				a.name.localeCompare(b.name, undefined, { sensitivity: 'base' })
+			);
+
+		candidatesByName = new Map(
+			searchableCandidates.map(candidate => [normalizeName(candidate.name), candidate])
+		);
+		renderCandidateOptions(searchableCandidates);
+
+		input.disabled = false;
+		input.placeholder = 'Type or select a candidate...';
+		if (status) status.textContent = '';
+	} catch (error) {
+		console.error('Error loading candidate search:', error);
+		input.placeholder = 'Candidates unavailable';
+		if (status) status.textContent = 'Candidate search is temporarily unavailable.';
+	}
+}
+
+function renderCandidateOptions(candidates) {
+	const optionsList = document.getElementById('candidate-options');
+	if (!optionsList) return;
+
+	const fragment = document.createDocumentFragment();
+	let currentInitial = '';
+	for (const candidate of candidates) {
+		const initial = getLastName(candidate.name).charAt(0).toLocaleUpperCase();
+		if (initial !== currentInitial) {
+			const divider = document.createElement('div');
+			divider.className = 'candidate-alpha-divider';
+			divider.textContent = initial;
+			divider.setAttribute('aria-hidden', 'true');
+			fragment.appendChild(divider);
+			currentInitial = initial;
+		}
+
+		const option = document.createElement('button');
+		option.type = 'button';
+		option.className = 'candidate-option';
+		option.dataset.candidateName = candidate.name;
+		option.setAttribute('role', 'option');
+		option.textContent = candidate.name;
+		option.addEventListener('mousedown', event => event.preventDefault());
+		option.addEventListener('click', () => selectCandidate(candidate.name));
+		fragment.appendChild(option);
+	}
+
+	optionsList.replaceChildren(fragment);
+	highlightedCandidateIndex = -1;
+}
+
+function showCandidateOptions() {
+	const input = document.getElementById('candidate-search-input');
+	const optionsList = document.getElementById('candidate-options');
+	if (!input || !optionsList || input.disabled) return;
+	optionsList.hidden = false;
+	input.setAttribute('aria-expanded', 'true');
+}
+
+function hideCandidateOptions() {
+	const input = document.getElementById('candidate-search-input');
+	const optionsList = document.getElementById('candidate-options');
+	if (!input || !optionsList) return;
+	optionsList.hidden = true;
+	input.setAttribute('aria-expanded', 'false');
+	highlightedCandidateIndex = -1;
+}
+
+function selectCandidate(name) {
+	const input = document.getElementById('candidate-search-input');
+	if (!input) return;
+	input.value = name;
+	input.dispatchEvent(new Event('input', { bubbles: true }));
+	hideCandidateOptions();
+	input.focus();
+}
+
+function moveCandidateHighlight(direction) {
+	const optionsList = document.getElementById('candidate-options');
+	if (!optionsList) return;
+	const options = Array.from(optionsList.querySelectorAll('.candidate-option'));
+	if (!options.length) return;
+
+	highlightedCandidateIndex = (highlightedCandidateIndex + direction + options.length) % options.length;
+	options.forEach((option, index) => option.classList.toggle('highlighted', index === highlightedCandidateIndex));
+	options[highlightedCandidateIndex].scrollIntoView({ block: 'nearest' });
 }
 
 /**
@@ -86,6 +260,73 @@ function setupEventListeners() {
 	if (raceSearchBtn) {
 		raceSearchBtn.addEventListener('click', handleRaceSearch);
 	}
+
+	const candidateInput = document.getElementById('candidate-search-input');
+	const candidateSearchBtn = document.getElementById('candidate-search-btn');
+	if (candidateInput) {
+		candidateInput.addEventListener('input', handleCandidateInput);
+		candidateInput.addEventListener('focus', () => {
+			handleCandidateInput({ target: candidateInput });
+			showCandidateOptions();
+		});
+		candidateInput.addEventListener('blur', hideCandidateOptions);
+		candidateInput.addEventListener('keydown', event => {
+			const optionsList = document.getElementById('candidate-options');
+			if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+				event.preventDefault();
+				showCandidateOptions();
+				moveCandidateHighlight(event.key === 'ArrowDown' ? 1 : -1);
+			} else if (event.key === 'Enter' && highlightedCandidateIndex >= 0 && optionsList) {
+				event.preventDefault();
+				const options = optionsList.querySelectorAll('.candidate-option');
+				const highlighted = options[highlightedCandidateIndex];
+				if (highlighted) selectCandidate(highlighted.dataset.candidateName);
+			} else if (event.key === 'Enter' && candidatesByName.has(normalizeName(candidateInput.value))) {
+				event.preventDefault();
+				handleCandidateSearch();
+			} else if (event.key === 'Escape') {
+				hideCandidateOptions();
+			}
+		});
+	}
+	if (candidateSearchBtn) {
+		candidateSearchBtn.addEventListener('click', handleCandidateSearch);
+	}
+}
+
+function handleCandidateInput(event) {
+	const candidateSearchBtn = document.getElementById('candidate-search-btn');
+	const status = document.getElementById('candidate-search-status');
+	const candidate = candidatesByName.get(normalizeName(event.target.value));
+	const hasMatch = Boolean(candidate);
+	const query = normalizeName(event.target.value);
+	const filteredCandidates = query
+		? searchableCandidates.filter(item => normalizeName(item.name).includes(query))
+		: searchableCandidates;
+	renderCandidateOptions(filteredCandidates);
+	showCandidateOptions();
+	if (candidateSearchBtn) candidateSearchBtn.disabled = !hasMatch;
+	if (status) {
+		status.textContent = candidate
+			? `Participating race: ${candidate.raceLabel}`
+			: event.target.value
+				? 'Select a name from the candidate list.'
+				: '';
+		status.classList.toggle('candidate-race-match', hasMatch);
+	}
+}
+
+function handleCandidateSearch() {
+	const input = document.getElementById('candidate-search-input');
+	const status = document.getElementById('candidate-search-status');
+	const candidate = input ? candidatesByName.get(normalizeName(input.value)) : null;
+	if (!candidate) {
+		if (status) status.textContent = 'Select a name from the candidate list.';
+		return;
+	}
+
+	closeMenu();
+	window.location.href = `${base}/race/${candidate.raceTypeSlug}/${candidate.raceId}`;
 }
 
 /**

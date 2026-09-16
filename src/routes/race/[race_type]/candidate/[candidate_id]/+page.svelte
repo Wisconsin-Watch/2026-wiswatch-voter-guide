@@ -1,6 +1,15 @@
 <svelte:head>
-	<link rel="stylesheet" href="https://wisconsinwatch.org/wp-content/themes/newspack-theme/style.css?ver=2.17.0">
-	<link rel="stylesheet" href="{base}/css/wp-custom.css">
+    {#if data?.seo}
+        <title>{data.seo.title}</title>
+        <meta name="description" content={data.seo.description}>
+        <link rel="canonical" href={data.seo.canonical}>
+        <meta property="og:type" content="profile">
+        <meta property="og:title" content={data.seo.title}>
+        <meta property="og:description" content={data.seo.description}>
+        <meta property="og:url" content={data.seo.canonical}>
+        <meta property="og:image" content={data.seo.image}>
+        <meta name="twitter:card" content="summary_large_image">
+    {/if}
     <link rel="stylesheet" href="{base}/css/election.css">
     <link rel="stylesheet" href="{base}/css/candidate-page.css">
 </svelte:head>
@@ -13,8 +22,10 @@
     import { getCandidateByCandidateId, fetchRacesFromAPI, getAvailableSheets } from '$lib/googleSheets.js';
     import { loadSourceRace, clearSourceRace } from '$lib/raceStorage.js';
     import CandidateDetail from '$lib/CandidateDetail.svelte';
+
+    export let data;
     
-    let questions = [];
+    let questions = data?.questions ?? [];
 
     async function loadQuestions() {
         try {
@@ -47,8 +58,8 @@
         'governor-democrat-primary':  { displayName: 'Wisconsin Governor Democratic Primary', raceType: 'Governor' },
         'governor-republican-primary': { displayName: 'Wisconsin Governor Republican Primary', raceType: 'Governor' }
     };
-    let config = null;
-    let raceTypeParam = '';
+    let config = data?.config ?? null;
+    let raceTypeParam = data?.raceTypeParam ?? '';
 
     async function buildRaceConfig() {
         const sheetNames = await getAvailableSheets();
@@ -92,10 +103,10 @@
         // finished building dynamicRaceConfig
     }
     
-    let candidate = null;
-    let loading = true;
+    let candidate = data?.candidate ?? null;
+    let loading = !data?.candidate;
     let error = null;
-    let raceId = null;
+    let raceId = data?.raceId ?? null;
     let pymChild;
     let contentElement;
     

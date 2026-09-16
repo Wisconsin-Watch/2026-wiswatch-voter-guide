@@ -1,12 +1,17 @@
 // Script to fetch and parse Wisconsin Watch RSS feed
 // Saves results to static/data/stories.json
 
+import * as cheerio from 'cheerio';
 import { writeFileSync, mkdirSync } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
+function decodeHtmlEntities(value = '') {
+	return cheerio.load(`<span>${value}</span>`).text();
+}
 
 async function fetchStories() {
 	try {
@@ -28,7 +33,8 @@ async function fetchStories() {
 			
 			// Extract title
 			const titleMatch = itemContent.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
-			const title = titleMatch ? (titleMatch[1] || titleMatch[2]) : 'Untitled';
+			const rawTitle = titleMatch ? (titleMatch[1] || titleMatch[2]) : 'Untitled';
+			const title = decodeHtmlEntities(rawTitle);
 			
 			// Extract link/url
 			const linkMatch = itemContent.match(/<link>(.*?)<\/link>/);

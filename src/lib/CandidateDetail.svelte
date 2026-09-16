@@ -1,5 +1,6 @@
 <script>
   import { goto } from '$app/navigation';
+  import { browser } from '$app/environment';
   import { getTopDonorsByCandidateId } from '$lib/financeReports.js';
   import TopDonorsRanking from '$lib/TopDonorsRanking.svelte';
   export let candidate = null;
@@ -16,6 +17,12 @@
   let campaignFinanceUrl = '';
   let currentTopDonorCandidateId = '';
 
+  function externalUrl(value) {
+    const url = String(value || '').trim();
+    if (!url) return '';
+    return /^https?:\/\//i.test(url) ? url : `https://${url}`;
+  }
+
   // Get questions and answers for the candidate
   $: candidateQuestionsAndAnswers = questions
     .map(q => ({
@@ -26,7 +33,7 @@
     .filter(qa => qa.answer && qa.answer.trim() !== '');
   
   // Debug logging
-  $: if (candidate && questions.length > 0) {
+  $: if (browser && candidate && questions.length > 0) {
     console.log('Candidate loaded:', candidate.name);
     console.log('Questions available:', questions.length);
     console.log('Matched Q&A:', candidateQuestionsAndAnswers.length);
@@ -85,7 +92,7 @@ onMount(async () => {
     }
   }
 
-  $: if (candidate?.candidate_id && !loading && !error) {
+  $: if (browser && candidate?.candidate_id && !loading && !error) {
     loadTopDonors(candidate.candidate_id);
   }
 
@@ -99,10 +106,12 @@ onMount(async () => {
 
 {#if showReturnToRace && raceId}
   <button class="back-button" on:click={returnToRace}>
+    <span class="button-interaction-layer" aria-hidden="true"></span>
     <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />This Race
   </button>
 {/if}
 <button class="back-button" on:click={() => goto(`${base}/#address-map`)}>
+  <span class="button-interaction-layer" aria-hidden="true"></span>
   <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />Home
 </button>
 
@@ -119,7 +128,7 @@ onMount(async () => {
     <div class="candidate-photo">
       {#if candidate.candidate_id}
         <img 
-          src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
+          src={base + (candidate._imagePath || `/graphics/candidates/${candidate.candidate_id}.jpg`)}
           alt={candidate.name}
           on:error={(e) => {
             const img = e.currentTarget;
@@ -175,7 +184,7 @@ onMount(async () => {
         {/if}
         <div class="contact-icons" style="margin-top:1.5rem">
           {#if candidate.website}
-            <a class="hover-tooltip" data-tooltip="Website" href={candidate.website} target="_blank" rel="noopener noreferrer" aria-label="Website">
+            <a class="hover-tooltip" data-tooltip="Website" href={externalUrl(candidate.website)} target="_blank" rel="noopener noreferrer" aria-label="Website">
               <img src={base + '/graphics/hyperlink.svg'} alt="Website" loading="lazy" />
             </a>
           {/if}
@@ -209,37 +218,37 @@ onMount(async () => {
   <broadstreet-zone zone-id="190811"></broadstreet-zone>
 
   {#if candidate.elected_experience}
-    <div class="info-section">
+    <div class="info-section ring bento-section">
       <h2>Elected Experience</h2>
       <p>{candidate.elected_experience}</p>
     </div>
   {/if}
 
   {#if candidateQuestionsAndAnswers.length > 0}
-    <div class="info-section">
+    <div class="info-section ring bento-section">
       <h2>Q&A with the Candidate</h2>
       {#each candidateQuestionsAndAnswers as qa}
         <div class="qa-item" style="margin-bottom: 1.5rem;">
           <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; color: #333;">
             {qa.question_text}
           </h3>
-          <p style="margin: 0; line-height: 1.6; color: #555;">
-            {@html qa.answer.replace(/\n/g, '</p><p>')}
-          </p>
+          {#each qa.answer.split(/\r?\n/).filter(Boolean) as paragraph}
+            <p style="margin: 0; line-height: 1.6; color: #555;">{@html paragraph}</p>
+          {/each}
         </div>
       {/each}
     </div>
   {/if}
 
   {#if candidate.interview_video}
-    <div class="info-section" id="candidate-interview">
+    <div class="info-section ring bento-section" id="candidate-interview">
       <h2>Candidate Interview</h2>
         {@html candidate.interview_video}
     </div>
   {/if}
 
   {#if topDonors.length > 0}
-  <div class="info-section">
+  <div class="info-section ring bento-section">
     <h2>Top ten donors</h2>
       <TopDonorsRanking donors={topDonors} />
     {#if campaignFinanceUrl}

@@ -89,6 +89,10 @@ section {
     padding-bottom: 0.5rem;
 }
 
+#primary {
+    padding-top: 0.5rem;
+}
+
 div, small, p, i, input {
     font-family: "Publico Roman","Georgia","serif";
 }
@@ -107,12 +111,80 @@ div, small, p, i {
     color: #1F2937;
 }
 
+summary {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 0.5rem 0;
+    transition: .3s;
+    user-select: none;
+    border-top: rgba(35, 49, 102, 0.4) 0.5px solid;
+}
+
+summary img {
+    transition: transform 0.3s;
+}
+
+summary h4 {
+    margin: 0;
+}
+
+details::details-content {
+  opacity: 0;
+  transition: 
+    padding-bottom 600ms,
+    transform 600ms,
+    opacity 600ms,
+    content-visibility 600ms allow-discrete;
+}
+
+details:hover > summary img{
+    transform: rotate(360deg);
+}
+
+details p {
+    padding-bottom: 2rem;
+}
+
+details[open] summary img {
+    transform: rotate(450deg);
+}
+
+details[open]::details-content {
+  opacity: 1;
+}
+
+details[open] > div > p {
+    opacity: 0;
+    animation-name: showContent;
+    animation-duration: 0.6s;
+    animation-delay: 0.2s;
+    animation-fill-mode: forwards;
+    margin: 0;
+    padding-left: 20px;
+}
+
+details[open] > div {
+    animation-name: slideDown;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+}
+
 button, summary, span, .calendar-tooltip {
     font-family: 'Heebo', sans-serif;
 }
 
-.block-buttons {
-    margin-bottom: 1rem;
+.attachment-rss-image-size {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+}
+
+.bento-section {
+  background-color: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
 }
 
 .primary-race {
@@ -143,7 +215,7 @@ button, summary, span, .calendar-tooltip {
 
 .site-header {
     background-color: #ffffff;
-    box-shadow: 0 2px 5px #0000001a;
+    box-shadow: 0px 3px 4px 3px #0000001a;
     position: sticky;
     top: 0;
     z-index: 999;
@@ -213,11 +285,21 @@ button, summary, span, .calendar-tooltip {
 }
 
 .block-buttons {
+    margin-bottom: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
+}
+
+.block-question-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    border-top: rgba(35, 49, 102, 0.4) 0.5px solid;
+    margin-bottom: 1rem;
 }
 
 .back-button {
@@ -251,22 +333,108 @@ button, summary, span, .calendar-tooltip {
     border-radius: 50px;
     text-decoration: none;
     cursor: pointer;
-    transition: all 0.15s ease;
-    box-shadow: 0px 6px 0px 0px #233166;
+    transition: all 0.25s ease;
+    box-shadow: 
+        0 6px 0 #233166,
+        inset 0 2px 4px rgba(255, 255, 255, 0.35),
+        inset 0 -3px 5px rgba(35, 49, 102, 0.35);
     position: relative;
+
+    isolation: isolate;
+}
+
+/*
+ * Transparent interaction surface. It reaches above the button by the same
+ * distance as the press animation, keeping the upper hover boundary stationary.
+ * Pointer and click events bubble to the button's existing handlers.
+ */
+.button-interaction-layer {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: inherit;
+    cursor: inherit;
+}
+
+.election-button:hover > .button-interaction-layer,
+.search-button:hover:not(:disabled) > .button-interaction-layer,
+.previous-result-button:hover > .button-interaction-layer,
+.back-button:hover > .button-interaction-layer,
+.search-btn:hover:not(:disabled) > .button-interaction-layer,
+.election-button:focus > .button-interaction-layer,
+.search-button:focus:not(:disabled) > .button-interaction-layer,
+.previous-result-button:focus > .button-interaction-layer,
+.back-button:focus > .button-interaction-layer,
+.search-btn:focus:not(:disabled) > .button-interaction-layer {
+    top: -6px;
+}
+
+/*
+ * Generated primary-race buttons clip child content with overflow: hidden, so
+ * they use a sibling interaction button that stays stationary above the visual.
+ */
+.generated-race-button {
+    position: relative;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+.generated-race-button > .primary-race {
+    pointer-events: none;
+}
+
+.generated-race-interaction {
+    position: absolute;
+    z-index: 2;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: inherit;
+    background: transparent;
+    box-shadow: none;
+    cursor: pointer;
+    appearance: none;
+}
+
+/* Override Newspack's global button interaction colors on this invisible layer. */
+.generated-race-interaction:hover,
+.generated-race-interaction:focus,
+.generated-race-interaction:active {
+    background: transparent;
+    color: transparent;
+    box-shadow: none;
 }
 
 .election-button:hover,
 .search-button:hover:not(:disabled),
-.previous-result-button:hover
-,.back-button:hover,
-.search-btn:hover:not(:disabled) {
+.previous-result-button:hover,
+.back-button:hover,
+.search-btn:hover:not(:disabled),
+.election-button:focus,
+.search-button:focus:not(:disabled),
+.previous-result-button:focus,
+.back-button:focus,
+.search-btn:focus:not(:disabled),
+.generated-race-interaction:hover + .primary-race,
+.generated-race-interaction:focus + .primary-race {
     transform: translateY(6px);
-    box-shadow: 0px 0px 0px 0px #233166;
+    box-shadow: 
+    0 -1px 0 #233166,
+    inset 0 2px 3px rgba(20, 55, 85, 0.3),
+    inset 0 5px 10px rgba(20, 55, 85, 0.25),
+    inset 0 10px 20px rgba(20, 55, 85, 0.15),
+    inset 0 -2px 4px rgba(255, 255, 255, 0.2);
     background-color: #233166;
 }
 
-.election-button:active {
+.election-button:active,
+.generated-race-interaction:active + .primary-race {
     transform: translateY(6px);
     box-shadow: 0px 0px 0px 0px #233166;
     background-color: #233166;
@@ -280,6 +448,10 @@ button, summary, span, .calendar-tooltip {
 .site-content {
     margin-top: 0.5rem !important;
     padding-bottom: 4em !important;
+}
+
+.site-content:last-of-type {
+    padding-bottom: 10rem !important;
 }
 
 #masthead p, footer {
@@ -305,13 +477,46 @@ button, summary, span, .calendar-tooltip {
     margin: 1rem 0;
 }
 
+.ring {
+    box-shadow: inset 0px 0px 5px 1px rgba(35, 49, 102, 0.4);
+    border-radius: 50px;
+    padding: 1.5rem;
+    margin-top: 0;
+    border: rgba(35, 49, 102, 0.4) 0.5px solid;
+}
+
+
 footer {
-    box-shadow: inset 0px 5px 5px 5px #0000001a;
+    box-shadow: inset 0px 0px 4px 3px #0000001a;
 }
 
 .dropped-out {
     filter: grayscale(100%);
 }
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    height: 0;
+    padding: 0;
+  }
+
+  to {
+    opacity: 1;
+    height: var(--contentHeight);
+    padding: 20px;
+  }
+}
+
+@keyframes showContent {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 
 @media (min-width: 782px) {
     .wp-block-heading {
@@ -322,5 +527,9 @@ footer {
 @media (max-width: 451px) {
     .social-navigation {
         margin-top: 0.5rem;
+    }
+
+    .ring {
+        padding: 1rem;
     }
 }

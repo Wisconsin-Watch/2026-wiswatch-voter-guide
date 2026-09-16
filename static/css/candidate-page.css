@@ -23,7 +23,7 @@
     width: 100%;
     height: auto;
     border-radius: 50px;
-    box-shadow: 0 6px 16px rgba(35, 49, 102, 0.08);
+    box-shadow: 0px 0px 5px 1px rgba(35, 49, 102, 0.4);
 }
 
 .candidate-basic-info {
@@ -39,7 +39,6 @@
 }
 
 .info-section h2 {
-    border-bottom: 2px solid #233166;
     padding-bottom: 0.5rem;
 }
 

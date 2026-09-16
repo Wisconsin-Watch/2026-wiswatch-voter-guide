@@ -1,3 +1,4 @@
-# allow crawling everything by default
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/sitemap.xml

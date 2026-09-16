@@ -1,4 +1,13 @@
 <svelte:head>
+    <title>2026 Wisconsin voter guide: candidates and elections | Wisconsin Watch</title>
+    <meta name="description" content="Find your 2026 Wisconsin elections, compare candidates and read nonpartisan voter information from Wisconsin Watch.">
+    <link rel="canonical" href="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="2026 Wisconsin voter guide | Wisconsin Watch">
+    <meta property="og:description" content="Find your races and compare candidates in Wisconsin's nonpartisan 2026 voter guide.">
+    <meta property="og:url" content="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/">
+    <meta property="og:image" content="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/graphics/banner/Banner_PC.svg">
+    <meta name="twitter:card" content="summary_large_image">
     <link rel="stylesheet" href="{base}/css/bento-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.15.0/dist/maplibre-gl.css">
 </svelte:head>
@@ -100,17 +109,22 @@
         padding: 0 1rem;
     }
 
-    #address-map {
-        background-color: #FFFFFF;
-        border:#D5E2EE 2px solid;
-        box-shadow: 0 10px 25px rgba(35, 49, 102, 0.08);
+    #address-map, #governors-race {
         border-radius: 50px;
         padding-top: 1rem;
         padding-bottom: 0rem;
         padding-left: 1rem;
         padding-right: 1rem;
-        margin-top: 2rem;
+        margin-top: 3rem;
         margin-bottom: 1rem;
+    }
+
+    #address-map {
+        background-color: #FFFFFF;
+    }
+
+    #governors-race img{
+        border-radius: 50px;
     }
 
     .search-box {
@@ -127,12 +141,13 @@
         border-radius: 50px;
         transition: all 0.2s;
         background-color: #FFFFFF;
+        box-shadow: 0px 0px 5px 1px rgba(35, 49, 102, 0.4);
     }
 
     .address-input:hover, .address-input:focus {
         outline: none;
         border: 3px solid #233166;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        box-shadow:0px 0px 6px 1px rgba(35, 49, 102, 0.4);
         background-color: #EAF1F7;
     }
 
@@ -193,7 +208,6 @@
 
     .results-container {
         border-radius: 25px;
-        padding: 2rem;
         padding-bottom: 0;
         margin-top: 1.5rem;
     }
@@ -309,6 +323,7 @@
         text-align: center;
         border-top-left-radius: 50px;
         border-top-right-radius: 50px;
+        margin-bottom: 1rem;
         margin-left: -1rem;
         margin-right: -1rem;
     }
@@ -334,10 +349,9 @@
 
     .calendar {
         background: white;
-        border: #D5E2EE 2px solid;
+        border: #3090c9 5px solid;
         border-radius: 50px;
         padding: 1.5rem;
-        box-shadow: 0 10px 25px rgba(35, 49, 102, 0.08);
         position: relative;
         overflow: visible;
         width: 100%;
@@ -402,12 +416,15 @@
         color: white;
         font-weight: 800;
         cursor: pointer;
-        box-shadow: 0 2px 8px #3090C9;
+        box-shadow:
+            0 2px 3px rgba(35, 49, 102, 0.22),
+            0 5px 8px rgba(35, 49, 102, 0.16),
+            inset 0 1px 1px rgba(255, 255, 255, 0.22);
     }
 
     .calendar-day.highlighted:hover, .calendar-day.highlighted:active {
         transform: scale(1.1);
-        box-shadow: 0 4px 12px #233166;
+        box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.4);
         background: #233166;
         transition: all 0.2s ease;
     }
@@ -506,33 +523,66 @@
         inset: 10px;
     }
 
-    .governor-winner-left {
-        grid-column: 1 / 6;
-        border: #e9151f 15px solid !important;
-    }
-    
-    .governor-winner-right {
-        grid-column: 8 / 13;
-        border: #0b3eb6 15px solid !important;
+    .governor-winner-center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
-    .governor-winner-main {
-        grid-column: 4 / 10;
+    .governor-winner-center img {
+        border-radius: 0px !important;
+        margin: auto;
     }
 
-    .governor-winner-main, .governor-winner-left, .governor-winner-right {
+    .governor-winner-left, .governor-winner-right {
         background: white;
         border-radius: 50px;
         padding: 1.5rem;
         text-align: center;
-        box-shadow: 0 5px 25px rgba(35, 49, 102, 0.1);
-        border: #D5E2EE 15px solid;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
     }
 
-    .governor-winner-main:hover, .governor-winner-left:hover, .governor-winner-right:hover {
-        box-shadow: 0 10px 25px rgba(35, 49, 102, 0.1);
-        border: #233166 15px solid !important;
-        transition: all 0.3s ease;
+    .governor-winner-right {
+        --governor-logo-image: var(--governor-rep-logo);
+    }
+
+    .governor-winner-left {
+        --governor-logo-image: var(--governor-dem-logo);
+    }
+
+    .governor-winner-left::before, .governor-winner-right::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background-image: var(--governor-logo-image);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: var(--governor-logo-size, 100%);
+        opacity: var(--governor-logo-opacity, 0.1);
+        transform: translate(
+            var(--governor-logo-translate-x, 0),
+            var(--governor-logo-translate-y, 40%)
+        );
+        pointer-events: none;
+    }
+
+    .governor-winner-left > *, .governor-winner-right > * {
+        position: relative;
+        z-index: 1;
+    }
+
+    .governor-winner-left:hover {
+        box-shadow: 
+            inset 0px 0px 5px 1px rgba(0, 68, 201, 0.4), 
+            0px 0px 4px 8px rgba(0, 68, 201, 0.2);
+    }
+
+    .governor-winner-right:hover {
+        box-shadow: 
+            inset 0px 0px 5px 1px rgba(232, 27, 35, 0.4), 
+            0px 0px 4px 8px rgba(232, 27, 35, 0.2); 
     }
 
     .governor-winner-main.disabled {
@@ -542,11 +592,41 @@
 
     .governor-winner-main.disabled:hover {
         box-shadow: 0 10px 25px rgba(35, 49, 102, 0.1);
-        border: #D5E2EE 15px solid !important;
     }
 
     .governor-winner-main picture, .governor-winner-left picture, .governor-winner-right picture {
         border-radius: 50px !important;
+    }
+
+        #governors-race .bento-container {
+            display: grid !important;
+            grid-template-columns: 3fr 1fr 3fr;
+            grid-template-rows: 1fr;
+            grid-auto-flow: unset;
+            position: relative;
+        }
+
+        #governors-race .governor-winner-left {
+            grid-column: 1 !important;
+            grid-row: 1 !important;
+        }
+
+        #governors-race .governor-winner-right {
+            grid-column: 3 !important;
+            grid-row: 1 !important;
+        }
+
+    .self-pop-story {
+        border-bottom: rgba(35, 49, 102, 0.4) 0.5px solid;
+        transition: all 0.2s ease;
+        padding-top : 0;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+
+    .self-pop-story:hover {
+        background-color: #EAF1F7;
+        border-radius: 8px;
     }
 
     @media (max-width: 820px) {
@@ -579,6 +659,7 @@
     @media (max-width: 760px) {
         .search-box {
             flex-direction: column;
+            padding-bottom: 0.5rem;
         }
 
         .search-button {
@@ -642,46 +723,24 @@
             z-index: -1;
         }
 
-        .governor-winner-left {
-            grid-column: 1 / 7;
-        }
-        
-        .governor-winner-right {
-            grid-column: 7 / 13;
-        }
-
-        .governor-winner-main {
-            grid-column: 2 / 12;
-        }
-
         .previous-results-buttons {
             gap: 1rem;
+        }
+
+        .governor-winner-left::before, .governor-winner-right::before {
+            background-size: var(--governor-logo-size, 100%);
+            transform: translate(
+                var(--governor-logo-translate-x, 0),
+                var(--governor-logo-translate-y, 35%)
+            );
+            pointer-events: none;
         }
     }
 
     @media (min-width: 760px) {
-
         .hero {
             padding-top: 20vh !important;
             padding-bottom: 20vh !important;
-        }
-
-        #governors-race .bento-container {
-            display: grid !important;
-            grid-template-columns: 1fr 2fr 1fr;
-            grid-template-rows: 1fr 1fr;
-            grid-auto-flow: unset;
-            position: relative;
-        }
-
-        #governors-race .governor-winner-left {
-            grid-column: 1 !important;
-            grid-row: 1 !important;
-        }
-
-        #governors-race .governor-winner-right {
-            grid-column: 1 !important;
-            grid-row: 2 !important;
         }
 
         #governors-race .governor-race-bkg {
@@ -711,6 +770,17 @@
             justify-content: center;
             flex-direction: column;
         }
+
+        .governor-winner-center img {
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+
+        .governor-winner-left .winner-label,
+        .governor-winner-right .winner-label {
+            padding-top: 2rem;
+            padding-bottom: 1rem;
+        }
     }
 
     @media (max-width: 480px) {
@@ -723,6 +793,7 @@
         }
 
         .calendar {
+            border: #3090c9 2px solid;
             padding: 0.5rem;
         }
 
@@ -752,20 +823,17 @@
             padding: 0.4rem 0.6rem;
         }
 
-        .governor-winner-left {
-            border: #e9151f 10px solid !important;
-        }
-    
-        .governor-winner-right {
-            border: #0b3eb6 10px solid !important;
-        }
-
         .governor-winner-left, .governor-winner-right {
-            padding: 0.5rem;
+            padding: 0;
+            border-radius: 25px;
         }
 
-        .governor-winner-main:hover, .governor-winner-left:hover, .governor-winner-right:hover {
-            border: #233166 10px solid !important;
+        #governors-race img{
+            border-radius: 25px;
+        }
+
+        .winner-label {
+            padding: 0.5rem;
         }
     }
 </style>
@@ -1166,8 +1234,10 @@
     });
 
     onDestroy(() => {
-        window.removeEventListener('scroll', handleScroll, true);
-        window.removeEventListener('resize', handleResize);
+        if (typeof window !== 'undefined') {
+            window.removeEventListener('scroll', handleScroll, true);
+            window.removeEventListener('resize', handleResize);
+        }
         primaryResultsNoticeObserver?.disconnect();
     });
 
@@ -1400,70 +1470,65 @@
 
         <broadstreet-zone id="after-hero" zone-id="190680"></broadstreet-zone>
 
-            <div class="entry-content" style="padding-top: 4rem;">
+            <div class="entry-content">
 
                 <div class="entry-content">
 
                     <!-- Homepage -->
-                    
+            <div
+                id="governors-race"
+                style="--governor-rep-logo: url('{base}/graphics/logos/rep.svg'); --governor-dem-logo: url('{base}/graphics/logos/dem.svg');"
+            >
+                <h2 class="wp-block-heading has-text-align-center">
+                    Wisconsin Governor general election
+                </h2>
 
-                    <section id="governors-race">
-                        <h2 class="wp-block-heading has-text-align-center">Governor's race</h2>
+                <div class="bento-container grid grid-cols-12 grid-flow-dense gap-4">
+                    <a
+                        class="bento-item governor-winner-right ring" data-sveltekit-reload href="{base}/race/governor/1"
+                    >
 
-                        <div class="bento-container grid grid-cols-12 grid-flow-dense gap-4">
-                            <a class="bento-item governor-winner-left" href="{base}/race/governor-republican-primary/go-r" data-sveltekit-reload>
-                                <div class="winner-label">
-                                    <h4>Republican primary</h4>
-                                </div>
-                                <img src="{base}/graphics/candidates/t-tiffany1.jpg" alt="Tom Tiffany"/>
-                                <div class="winner-label">
-                                    <h5>Tom Tiffany</h5>
-                                </div>
-                            </a>
-                            <a class="bento-item governor-winner-right" href="{base}/race/governor-democrat-primary/go-d" data-sveltekit-reload>
-                                <div class="winner-label">
-                                    <h4>Democratic primary</h4>
-                                </div>
-                                <img src="{base}/graphics/candidates/d-crowley1.jpg" alt="David Crowley"/>
-                                <div class="winner-label">
-                                    <h5>David Crowley</h5>
-                                </div>
-                            </a>
-                            <!-- Background -->
-                            <div class="governor-race-bkg absolute inset-0 z-0 flex justify-center items-center">
-                                <picture>
-                                    <source 
-                                        srcset="{base}/graphics/racecard-bkg_Mobile.png" 
-                                        media="(max-width: 760px)" />
-                                    
-                                    <img src="{base}/graphics/racecard-bkg_Desktop.png"
-                                        alt="Governor's race background image"
-                                        class="governor-race-image w-full h-full object-cover opacity-80" />
-                                </picture>
-                            </div>
-                            <!-- Main Governor Race-->
-                            {#if isGovernorLinkEnabled}
-                                <a class="bento-item governor-winner-main" href="{base}/race/governor/1" data-sveltekit-reload>
-                                    <div class="winner-label">
-                                        <h4>General election</h4>
-                                    </div>
-                                    <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
-                                </a>
-                            {:else}
-                                <div class="bento-item governor-winner-main disabled">
-                                    <div class="winner-label">
-                                        <h4>General election</h4>
-                                        <small>(Unlock after primary race)</small>
-                                    </div>
-                                    <img src="{base}/graphics/candidates/winner-who.png" alt="Winner image"/>
-                                </div>
-                            {/if}
+                        <img
+                            src="{base}/graphics/candidates/t-tiffany1.jpg"
+                            alt="Tom Tiffany"
+                        />
+
+                        <div class="winner-label">
+                            <h3>Tom Tiffany</h3>
                         </div>
+                    </a>
 
-                    </section>
+                    <div class = "governor-winner-center">
+                        <img alt="" src="{base}/graphics/options-arrow.svg">
+                    </div>
+
+                    <a
+                        class="bento-item governor-winner-left ring" data-sveltekit-reload href="{base}/race/governor/1"
+                    >
+
+                        <img
+                            src="{base}/graphics/candidates/d-crowley1.jpg"
+                            alt="David Crowley"
+                        />
+
+                        <div class="winner-label">
+                            <h3>David Crowley</h3>
+                        </div>
+                    </a>
+
+                </div>
+
+                <button
+                    class="election-button"
+                    style="margin-left: auto; margin-right:auto; display: block;"
+                    on:click={() => window.location.href = `${base}/race/governor/1`}
+                >
+                    <span class="button-interaction-layer" aria-hidden="true"></span>
+                    More about governor election
+                </button>
+            </div>
 		
-                    <section id="address-map">
-
+                    <section class ="ring" id="address-map">
                         {#if savedRaces && (savedRaces.assembly || savedRaces.senate || savedRaces.congress)}
                             <div class="previous-results-container">
                                 <h3 style="margin-bottom: 0; margin-top: 0;">Your previous search results</h3>
@@ -1475,6 +1540,7 @@
                                         <button
                                             class="previous-result-button" on:click={() => window.location.href = `${base}/race/assembly/${savedRaces.assembly}`}
                                         >
+                                            <span class="button-interaction-layer" aria-hidden="true"></span>
                                             Assembly
                                         </button>
                                     {/if}
@@ -1483,6 +1549,7 @@
                                             class="previous-result-button"
                                             on:click={() => window.location.href = `${base}/race/senate/${savedRaces.senate}`}
                                         >
+                                            <span class="button-interaction-layer" aria-hidden="true"></span>
                                             Senate
                                         </button>
                                     {/if}
@@ -1491,6 +1558,7 @@
                                             class="previous-result-button"
                                             on:click={() => window.location.href = `${base}/race/congress/${savedRaces.congress}`}
                                         >
+                                            <span class="button-interaction-layer" aria-hidden="true"></span>
                                             U.S. Congress
                                         </button>
                                     {/if}
@@ -1533,6 +1601,7 @@
                                     disabled={searching}
                                     class="search-button"
                                 >
+                                    <span class="button-interaction-layer" aria-hidden="true"></span>
                                     {searching ? 'Searching...' : 'Search'}
                                     {#if !searching}
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="height: 1em; width: 1em; margin-left: 0.5rem; vertical-align: middle; display: inline-block;">
@@ -1622,18 +1691,38 @@
 
                         <div class="block-buttons is-horizontal is-content-justification-center is-layout-flex">
                             {#each primaryRaces as race}
-                                <button class="election-button primary-race" on:click={() => window.location.href = `/race/${race.slug}/1`}>
-                                    {race.label}
-                                </button>
+                                <span class="generated-race-button">
+                                    <button
+                                        type="button"
+                                        class="generated-race-interaction"
+                                        aria-label={race.label}
+                                        on:click={() => window.location.href = `/race/${race.slug}/1`}
+                                    ></button>
+                                    <button type="button" class="election-button primary-race" aria-hidden="true" tabindex="-1">
+                                        {race.label}
+                                    </button>
+                                </span>
                             {/each}
                             {#each otherRaces as race}
-                            <button
-                                class="election-button primary-race"
-                                on:click={() => window.location.href = `${base}/race/${race.slug}/1`}
-                            >
-                                {race.label.charAt(0).toUpperCase() + race.label.slice(1).toLowerCase()} <!--So that all lowercase except the initial-->
-                            </button>
+                                <span class="generated-race-button">
+                                    <button
+                                        type="button"
+                                        class="generated-race-interaction"
+                                        aria-label={race.label.charAt(0).toUpperCase() + race.label.slice(1).toLowerCase()}
+                                        on:click={() => window.location.href = `${base}/race/${race.slug}/1`}
+                                    ></button>
+                                    <button type="button" class="election-button primary-race" aria-hidden="true" tabindex="-1">
+                                        {race.label.charAt(0).toUpperCase() + race.label.slice(1).toLowerCase()} <!--So that all lowercase except the initial-->
+                                    </button>
+                                </span>
                             {/each}
+                        </div>
+
+                        <div class="block-question-buttons">
+                                <button class="election-button" on:click={() => window.location.href = `/constitution-amendment-questions`}>
+                                    <span class="button-interaction-layer" aria-hidden="true"></span>
+                                    Constitutional amendment questions
+                                </button>
                         </div>
 
                     </section>
@@ -1659,7 +1748,7 @@
                         
                         <div class="calendars-container">
                         {#each calendars as calendar}
-                            <div class="calendar">
+                            <div class="calendar ring">
                             <div class="calendar-header">
                                 <h4>{calendar.title}</h4>
                             </div>
@@ -1741,7 +1830,7 @@
                             <section class="bento-section bento-section-primary ring col-span-full md:col-span-12 xl:col-span-8 xl:row-span-2">
                                 <div class="bento-body">
                                     <h3 class="wp-block-heading has-text-align-center"><strong>Can I vote by mail?</strong></h3>
-                                    <p>Yes. Wisconsin voters don't need a reason to vote by mail/be an absentee voter. Every registered Wisconsin voter has the ability to request an absentee ballot by mail. You can request an absentee ballot on MyVote Wisconsin <a href="https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail">here</a>.</p>
+                                    <p><strong>Yes.</strong> Wisconsin voters don't need a reason to vote by mail/be an absentee voter. Every registered Wisconsin voter has the ability to request an absentee ballot by mail. You can request an absentee ballot on MyVote Wisconsin <a href="https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail">here</a>.</p>
                                     <p>Once you've submitted your request for an absentee ballot, you can track your ballot <a href="https://myvote.wi.gov/en-us/Track-My-Ballot">here</a>.</p>
                                     <p>Before you begin filling out your absentee ballot, make sure you have a witness who can verify that you filled out your own ballot. The witness needs to be an adult U.S. citizen who is not a candidate in the upcoming election. Once you've completed your ballot, place it in the certified envelope that comes with your absentee ballot. Seal and sign the certificate envelope and then have your witness sign the certificate and include the witness' address.</p>
                                     <p>The next step is to mail it back to your municipal clerk. The United States Postal Service recommends mailing your ballot back at least seven days before Election Day, according to the Wisconsin Elections Commission.</p>
@@ -1759,30 +1848,21 @@
                             <section class="bento-section bento-section-secondary ring col-span-full md:col-span-12 xl:col-span-4 xl:row-span-1">
                                 <div class="bento-body">
                                     <h3 class="wp-block-heading has-text-align-center"><strong>Can I put my absentee ballot in a ballot drop box?</strong></h3>
-                                    <p>Yes. The Wisconsin Supreme Court recently <a href="https://wisconsinwatch.org/2024/07/wisconsin-supreme-court-allows-expanded-use-of-ballot-drop-boxes/">ruled</a> that Wisconsin communities can once again use drop boxes to collect absentee ballots. However, the use of drop boxes is not required, so it's up to your municipal clerk whether they are available in your community or not.</p>
+                                    <p><strong>Yes.</strong> The Wisconsin Supreme Court recently <a href="https://wisconsinwatch.org/2024/07/wisconsin-supreme-court-allows-expanded-use-of-ballot-drop-boxes/">ruled</a> that Wisconsin communities can once again use drop boxes to collect absentee ballots. However, the use of drop boxes is not required, so it's up to your municipal clerk whether they are available in your community or not.</p>
                                 </div>
                             </section>
 
                         </div>
                     </section>
 
-                    <!-- Download info-->
-                            <section class="bento-section bento-section-primary ring col-span-full md:col-span-12 xl:col-span-4 md:row-span-1">
-                                <div class="bento-body">
-                                    <h3 class="wp-block-heading has-text-align-center"><strong>Like this website?</strong></h3>
-                                    <p>Please do us a favor: Spread the word about the voter guide. <a href="https://wisconsinwatch.org/2026/07/2026-wisconsin-watch-voter-guide/">Send the link</a> to friends and family. Post it to social media.</p>
-                                    <p>And if you’re really on a roll, download free <a href="https://wisconsinwatch.org/wp-content/uploads/2026/08/WW-Voter-Guide-promo-flyers.pdf">flyers</a> or <a href="https://wisconsinwatch.org/wp-content/uploads/2026/08/WW-Voter-Guide-bookmarks.pdf">bookmarks</a> we designed to promote the voter guide. Print them out and share them in your community. Each resource includes a QR code that will take you directly to the voter guide webpage.</p>
-                                </div>
-                            </section>
 
-                    
                     <!--Self populated list of stories-->
                     <!--Obtain info from "https://wisconsinwatch.org/tag/election-2026"-->
-
+                    <section class="ring section bento-section">
                         <h2 class="wp-block-heading has-text-align-center" id="News">Latest election news from Wisconsin Watch</h2>
-                            <div class="recent-news ento-container grid grid-cols-12 grid-flow-dense gap-4" id="latest-election-2024-news-and-resources">
+                            <div class="recent-news bento-container grid grid-cols-12 grid-flow-dense gap-4" id="latest-election-2024-news-and-resources">
                                 {#each data.stories as story (story.id)}
-                                    <section class="bento-section bento-section-secondary ring col-span-full md:col-span-6 lg:col-span-3">
+                                    <section class="bento-section-secondary self-pop-story col-span-full md:col-span-6 lg:col-span-3">
                                             {#if story.image}
                                                 <figure class="post-content">
                                                     <img 
@@ -1815,6 +1895,19 @@
                                 {/each}
                             </div>
 
+                            <div class="calendar-actions">
+                                <a class="calendar-link" href="https://wisconsinwatch.org/tag/election-2026/">More news coverage &rarr;</a> 
+                            </div>
+                    </section>
+
+                    <!-- Download info-->
+                            <section class="bento-section bento-section-primary ring col-span-full md:col-span-12 xl:col-span-4 md:row-span-1" style="margin-top: 2rem;">
+                                <div class="bento-body">
+                                    <h3 class="wp-block-heading has-text-align-center"><strong>Like this website?</strong></h3>
+                                    <p><strong>Please do us a favor:</strong> Spread the word about the voter guide. Send the link to friends and family. Post it to social media.</p>
+                                    <p>And if you’re really on a roll, download free <a href="https://wisconsinwatch.org/wp-content/uploads/2026/08/WW-Voter-Guide-promo-flyers.pdf">flyers</a> or <a href="https://wisconsinwatch.org/wp-content/uploads/2026/08/WW-Voter-Guide-bookmarks.pdf">bookmarks</a> we designed to promote the voter guide. Print them out and share them in your community. Each resource includes a QR code that will take you directly to the voter guide webpage.</p>
+                                </div>
+                            </section>
                     </div>
                 </div> 
         </main>

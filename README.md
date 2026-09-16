@@ -28,3 +28,9 @@
 - Updated Geocoding service to Mapbox v6.
 - Fixed bug for not able to jump back to homepage in iframe.
 - Candidates now sorted by last name.
+
+<h4>Update Sept. 16, 2026</h4>
+
+- Styling update
+- Add function of looking for candidate race via names
+- Add constitution amendment questions page

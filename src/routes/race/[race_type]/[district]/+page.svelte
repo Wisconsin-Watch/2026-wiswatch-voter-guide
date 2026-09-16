@@ -1,6 +1,15 @@
 <svelte:head>
-    <link rel="stylesheet" href="https://wisconsinwatch.org/wp-content/themes/newspack-theme/style.css?ver=2.17.0">
-    <link rel="stylesheet" href="{base}/css/wp-custom.css">
+    {#if data?.seo}
+        <title>{data.seo.title}</title>
+        <meta name="description" content={data.seo.description}>
+        <link rel="canonical" href={data.seo.canonical}>
+        <meta property="og:type" content="website">
+        <meta property="og:title" content={data.seo.title}>
+        <meta property="og:description" content={data.seo.description}>
+        <meta property="og:url" content={data.seo.canonical}>
+        <meta property="og:image" content={data.seo.image}>
+        <meta name="twitter:card" content="summary_large_image">
+    {/if}
     <link rel="stylesheet" href="{base}/css/election.css">
     {#if config.hasMap}
         <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.15.0/dist/maplibre-gl.css">
@@ -108,13 +117,13 @@
         };
     }
     
-    let race = null;
-    let candidates = [];
-    let stories = [];
-    let positionInfo = '';
+    let race = data?.race ?? null;
+    let candidates = data?.candidates ?? [];
+    let stories = data?.stories ?? [];
+    let positionInfo = data?.positionInfo ?? '';
     let fundsByCandidateId = {};
     let financeLoading = true;
-    let loading = true;
+    let loading = !data?.race;
     let error = null;
     let pymChild;
     let contentDiv;
@@ -123,8 +132,8 @@
     let raceTypeParam = '';
     let showFundsRaisedSection = true;
     $: hasAnyFinanceData = Object.values(fundsByCandidateId).some(v => v > 0);
-    let previousRaceType = '';
-    let previousDistrict = '';
+    let previousRaceType = data?.raceTypeParam ?? '';
+    let previousDistrict = data?.district ?? '';
     
     // Get race configuration based on URL parameter
     $: {
@@ -152,14 +161,6 @@
         if (raceTypeSlug.endsWith('congress')) return 'congress';
         // fallback: return original slug
         return raceTypeSlug;
-    }
-    
-    function navigateToCandidate(candidateId) {
-        if (race && config) {
-            saveSourceRace(raceTypeParam, race['race-id']);
-            const configKey = getRaceConfigKey(raceTypeParam);
-            window.location.href = `${base}/race/${configKey}/candidate/${candidateId}`;
-        }
     }
     
     async function loadRaceData() {
@@ -334,10 +335,39 @@
         }
         window.addEventListener('message', handleIframeMessage);
 
+        // The build snapshot already contains the current race and candidates.
+        // Load only browser-side enhancements so hydration never clears the cards.
+        if (data?.race) {
+            clearSourceRace();
+
+            if (showFundsRaisedSection) {
+                const candidateIds = candidates
+                    .map((candidate) => candidate.candidate_id)
+                    .filter(Boolean);
+                getFundsRaisedForCandidates(candidateIds)
+                    .then((totals) => {
+                        fundsByCandidateId = totals;
+                        financeLoading = false;
+                    })
+                    .catch(() => {
+                        fundsByCandidateId = {};
+                        financeLoading = false;
+                    });
+            } else {
+                financeLoading = false;
+            }
+
+            if (config && config.hasMap) {
+                setTimeout(initializeDistrictMap, 100);
+            }
+        }
+
     });
     
     onDestroy(() => {
-        window.removeEventListener('message', handleIframeMessage);
+        if (typeof window !== 'undefined') {
+            window.removeEventListener('message', handleIframeMessage);
+        }
         if (districtMap) {
             districtMap.remove();
         }
@@ -366,6 +396,7 @@
             {:else if race && config}
                 <div class="race-detail">
                     <button class="back-button" on:click={() => goto(`${base}/#address-map`)}>
+                        <span class="button-interaction-layer" aria-hidden="true"></span>
                         <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />Home
                     </button>
                     
@@ -378,19 +409,24 @@
                     </div>
                     
                     {#if candidates.length > 0}
-                        <div class="info-section">
+                        <div class="info-section ring bento-section">
                             <h2 data-tooltip="Candidates are sorted by last name.">Candidates</h2>
                             <div class="candidates-grid">
                                 {#each candidates as candidate}
-                                    <div class="candidate-card" role="button" tabindex="0" 
-                                         on:click={() => navigateToCandidate(candidate.candidate_id)} 
-                                         on:keydown={(e) => e.key === 'Enter' && navigateToCandidate(candidate.candidate_id)}>
+                                    <div class="candidate-card">
+                                        <a
+                                            class="candidate-card-link"
+                                            href="{base}/race/{getRaceConfigKey(raceTypeParam)}/candidate/{candidate.candidate_id}/"
+                                            aria-label="View {candidate.name}'s candidate profile"
+                                            data-sveltekit-reload
+                                            on:click={() => saveSourceRace(raceTypeParam, race['race-id'])}
+                                        ></a>
                                         <div class="candidate-icon">
                                             <img src="{base}/graphics/plus.svg" alt="View details" />
                                         </div>
                                         {#if candidate.candidate_id}
                                             <img
-                                                src="{base}/graphics/candidates/{candidate.candidate_id}.jpg"
+                                                src={base + (candidate._imagePath || `/graphics/candidates/${candidate.candidate_id}.jpg`)}
                                                 alt={candidate.name}
                                                 class="candidate-photo"
                                                 class:dropped-out={['dropped-out', 'lost-primary'].includes((candidate.status || '').trim().toLowerCase())}
@@ -432,28 +468,30 @@
                     <broadstreet-zone zone-id="190810"></broadstreet-zone>
 
                     {#if race['ap-result']}
-                        <div class="info-section ap-result-section">
+                        <div class="info-section ap-result-section ring bento-section">
                             <h2>Election Results</h2>
                             <div>{@html race['ap-result']}</div>
                         </div>
                     {/if}
 
                     {#if race['district-info']}
-                        <div class="info-section">
+                        <div class="info-section ring bento-section">
                             <h2>District overview</h2>
                             <p>{race['district-info']}</p>
                         </div>
                     {/if}
 
                     {#if race['district-race-nutshell']}
-                        <div class="info-section">
+                        <div class="info-section ring bento-section">
                             <h2>Race overview</h2>
-                            <p>{@html race['district-race-nutshell'].replace(/\r?\n/g, '</p><p>')}</p>
+                            {#each race['district-race-nutshell'].split(/\r?\n/).filter(Boolean) as paragraph}
+                                <p>{@html paragraph}</p>
+                            {/each}
                         </div>
                     {/if}
 
                         {#if showFundsRaisedSection && (financeLoading || hasAnyFinanceData)}
-                            <div class="info-section funds-raised-section">
+                            <div class="info-section funds-raised-section ring bento-section">
                                 <h2>Campaign funds raised</h2>
                                 {#if financeLoading}
                                     <p>Loading campaign finance data...</p>
@@ -470,21 +508,25 @@
                         {/if}
 
                     {#if race['primary-results']}
-                        <div class="info-section">
+                        <div class="info-section ring bento-section">
                             <h2>Primary results</h2>
-                            <p>{@html race['primary-results'].replace(/\r?\n/g, '</p><p>')}</p>
+                            {#each race['primary-results'].split(/\r?\n/).filter(Boolean) as paragraph}
+                                <p>{@html paragraph}</p>
+                            {/each}
                         </div>
                     {/if}
 
                     {#if positionInfo}
-                        <div class="info-section">
+                        <div class="info-section ring bento-section">
                             <h2>What does this position do?</h2>
-                            <p>{@html positionInfo.replace(/\r?\n/g, '</p><p>')}</p>
+                            {#each positionInfo.split(/\r?\n/).filter(Boolean) as paragraph}
+                                <p>{@html paragraph}</p>
+                            {/each}
                         </div>
                     {/if}
                     
                     {#if stories.length > 0}
-                        <div class="info-section">
+                        <div class="info-section ring bento-section">
                             <h2>Stories about this race</h2>
                             <div class="stories-list">
                                 {#each [...stories]

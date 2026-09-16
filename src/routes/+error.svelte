@@ -7,26 +7,34 @@
 
 <svelte:head>
   <title>{status} – {error.message}</title>
+  <meta name="robots" content="noindex, nofollow" />
 </svelte:head>
+
 
 <section class="error-page">
   <h1>{status}</h1>
   <h2>Uh! {error.message}!</h2>
       <div class="race-detail">
         <button class="back-button" on:click={() => goto(`${base}/`)}>
-            <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" /> Home
+            <span class="button-interaction-layer" aria-hidden="true"></span>
+            <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" /> Take me back home
         </button>      
     </div>
 </section>
 
 <style>
+  :root {
+      --header-height: 0px;
+  }
   .error-page {
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 60vh;
     text-align: center;
+
+    
   }
   .error-page h1 {
     font-size: 6rem;

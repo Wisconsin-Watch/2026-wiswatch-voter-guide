@@ -1,6 +1,15 @@
 <svelte:head>
-    <link rel="stylesheet" href="https://wisconsinwatch.org/wp-content/themes/newspack-theme/style.css?ver=2.17.0">
-    <link rel="stylesheet" href="{base}/css/wp-custom.css">
+    {#if data?.seo}
+        <title>{data.seo.title}</title>
+        <meta name="description" content={data.seo.description}>
+        <link rel="canonical" href={data.seo.canonical}>
+        <meta property="og:type" content="profile">
+        <meta property="og:title" content={data.seo.title}>
+        <meta property="og:description" content={data.seo.description}>
+        <meta property="og:url" content={data.seo.canonical}>
+        <meta property="og:image" content={data.seo.image}>
+        <meta name="twitter:card" content="summary_large_image">
+    {/if}
     <link rel="stylesheet" href="{base}/css/election.css">
     <link rel="stylesheet" href="{base}/css/candidate-page.css">
 </svelte:head>
@@ -15,15 +24,17 @@
     import CandidateDetail from '$lib/CandidateDetail.svelte';
     import { getCandidateByCandidateId, fetchRacesFromAPI, getAvailableSheets } from '$lib/googleSheets.js';
 
+    export let data;
+
     let dynamicRaceConfig = {};
-    let config = null;
-    let candidate = null;
-    let loading = true;
+    let config = data?.config ?? null;
+    let candidate = data?.candidate ?? null;
+    let loading = !data?.candidate;
     let error = null;
-    let raceId = null;
+    let raceId = data?.raceId ?? null;
     let pymChild;
     let contentElement;
-    let questions = [];
+    let questions = data?.questions ?? [];
     
     console.log('=== SCRIPT VARIABLES INITIALIZED ===');
 

@@ -88,7 +88,7 @@
 		<div class="search-section">
 			<h3>Search for a race</h3>
 			<div class="search-input-group">
-				<select id="race-type-select" aria-label="Race type" required>
+				<select id="race-type-select" class="ring" aria-label="Race type" required>
 					<option value="">Select race type...</option>
 				</select>
 			</div>
@@ -97,7 +97,29 @@
 					<option value="">Select district...</option>
 				</select>
 			</div>
-			<button id="race-search-btn" class="search-btn" style="display: none;">Go to Race</button>
+			<button id="race-search-btn" class="search-btn" style="display: none;"><span class="button-interaction-layer" aria-hidden="true"></span>Go to Race</button>
+		</div>
+
+		<!-- Candidate Search Section -->
+		<div class="search-section candidate-search-section">
+			<h3>Search for a candidate</h3>
+			<div class="search-input-group">
+				<input
+					id="candidate-search-input"
+					class="ring"
+					type="text"
+					placeholder="Type or select a candidate..."
+					aria-label="Candidate name"
+					role="combobox"
+					aria-autocomplete="list"
+					aria-controls="candidate-options"
+					aria-expanded="false"
+					autocomplete="off"
+				/>
+				<div id="candidate-options" class="candidate-options" role="listbox" hidden></div>
+			</div>
+			<p id="candidate-search-status" class="candidate-search-status" aria-live="polite"></p>
+			<button id="candidate-search-btn" class="search-btn" disabled><span class="button-interaction-layer" aria-hidden="true"></span>Go to Race</button>
 		</div>
 	</div>
 </div>
@@ -179,6 +201,11 @@
 			</div>
 		</div>
 	</div>
+	
+	<nav class="voter-guide-directory-links" aria-label="Voter guide directories">
+		<a href="{base}/races/">Browse all races</a>
+		<a href="{base}/candidates/">Browse all candidates</a>
+	</nav>
 
 	<div class="site-info">			
 		<div class="wrapper site-info-contain">
@@ -189,6 +216,12 @@
 </footer>
 
 <style>
+	.voter-guide-directory-links {
+		display: flex;
+		justify-content: center;
+		gap: 1.5rem;
+		padding: 0.75rem 1rem 1.5rem;
+	}
 
 	footer h1, footer h2, footer h3, footer h4, footer h5, footer h6 {
 		color: black;
@@ -244,4 +277,3 @@
 
 	}
 </style>
-
