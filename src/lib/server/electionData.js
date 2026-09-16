@@ -101,6 +101,39 @@ function candidateIdsForRace(race) {
 	return ids;
 }
 
+function candidatesForRace(race) {
+	const raceCandidates = [];
+	for (let index = 1; index <= 9; index += 1) {
+		const candidateId = race[`candidate-${index}`];
+		if (!candidateId) continue;
+		const candidate = candidates.find((item) => item.candidate_id === candidateId);
+		if (!candidate) continue;
+
+		raceCandidates.push(withCandidateImage({
+			...candidate,
+			incumbent: race.incumbent === candidateId ? 'TRUE' : '',
+			status: race[`candidate-${index}-status`] || ''
+		}));
+	}
+
+	return raceCandidates.sort((a, b) => {
+		const inactive = (candidate) => ['dropped-out', 'lost-primary'].includes(
+			String(candidate.status || '').trim().toLowerCase()
+		);
+		const inactiveA = inactive(a);
+		const inactiveB = inactive(b);
+		if (inactiveA !== inactiveB) return inactiveA ? 1 : -1;
+
+		const lastName = (candidate) => String(candidate.name || '')
+			.trim()
+			.split(/\s+/)
+			.at(-1)
+			.toLowerCase();
+		return lastName(a).localeCompare(lastName(b))
+			|| String(a.name).localeCompare(String(b.name));
+	});
+}
+
 function configForRace(sheetName, race) {
 	if (sheetName === 'Assembly') return ['assembly', RACE_CONFIG.assembly];
 	if (sheetName === 'Senate') return ['senate', RACE_CONFIG.senate];
@@ -182,10 +215,7 @@ export function getRacePage(raceType, district) {
 	const race = racesForSheet(config.sheetName).find((item) => item['race-id'] === raceId);
 	if (!race) return null;
 
-	const raceCandidates = candidateIdsForRace(race)
-		.map((id) => candidates.find((candidate) => candidate.candidate_id === id))
-		.filter(Boolean)
-		.map(withCandidateImage);
+	const raceCandidates = candidatesForRace(race);
 	const districtLabel = race['district-number'] ? ` District ${race['district-number']}` : '';
 	const pageTitle = `${config.displayName}${districtLabel} election and candidates | Wisconsin Watch`;
 	const canonicalDistrict = canonicalRaceDistrict(raceType, race);
