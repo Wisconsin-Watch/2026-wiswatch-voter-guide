@@ -34,6 +34,10 @@ const DISTRICT_RACE_SLUGS = {
 	'US Congress': 'congress'
 };
 
+function publicRaceId(sheetName, internalRaceId) {
+	return DISTRICT_RACE_SLUGS[sheetName] ? internalRaceId : '1';
+}
+
 function getLastName(name = '') {
 	const parts = name.trim().split(/\s+/);
 	return parts[parts.length - 1] || '';
@@ -120,7 +124,7 @@ async function populateCandidateSearch() {
 					const candidateId = race[`candidate-${i}`];
 					if (!candidateId || raceByCandidateId.has(candidateId)) continue;
 					raceByCandidateId.set(candidateId, {
-						raceId: race['race-id'],
+						raceId: publicRaceId(sheetName, race['race-id']),
 						raceTypeSlug: raceTypeToSlug(sheetName, race['race-id']),
 						raceLabel: getRaceLabel(sheetName, race)
 					});
@@ -483,7 +487,7 @@ function handleRaceSearch() {
 		}
 		const selectedOption = districtSelect.options[districtSelect.selectedIndex];
 		raceTypeParam = selectedOption.dataset.raceTypeParam || raceTypeParam;
-		raceId = selectedOption.value;
+		raceId = '1';
 	} else if (hasDistricts) {
 		if (!districtSelect || !districtSelect.value) {
 			alert('Please select a district');
