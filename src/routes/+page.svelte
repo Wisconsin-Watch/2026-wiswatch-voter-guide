@@ -1696,7 +1696,7 @@
                                         type="button"
                                         class="generated-race-interaction"
                                         aria-label={race.label}
-                                        on:click={() => window.location.href = `/race/${race.slug}/1`}
+                                        on:click={() => window.location.href = `${base}/race/${race.slug}/1`}
                                     ></button>
                                     <button type="button" class="election-button primary-race" aria-hidden="true" tabindex="-1">
                                         {race.label}
@@ -1719,7 +1719,7 @@
                         </div>
 
                         <div class="block-question-buttons">
-                                <button class="election-button" on:click={() => window.location.href = `/constitution-amendment-questions`}>
+                                <button class="election-button" on:click={() => window.location.href = `${base}/constitution-amendment-questions`}>
                                     <span class="button-interaction-layer" aria-hidden="true"></span>
                                     Constitutional amendment questions
                                 </button>
