@@ -109,15 +109,21 @@
     let raceId = data?.raceId ?? null;
     let pymChild;
     let contentElement;
+
+    function publicRaceId(internalRaceId) {
+        return ['assembly', 'senate', 'congress'].includes(raceTypeParam)
+            ? internalRaceId
+            : '1';
+    }
     
     function returnToRace() {
         const sourceRace = loadSourceRace();
         if (sourceRace && sourceRace.raceType === raceTypeParam) {
             clearSourceRace();
-            goto(`${base}/race/${raceTypeParam}/${sourceRace.raceId}`);
+            goto(`${base}/race/${raceTypeParam}/${publicRaceId(sourceRace.raceId)}/`);
         } else if (raceId) {
             clearSourceRace();
-            goto(`${base}/race/${raceTypeParam}/${raceId}`);
+            goto(`${base}/race/${raceTypeParam}/${publicRaceId(raceId)}/`);
         } else {
             clearSourceRace();
             goto(`${base}/`);
@@ -146,7 +152,7 @@
                     r['candidate-5'] === candidateId
                 );
                 if (race) {
-                    raceId = race['race-id'];
+                    raceId = publicRaceId(race['race-id']);
                 }
             }
             
@@ -176,7 +182,7 @@
         // Try to load from session storage first
         const sourceRace = loadSourceRace();
         if (sourceRace && sourceRace.raceType === raceTypeParam) {
-            raceId = sourceRace.raceId;
+            raceId = publicRaceId(sourceRace.raceId);
         }
 
         await fetchCandidate();
