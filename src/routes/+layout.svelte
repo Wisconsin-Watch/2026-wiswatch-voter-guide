@@ -202,10 +202,6 @@
 		</div>
 	</div>
 	
-	<nav class="voter-guide-directory-links" aria-label="Voter guide directories">
-		<a href="{base}/races/">Browse all races</a>
-		<a href="{base}/candidates/">Browse all candidates</a>
-	</nav>
 
 	<div class="site-info">			
 		<div class="wrapper site-info-contain">
