@@ -2,7 +2,32 @@
     <title>2026 Wisconsin voter guide: candidates and elections | Wisconsin Watch</title>
     <!-- WebSite Structured Data for Google Site Name -->
     <script type="application/ld+json">
-    {JSON.stringify(structuredData)}
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/#webpage",
+        "url": "https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/",
+        "name": "2026 Wisconsin voter guide: Candidates and elections",
+        "description": "Find information about candidates, races and elections in Wisconsin's 2026 voter guide from Wisconsin Watch.",
+        "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/08/WCIJ_IconOnly_FullColor_RGB_EXTRA-WHITE.jpg?fit=2000%2C2000&quality=100&ssl=1",
+        "inLanguage": "en-US",
+        "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://wisconsinwatch.org/#website",
+        "name": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/"
+        },
+        "publisher": {
+        "@type": "NewsMediaOrganization",
+        "@id": "https://wisconsinwatch.org/#organization",
+        "name": "Wisconsin Watch",
+        "url": "https://wisconsinwatch.org/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://wisconsinwatch.org/wp-content/uploads/2021/02/cropped-WCIJ_IconOnly_FullColor_RGB-1-140x140.png"
+        }
+        }
+    }
     </script>
     <meta name="description" content="Find your 2026 Wisconsin elections, compare candidates and read nonpartisan voter information from Wisconsin Watch.">
     <link rel="canonical" href="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/">
@@ -843,34 +868,6 @@
 </style>
 
 <script>
-    const structuredData = {
-        "@context": "https://schema.org",
-        "@type": "WebPage",
-        "@id": "https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/#webpage",
-        "url": "https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/",
-        "name": "2026 Wisconsin voter guide: Candidates and elections",
-        "description": "Find information about candidates, races and elections in Wisconsin's 2026 voter guide from Wisconsin Watch.",
-        "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/08/WCIJ_IconOnly_FullColor_RGB_EXTRA-WHITE.jpg?fit=2000%2C2000&quality=100&ssl=1",
-        "inLanguage": "en-US",
-        "isPartOf": {
-        "@type": "WebSite",
-        "@id": "https://wisconsinwatch.org/#website",
-        "name": "Wisconsin Watch",
-        "url": "https://wisconsinwatch.org/"
-        },
-        "publisher": {
-        "@type": "NewsMediaOrganization",
-        "@id": "https://wisconsinwatch.org/#organization",
-        "name": "Wisconsin Watch",
-        "url": "https://wisconsinwatch.org/",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://wisconsinwatch.org/wp-content/uploads/2021/02/cropped-WCIJ_IconOnly_FullColor_RGB-1-140x140.png"
-        }
-        }
-    };
-
-
     import { onMount, onDestroy, tick } from 'svelte';
     import { goto } from '$app/navigation';
     import { base } from '$app/paths';
