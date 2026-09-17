@@ -23,6 +23,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
       
       - name: Fetch and parse RSS feed
         run: node scripts/fetch-stories.js
