@@ -28,6 +28,7 @@
 	onDestroy(() => {
 		if (typeof _destroyHoverTooltip === 'function') _destroyHoverTooltip();
 	});
+
 </script>
 
 <svelte:head>
@@ -43,6 +44,16 @@
 	gtag('js', new Date());
 
 	gtag('config', 'G-D2S69Y9TDB');
+	</script>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8M9TMG87MM"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-8M9TMG87MM');
 	</script>
 </svelte:head>
 
