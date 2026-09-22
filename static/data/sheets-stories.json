@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T17:23:42.783Z",
+  "lastUpdated": "2026-09-22T14:58:41.138Z",
   "stories": [
     {
       "id": 0,
@@ -480,6 +480,36 @@
       "published_date": "2026-09-11T14:01:47.000Z",
       "featured": "",
       "featured_img": ""
+    },
+    {
+      "id": 48,
+      "url": "https://www.sheboyganpress.com/story/news/politics/elections/2026/09/21/wisconsin-6th-congressional-district-candidates-grothman-smith-fitzgibbon-arndt-thurow/91788901007/",
+      "race_id": "co-6",
+      "headline": "Wisconsin 6th Congressional District candidates share priorities",
+      "byline": "Alex Garner / The Sheboygan Press",
+      "published_date": "2026-09-21T09:31:16.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 49,
+      "url": "https://www.thenorthwestern.com/story/news/politics/elections/2026/09/18/wisconsin-8th-district-election-tony-wied-rick-crosson-candidates/91807368007/",
+      "race_id": "co-8",
+      "headline": "Tony Wied, Rick Crosson share priorities in 8th Congressional District race",
+      "byline": "Daphne Lemke / Oshkosh Northwestern",
+      "published_date": "2026-09-18T09:32:25.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 50,
+      "url": "https://wisconsinwatch.org/2026/09/wisconsin-attorney-general-candidates-democrat-kaul-republican-toney-key-questions-stark-differences/",
+      "race_id": "ag-1",
+      "headline": "Key questions with Wisconsin attorney general candidates highlight their stark differences",
+      "byline": "Tom Kertscher / Wisconsin Watch / Wisconsin Watch",
+      "published_date": "2026-09-21T11:00:00.000Z",
+      "featured": "yes",
+      "featured_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/09/asse20260918-AttyGenDiptych-e1789765599388.jpg"
     }
   ]
 }
