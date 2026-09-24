@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/sitemap.xml
+Sitemap: https://voterguide26.wisconsinwatch.org/sitemap.xml

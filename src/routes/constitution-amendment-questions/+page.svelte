@@ -1,7 +1,7 @@
 <svelte:head>
     <title>2026 Wisconsin constitutional amendment questions | Wisconsin Watch</title>
     <meta name="description" content="Read the 2026 Wisconsin constitutional amendment questions and nonpartisan voter information from Wisconsin Watch.">
-    <link rel="canonical" href="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/constitution-amendment-questions/">
+    <link rel="canonical" href="https://voterguide26.wisconsinwatch.org/constitution-amendment-questions/">
     <link rel="stylesheet" href="{base}/css/bento-grid.css">
         <link rel="stylesheet" href="{base}/css/wp-custom.css">
     <link rel="stylesheet" href="{base}/css/election.css">
@@ -51,7 +51,7 @@
     <section id="primary" class="content-area">
         <main id="main" class="site-main" role="main">
             <div class="race-detail">
-                    <button class="back-button" on:click={() => goto(`${base}`)}>
+                    <button class="back-button" on:click={() => goto(`${base}/`)}>
                         <span class="button-interaction-layer" aria-hidden="true"></span>
                         <img src={`${base}/graphics/back.svg`} alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />Home
                     </button>
@@ -82,7 +82,7 @@
 
                     <div class="info-section ring bento-section">
                         <div style="padding-top: 1rem;">
-                            <h2>Question 1: </h2>                                
+                            <h2>Question 1:</h2>                                
                             <p>
                                  <strong>Partial veto.</strong> Shall section 10 (1) (c) of article V of the constitution be amended to prohibit the governor, in exercising his or her partial veto authority, from creating or increasing or authorizing the creation or increase of any tax or fee?
                             </p>
@@ -98,7 +98,7 @@
                         </div>
 
                         <div style="padding-top: 1rem;">
-                            <h2>Question 2: </h2>                                
+                            <h2>Question 2:</h2>                                
                             <p>
                                 <strong>Freedom to gather in places of worship during an emergency.</strong> Shall section 18 of article I of the constitution, which deals with religious liberty, be amended to prohibit the state or a political subdivision of the state from ordering the closure of, or forbidding gatherings in, places of worship in response to a state of emergency, including a public health emergency?
                             </p>
@@ -114,7 +114,7 @@
                         </div>
 
                         <div style="padding-top: 1rem;">
-                            <h2>Question 3: </h2>                                
+                            <h2>Question 3:</h2>                                
                             <p>
                                 <strong>Governmental entity discrimination prohibited.</strong> Shall section 27 of article I of the constitution be created to prohibit governmental entities in the state from discriminating against, or granting preferential treatment to, any individual or group on the basis of race, sex, color, ethnicity, or national origin in public employment, public education, public contracting, or public administration?
                             </p>

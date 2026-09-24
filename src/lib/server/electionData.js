@@ -6,7 +6,7 @@ import storySnapshot from '../../../static/data/sheets-stories.json';
 import { readdirSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-export const SITE_URL = 'https://wisconsin-watch.github.io/2026-wiswatch-voter-guide';
+export const SITE_URL = 'https://voterguide26.wisconsinwatch.org';
 
 const RACE_CONFIG = {
 	assembly: {
@@ -301,7 +301,7 @@ export function getCandidateDirectory() {
 		.map((candidate) => ({
 			name: candidate.name,
 			party: candidate.party || '',
-			href: `/2026-wiswatch-voter-guide/candidate/${candidate.candidate_id}/`
+			href: `/candidate/${candidate.candidate_id}/`
 		}))
 		.sort((a, b) => a.name.localeCompare(b.name));
 }

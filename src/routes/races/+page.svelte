@@ -5,7 +5,7 @@
 <svelte:head>
 	<title>All 2026 Wisconsin races | Wisconsin Watch voter guide</title>
 	<meta name="description" content="Browse Wisconsin's 2026 elections by office and district in the Wisconsin Watch nonpartisan voter guide.">
-	<link rel="canonical" href="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/races/">
+	<link rel="canonical" href="https://voterguide26.wisconsinwatch.org/races/">
 </svelte:head>
 
 <main class="directory">

@@ -5,8 +5,8 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "@id": "https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/#webpage",
-        "url": "https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/",
+        "@id": "https://voterguide26.wisconsinwatch.org/#webpage",
+        "url": "https://voterguide26.wisconsinwatch.org/",
         "name": "2026 Wisconsin voter guide: Candidates and elections",
         "description": "Find information about candidates, races and elections in Wisconsin's 2026 voter guide from Wisconsin Watch.",
         "image": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2021/08/WCIJ_IconOnly_FullColor_RGB_EXTRA-WHITE.jpg?fit=2000%2C2000&quality=100&ssl=1",
@@ -30,12 +30,12 @@
     }
     </script>
     <meta name="description" content="Find your 2026 Wisconsin elections, compare candidates and read nonpartisan voter information from Wisconsin Watch.">
-    <link rel="canonical" href="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/">
+    <link rel="canonical" href="https://voterguide26.wisconsinwatch.org/">
     <meta property="og:type" content="website">
     <meta property="og:title" content="2026 Wisconsin voter guide | Wisconsin Watch">
     <meta property="og:description" content="Find your races and compare candidates in Wisconsin's nonpartisan 2026 voter guide.">
-    <meta property="og:url" content="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/">
-    <meta property="og:image" content="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/graphics/banner/Banner_PC.svg">
+    <meta property="og:url" content="https://voterguide26.wisconsinwatch.org/">
+    <meta property="og:image" content="https://voterguide26.wisconsinwatch.org/graphics/banner/Banner_PC.svg">
     <meta name="twitter:card" content="summary_large_image">
     <link rel="stylesheet" href="{base}/css/bento-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.15.0/dist/maplibre-gl.css">

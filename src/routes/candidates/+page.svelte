@@ -5,7 +5,7 @@
 <svelte:head>
 	<title>All 2026 Wisconsin candidates | Wisconsin Watch voter guide</title>
 	<meta name="description" content="Browse candidates running in Wisconsin's 2026 elections and read their backgrounds and questionnaire responses.">
-	<link rel="canonical" href="https://wisconsin-watch.github.io/2026-wiswatch-voter-guide/candidates/">
+	<link rel="canonical" href="https://voterguide26.wisconsinwatch.org/candidates/">
 </svelte:head>
 
 <main class="directory">
