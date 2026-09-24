@@ -110,7 +110,7 @@ onMount(async () => {
     <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />This Race
   </button>
 {/if}
-<button class="back-button" on:click={() => goto(`${base}/#address-map`)}>
+<button class="back-button" on:click={() => goto(`${base}/`)}>
   <span class="button-interaction-layer" aria-hidden="true"></span>
   <img src="{base}/graphics/back.svg" alt="" style="height: 1em; width: 1em; margin-right: 0.5rem; vertical-align: -0.125em; display: inline-block;" />Home
 </button>
