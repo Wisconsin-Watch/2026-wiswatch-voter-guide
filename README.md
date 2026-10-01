@@ -34,3 +34,7 @@
 - Styling update
 - Add function of looking for candidate race via names
 - Add constitution amendment questions page
+
+<h4>Update Oct. 1, 2026</h4>
+
+- Favicon update

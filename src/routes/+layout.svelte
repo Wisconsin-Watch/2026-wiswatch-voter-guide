@@ -1,5 +1,4 @@
 <script>
-	import favicon from '$lib/assets/favicon.webp';
 	import stylizedBkg from '$lib/assets/stylized-bkg.png';
 	import { base } from '$app/paths';
 	import { onMount, onDestroy } from 'svelte';
@@ -32,10 +31,11 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<link rel="icon" href="{base}/graphics/favicon.png" />
 	<link rel="stylesheet" href="https://wisconsinwatch.org/wp-content/themes/newspack-theme/style.css?ver=2.17.0">
 	<link rel="stylesheet" href="{base}/css/wp-custom.css">
 	<link rel="stylesheet" href="{base}/css/drop-nav.css">
+	
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-D2S69Y9TDB"></script>
 	<script>
@@ -48,6 +48,7 @@
 
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8M9TMG87MM"></script>
+
 	<script>
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
@@ -220,6 +221,9 @@
 			<a class="privacy-policy-link" href="https://wisconsinwatch.org/about/user-agreement-and-privacy-policy/" rel="privacy-policy">User Agreement and Privacy Policy</a>			
 		</div><!-- .wrapper -->
 	</div>
+
+	<script id="parsely-cfg" src="https://cdn.parsely.com/keys/wisconsinwatch.org/p.js" async="" defer=""></script>
+
 </footer>
 
 <style>
