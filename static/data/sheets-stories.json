@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T14:58:41.138Z",
+  "lastUpdated": "2026-10-06T18:45:49.430Z",
   "stories": [
     {
       "id": 0,
@@ -510,6 +510,66 @@
       "published_date": "2026-09-21T11:00:00.000Z",
       "featured": "yes",
       "featured_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/09/asse20260918-AttyGenDiptych-e1789765599388.jpg"
+    },
+    {
+      "id": 51,
+      "url": "https://madison.com/news/local/government-politics/elections/article_2675a71f-1190-4c3f-945b-d077efa58fb8.html#tracking-source=home-top-story",
+      "race_id": "se-13",
+      "headline": "Meet the candidates for state Senate District 13",
+      "byline": "Wisconsin State Journal",
+      "published_date": "2026-09-21T21:25:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 52,
+      "url": "https://madison.com/news/local/government-politics/elections/article_31c104af-9743-4e6c-9c1b-79300a79d366.html",
+      "race_id": "as-37",
+      "headline": "Meet the candidates for state Assembly District 37",
+      "byline": "Wisconsin State Journal",
+      "published_date": "2026-09-22T17:50:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 53,
+      "url": "https://www.gmtoday.com/the_freeman/news/past-future-and-present-sheriffs-endorse-reyes-for-assembly-district-82/article_bb8f042d-89bf-5100-8ce9-7c6f53d6f2ea.html",
+      "race_id": "as-82",
+      "headline": "Past, present and future sheriffs endorse Reyes for Assembly District 82",
+      "byline": "Freeman Staff / Greater Milwaukee Today",
+      "published_date": "2026-09-23T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 54,
+      "url": "https://apnews.com/article/wisconsin-steil-berman-congress-trump-b7197074442db8fa403bf07ad0075adb",
+      "race_id": "co-1",
+      "headline": "Democrats eye Wisconsin Republican incumbent as congressional map expands in hopes of a blue wave",
+      "byline": "Scott Bauer / AP news",
+      "published_date": "2026-09-29T08:38:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 55,
+      "url": "https://www.thenorthwestern.com/story/news/politics/elections/2026/09/30/wisconsin-senate-district-19-cabral-guevara-emily-tseffos/91927657007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z115705p004050c004050e001300v115705d--57--b--57--&gca-ft=212&gca-ds=sophi",
+      "race_id": "se-19",
+      "headline": "Rachael Cabral-Guevara and Emily Daniels Tseffos make case to voters",
+      "byline": "Alisa M/ Schafer / Oshkosh Northwestern",
+      "published_date": "2026-09-30T04:31:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 56,
+      "url": "https://www.gmtoday.com/news/local/piwowarczyk-philibert-assembly-race/article_8db55032-c978-595f-8270-1244b19ebda6.html",
+      "race_id": "as-98",
+      "headline": "Incumbent Piwowarczyk faces challenger Philibert in race for 98th Assembly District",
+      "byline": "Brad Star - GMToday.com Staff / Greater Milwaukee Today",
+      "published_date": "2026-10-03T11:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
     }
   ]
 }
