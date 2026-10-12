@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T18:45:49.430Z",
+  "lastUpdated": "2026-10-12T15:40:07.265Z",
   "stories": [
     {
       "id": 0,
@@ -570,6 +570,76 @@
       "published_date": "2026-10-03T11:30:00.000Z",
       "featured": "",
       "featured_img": ""
+    },
+    {
+      "id": 57,
+      "url": "https://www.gmtoday.com/daily_news/news/fitzgerald-faces-beck-in-race-for-5th-congressional-district/article_c08cb74b-b07e-5627-98c6-ee6f75f83d9f.html",
+      "race_id": "co-5",
+      "headline": "Fitzgerald faces Beck in race for 5th Congressional district",
+      "byline": "Brad Star - GMToday.com Staff / Greater Milwaukee Today",
+      "published_date": "2026-10-07T11:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 58,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/07/supreme-moore-omokunde-charlene-abughrin-running-for-17th-assembly/91775955007/",
+      "race_id": "as-17",
+      "headline": "What to know about 17th Assembly District candidates on Nov. 3 ballot",
+      "byline": "Kayla Huynh / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-07T08:45:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 59,
+      "url": "https://www.wpr.org/news/wisconsin-7th-district-debate-fred-clark-michael-alfonso-congress-2026",
+      "race_id": "co-7",
+      "headline": "In 7th District debate, Clark calls for working Congress, Alfonso stands for MAGA",
+      "byline": "Avery Martinez / WPR",
+      "published_date": "2026-10-08T03:07:34.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 60,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/08/derrick-van-orden-draws-closer-to-trump-despite-his-unpopular-rating/92133982007/",
+      "race_id": "co-3",
+      "headline": "Derrick Van Orden draws closer to Trump as other Republicans shy away",
+      "byline": "Valerie Yurk / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-08T05:07:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 61,
+      "url": "https://www.postcrescent.com/story/news/politics/elections/2026/10/08/incumbent-sondgrass-faces-pullen-in-52nd-assembly-election-2026/92057943007/",
+      "race_id": "as-52",
+      "headline": "Pullen faces incumbent Snodgrass in 52nd Assembly | Election 2026",
+      "byline": "Appleton Post-Crescent",
+      "published_date": "2026-10-08T05:07:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 62,
+      "url": "https://madison.com/news/state-regional/wisconsin/article_ab0a316d-e3d0-5800-beef-98ffb93d30a1.html",
+      "race_id": "as-95",
+      "headline": "Jill Billings: 95th Assembly District candidate",
+      "byline": "Gavin Michaelson / Wisconsin State Journal",
+      "published_date": "2026-10-09T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 63,
+      "url": "https://wisconsinwatch.org/2026/10/wisconsin-governor-candidates-crowley-tiffany-answers-audience-readers-questions-election/",
+      "race_id": "go-1",
+      "headline": "You asked. We got answers. Wisconsin governor candidates respond to reader questions.",
+      "byline": "Brittany Carloni / Wisconsin Watch",
+      "published_date": "2026-10-12T11:00:00.000Z",
+      "featured": "yes",
+      "featured_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse1.jpg?resize=780%2C410&quality=100&ssl=1"
     }
   ]
 }
