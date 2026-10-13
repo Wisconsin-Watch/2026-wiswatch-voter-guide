@@ -1,11 +1,21 @@
 {
   "candidate_id": "m-skivington1",
-  "entity_id": "12229971",
-  "contributions_received": 3585.46,
+  "entity_id": 12229971,
+  "contributions_received": 10278.71,
   "top_donors": [
     {
-      "name": "Linda Kloosterboer",
-      "total": 500.0,
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Barbara J Church",
+      "total": 965.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Fond du Lac County",
+      "total": 600.0,
       "count": 1
     },
     {
@@ -14,43 +24,33 @@
       "count": 1
     },
     {
+      "name": "Linda Kloosterboer",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Susan R Allen",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Kat Griffith",
+      "total": 482.5,
+      "count": 1
+    },
+    {
+      "name": "Marquette County Democratic Party",
+      "total": 400.0,
+      "count": 1
+    },
+    {
       "name": "Michael Skivington",
       "total": 379.13,
       "count": 1
     },
     {
-      "name": "Charles Church",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Malcolm McIntyre",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Celeste P Cinquino",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Kurt Wilkens",
-      "total": 170.0,
-      "count": 1
-    },
-    {
-      "name": "Steve Galster",
-      "total": 150.0,
-      "count": 1
-    },
-    {
-      "name": "Christine A Wolk",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Jay G Hochmuth",
-      "total": 100.0,
+      "name": "James Hebbe",
+      "total": 250.0,
       "count": 1
     }
   ]

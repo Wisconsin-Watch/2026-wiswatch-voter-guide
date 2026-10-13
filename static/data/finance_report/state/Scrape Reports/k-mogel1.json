@@ -1,16 +1,21 @@
 {
   "candidate_id": "k-mogel1",
-  "entity_id": "12229744",
-  "contributions_received": 2965.75,
+  "entity_id": 12229744,
+  "contributions_received": 5921.45,
   "top_donors": [
     {
-      "name": "Polk County Democratic Party",
+      "name": "Wisconsin Education Association Council",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Burnett Co Democratic Party",
-      "total": 750.0,
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Polk County Democratic Party",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -24,33 +29,28 @@
       "count": 1
     },
     {
-      "name": "Richard Costerisan",
+      "name": "Janet Byers",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 104.7,
+      "count": 2
+    },
+    {
+      "name": "Brad Mabry",
       "total": 100.0,
       "count": 1
     },
     {
-      "name": "Charly Ray",
+      "name": "Paul Sexton",
       "total": 100.0,
       "count": 1
     },
     {
-      "name": "Rachel Dole",
-      "total": 50.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Dueholm",
-      "total": 25.0,
-      "count": 1
-    },
-    {
-      "name": "Anne Taylor",
-      "total": 25.0,
-      "count": 1
-    },
-    {
-      "name": "Anonymous",
-      "total": 10.0,
+      "name": "Carolyn Saunders",
+      "total": 100.0,
       "count": 1
     }
   ]

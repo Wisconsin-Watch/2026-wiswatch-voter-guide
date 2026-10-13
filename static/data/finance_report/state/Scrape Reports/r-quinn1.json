@@ -1,7 +1,7 @@
 {
   "candidate_id": "r-quinn1",
-  "entity_id": "17271",
-  "contributions_received": 87597.75,
+  "entity_id": 17271,
+  "contributions_received": 95910.11,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -9,7 +9,17 @@
       "count": 1
     },
     {
+      "name": "Operating Engineers 139 PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "Realtors Association of SC WI - PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "RANW PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -19,22 +29,12 @@
       "count": 1
     },
     {
-      "name": "Northwestern Wisconsin REALTORS PAC",
+      "name": "WI Dental Assn PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Karl Schmidt",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "Friends of Jesse James",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "RANW PAC",
+      "name": "Corridor 29 PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -49,9 +49,9 @@
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
-      "total": 1600.0,
-      "count": 2
+      "name": "Friends of Mary",
+      "total": 2000.0,
+      "count": 1
     }
   ]
 }

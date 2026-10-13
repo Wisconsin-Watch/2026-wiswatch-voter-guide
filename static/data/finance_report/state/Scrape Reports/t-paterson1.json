@@ -1,16 +1,11 @@
 {
   "candidate_id": "t-paterson1",
-  "entity_id": "8110587",
-  "contributions_received": 18963.84,
+  "entity_id": 8110587,
+  "contributions_received": 11868.18,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 6534.0,
-      "count": 1
-    },
-    {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 2478.64,
+      "total": 2602.77,
       "count": 3
     },
     {
@@ -19,22 +14,7 @@
       "count": 1
     },
     {
-      "name": "Frank Frassetto",
-      "total": 500.0,
-      "count": 2
-    },
-    {
-      "name": "Michael Schraa for Assembly",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "John Thur",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Randall Davis",
+      "name": "Howie Miller",
       "total": 500.0,
       "count": 1
     },
@@ -44,13 +24,33 @@
       "count": 1
     },
     {
-      "name": "Howie Miller",
+      "name": "Randall Davis",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Tammy J Zelinski",
-      "total": 350.0,
+      "name": "William Kiesling",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Frank Frassetto",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "John Thur",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "James Matthews",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Ben Ganther",
+      "total": 257.5,
       "count": 1
     }
   ]

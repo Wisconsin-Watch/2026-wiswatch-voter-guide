@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-binsfeld1",
-  "entity_id": "30955",
-  "contributions_received": 40125.0,
+  "entity_id": 30955,
+  "contributions_received": 66159.06,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -14,7 +14,7 @@
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "Friends of Devin LeMahieu",
       "total": 2000.0,
       "count": 1
     },
@@ -24,7 +24,12 @@
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
+      "name": "ABCPAC-WIS",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 2000.0,
       "count": 1
     },
@@ -34,18 +39,13 @@
       "count": 1
     },
     {
-      "name": "WI Cable PAC",
-      "total": 1000.0,
+      "name": "Testin for Senate",
+      "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jeff Lindemann",
-      "total": 1000.0,
+      "name": "Janet  E Radue",
+      "total": 2000.0,
       "count": 1
     },
     {

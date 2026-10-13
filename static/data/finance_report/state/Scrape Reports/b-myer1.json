@@ -1,12 +1,12 @@
 {
   "candidate_id": "b-myer1",
-  "entity_id": "12160237",
-  "contributions_received": 14025.49,
+  "entity_id": 12160237,
+  "contributions_received": 14594.69,
   "top_donors": [
     {
       "name": "Virginia Ortlieb",
-      "total": 6000.0,
-      "count": 1
+      "total": 6020.0,
+      "count": 2
     },
     {
       "name": "Robert Wood",
@@ -29,6 +29,11 @@
       "count": 1
     },
     {
+      "name": "LAURA ACKMANN",
+      "total": 260.25,
+      "count": 1
+    },
+    {
       "name": "Kathryn A Bartelli",
       "total": 260.25,
       "count": 1
@@ -39,12 +44,7 @@
       "count": 1
     },
     {
-      "name": "LAURA ACKMANN",
-      "total": 260.25,
-      "count": 1
-    },
-    {
-      "name": "Marquette Co Republican Party",
+      "name": "Don Wolding",
       "total": 250.0,
       "count": 1
     },

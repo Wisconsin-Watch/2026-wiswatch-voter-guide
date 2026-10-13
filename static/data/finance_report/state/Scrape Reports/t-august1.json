@@ -1,40 +1,10 @@
 {
   "candidate_id": "t-august1",
-  "entity_id": "16263",
-  "contributions_received": 72327.84,
+  "entity_id": 16263,
+  "contributions_received": 137245.16,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 6179.0,
-      "count": 1
-    },
-    {
-      "name": "First National Bank and Trust",
-      "total": 1194.34,
-      "count": 5
-    },
-    {
-      "name": "Tad Eggenberger",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Trone",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matthew Siebenaler",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Dental Assn PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
+      "name": "Hugh McLaughlin",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +14,42 @@
       "count": 1
     },
     {
-      "name": "Harold Freymiller",
+      "name": "Operating Engineers 139 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "LKQ Corporate Employee Good Government Fund",
+      "name": "WEC Energy Group PAC (WEC PAC)",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WRA WI Restaurant Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "American Family PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AT&T Wisconsin Employee PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     }

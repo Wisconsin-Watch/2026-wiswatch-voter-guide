@@ -1,17 +1,37 @@
 {
   "candidate_id": "j-holzman1",
-  "entity_id": "843212",
-  "contributions_received": 5625.1,
+  "entity_id": 843212,
+  "contributions_received": 13270.16,
   "top_donors": [
     {
       "name": "Democratic Party of Ozaukee County",
-      "total": 5000.0,
+      "total": 10000.0,
+      "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sheboygan Co Democratic Party",
+      "total": 500.0,
       "count": 1
     },
     {
       "name": "Debra Dassow",
-      "total": 250.0,
-      "count": 1
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "Ralph Weber",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "Harriet Barrett",
+      "total": 150.0,
+      "count": 2
     },
     {
       "name": "James A Blank",
@@ -19,33 +39,18 @@
       "count": 1
     },
     {
-      "name": "James Blank",
+      "name": "Ted Poull",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Dodge County Democratic Party",
       "total": 100.0,
       "count": 1
     },
     {
       "name": "Colleen McCauley",
       "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Sara Dunstone",
-      "total": 35.0,
-      "count": 1
-    },
-    {
-      "name": "Julia Sarr",
-      "total": 4.0,
-      "count": 1
-    },
-    {
-      "name": "Ann Taylor",
-      "total": 1.0,
-      "count": 1
-    },
-    {
-      "name": "Landmark Credit Union",
-      "total": 0.1,
       "count": 1
     }
   ]

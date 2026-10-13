@@ -1,7 +1,7 @@
 {
   "candidate_id": "r-bailey1",
-  "entity_id": "12228293",
-  "contributions_received": 5314.72,
+  "entity_id": 12228293,
+  "contributions_received": 5838.72,
   "top_donors": [
     {
       "name": "Penelope Jones",
@@ -24,17 +24,12 @@
       "count": 1
     },
     {
-      "name": "William A Simmons",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "George Wen",
-      "total": 200.0,
-      "count": 1
-    },
-    {
       "name": "Todd Mortensen",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "William A Simmons",
       "total": 200.0,
       "count": 1
     },
@@ -44,9 +39,14 @@
       "count": 1
     },
     {
-      "name": "Rick  Bailey",
-      "total": 125.0,
+      "name": "George Wen",
+      "total": 200.0,
       "count": 1
+    },
+    {
+      "name": "Rick  Bailey",
+      "total": 158.0,
+      "count": 2
     },
     {
       "name": "GoDaddy",

@@ -150,7 +150,7 @@
             config = generateStatewideConfig(raceTypeParam);
         }
 
-        showFundsRaisedSection = raceTypeParam !== 'congress';
+        showFundsRaisedSection = true;
     }
 
     function getRaceConfigKey(raceTypeSlug) {
@@ -502,7 +502,11 @@
                                     />
                                 {/if}
                                 <small>
-                                    <i>Data reflects <strong>monetary</strong> and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates. Personal loans are excluded. Data was retrieved on Aug. 4, 2026.</i>
+                                    {#if raceTypeParam === 'congress'}
+                                        <i>Data reflects contributions reported to the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. <strong>Personal loans</strong> are excluded. Totals combine a candidate's principal campaign committee and victory fund. Data was retrieved on Oct. 9, 2026.</i>
+                                    {:else}
+                                        <i>Data reflects <strong>monetary</strong>, <strong>conduit</strong>, <strong>local office</strong>, and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates, minus <strong>returned contributions</strong>. <strong>Personal loans</strong> are excluded. Data was retrieved on Oct. 8, 2026.</i>
+                                    {/if}
                                 </small>
                             </div>
                         {/if}

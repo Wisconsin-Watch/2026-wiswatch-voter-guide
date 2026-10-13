@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-leiber1",
-  "entity_id": "16108",
-  "contributions_received": 38140.0,
+  "entity_id": 16108,
+  "contributions_received": 47029.1,
   "top_donors": [
     {
       "name": "Diane M. Hendricks",
@@ -14,12 +14,17 @@
       "count": 1
     },
     {
+      "name": "Jimmy John Liautaud",
+      "total": 5800.0,
+      "count": 1
+    },
+    {
       "name": "Kathryn Burke",
       "total": 2500.0,
       "count": 1
     },
     {
-      "name": "Friends & Neighbors of Robin Vos",
+      "name": "Rob Brooks For Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -29,28 +34,23 @@
       "count": 1
     },
     {
-      "name": "Rob Brooks For Assembly",
+      "name": "Dan Hartung",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Friends of Van Wanggaard",
+      "name": "Friends & Neighbors of Robin Vos",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Pamela Galloway",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Jack C. Yuds",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Republican Party of Dodge County",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Joan Ballweg",
-      "total": 250.0,
+      "name": "Christopher Magiera",
+      "total": 500.0,
       "count": 1
     }
   ]

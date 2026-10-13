@@ -1,15 +1,45 @@
 {
   "candidate_id": "j-perryman1",
-  "entity_id": "11957402",
-  "contributions_received": 12238.15,
+  "entity_id": 11957402,
+  "contributions_received": 29418.24,
   "top_donors": [
     {
       "name": "Democratic Party of Walworth County",
-      "total": 1090.25,
+      "total": 2090.25,
+      "count": 3
+    },
+    {
+      "name": "Anonymous",
+      "total": 1010.0,
       "count": 2
     },
     {
+      "name": "Michael Freeborn",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Jane Taylor",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ty Laurie",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Belinda Bauer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Adam Kazimierz Duda",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rick Bailey for Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -19,38 +49,8 @@
       "count": 2
     },
     {
-      "name": "Donald Katz",
+      "name": "WEAC Policital Action Committee",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Anonymous",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Bruce Peterson",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Susan Kinast-Porter",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Ron Jahnke",
-      "total": 360.0,
-      "count": 10
-    },
-    {
-      "name": "Nancy Geidel",
-      "total": 350.0,
-      "count": 2
-    },
-    {
-      "name": "Todd Mortensen",
-      "total": 300.0,
       "count": 1
     }
   ]

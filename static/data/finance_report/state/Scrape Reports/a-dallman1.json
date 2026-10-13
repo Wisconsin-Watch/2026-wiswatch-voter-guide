@@ -1,20 +1,15 @@
 {
   "candidate_id": "a-dallman1",
-  "entity_id": "15943",
-  "contributions_received": 45479.0,
+  "entity_id": 15943,
+  "contributions_received": 74424.0,
   "top_donors": [
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "Glenn Madrigano",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Kevin Mehring",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Steve Frank",
+      "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -29,7 +24,17 @@
       "count": 1
     },
     {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Volunteers for Agriculture VFA",
       "total": 1000.0,
       "count": 1
     },
@@ -45,11 +50,6 @@
     },
     {
       "name": "Matthew Braun",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Angie Bowe",
       "total": 1000.0,
       "count": 1
     }

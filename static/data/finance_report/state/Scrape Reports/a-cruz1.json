@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-cruz1",
-  "entity_id": "16430",
-  "contributions_received": 10206.12,
+  "entity_id": 16430,
+  "contributions_received": 15810.82,
   "top_donors": [
     {
       "name": "SEIU Wisconsin State Council PAC",
@@ -24,32 +24,32 @@
       "count": 1
     },
     {
+      "name": "William Schalk",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Carpenters PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Taft for Racine",
+      "total": 300.0,
+      "count": 1
+    },
+    {
       "name": "Domingo Cruz",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "John Drew",
+      "name": "Constance A Saculla",
       "total": 250.0,
       "count": 1
     },
     {
-      "name": "Hudson N Cavanagh",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Domingo S Cruz",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Joe Sexauer",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Gary R Goyke",
+      "name": "Kim Schroeder",
       "total": 250.0,
       "count": 1
     }

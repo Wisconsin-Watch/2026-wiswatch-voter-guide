@@ -1,10 +1,15 @@
 {
   "candidate_id": "r-paplham1",
-  "entity_id": "843162",
-  "contributions_received": 6405.2,
+  "entity_id": 843162,
+  "contributions_received": 21609.84,
   "top_donors": [
     {
-      "name": "Donald Katz",
+      "name": "Democratic Party of Door Co",
+      "total": 4000.0,
+      "count": 1
+    },
+    {
+      "name": "Allin Walker",
       "total": 1000.0,
       "count": 1
     },
@@ -14,19 +19,29 @@
       "count": 1
     },
     {
-      "name": "Laurie Murphy",
-      "total": 500.0,
+      "name": "WEAC Pol. Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kewaunee County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Donald Katz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Katherine Klass",
+      "total": 1000.0,
       "count": 1
     },
     {
       "name": "Christine Kellems",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Lindahl",
-      "total": 500.0,
-      "count": 1
+      "total": 600.0,
+      "count": 2
     },
     {
       "name": "Democratic Party of Brown County",
@@ -34,23 +49,8 @@
       "count": 1
     },
     {
-      "name": "David Sauvey",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Laura Krzysiak",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Melissa Hardin",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Sherry Mutchler",
-      "total": 200.0,
+      "name": "Green Bay PAC",
+      "total": 500.0,
       "count": 1
     }
   ]

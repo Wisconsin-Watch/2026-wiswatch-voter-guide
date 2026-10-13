@@ -1,16 +1,51 @@
 {
   "candidate_id": "j-richmond1",
-  "entity_id": "12230236",
-  "contributions_received": 1100,
+  "entity_id": 12230236,
+  "contributions_received": 3025.0,
   "top_donors": [
+    {
+      "name": "John Richmond",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },
     {
+      "name": "Bonnie Lee",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "David D. Clark",
+      "total": 250.0,
+      "count": 1
+    },
+    {
       "name": "Joel Richmond",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "Carol Erl",
       "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Jane Darling",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Linda J. Kappl",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Rob Rasmussen",
+      "total": 25.0,
       "count": 1
     }
   ]

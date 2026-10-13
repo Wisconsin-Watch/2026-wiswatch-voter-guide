@@ -1,12 +1,12 @@
 {
   "candidate_id": "m-marin1",
-  "entity_id": "12230280",
-  "contributions_received": 1303.61,
+  "entity_id": 12230280,
+  "contributions_received": 1593.11,
   "top_donors": [
     {
       "name": "Mel M Marin",
-      "total": 1147.61,
-      "count": 12
+      "total": 1437.11,
+      "count": 15
     },
     {
       "name": "Mel Marin",

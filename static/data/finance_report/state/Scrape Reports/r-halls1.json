@@ -1,8 +1,13 @@
 {
   "candidate_id": "r-halls1",
-  "entity_id": "1149741",
-  "contributions_received": 305.0,
+  "entity_id": 1149741,
+  "contributions_received": 411.7,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 104.7,
+      "count": 2
+    },
     {
       "name": "Linda Halls",
       "total": 100.0,
@@ -26,6 +31,16 @@
     {
       "name": "Julia Sarr",
       "total": 4.0,
+      "count": 1
+    },
+    {
+      "name": "B Berkery",
+      "total": 1.0,
+      "count": 1
+    },
+    {
+      "name": "Kevin Hall",
+      "total": 1.0,
       "count": 1
     },
     {

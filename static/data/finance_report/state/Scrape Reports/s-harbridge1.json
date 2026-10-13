@@ -1,7 +1,7 @@
 {
   "candidate_id": "s-harbridge1",
-  "entity_id": "9169757",
-  "contributions_received": 13836.04,
+  "entity_id": 9169757,
+  "contributions_received": 14738.03,
   "top_donors": [
     {
       "name": "Diane Bast",
@@ -24,12 +24,17 @@
       "count": 5
     },
     {
+      "name": "Carmen Jenkins",
+      "total": 552.0,
+      "count": 2
+    },
+    {
       "name": "Michael McCusker",
       "total": 528.0,
       "count": 2
     },
     {
-      "name": "James Sosniak",
+      "name": "Mickey Hale",
       "total": 500.0,
       "count": 1
     },
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
+      "name": "James Sosniak",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "William Utphall",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Timothy Ramthun",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Mickey Hale",
       "total": 500.0,
       "count": 1
     }

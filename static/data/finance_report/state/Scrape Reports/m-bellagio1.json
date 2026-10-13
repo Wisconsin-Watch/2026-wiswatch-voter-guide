@@ -1,6 +1,17 @@
 {
   "candidate_id": "m-bellagio1",
-  "entity_id": "12229884",
-  "contributions_received": 0,
-  "top_donors": []
+  "entity_id": 12229884,
+  "contributions_received": 852.03,
+  "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 602.03,
+      "count": 1
+    },
+    {
+      "name": "Building Grassroots Support PAC",
+      "total": 250.0,
+      "count": 1
+    }
+  ]
 }

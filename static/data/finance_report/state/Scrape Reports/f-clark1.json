@@ -1,0 +1,60 @@
+{
+  "candidate_group": "FRED CLARK FOR WISCONSIN",
+  "committees_included": "FRED CLARK FOR WISCONSIN",
+  "candidate_id": "f-clark1",
+  "total_donated": 179833.96,
+  "total_contributions_count": 654,
+  "n_unique_donors": 338,
+  "top_donors": [
+    {
+      "name": "KERN, DEBORAH",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "UIHLEIN, LYNDE B",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "WEST RYMER, KIMBERLY",
+      "total": 6750,
+      "count": 3
+    },
+    {
+      "name": "JUDAY, PATRICIA",
+      "total": 4500,
+      "count": 4
+    },
+    {
+      "name": "MCADAMS, MICHAEL S",
+      "total": 4500,
+      "count": 3
+    },
+    {
+      "name": "WOOD, LEVI E",
+      "total": 4500,
+      "count": 7
+    },
+    {
+      "name": "CHRISTENSEN, BEATRICE A",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "CHRISTENSEN, LAURITS R",
+      "total": 3500,
+      "count": 2
+    },
+    {
+      "name": "CLARK, ANDREW",
+      "total": 3500,
+      "count": 2
+    },
+    {
+      "name": "TEETERS, GREGORY R",
+      "total": 3500,
+      "count": 2
+    }
+  ]
+}

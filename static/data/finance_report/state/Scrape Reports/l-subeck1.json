@@ -1,20 +1,20 @@
 {
   "candidate_id": "l-subeck1",
-  "entity_id": "16953",
-  "contributions_received": 38226.5,
+  "entity_id": 16953,
+  "contributions_received": 45587.5,
   "top_donors": [
     {
-      "name": "WEC Energy Group PAC (WEC PAC)",
+      "name": "Paul Page",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Eli Lilly and Company PAC",
+      "total": 1000.0,
+      "count": 2
     },
     {
       "name": "Wisconsin Hospitals PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Pipe Trades Assn PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,9 +29,9 @@
       "count": 1
     },
     {
-      "name": "Susan Subeck",
+      "name": "WEC Energy Group PAC (WEC PAC)",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     },
     {
       "name": "WEAC PAC",

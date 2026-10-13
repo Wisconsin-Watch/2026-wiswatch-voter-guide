@@ -1,0 +1,60 @@
+{
+  "candidate_group": "GLENN GROTHMAN FOR CONGRESS",
+  "committees_included": "GLENN GROTHMAN FOR CONGRESS",
+  "candidate_id": "g-grothman1",
+  "total_donated": 238977.06,
+  "total_contributions_count": 429,
+  "n_unique_donors": 299,
+  "top_donors": [
+    {
+      "name": "BURKE, KATHRYN MURPH",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "GENTINE, LOUIS P. II",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "GENTINE, MICHELLE A.",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "WALL, TERRENCE R.",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "EINHORN, NANCY",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "SCOTT, JOHN D.",
+      "total": 4500,
+      "count": 6
+    },
+    {
+      "name": "NASGOVITZ, WILLIAM",
+      "total": 4000,
+      "count": 2
+    },
+    {
+      "name": "WIESER, ANGIE",
+      "total": 3505,
+      "count": 2
+    },
+    {
+      "name": "ARMSTRONG, PERRY J.",
+      "total": 3500,
+      "count": 3
+    },
+    {
+      "name": "BUHOLZER, GLENDA",
+      "total": 3500,
+      "count": 1
+    }
+  ]
+}

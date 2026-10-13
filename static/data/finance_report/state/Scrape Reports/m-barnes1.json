@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-barnes1",
-  "entity_id": "15552",
-  "contributions_received": 1138843.48,
+  "entity_id": 15552,
+  "contributions_received": 1154372.72,
   "top_donors": [
     {
       "name": "United Food & Commercial Workers International Union Active Ballot Club",
@@ -9,17 +9,17 @@
       "count": 1
     },
     {
-      "name": "Benjamin Ryan",
+      "name": "Justine Haselow",
       "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Ashish Shaskikant Patel",
-      "total": 20000.0,
-      "count": 1
+      "count": 2
     },
     {
       "name": "Elizabeth Diane Simons",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Benjamin Ryan",
       "total": 20000.0,
       "count": 1
     },
@@ -29,14 +29,14 @@
       "count": 1
     },
     {
+      "name": "Ashish Shaskikant Patel",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
       "name": "Anne Abramson",
       "total": 20000.0,
       "count": 4
-    },
-    {
-      "name": "Justine Haselow",
-      "total": 20000.0,
-      "count": 2
     },
     {
       "name": "Andrew Welters",
@@ -44,12 +44,12 @@
       "count": 2
     },
     {
-      "name": "Thomas Erickson",
+      "name": "Deborah Kern",
       "total": 10000.0,
       "count": 1
     },
     {
-      "name": "Lawrence Zilavy",
+      "name": "Sela Thompson Collins",
       "total": 10000.0,
       "count": 1
     }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "b-oemichen1",
-  "entity_id": "12200319",
-  "contributions_received": 29023.4,
+  "entity_id": 12200319,
+  "contributions_received": 38308.1,
   "top_donors": [
     {
       "name": "William  Oemichen",
@@ -9,12 +9,12 @@
       "count": 7
     },
     {
-      "name": "Mary Anne Oemichen",
+      "name": "WI Laborers District Council",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin REALTORS Political Fund",
+      "name": "Mary Anne Oemichen",
       "total": 1000.0,
       "count": 1
     },
@@ -29,27 +29,27 @@
       "count": 1
     },
     {
-      "name": "Michael Hermsen",
-      "total": 500.0,
+      "name": "Volunteers for Agriculture VFA",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Gary Goyke",
-      "total": 500.0,
-      "count": 2
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin REALTORS Political Fund",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Bruce Brandsness",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Jerry Landmark",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Mike Sanders",
       "total": 500.0,
       "count": 1
     }

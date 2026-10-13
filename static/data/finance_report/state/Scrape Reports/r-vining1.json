@@ -1,25 +1,30 @@
 {
   "candidate_id": "r-vining1",
-  "entity_id": "16126",
-  "contributions_received": 276363.05,
+  "entity_id": 16126,
+  "contributions_received": 378081.81,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 68089.68,
-      "count": 13
+      "total": 91597.59,
+      "count": 17
     },
     {
       "name": "Anna Bukowski",
-      "total": 2250.0,
-      "count": 2
+      "total": 2033.0,
+      "count": 3
     },
     {
-      "name": "Elizabeth Simons",
+      "name": "WI Pipe Trades Assn PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Friends of Chris Larson",
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "March On PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -29,27 +34,22 @@
       "count": 1
     },
     {
-      "name": "Jodi for State Senate",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "OB-GYN PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "EMILY's List",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "KeyeskiForWI",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
       "name": "Friends of Tim Carpenter",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Operating Engineers 139 PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Plumbers Local 75 PAC",
       "total": 2000.0,
       "count": 1
     }

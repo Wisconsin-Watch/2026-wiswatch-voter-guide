@@ -1,20 +1,25 @@
 {
   "candidate_id": "d-steffen1",
-  "entity_id": "15669",
-  "contributions_received": 34104.5,
+  "entity_id": 15669,
+  "contributions_received": 45972.45,
   "top_donors": [
     {
-      "name": "Fox Community CU",
-      "total": 1587.05,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin's Electric Cooperatives PAC",
+      "name": "REALTORS Association of South Central Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "name": "Wisconsin Association of Health Plans PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "PFFW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Scott Lauber",
       "total": 1000.0,
       "count": 1
     },
@@ -24,7 +29,7 @@
       "count": 1
     },
     {
-      "name": "Scott Lauber",
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +44,14 @@
       "count": 1
     },
     {
+      "name": "Northwestern Mutual  PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "PFFW PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Xcel Energy-WI PAC",
-      "total": 1000.0,
-      "count": 2
     }
   ]
 }

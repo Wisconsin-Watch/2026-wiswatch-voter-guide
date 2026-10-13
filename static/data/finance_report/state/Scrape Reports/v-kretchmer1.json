@@ -1,21 +1,26 @@
 {
   "candidate_id": "v-kretchmer1",
-  "entity_id": "12225838",
-  "contributions_received": 6115.91,
+  "entity_id": 12225838,
+  "contributions_received": 10424.38,
   "top_donors": [
     {
-      "name": "Valerie Han Kretchmer",
-      "total": 1458.96,
-      "count": 2
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 2611.06,
+      "count": 3
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 1000.0,
-      "count": 1
+      "name": "Valerie Han Kretchmer",
+      "total": 1475.31,
+      "count": 3
     },
     {
       "name": "Barb Griffin",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Matt Smith",
+      "total": 900.0,
       "count": 1
     },
     {
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
+      "name": "Jayson Cross",
+      "total": 300.0,
+      "count": 1
+    },
+    {
       "name": "Friends of Duane O'Keefe",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "James Kedrow",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Linda Kretchmer",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "O'Keefe Duane",
-      "total": 100.0,
+      "name": "Happenings Mag",
+      "total": 297.15,
       "count": 1
     }
   ]

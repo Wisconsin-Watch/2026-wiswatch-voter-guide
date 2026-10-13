@@ -1,30 +1,10 @@
 {
   "candidate_id": "e-schutt1",
-  "entity_id": "15958",
-  "contributions_received": 86090.0,
+  "entity_id": 15958,
+  "contributions_received": 117034.65,
   "top_donors": [
     {
-      "name": "Citizens for August",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Kathryn Leith",
-      "total": 2000.0,
-      "count": 3
-    },
-    {
-      "name": "Friends of Van Wanggaard",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
       "name": "Friends of Jesse James",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 2000.0,
       "count": 1
     },
@@ -34,7 +14,37 @@
       "count": 1
     },
     {
+      "name": "Friends of Rachael Cabral Guevara",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Steil for Wisconsin",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Citizens for August",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "ABCPAC-WIS",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathryn Leith",
+      "total": 2000.0,
+      "count": 3
+    },
+    {
+      "name": "Friends of Mary",
       "total": 2000.0,
       "count": 1
     },
@@ -42,16 +52,6 @@
       "name": "Jeff Schultz",
       "total": 2000.0,
       "count": 1
-    },
-    {
-      "name": "Gregory Reesman",
-      "total": 1500.0,
-      "count": 1
-    },
-    {
-      "name": "Kathryn Bartelli",
-      "total": 1500.0,
-      "count": 2
     }
   ]
 }

@@ -1,16 +1,11 @@
 {
   "candidate_id": "e-behnke1",
-  "entity_id": "664423",
-  "contributions_received": 6853.62,
+  "entity_id": 664423,
+  "contributions_received": 8002.05,
   "top_donors": [
     {
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Bell Ambulance, Inc. Employees PAC",
-      "total": 500.0,
       "count": 1
     },
     {
@@ -29,27 +24,32 @@
       "count": 1
     },
     {
+      "name": "Bell Ambulance, Inc. Employees PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Enterprise Mobility Political Action Committee",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Terrence Diedrich",
+      "total": 400.0,
+      "count": 1
+    },
+    {
       "name": "Paige Huntington-Dreier",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Hotel & Lodging Association PAC",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Seth Allen",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Jason Beck",
-      "total": 250.0,
-      "count": 1
-    },
-    {
       "name": "Inspire Air LLC -> Timothy Novitski",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Lowel Hammett",
       "total": 250.0,
       "count": 1
     }

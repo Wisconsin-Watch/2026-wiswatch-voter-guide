@@ -1,11 +1,21 @@
 {
   "candidate_id": "j-schumacher1",
-  "entity_id": "12229718",
-  "contributions_received": 5635,
+  "entity_id": 12229718,
+  "contributions_received": 8302.7,
   "top_donors": [
     {
       "name": "Justin Schumacher",
       "total": 4635.0,
+      "count": 1
+    },
+    {
+      "name": "Keith M. Gonnering",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "CINDY GONNERING",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -16,6 +26,31 @@
     {
       "name": "Democratic Party of Brown County",
       "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Outagamie County",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 104.7,
+      "count": 2
+    },
+    {
+      "name": "Wayne Fryda",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Lisa Ott",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Rebecca Katers",
+      "total": 100.0,
       "count": 1
     }
   ]

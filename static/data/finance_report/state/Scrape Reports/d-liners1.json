@@ -1,7 +1,7 @@
 {
   "candidate_id": "d-liners1",
-  "entity_id": "12146614",
-  "contributions_received": 32870.97,
+  "entity_id": 12146614,
+  "contributions_received": 34554.88,
   "top_donors": [
     {
       "name": "David Robert Liners",
@@ -19,6 +19,16 @@
       "count": 1
     },
     {
+      "name": "Anne Brett",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Chris Larson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "AFT Local 212 COPE",
       "total": 1000.0,
       "count": 1
@@ -32,16 +42,6 @@
       "name": "Duane Brett",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Friends of Chris Larson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Anne Brett",
-      "total": 1000.0,
-      "count": 1
     },
     {
       "name": "Janan Najeeb",

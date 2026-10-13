@@ -1,8 +1,38 @@
 {
   "candidate_id": "g-miller1",
-  "entity_id": "12228352",
-  "contributions_received": 1616.54,
+  "entity_id": 12228352,
+  "contributions_received": 9317.05,
   "top_donors": [
+    {
+      "name": "Friends of Max Winkels",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Kenosha County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Adam Duda",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Walworth County",
+      "total": 590.25,
+      "count": 2
+    },
+    {
+      "name": "Rebecca Miller",
+      "total": 500.0,
+      "count": 2
+    },
     {
       "name": "Rebecca Miller",
       "total": 500.0,
@@ -14,38 +44,13 @@
       "count": 1
     },
     {
-      "name": "Kimberly Miracko",
-      "total": 210.0,
-      "count": 2
-    },
-    {
-      "name": "Gregory Miller",
-      "total": 100.08,
-      "count": 2
-    },
-    {
-      "name": "Gail Seitz",
-      "total": 100.0,
+      "name": "Mark D Winkels",
+      "total": 420.0,
       "count": 1
     },
     {
-      "name": "Karen Troupis",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Leslie Manion",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Rebecca Miller",
-      "total": 25.0,
-      "count": 1
-    },
-    {
-      "name": "Julia Sarr",
-      "total": 4.0,
+      "name": "Mary Sue Lux",
+      "total": 243.55,
       "count": 1
     }
   ]

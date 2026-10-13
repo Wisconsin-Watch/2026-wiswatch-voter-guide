@@ -1,16 +1,41 @@
 {
   "candidate_id": "e-tseffos1",
-  "entity_id": "843353",
-  "contributions_received": 41036.11,
+  "entity_id": 843353,
+  "contributions_received": 75542.97,
   "top_donors": [
     {
       "name": "Emily Tseffos",
-      "total": 7884.41,
-      "count": 5
+      "total": 17800.73,
+      "count": 14
+    },
+    {
+      "name": "Wisconsin Education Association Council",
+      "total": 2000.0,
+      "count": 1
     },
     {
       "name": "Plumbers & Steamfitters Local 400 COPE Fund",
       "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "James M Walton",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "DALE FEINAUER",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Max G Lagally",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "LAurie Murphy",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -24,34 +49,9 @@
       "count": 7
     },
     {
-      "name": "Amy Nasr",
+      "name": "Laura Carlson",
       "total": 500.0,
       "count": 1
-    },
-    {
-      "name": "Margaret Voissem",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Sara Arnold",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Wayde Lawler",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Elizabeth Holdren",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Kristin Hunger",
-      "total": 400.0,
-      "count": 4
     }
   ]
 }

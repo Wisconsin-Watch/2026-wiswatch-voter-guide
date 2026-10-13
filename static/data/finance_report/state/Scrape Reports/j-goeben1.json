@@ -1,15 +1,25 @@
 {
   "candidate_id": "j-goeben1",
-  "entity_id": "663797",
-  "contributions_received": 20010.0,
+  "entity_id": 663797,
+  "contributions_received": 22985.0,
   "top_donors": [
     {
-      "name": "Chad Hertler",
+      "name": "Diane Hendrick",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Joseph Bast",
+      "name": "Diane Bast",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors Association of SC WI - PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors Political Action Committee RPAC-Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -24,33 +34,23 @@
       "count": 1
     },
     {
-      "name": "RANW PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Realtors Political Action Committee RPAC-Wisconsin",
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Realtors Association of SC WI - PAC",
+      "name": "Joseph Bast",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Pro-Life WI Victory Fund PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Paper PAC",
-      "total": 500.0,
+      "name": "Chad Hertler",
+      "total": 1000.0,
       "count": 1
     }
   ]

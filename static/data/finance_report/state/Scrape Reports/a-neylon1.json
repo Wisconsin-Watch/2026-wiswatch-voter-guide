@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-neylon1",
-  "entity_id": "17043",
-  "contributions_received": 7519.35,
+  "entity_id": 17043,
+  "contributions_received": 8744.35,
   "top_donors": [
     {
       "name": "Gerald Julius",
@@ -14,12 +14,17 @@
       "count": 1
     },
     {
+      "name": "Wisconsin Association of Health Plans PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Eli Lilly and Company PAC",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Association of Health Plans PAC",
+      "name": "WIANA PAC",
       "total": 500.0,
       "count": 1
     },
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
-      "name": "Robert Zillmer",
+      "name": "Wisconsin Hospitals PAC",
       "total": 250.0,
       "count": 1
     },
     {
       "name": "John Fleckenstein",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Kurt Schley",
       "total": 250.0,
       "count": 1
     }

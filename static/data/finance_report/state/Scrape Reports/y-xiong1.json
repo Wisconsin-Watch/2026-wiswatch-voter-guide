@@ -1,11 +1,26 @@
 {
   "candidate_id": "y-xiong1",
-  "entity_id": "16341",
-  "contributions_received": 89362.97,
+  "entity_id": 16341,
+  "contributions_received": 187556.18,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 52351.39,
+      "count": 2
+    },
     {
       "name": "Elise Lawson",
       "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 18000.0,
+      "count": 1
+    },
+    {
+      "name": "Green Bay Political Action Committee",
+      "total": 4000.0,
       "count": 1
     },
     {
@@ -29,29 +44,14 @@
       "count": 1
     },
     {
+      "name": "Kathleen Rulka",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
       "name": "Victor Neng Xiong",
       "total": 1500.0,
       "count": 2
-    },
-    {
-      "name": "Bee Xiong",
-      "total": 1500.0,
-      "count": 1
-    },
-    {
-      "name": "Dean Dietrich",
-      "total": 1500.0,
-      "count": 2
-    },
-    {
-      "name": "Gillian Battino",
-      "total": 1175.0,
-      "count": 3
-    },
-    {
-      "name": "Yee Leng Xiong",
-      "total": 1103.0,
-      "count": 3
     }
   ]
 }

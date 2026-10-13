@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-aleckson1",
-  "entity_id": "12050369",
-  "contributions_received": 32485.76,
+  "entity_id": 12050369,
+  "contributions_received": 49865.02,
   "top_donors": [
     {
       "name": "JON Dale ALECKSON",
@@ -9,7 +9,22 @@
       "count": 3
     },
     {
-      "name": "Republican Assembly Campaign Committee",
+      "name": "Republican Party of Dane County",
+      "total": 7567.53,
+      "count": 2
+    },
+    {
+      "name": "Dane County Republican Party",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1620.95,
+      "count": 2
+    },
+    {
+      "name": "Bruce Bosben",
       "total": 1000.0,
       "count": 1
     },
@@ -19,27 +34,12 @@
       "count": 1
     },
     {
-      "name": "Jon Lancaster",
+      "name": "Susan Buholzer",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Nick Topitzes",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Bruce Bosben",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "David Buholzer",
+      "name": "Thea R. Buholzer",
       "total": 1000.0,
       "count": 1
     },
@@ -49,8 +49,8 @@
       "count": 1
     },
     {
-      "name": "Don Wolding",
-      "total": 500.0,
+      "name": "David Buholzer",
+      "total": 1000.0,
       "count": 1
     }
   ]

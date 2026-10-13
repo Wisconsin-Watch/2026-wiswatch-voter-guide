@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-ray1",
-  "entity_id": "11959444",
-  "contributions_received": 182659.3,
+  "entity_id": 11959444,
+  "contributions_received": 280790.71,
   "top_donors": [
     {
       "name": "Wisconsin State Senate Democratic Committee",
@@ -10,21 +10,21 @@
     },
     {
       "name": "State Senate Democratic Committee",
-      "total": 11888.51,
-      "count": 4
+      "total": 39888.51,
+      "count": 7
     },
     {
-      "name": "Wendy Wethington",
+      "name": "Charly B Ray",
+      "total": 20076.45,
+      "count": 1
+    },
+    {
+      "name": "Barry Boothe",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Robert Haselow",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Donald Katz",
+      "name": "Justine Haselow",
       "total": 2000.0,
       "count": 1
     },
@@ -39,7 +39,7 @@
       "count": 1
     },
     {
-      "name": "Kimberly West",
+      "name": "Heidi Becker",
       "total": 2000.0,
       "count": 1
     },

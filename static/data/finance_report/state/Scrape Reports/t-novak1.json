@@ -1,55 +1,55 @@
 {
   "candidate_id": "t-novak1",
-  "entity_id": "17280",
-  "contributions_received": 62934.28,
+  "entity_id": 17280,
+  "contributions_received": 570926.19,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 15645.28,
-      "count": 2
+      "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
+      "total": 269593.44,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC -> Medium",
+      "total": 58732.6,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
+      "total": 52500.0,
+      "count": 1
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 15000.0,
+      "total": 38500.0,
+      "count": 3
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 32116.62,
+      "count": 4
+    },
+    {
+      "name": "Republican Party of Wisconsin -> Art and Copy LLC",
+      "total": 24707.01,
+      "count": 3
+    },
+    {
+      "name": "Republican Party of Wisconsin -> Art and Copy Partners LLC",
+      "total": 8235.67,
       "count": 1
     },
     {
-      "name": "Jon Ritchie",
+      "name": "Glenn Madrigano",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Frank Hallada",
+      "name": "Jay Smith",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Dan Rohrbach",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kurtz for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends for Jessie",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Devin LeMahieu",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Tom Zimbrick",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Connie Hallada",
+      "name": "Matt Neumann",
       "total": 1000.0,
       "count": 1
     }

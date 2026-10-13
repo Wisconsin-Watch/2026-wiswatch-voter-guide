@@ -1,56 +1,56 @@
 {
   "candidate_id": "t-pronschinske1",
-  "entity_id": "16496",
-  "contributions_received": 57266.0,
+  "entity_id": 16496,
+  "contributions_received": 14100.0,
   "top_donors": [
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 3000.0,
-      "count": 3
+      "name": "Realtors Association of SC WI - PAC",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Northwestern Wisconsin REALTORS PAC",
-      "total": 2000.0,
-      "count": 2
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "RANW PAC",
-      "total": 2000.0,
-      "count": 2
+      "total": 1000.0,
+      "count": 1
     },
     {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 2000.0,
-      "count": 2
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Concerned Realtors Committee",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "The Republican Party of Trempeleau County",
-      "total": 1400.0,
-      "count": 1
-    },
-    {
-      "name": "Shari Sue Wagner",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Dave for WI Campaign",
+      "name": "Wisconsin REALTORSÂ® Association",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Safari Club",
+      "name": "Andrew Dahl",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "CAR/PAC  CAR & TRUCK RETAILERS",
-      "total": 1000.0,
+      "name": "Frank Hallada",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Sandy Michaes",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy Wisconsin Governmental",
+      "total": 500.0,
       "count": 1
     }
   ]

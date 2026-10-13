@@ -1,7 +1,7 @@
 {
   "candidate_id": "r-clancy1",
-  "entity_id": "999244",
-  "contributions_received": 39436.22,
+  "entity_id": 999244,
+  "contributions_received": 49216.9,
   "top_donors": [
     {
       "name": "Janan Najeeb",
@@ -9,7 +9,7 @@
       "count": 1
     },
     {
-      "name": "Faheem Zaman",
+      "name": "American Fed of Teachers, #212, COPE",
       "total": 1000.0,
       "count": 1
     },
@@ -19,17 +19,7 @@
       "count": 1
     },
     {
-      "name": "Timothy Burns",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Friends of Jessica Seawright",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +29,27 @@
       "count": 2
     },
     {
+      "name": "Faheem Zaman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Theresa Preston-Werner",
+      "name": "Christopher Llop",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Christopher Llop",
+      "name": "Theresa Preston-Werner",
       "total": 1000.0,
       "count": 1
     }

@@ -1,22 +1,27 @@
 {
   "candidate_id": "r-wittke1",
-  "entity_id": "16172",
-  "contributions_received": 14936.0,
+  "entity_id": 16172,
+  "contributions_received": 26091.0,
   "top_donors": [
+    {
+      "name": "Diane M. Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Friends and Neighbors of Tom Weatherston",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Glenn Madrigrano, Jr.",
+      "name": "GOPAC Election Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Institute of CPA's PAC",
+      "name": "Operating Engineers 139 PAC",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
       "name": "Forest Co Potawatomi Comm PAC",
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
-      "name": "Andrew Hassemer",
-      "total": 750.0,
+      "name": "WI Institute of CPA's PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Sandra Young",
-      "total": 500.0,
+      "name": "Building Grassroots Support PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Art Binhack",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Dan Oakes",
-      "total": 500.0,
+      "name": "Glenn Madrigrano, Jr.",
+      "total": 1000.0,
       "count": 1
     }
   ]

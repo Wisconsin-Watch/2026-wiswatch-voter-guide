@@ -1,10 +1,10 @@
 {
   "candidate_id": "b-bock1",
-  "entity_id": "12225927",
-  "contributions_received": 5926.69,
+  "entity_id": 12225927,
+  "contributions_received": 5952.69,
   "top_donors": [
     {
-      "name": "314 Action Victory Fund",
+      "name": "Tamir Kaloti",
       "total": 1000.0,
       "count": 1
     },
@@ -14,7 +14,7 @@
       "count": 1
     },
     {
-      "name": "Tamir Kaloti",
+      "name": "314 Action Victory Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -34,17 +34,17 @@
       "count": 1
     },
     {
-      "name": "Thad Schumacher",
-      "total": 200.0,
-      "count": 1
-    },
-    {
       "name": "Nancy Daly",
       "total": 200.0,
       "count": 2
     },
     {
       "name": "John Engelhardt",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Thad Schumacher",
       "total": 200.0,
       "count": 1
     },

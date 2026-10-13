@@ -1,12 +1,27 @@
 {
   "candidate_id": "e-phanichkul1",
-  "entity_id": "12228955",
-  "contributions_received": 4061.8,
+  "entity_id": 12228955,
+  "contributions_received": 7418.73,
   "top_donors": [
+    {
+      "name": "Wisconsin Education Association Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Cindy Rufenach",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Eddie Phanichkul",
       "total": 809.07,
       "count": 5
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 597.24,
+      "count": 3
     },
     {
       "name": "LuAnn Bird",
@@ -14,13 +29,8 @@
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 492.54,
-      "count": 1
-    },
-    {
-      "name": "mark thomsen",
-      "total": 250.0,
+      "name": "Wisconsin Progress PAC",
+      "total": 323.1,
       "count": 1
     },
     {
@@ -29,28 +39,18 @@
       "count": 1
     },
     {
-      "name": "Trevor Jung",
-      "total": 200.0,
-      "count": 1
+      "name": "Tracy L. Buss",
+      "total": 250.0,
+      "count": 2
     },
     {
-      "name": "Tracy L. Buss",
-      "total": 150.0,
+      "name": "mark thomsen",
+      "total": 250.0,
       "count": 1
     },
     {
       "name": "Mary Jonker",
-      "total": 125.0,
-      "count": 1
-    },
-    {
-      "name": "Andrea Brannan",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Laura Tabili",
-      "total": 100.0,
+      "total": 200.0,
       "count": 1
     }
   ]

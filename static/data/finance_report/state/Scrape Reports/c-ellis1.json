@@ -1,8 +1,18 @@
 {
   "candidate_id": "c-ellis1",
-  "entity_id": "12226491",
-  "contributions_received": 14879.76,
+  "entity_id": 12226491,
+  "contributions_received": 32073.07,
   "top_donors": [
+    {
+      "name": "Diane Ellis",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
+    },
     {
       "name": "Montgomery Trapper Sexton",
       "total": 2000.0,
@@ -24,33 +34,23 @@
       "count": 1
     },
     {
-      "name": "Christine Burr",
-      "total": 520.0,
+      "name": "Amanda Ellis",
+      "total": 1020.0,
       "count": 2
     },
     {
-      "name": "Maeve Quinn",
-      "total": 500.0,
+      "name": "Julie Stodolka",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Teresa Welch",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Donald Floyd",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Jennifer Bryant",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Hugh Ross",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "John C. Miller",
-      "total": 500.0,
+      "name": "Rebecca Clarke",
+      "total": 1000.0,
       "count": 1
     }
   ]

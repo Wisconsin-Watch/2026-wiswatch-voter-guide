@@ -1,0 +1,45 @@
+{
+  "candidate_group": "ANDREW BECK FOR CONGRESS",
+  "committees_included": "ANDREW BECK FOR CONGRESS",
+  "candidate_id": "a-beck1",
+  "total_donated": 3550,
+  "total_contributions_count": 8,
+  "n_unique_donors": 7,
+  "top_donors": [
+    {
+      "name": "KIDDNEY, RICHARD",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "SHAFER, J M",
+      "total": 1000,
+      "count": 2
+    },
+    {
+      "name": "GAN, CHRIS",
+      "total": 500,
+      "count": 1
+    },
+    {
+      "name": "CROUSE, LAURA",
+      "total": 300,
+      "count": 1
+    },
+    {
+      "name": "KINOSIAN, AMY",
+      "total": 250,
+      "count": 1
+    },
+    {
+      "name": "SCHICK, KAREN",
+      "total": 250,
+      "count": 1
+    },
+    {
+      "name": "SCHNEIDER, ANGELA",
+      "total": 250,
+      "count": 1
+    }
+  ]
+}

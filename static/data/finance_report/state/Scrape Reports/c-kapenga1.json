@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-kapenga1",
-  "entity_id": "15522",
-  "contributions_received": 19080.3,
+  "entity_id": 15522,
+  "contributions_received": 19915.0,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -24,11 +24,6 @@
       "count": 1
     },
     {
-      "name": "Elizabeth Meier",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Thomas Ehrsam",
       "total": 500.0,
       "count": 1
@@ -44,12 +39,17 @@
       "count": 1
     },
     {
+      "name": "Elizabeth Meier",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Marcel Cesar",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "Paper PAC",
+      "name": "Peter Ogden",
       "total": 250.0,
       "count": 1
     }

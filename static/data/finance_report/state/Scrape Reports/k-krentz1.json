@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-krentz1",
-  "entity_id": "12187974",
-  "contributions_received": 27372.82,
+  "entity_id": 12187974,
+  "contributions_received": 32942.82,
   "top_donors": [
     {
       "name": "Kevin Krentz",
@@ -9,7 +9,17 @@
       "count": 3
     },
     {
-      "name": "Donald Nelson",
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Citizens for August",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Rachel Cabral-Guevara",
       "total": 1000.0,
       "count": 1
     },
@@ -24,33 +34,23 @@
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
+      "name": "Realtors Assn of Northeast WI",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "RANW PAC",
+      "name": "Donald Nelson",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "James Button",
+      "total": 750.0,
       "count": 1
     },
     {
       "name": "Jeanne Welch",
       "total": 667.82,
-      "count": 1
-    },
-    {
-      "name": "Jason Mugnaini",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Gary Tauchen",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Lynn Leahy",
-      "total": 500.0,
       "count": 1
     }
   ]

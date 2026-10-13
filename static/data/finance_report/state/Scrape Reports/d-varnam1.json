@@ -1,16 +1,41 @@
 {
   "candidate_id": "d-varnam1",
-  "entity_id": "1015379",
-  "contributions_received": 41231.42,
+  "entity_id": 1015379,
+  "contributions_received": 65329.26,
   "top_donors": [
+    {
+      "name": "John Fleckenstein",
+      "total": 12000.0,
+      "count": 2
+    },
+    {
+      "name": "Joseph L. Bast",
+      "total": 6000.0,
+      "count": 2
+    },
     {
       "name": "Gary West",
       "total": 3693.56,
       "count": 2
     },
     {
-      "name": "John Fleckenstein",
+      "name": "John Stoesser",
+      "total": 2210.25,
+      "count": 5
+    },
+    {
+      "name": "Republican Party of Langlade County",
       "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Bette Varnam",
+      "total": 1600.0,
+      "count": 3
+    },
+    {
+      "name": "Jennifer North",
+      "total": 1500.0,
       "count": 1
     },
     {
@@ -19,37 +44,12 @@
       "count": 1
     },
     {
-      "name": "Jennifer North",
-      "total": 1500.0,
+      "name": "Teresa A. Stader",
+      "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "John Stoesser",
-      "total": 1210.25,
-      "count": 4
     },
     {
       "name": "Kirby Gibson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Clark Williams",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Pro-Life WI Victory Fund PAC",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "James Schneller",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Don Wolding",
       "total": 1000.0,
       "count": 1
     }

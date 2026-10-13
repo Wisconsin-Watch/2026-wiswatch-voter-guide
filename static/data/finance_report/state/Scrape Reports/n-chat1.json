@@ -1,7 +1,7 @@
 {
   "candidate_id": "n-chat1",
-  "entity_id": "12230231",
-  "contributions_received": 1260,
+  "entity_id": 12230231,
+  "contributions_received": 1560.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC -> i360 Holdings",
@@ -11,6 +11,16 @@
     {
       "name": "Rolf Lindren",
       "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Judith A Wegner",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Cynthia Simmons",
+      "total": 100.0,
       "count": 1
     },
     {

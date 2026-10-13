@@ -1,7 +1,7 @@
 {
   "candidate_id": "t-schneekloth1",
-  "entity_id": "12226332",
-  "contributions_received": 956.93,
+  "entity_id": 12226332,
+  "contributions_received": 981.93,
   "top_donors": [
     {
       "name": "Pamela Schneekloth",
@@ -16,6 +16,11 @@
     {
       "name": "Tyler Schneekloth",
       "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "James Schwarten",
+      "total": 25.0,
       "count": 1
     }
   ]

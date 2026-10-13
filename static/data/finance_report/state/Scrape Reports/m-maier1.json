@@ -1,15 +1,25 @@
 {
   "candidate_id": "m-maier1",
-  "entity_id": "12229724",
-  "contributions_received": 11660.74,
+  "entity_id": 12229724,
+  "contributions_received": 21887.57,
   "top_donors": [
+    {
+      "name": "Republican Party",
+      "total": 8000.0,
+      "count": 1
+    },
+    {
+      "name": "Marie May",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Kurt Wong",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Republican Assembly Campaign Committee",
+      "name": "Rochell Maier",
       "total": 1000.0,
       "count": 1
     },
@@ -19,7 +29,7 @@
       "count": 1
     },
     {
-      "name": "Marie May",
+      "name": "Republican Assembly Campaign Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +44,12 @@
       "count": 2
     },
     {
-      "name": "Mark Cullen",
+      "name": "Jae Bok Chung",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Erik Olsen",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Steve Ripp",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Richard Wood",
+      "name": "Janet Renschler",
       "total": 500.0,
       "count": 1
     }

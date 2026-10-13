@@ -1,7 +1,7 @@
 {
   "candidate_id": "d-andraca1",
-  "entity_id": "16226",
-  "contributions_received": 40168.88,
+  "entity_id": 16226,
+  "contributions_received": 57020.96,
   "top_donors": [
     {
       "name": "Democratic Party of Ozaukee County",
@@ -9,12 +9,12 @@
       "count": 1
     },
     {
-      "name": "WI Laborers District Council",
+      "name": "Wisconsin Beer Distributors PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Rebecca House",
+      "name": "ERIN M STILP",
       "total": 1000.0,
       "count": 1
     },
@@ -34,24 +34,24 @@
       "count": 1
     },
     {
+      "name": "Sprinkler Fitters Local 183",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rebecca House",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Tavern Industry PAC",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "ERIN M STILP",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Forest Co Potawatomi Comm PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 2
     }
   ]
 }

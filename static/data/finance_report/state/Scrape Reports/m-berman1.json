@@ -1,0 +1,60 @@
+{
+  "candidate_group": "MITCHELL BERMAN FOR CONGRESS",
+  "committees_included": "MITCHELL BERMAN FOR CONGRESS",
+  "candidate_id": "m-berman1",
+  "total_donated": 243292.38,
+  "total_contributions_count": 874,
+  "n_unique_donors": 458,
+  "top_donors": [
+    {
+      "name": "DEAN, NATHANIEL",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "DURMENT, JANE",
+      "total": 7000,
+      "count": 4
+    },
+    {
+      "name": "VERHULST, INGRID M.",
+      "total": 7000,
+      "count": 4
+    },
+    {
+      "name": "HELMERICH, MATTHEW",
+      "total": 6250,
+      "count": 8
+    },
+    {
+      "name": "TATE, CHARLES",
+      "total": 5000,
+      "count": 2
+    },
+    {
+      "name": "JOHNSON, PETER",
+      "total": 4652.63,
+      "count": 14
+    },
+    {
+      "name": "DURMENT, NORMAN",
+      "total": 4000,
+      "count": 5
+    },
+    {
+      "name": "HANEY, WILIAM",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "KNIGHT, ERIC",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "PAGE, GLORIA",
+      "total": 3500,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "candidate_group": "CITIZENS FOR BRAD SMITH",
+  "committees_included": "CITIZENS FOR BRAD SMITH",
+  "candidate_id": "b-smith1",
+  "total_donated": 83440.49,
+  "total_contributions_count": 278,
+  "n_unique_donors": 144,
+  "top_donors": [
+    {
+      "name": "BEMIS, SUSAN",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "PATEL, DEBORAH",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "ARMBRUST, GWEN",
+      "total": 3310,
+      "count": 4
+    },
+    {
+      "name": "ARMBRUST, DANIEL",
+      "total": 3000,
+      "count": 1
+    },
+    {
+      "name": "SOLLINGER, MARY LANG",
+      "total": 3000,
+      "count": 3
+    },
+    {
+      "name": "SPOERL, MARGARET",
+      "total": 1826,
+      "count": 12
+    },
+    {
+      "name": "HUENNEKENS, MARTIN",
+      "total": 1727.29,
+      "count": 2
+    },
+    {
+      "name": "ANDERSON, JEFFREY",
+      "total": 1683.01,
+      "count": 8
+    },
+    {
+      "name": "DUHATSCHEK, JUSTIN",
+      "total": 1600.69,
+      "count": 5
+    },
+    {
+      "name": "DUFFEY, THOMAS",
+      "total": 1500,
+      "count": 1
+    }
+  ]
+}

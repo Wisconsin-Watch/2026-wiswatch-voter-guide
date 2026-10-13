@@ -1,0 +1,63 @@
+{
+  "candidate_group": "Scott Fitzgerald",
+  "committees_included": [
+    "SCOTT FITZGERALD FOR CONGRESS",
+    "SCOTT FITZGERALD VICTORY FUND"
+  ],
+  "candidate_id": "s-fitzgerald1",
+  "total_donated": 204637.51,
+  "total_contributions_count": 332,
+  "n_unique_donors": 249,
+  "top_donors": [
+    {
+      "name": "STYZA, BRYCE P",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "UNDERWOOD, ELIZABETH",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "UNDERWOOD, JOHN H",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "CAREY, STEVE",
+      "total": 4533.06,
+      "count": 4
+    },
+    {
+      "name": "SCHLOEMER, JAMES H",
+      "total": 4500,
+      "count": 4
+    },
+    {
+      "name": "KRAUSE, MARK J",
+      "total": 3541.98,
+      "count": 3
+    },
+    {
+      "name": "FRAZEE, ELIZABETH W",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "GRIMM, JAMES TYLER",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "HIGGINS, CASEY C",
+      "total": 3500,
+      "count": 3
+    },
+    {
+      "name": "JEFFRIES, E STEWART",
+      "total": 3500,
+      "count": 1
+    }
+  ]
+}

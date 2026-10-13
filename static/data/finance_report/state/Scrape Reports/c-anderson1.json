@@ -1,10 +1,15 @@
 {
   "candidate_id": "c-anderson1",
-  "entity_id": "16373",
-  "contributions_received": 25440.67,
+  "entity_id": 16373,
+  "contributions_received": 38364.59,
   "top_donors": [
     {
-      "name": "Darcie Ware",
+      "name": "Harjinder Samra",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Rock County",
       "total": 1000.0,
       "count": 1
     },
@@ -14,22 +19,17 @@
       "count": 1
     },
     {
-      "name": "Michelle Farr",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Forest County Potawatomi Community PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Harjinder Samra",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "James Bates",
+      "total": 1000.0,
+      "count": 3
+    },
+    {
+      "name": "Michelle Farr",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +39,17 @@
       "count": 1
     },
     {
-      "name": "Realtors Association of South Central Wisconsin",
+      "name": "Darcie Ware",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 6",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Jaspreet Gill",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     }

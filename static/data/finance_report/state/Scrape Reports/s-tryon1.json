@@ -1,8 +1,28 @@
 {
   "candidate_id": "s-tryon1",
-  "entity_id": "11964924",
-  "contributions_received": 9615.23,
+  "entity_id": 11964924,
+  "contributions_received": 12313.14,
   "top_donors": [
+    {
+      "name": "WEAC Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Scottie Sheehan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Donald Katz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Elyce Sheehan",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Rick Tryon",
       "total": 1000.0,
@@ -14,18 +34,8 @@
       "count": 1
     },
     {
-      "name": "Scottie Sheehan",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Elyce Sheehan",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Donald Katz",
-      "total": 1000.0,
+      "name": "Jiangnan Zhu",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -34,23 +44,13 @@
       "count": 1
     },
     {
-      "name": "Jiangnan Zhu",
+      "name": "Michael Tryon",
       "total": 500.0,
       "count": 1
     },
     {
       "name": "Jiangnan Zhu",
       "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Ed White",
-      "total": 400.0,
-      "count": 1
-    },
-    {
-      "name": "Charles Dean",
-      "total": 300.0,
       "count": 1
     }
   ]

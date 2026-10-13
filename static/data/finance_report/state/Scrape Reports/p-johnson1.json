@@ -1,7 +1,7 @@
 {
   "candidate_id": "p-johnson1",
-  "entity_id": "12226466",
-  "contributions_received": 3250,
+  "entity_id": 12226466,
+  "contributions_received": 4000.0,
   "top_donors": [
     {
       "name": "Stephen and Chris Smith",
@@ -12,6 +12,11 @@
       "name": "Paul Johnson",
       "total": 1000.0,
       "count": 2
+    },
+    {
+      "name": "Washburn Co Democratic Party",
+      "total": 400.0,
+      "count": 1
     },
     {
       "name": "KIMBERLY STRUM",
@@ -34,6 +39,11 @@
       "count": 1
     },
     {
+      "name": "Burnett Co Democratic Party",
+      "total": 200.0,
+      "count": 1
+    },
+    {
       "name": "Joan Cervenka",
       "total": 200.0,
       "count": 1
@@ -42,16 +52,6 @@
       "name": "Ann Matza",
       "total": 100.0,
       "count": 1
-    },
-    {
-      "name": "Michael B Shouldice",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Mark and Pamela Dryer",
-      "total": 50.0,
-      "count": 2
     }
   ]
 }

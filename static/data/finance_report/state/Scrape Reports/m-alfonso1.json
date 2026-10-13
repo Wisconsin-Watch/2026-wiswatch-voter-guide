@@ -1,0 +1,60 @@
+{
+  "candidate_group": "ALFONSO FOR CONGRESS",
+  "committees_included": "ALFONSO FOR CONGRESS",
+  "candidate_id": "m-alfonso1",
+  "total_donated": 805491.32,
+  "total_contributions_count": 657,
+  "n_unique_donors": 337,
+  "top_donors": [
+    {
+      "name": "SONNENTAG, CAROLYN",
+      "total": 14000,
+      "count": 4
+    },
+    {
+      "name": "COX, EDWARD III",
+      "total": 7500,
+      "count": 3
+    },
+    {
+      "name": "KOCOUREK, KEITH",
+      "total": 7500,
+      "count": 3
+    },
+    {
+      "name": "ANDRESEN, MATTHEW",
+      "total": 7287.11,
+      "count": 3
+    },
+    {
+      "name": "COCOZIELLO, SOFIA",
+      "total": 7287.11,
+      "count": 3
+    },
+    {
+      "name": "WINTERS, ADAM",
+      "total": 7287.11,
+      "count": 3
+    },
+    {
+      "name": "ALVIS, STEVEN",
+      "total": 7000,
+      "count": 3
+    },
+    {
+      "name": "BAKER, JENNIFER",
+      "total": 7000,
+      "count": 3
+    },
+    {
+      "name": "BAKER, WARD",
+      "total": 7000,
+      "count": 3
+    },
+    {
+      "name": "BEAMAN, JULIE",
+      "total": 7000,
+      "count": 3
+    }
+  ]
+}

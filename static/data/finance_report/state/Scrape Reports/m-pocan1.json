@@ -1,0 +1,60 @@
+{
+  "candidate_group": "MARK POCAN FOR CONGRESS",
+  "committees_included": "MARK POCAN FOR CONGRESS",
+  "candidate_id": "m-pocan1",
+  "total_donated": 67945.76,
+  "total_contributions_count": 649,
+  "n_unique_donors": 207,
+  "top_donors": [
+    {
+      "name": "HELM, NELSON",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "ROGERS, JOEL E",
+      "total": 3500,
+      "count": 1
+    },
+    {
+      "name": "MCQUIDDY, PATRICIA",
+      "total": 2250,
+      "count": 3
+    },
+    {
+      "name": "MANOCHERIAN, JED",
+      "total": 2000,
+      "count": 2
+    },
+    {
+      "name": "ANGEVINE, JAMES",
+      "total": 1500,
+      "count": 2
+    },
+    {
+      "name": "SIE, JOHN J",
+      "total": 1500,
+      "count": 1
+    },
+    {
+      "name": "MCDERMOTT, MICHAEL",
+      "total": 1149.5,
+      "count": 10
+    },
+    {
+      "name": "AKHTAR, MASOOD",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "ARAUJO, ANA",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "CONROY, KEVIN",
+      "total": 1000,
+      "count": 1
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-brown1",
-  "entity_id": "1147683",
-  "contributions_received": 3330.09,
+  "entity_id": 1147683,
+  "contributions_received": 4273.0,
   "top_donors": [
     {
       "name": "Matthew Alan Brown",
@@ -14,18 +14,43 @@
       "count": 1
     },
     {
+      "name": "Angela Schneider",
+      "total": 200.0,
+      "count": 2
+    },
+    {
       "name": "Judy Zwitter",
       "total": 200.0,
       "count": 1
     },
     {
-      "name": "Linda Conrath",
-      "total": 30.0,
+      "name": "Katherine Anderson",
+      "total": 100.0,
       "count": 1
     },
     {
-      "name": "Austin ` Chavrria",
-      "total": 1.09,
+      "name": "Jim McBride",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Shirley Ellis",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Rodney Bartlow",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Lisa Schultz",
+      "total": 50.0,
+      "count": 1
+    },
+    {
+      "name": "Carla Giordana",
+      "total": 50.0,
       "count": 1
     }
   ]

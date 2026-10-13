@@ -1,8 +1,13 @@
 {
   "candidate_id": "g-battino1",
-  "entity_id": "2985283",
-  "contributions_received": 79901.04,
+  "entity_id": 2985283,
+  "contributions_received": 162744.51,
   "top_donors": [
+    {
+      "name": "Gillian Battino",
+      "total": 43503.0,
+      "count": 4
+    },
     {
       "name": "Gillian Battino",
       "total": 4929.53,
@@ -14,7 +19,7 @@
       "count": 1
     },
     {
-      "name": "Karen Vanderleest",
+      "name": "James Weber",
       "total": 2000.0,
       "count": 1
     },
@@ -24,7 +29,17 @@
       "count": 1
     },
     {
-      "name": "Local 400 COPE Fund",
+      "name": "Karen Vanderleest",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "COLEEN BECK",
       "total": 2000.0,
       "count": 1
     },
@@ -34,24 +49,9 @@
       "count": 1
     },
     {
-      "name": "Mikko Zuchner",
+      "name": "Marian Greenburg",
       "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Gillian Battino",
-      "total": 1231.11,
-      "count": 13
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 1124.3,
-      "count": 1
-    },
-    {
-      "name": "Jessica Robbins",
-      "total": 1100.0,
-      "count": 3
+      "count": 2
     }
   ]
 }

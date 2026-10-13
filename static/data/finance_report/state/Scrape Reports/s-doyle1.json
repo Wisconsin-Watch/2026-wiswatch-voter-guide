@@ -1,7 +1,7 @@
 {
   "candidate_id": "s-doyle1",
-  "entity_id": "16691",
-  "contributions_received": 146821.22,
+  "entity_id": 16691,
+  "contributions_received": 270058.94,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm - SEG FUND",
@@ -9,9 +9,14 @@
       "count": 1
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 59007.24,
+      "count": 4
+    },
+    {
       "name": "Assembly Democratic Camp Comm",
-      "total": 13450.0,
-      "count": 1
+      "total": 43841.07,
+      "count": 2
     },
     {
       "name": "State Bank Financial",
@@ -19,39 +24,34 @@
       "count": 3
     },
     {
-      "name": "State Bank Financial",
-      "total": 1875.78,
-      "count": 2
-    },
-    {
       "name": "State Bank of La Crosse",
       "total": 1286.18,
       "count": 1
     },
     {
-      "name": "Mary  Nelson",
+      "name": "Peter Case",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "John Florsheim",
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "Peter Mensch",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "John O'Farrell",
+      "name": "Lots of People Supporting Mike Bare",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Theodore Spencer",
+      "name": "Zurich Holding Co. of America Committee for Good Government",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     }
   ]
 }

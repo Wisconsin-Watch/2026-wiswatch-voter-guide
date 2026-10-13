@@ -1,25 +1,25 @@
 {
   "candidate_id": "m-buren1",
-  "entity_id": "12226543",
-  "contributions_received": 12350.15,
+  "entity_id": 12226543,
+  "contributions_received": 22953.29,
   "top_donors": [
     {
       "name": "Merlin Van Buren",
-      "total": 2144.0,
-      "count": 2
+      "total": 2406.84,
+      "count": 7
+    },
+    {
+      "name": "Vilas County Democratic Party",
+      "total": 2175.0,
+      "count": 1
+    },
+    {
+      "name": "John Langeland",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Gerald Anderson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "John A. Langeland",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Judith Thoms",
       "total": 1000.0,
       "count": 1
     },
@@ -29,28 +29,28 @@
       "count": 1
     },
     {
-      "name": "Thomas Winquist",
-      "total": 514.0,
+      "name": "Judith Thoms",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 511.15,
-      "count": 1
-    },
-    {
-      "name": "Robert Kirschner",
-      "total": 500.0,
+      "name": "John A. Langeland",
+      "total": 1000.0,
       "count": 1
     },
     {
       "name": "Richard Plonsky",
-      "total": 300.0,
-      "count": 1
+      "total": 900.0,
+      "count": 2
     },
     {
-      "name": "Jim Leschke",
-      "total": 200.0,
+      "name": "Democratic Party of Wisconsin",
+      "total": 615.85,
+      "count": 3
+    },
+    {
+      "name": "Thomas Winquist",
+      "total": 514.0,
       "count": 1
     }
   ]

@@ -1,55 +1,55 @@
 {
   "candidate_id": "t-johnson1",
-  "entity_id": "16547",
-  "contributions_received": 157769.71,
+  "entity_id": 16547,
+  "contributions_received": 51375.69,
   "top_donors": [
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 43730.08,
-      "count": 5
-    },
-    {
       "name": "Tara Johnson",
-      "total": 25869.61,
-      "count": 28
+      "total": 8766.86,
+      "count": 24
     },
     {
-      "name": "La Crosse County Democratic Party",
-      "total": 2500.0,
+      "name": "Karen Lumb",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Vernon Co Democratic Party",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 2000.0,
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Timothy D. Padesky",
+      "name": "AFT-Wisconsin PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin Healthcare & Service Workers Stronger Together PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jeanetta Kirkpatrick",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "IBEW-PAC",
+      "name": "Tim Padesky",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Sarah Godlewski",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Julie Barezinsky",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Mensch",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Keith Belzer",
       "total": 1000.0,
       "count": 1
     }

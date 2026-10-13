@@ -1,55 +1,55 @@
 {
   "candidate_id": "m-born1",
-  "entity_id": "16575",
-  "contributions_received": 84009.0,
+  "entity_id": 16575,
+  "contributions_received": 122878.1,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 16289.0,
-      "count": 3
+      "total": 5443.0,
+      "count": 7
     },
     {
-      "name": "Julie Westra",
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 3207.6,
+      "count": 1
+    },
+    {
+      "name": "The Travelers Companies, INC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Eli Lilly and Company PAC",
+      "name": "GOPAC Election Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Beer Distributors PAC",
+      "name": "StateFarm Federal PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "RANW PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Alliance of Health Insurers PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Donald Wahlin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Molina Healthcare Inc. PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "US Venture US PAC",
+      "name": "Wisconsin Insurance Alliance WIA PAC",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Glenn Madrigrano, Jr.",
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter H. Knaup",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     }

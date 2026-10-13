@@ -1,35 +1,40 @@
 {
   "candidate_id": "d-daniels1",
-  "entity_id": "12227977",
-  "contributions_received": 22985.8,
+  "entity_id": 12227977,
+  "contributions_received": 704240.63,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 8813.33,
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 496920.68,
+      "count": 8
+    },
+    {
+      "name": "Republican Assembly Campaign Committee -> Medium Buying",
+      "total": 130478.0,
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 5500.0,
+      "name": "WISGOP",
+      "total": 39318.86,
+      "count": 5
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 16695.88,
       "count": 2
     },
     {
-      "name": "Diane M. Hendricks",
-      "total": 1000.0,
+      "name": "David  Merle Daniels",
+      "total": 5350.0,
+      "count": 3
+    },
+    {
+      "name": "Wisconsin Manufacturers & Commerce",
+      "total": 2000.0,
       "count": 1
     },
     {
-      "name": "MATT NUEMANN",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Patrick English",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Citizens for August",
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +44,14 @@
       "count": 1
     },
     {
-      "name": "Theodore Galloway",
+      "name": "Citizens for August",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Lucy Daniels",
-      "total": 472.47,
+      "name": "Jay Smith",
+      "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "David  Merle Daniels",
-      "total": 350.0,
-      "count": 2
     }
   ]
 }

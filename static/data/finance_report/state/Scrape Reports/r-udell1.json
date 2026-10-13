@@ -1,25 +1,25 @@
 {
   "candidate_id": "r-udell1",
-  "entity_id": "1149184",
-  "contributions_received": 24754.62,
+  "entity_id": 1149184,
+  "contributions_received": 39020.37,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 4000.0,
+      "total": 4104.7,
+      "count": 3
+    },
+    {
+      "name": "Northwestern Mutual  PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Paul S Sutfin",
+      "total": 1000.0,
       "count": 1
     },
     {
       "name": "Wisconsin Beer Distributors PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Bradley Braaten",
       "total": 1000.0,
       "count": 1
     },
@@ -29,14 +29,14 @@
       "count": 1
     },
     {
-      "name": "Friends of Emily Kuhn",
+      "name": "Bradley Braaten",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     },
     {
       "name": "Alliant Energy PCA",
@@ -44,12 +44,12 @@
       "count": 1
     },
     {
-      "name": "Realtors Association of SC WI - PAC",
+      "name": "Friends of Emily Kuhn",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Paul S Sutfin",
+      "name": "Realtors Association of SC WI - PAC",
       "total": 1000.0,
       "count": 1
     }

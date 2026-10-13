@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-helmer1",
-  "entity_id": "11948185",
-  "contributions_received": 10298.1,
+  "entity_id": 11948185,
+  "contributions_received": 15686.02,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -14,12 +14,7 @@
       "count": 1
     },
     {
-      "name": "Chad Helmer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kurtz for Assembly",
+      "name": "Mark Weaver",
       "total": 1000.0,
       "count": 1
     },
@@ -29,28 +24,33 @@
       "count": 1
     },
     {
+      "name": "Kurtz for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Chad Helmer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Erik Olsen",
+      "total": 800.0,
+      "count": 1
+    },
+    {
       "name": "DOUG SCOTT",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "M Faye Wollaeger",
-      "total": 200.0,
+      "name": "Pam Speich",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Jeanette Bates",
-      "total": 200.0,
-      "count": 2
-    },
-    {
-      "name": "Marcia Christensen",
-      "total": 175.0,
-      "count": 2
-    },
-    {
-      "name": "Marcia Christensen",
-      "total": 125.0,
+      "name": "Dave Olson",
+      "total": 250.0,
       "count": 1
     }
   ]

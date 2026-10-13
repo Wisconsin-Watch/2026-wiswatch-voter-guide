@@ -1,25 +1,10 @@
 {
   "candidate_id": "c-duchow1",
-  "entity_id": "16901",
-  "contributions_received": 9884.37,
+  "entity_id": 16901,
+  "contributions_received": 18697.55,
   "top_donors": [
     {
-      "name": "Meredy Hase",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Wisconsin REALTORS PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Professional Insurance Agents PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Assn of SC WI PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,28 +14,43 @@
       "count": 1
     },
     {
+      "name": "Meredy Hase",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Shirley Klauser",
-      "total": 500.0,
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "StateFarm Federal PAC",
-      "total": 500.0,
+      "name": "Northwestern Mutual PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliance of Bankers for WI",
-      "total": 450.0,
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Mauricio Jaime",
-      "total": 375.0,
+      "name": "William Rehm",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Thrivent Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Clayton Rehm",
+      "total": 1000.0,
       "count": 1
     }
   ]

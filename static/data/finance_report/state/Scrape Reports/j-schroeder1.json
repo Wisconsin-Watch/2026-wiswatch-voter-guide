@@ -1,11 +1,46 @@
 {
   "candidate_id": "j-schroeder1",
-  "entity_id": "8310899",
-  "contributions_received": 10800.0,
+  "entity_id": 8310899,
+  "contributions_received": 40660.75,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 10000.0,
+      "count": 1
+    },
     {
       "name": "Jay Schroeder",
       "total": 9300.0,
+      "count": 1
+    },
+    {
+      "name": "Joanne Orr",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathryn Burke",
+      "total": 4853.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Langlade County",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Judy Howard",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "Brad Tangen",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Roehl",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -14,8 +49,8 @@
       "count": 1
     },
     {
-      "name": "Bradley Tangen",
-      "total": 500.0,
+      "name": "Greg Kunes",
+      "total": 1000.0,
       "count": 1
     }
   ]

@@ -1,42 +1,17 @@
 {
   "candidate_id": "p-mcgraw1",
-  "entity_id": "11948316",
-  "contributions_received": 18642.48,
+  "entity_id": 11948316,
+  "contributions_received": 35062.82,
   "top_donors": [
+    {
+      "name": "Republican Party of Walworth County",
+      "total": 2364.74,
+      "count": 3
+    },
     {
       "name": "Republican Assembly Campaign Committee (ID #0400002))",
       "total": 1627.98,
       "count": 2
-    },
-    {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "David E Babcock",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Joseph W Conway",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kevin J Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Joseph T Pregont",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert P. Fettig",
-      "total": 1000.0,
-      "count": 1
     },
     {
       "name": "Diane M Hendricks",
@@ -49,7 +24,32 @@
       "count": 1
     },
     {
-      "name": "Justin M Spaulding",
+      "name": "Tyler August",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Nick Lesar",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kimberly K Adamany",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathleen M Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Brad Austin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Brent A Fox",
       "total": 1000.0,
       "count": 1
     }

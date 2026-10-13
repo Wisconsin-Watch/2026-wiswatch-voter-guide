@@ -1,12 +1,12 @@
 {
   "candidate_id": "t-wenkman1",
-  "entity_id": "12156696",
-  "contributions_received": 20584.02,
+  "entity_id": 12156696,
+  "contributions_received": 34174.43,
   "top_donors": [
     {
       "name": "Democratic Party of Jefferson County",
-      "total": 5500.0,
-      "count": 1
+      "total": 10500.0,
+      "count": 2
     },
     {
       "name": "Terri Wenkman",
@@ -14,13 +14,33 @@
       "count": 5
     },
     {
-      "name": "Peggy Schwartz",
+      "name": "David Vershure",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Leigh Barker Cheesbro",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peggy Schwartz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Terri Wenkman",
+      "total": 952.67,
+      "count": 13
+    },
+    {
+      "name": "Dodge County Democratic Party",
+      "total": 700.0,
       "count": 1
     },
     {
@@ -32,26 +52,6 @@
       "name": "Democratic Party of Wisconsin",
       "total": 517.56,
       "count": 3
-    },
-    {
-      "name": "Zachary Timm",
-      "total": 515.0,
-      "count": 4
-    },
-    {
-      "name": "Donna Dobson",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Matthew Loup",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Natasha Bartel",
-      "total": 500.0,
-      "count": 1
     }
   ]
 }

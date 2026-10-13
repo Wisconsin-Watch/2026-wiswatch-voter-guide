@@ -1,7 +1,7 @@
 {
   "candidate_id": "s-taylor1",
-  "entity_id": "999181",
-  "contributions_received": 9387.85,
+  "entity_id": 999181,
+  "contributions_received": 8424.28,
   "top_donors": [
     {
       "name": "REALTORS Political Action Committee - Wisconsin",
@@ -11,26 +11,6 @@
     {
       "name": "WEAC PAC",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Sequanna Taylor 4 Milwaukee",
-      "total": 900.0,
-      "count": 1
-    },
-    {
-      "name": "WI Laborers District Council",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "IBEW Local 494 PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 500.0,
       "count": 1
     },
     {
@@ -44,13 +24,33 @@
       "count": 1
     },
     {
-      "name": "Yollande Tchouapi Deacon",
-      "total": 375.0,
+      "name": "Milwaukee Professional Firefighters Local 215",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW Local 494 PAC",
+      "total": 500.0,
       "count": 1
     },
     {
       "name": "Latonya Baker",
       "total": 330.0,
+      "count": 1
+    },
+    {
+      "name": "United Association of Journeyman PAC",
+      "total": 250.0,
       "count": 1
     }
   ]

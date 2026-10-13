@@ -1,7 +1,7 @@
 {
   "candidate_id": "s-wiedmeyer1",
-  "entity_id": "12184927",
-  "contributions_received": 47499.78,
+  "entity_id": 12184927,
+  "contributions_received": 49199.78,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -14,7 +14,7 @@
       "count": 1
     },
     {
-      "name": "Christine Kaye",
+      "name": "Tyler Nehls",
       "total": 2000.0,
       "count": 1
     },
@@ -24,7 +24,7 @@
       "count": 1
     },
     {
-      "name": "Tyler Nehls",
+      "name": "Christine Kaye",
       "total": 2000.0,
       "count": 1
     },

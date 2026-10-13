@@ -1,26 +1,11 @@
 {
   "candidate_id": "j-mittness1",
-  "entity_id": "11959859",
-  "contributions_received": 10153.39,
+  "entity_id": 11959859,
+  "contributions_received": 6922.33,
   "top_donors": [
-    {
-      "name": "Milwaukee Area Service and Hospitality Workers",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI PEOPLE Conference",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Paul Augustine",
       "total": 600.0,
-      "count": 2
-    },
-    {
-      "name": "Amy Zwicker",
-      "total": 500.0,
       "count": 2
     },
     {
@@ -29,14 +14,9 @@
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 488.69,
-      "count": 1
-    },
-    {
-      "name": "Tyler Barnett",
-      "total": 350.0,
-      "count": 1
+      "name": "Amy Zwicker",
+      "total": 500.0,
+      "count": 2
     },
     {
       "name": "Sean Meirose",
@@ -44,13 +24,33 @@
       "count": 1
     },
     {
-      "name": "Garrett Matthew Wall",
-      "total": 325.0,
+      "name": "Kay Augustine",
+      "total": 300.0,
       "count": 2
     },
     {
       "name": "Mark Augustine",
       "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Margaret Ehlert",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "ROBERT DILEONARDI",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Rick Waski",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "John Syx",
+      "total": 150.0,
       "count": 1
     }
   ]

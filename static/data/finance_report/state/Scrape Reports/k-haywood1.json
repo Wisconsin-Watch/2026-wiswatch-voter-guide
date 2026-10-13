@@ -1,40 +1,15 @@
 {
   "candidate_id": "k-haywood1",
-  "entity_id": "16325",
-  "contributions_received": 29000.01,
+  "entity_id": 16325,
+  "contributions_received": 43118.71,
   "top_donors": [
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "Operating Engineers Local 139 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliant Energy Wisconsin Governmental Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Karl Rajani",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Camille Ellison",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Tavern League of Wisconsin PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Realtors Association of SC WI - PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kaye Mitchell",
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +19,37 @@
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
+      "name": "Kaye Mitchell",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW PAC Voluntary Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Camille Ellison",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sprinkler Fitters Local 183",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Karl Rajani",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     }

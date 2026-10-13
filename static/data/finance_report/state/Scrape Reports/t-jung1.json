@@ -1,45 +1,20 @@
 {
   "candidate_id": "t-jung1",
-  "entity_id": "11956743",
-  "contributions_received": 258252.11,
+  "entity_id": 11956743,
+  "contributions_received": 1101055.18,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 59839.1,
+      "total": 811743.85,
+      "count": 10
+    },
+    {
+      "name": "Norman D Durment",
+      "total": 2500.0,
       "count": 4
     },
     {
-      "name": "Climate Cabinet PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Karim Qedan",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Elizabeth Simons",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Weston Milliken",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Rothman",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Bashar Qedan",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Haselow",
+      "name": "Democratic Party of Ozaukee County",
       "total": 2000.0,
       "count": 1
     },
@@ -49,9 +24,34 @@
       "count": 1
     },
     {
-      "name": "Joseph Woleske",
+      "name": "Marc Katz",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "United Association of Journeyman & 75 PPF",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Weston Milliken",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Ross Boucher",
       "total": 2000.0,
       "count": 2
+    },
+    {
+      "name": "Bashar Qedan",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Leaders We Deserve",
+      "total": 2000.0,
+      "count": 1
     }
   ]
 }

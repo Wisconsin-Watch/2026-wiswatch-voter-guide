@@ -1,40 +1,45 @@
 {
   "candidate_id": "a-nedweski1",
-  "entity_id": "30346",
-  "contributions_received": 63316.33,
+  "entity_id": 30346,
+  "contributions_received": 34475.29,
   "top_donors": [
-    {
-      "name": "Republican Party of Kenosha County",
-      "total": 9000.0,
-      "count": 2
-    },
-    {
-      "name": "Republican Party of Wisconsin",
-      "total": 6861.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "Carl Schultz",
-      "total": 1500.0,
-      "count": 2
-    },
     {
       "name": "Scott Anderson",
       "total": 1044.16,
       "count": 1
     },
     {
-      "name": "Scott Anderson",
-      "total": 1041.44,
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliant Energy WI Gov Act Cte",
+      "name": "Eli Lilly and Company PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jonathan Main",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sharon Geertsen",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of David Geertsen",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "GE HealthCare Technologies Inc. PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane M Hendricks",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +49,7 @@
       "count": 1
     },
     {
-      "name": "Barbara Madrigrano",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jonathan Main",
+      "name": "Wisconsin Beer Distributors PAC",
       "total": 1000.0,
       "count": 1
     }

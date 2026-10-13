@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-someren1",
-  "entity_id": "11948129",
-  "contributions_received": 28957.0,
+  "entity_id": 11948129,
+  "contributions_received": 45521.0,
   "top_donors": [
     {
       "name": "Democratic Party of Jefferson County",
@@ -9,7 +9,27 @@
       "count": 1
     },
     {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Laura R Crouse",
+      "total": 1600.0,
+      "count": 2
+    },
+    {
+      "name": "Carola(Lola) Loepfe",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
       "name": "Kathryn Q Flores",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Batey",
       "total": 1000.0,
       "count": 1
     },
@@ -31,26 +51,6 @@
     {
       "name": "Jan Hardy",
       "total": 600.0,
-      "count": 1
-    },
-    {
-      "name": "Ann D. Moran Lecher",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Rohe",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Margaret Gintoft",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Margaretann L. Haag",
-      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,20 +1,25 @@
 {
   "candidate_id": "a-stroud1",
-  "entity_id": "16446",
-  "contributions_received": 15195.0,
+  "entity_id": 16446,
+  "contributions_received": 33516.7,
   "top_donors": [
+    {
+      "name": "Kristen Edmunds",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Steve Arnold",
+      "name": "Timothy Pera",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Timothy Pera",
+      "name": "Steve Arnold",
       "total": 1000.0,
       "count": 1
     },
@@ -29,27 +34,22 @@
       "count": 1
     },
     {
-      "name": "Ann Pellman",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Linda Calhan",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Realtors PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Dougherty",
+      "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 500.0,
       "count": 1
     },
     {
       "name": "Kristine Kilanski",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Ann Pellman",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors PAC",
       "total": 500.0,
       "count": 1
     }

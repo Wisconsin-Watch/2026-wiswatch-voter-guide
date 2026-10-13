@@ -1,8 +1,13 @@
 {
   "candidate_id": "j-bennett1",
-  "entity_id": "11954805",
-  "contributions_received": 45529.76,
+  "entity_id": 11954805,
+  "contributions_received": 49433.76,
   "top_donors": [
+    {
+      "name": "Charles Gilliam",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Richard Pearson",
       "total": 1000.0,
@@ -14,12 +19,12 @@
       "count": 2
     },
     {
-      "name": "AFT-Wisconsin PAC",
+      "name": "Katherine Telma",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Katherine Telma",
+      "name": "AFT-Wisconsin PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -47,11 +52,6 @@
       "name": "Robert Procter",
       "total": 750.0,
       "count": 1
-    },
-    {
-      "name": "Preston Austin",
-      "total": 700.0,
-      "count": 2
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
   "candidate_id": "a-tenorio1",
-  "entity_id": "1147110",
-  "contributions_received": 8344.35,
+  "entity_id": 1147110,
+  "contributions_received": 11605.73,
   "top_donors": [
     {
       "name": "RPAC Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,12 +24,7 @@
       "count": 1
     },
     {
-      "name": "Janan and Waleed Najeeb",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "William H Lynch",
+      "name": "Holly Schmidtke",
       "total": 250.0,
       "count": 1
     },
@@ -34,24 +34,24 @@
       "count": 1
     },
     {
-      "name": "Andrew Fruncek",
-      "total": 200.0,
+      "name": "William H Lynch",
+      "total": 250.0,
+      "count": 2
+    },
+    {
+      "name": "Gary Goyke",
+      "total": 250.0,
       "count": 1
     },
     {
-      "name": "Jean Radtke",
-      "total": 200.0,
-      "count": 3
+      "name": "William H Lynch",
+      "total": 250.0,
+      "count": 1
     },
     {
-      "name": "Theresa Wiggins",
-      "total": 200.0,
-      "count": 2
-    },
-    {
-      "name": "David Cooper",
-      "total": 200.0,
-      "count": 2
+      "name": "AFT Wisconsin COPE",
+      "total": 250.0,
+      "count": 1
     }
   ]
 }

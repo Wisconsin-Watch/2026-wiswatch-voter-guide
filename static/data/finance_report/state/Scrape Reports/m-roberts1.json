@@ -1,55 +1,55 @@
 {
   "candidate_id": "m-roberts1",
-  "entity_id": "12047272",
-  "contributions_received": 252524.82,
+  "entity_id": 12047272,
+  "contributions_received": 382358.85,
   "top_donors": [
+    {
+      "name": "Committee to Elect a Republican Senate",
+      "total": 93773.81,
+      "count": 9
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 53252.0,
+      "count": 5
+    },
     {
       "name": "Commitee to Elect a Republican",
       "total": 50000.0,
       "count": 1
     },
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 30000.0,
-      "count": 2
-    },
-    {
-      "name": "Committee to Elect a Republican Senate",
-      "total": 11284.75,
-      "count": 3
-    },
-    {
-      "name": "Devin LeMahieu",
+      "name": "Cynthia LaConte",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Suzy Boerke",
+      "name": "John Silseth",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Physical Therapy",
+      "name": "Thomas McCartan",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "Michelle Scheler",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Milwaukee Police Association Political Action Committee",
-      "total": 2000.0,
-      "count": 3
-    },
-    {
-      "name": "Brandon Drusch",
+      "name": "Marissa McCartan",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Matt Neumann",
+      "name": "Andrew Scheler",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Mary Felzkowski",
       "total": 2000.0,
       "count": 1
     }

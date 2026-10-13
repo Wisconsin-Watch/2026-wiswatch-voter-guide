@@ -1,15 +1,30 @@
 {
   "candidate_id": "r-stacey1",
-  "entity_id": "12229692",
-  "contributions_received": 16763.89,
+  "entity_id": 12229692,
+  "contributions_received": 18091.59,
   "top_donors": [
     {
       "name": "Rick Stacey",
-      "total": 1956.49,
-      "count": 15
+      "total": 2374.19,
+      "count": 17
+    },
+    {
+      "name": "Ann Zess",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Gail Campbell",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ted Zess",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },
@@ -20,21 +35,6 @@
     },
     {
       "name": "Jerone (Jay) Campbell",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ted Zess",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ann Zess",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },

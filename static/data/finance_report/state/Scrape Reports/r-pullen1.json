@@ -1,17 +1,17 @@
 {
   "candidate_id": "r-pullen1",
-  "entity_id": "11948245",
-  "contributions_received": 15670.25,
+  "entity_id": 11948245,
+  "contributions_received": 20390.12,
   "top_donors": [
     {
       "name": "Reive Martin Pullen",
-      "total": 5375.81,
-      "count": 122
+      "total": 7412.12,
+      "count": 138
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 1000.0,
-      "count": 1
+      "total": 2602.93,
+      "count": 3
     },
     {
       "name": "RON TUSLER",
@@ -19,17 +19,22 @@
       "count": 1
     },
     {
+      "name": "Friends of Rachael Cabral Guevara",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
       "name": "Linda Hash",
       "total": 520.51,
       "count": 1
     },
     {
-      "name": "George Baker",
+      "name": "Joe W Bast",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Friends of Rachael Cabral Guevara",
+      "name": "George Baker",
       "total": 500.0,
       "count": 1
     },
@@ -40,11 +45,6 @@
     },
     {
       "name": "Neighbors for Nate Gustafson",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Joe W Bast",
       "total": 500.0,
       "count": 1
     },

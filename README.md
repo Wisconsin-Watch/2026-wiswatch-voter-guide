@@ -38,3 +38,7 @@
 <h4>Update Oct. 1, 2026</h4>
 
 - Favicon update
+
+<h4>Update Oct. 13, 2026</h4>
+
+- Updated funds raised

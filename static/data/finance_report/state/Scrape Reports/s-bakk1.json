@@ -1,10 +1,55 @@
 {
   "candidate_id": "s-bakk1",
-  "entity_id": "5296411",
-  "contributions_received": 200,
+  "entity_id": 5296411,
+  "contributions_received": 9719.87,
   "top_donors": [
     {
-      "name": "Sandy Bakk -> Sandy Bakk",
+      "name": "Republican Party of Dane County",
+      "total": 4000.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 604.52,
+      "count": 1
+    },
+    {
+      "name": "Richard Wood",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "WIlliam Richardson",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Mary Kaderabek-Aleckson",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Mark S. Maier",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Mark Kjorlie",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Mike Herl",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Leo Janus",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Sandra J Hufton",
       "total": 200.0,
       "count": 1
     }

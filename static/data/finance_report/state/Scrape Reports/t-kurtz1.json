@@ -1,11 +1,11 @@
 {
   "candidate_id": "t-kurtz1",
-  "entity_id": "16281",
-  "contributions_received": 113263.05,
+  "entity_id": 16281,
+  "contributions_received": 137018.0,
   "top_donors": [
     {
-      "name": "Royal Bank",
-      "total": 1490.05,
+      "name": "Alissa Gander",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -14,42 +14,42 @@
       "count": 1
     },
     {
-      "name": "WEC Energy Group PAC (WEC PAC) -> WEC Energy Group PAC (WEC PAC)",
+      "name": "Margaret Diehl",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "RANW PAC",
+      "name": "WSTA FONEPAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "PFFW PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Allan Vignieri",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Institute of CPAs",
+      "name": "Stephanie Navis",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Timothy Gantz",
+      "name": "Cory Lucke",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Tavern League of Wisconsin, Inc",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Eli Lilly and Company PAC -> Eli Lilly PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Todd R  Nelson, Jr",
-      "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
       "name": "Chad B. Navis",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AT&T Wisconsin Employee PAC",
       "total": 1000.0,
       "count": 1
     }

@@ -1,15 +1,15 @@
 {
   "candidate_id": "n-pollnow1",
-  "entity_id": "8310806",
-  "contributions_received": 120096.13,
+  "entity_id": 8310806,
+  "contributions_received": 126586.13,
   "top_donors": [
     {
-      "name": "Diane M. Hendricks",
-      "total": 20000.0,
-      "count": 1
+      "name": "Republican Party of Wisconsin",
+      "total": 22916.42,
+      "count": 4
     },
     {
-      "name": "Wisconsin Young Republicans",
+      "name": "Diane M. Hendricks",
       "total": 20000.0,
       "count": 1
     },
@@ -39,11 +39,6 @@
       "count": 1
     },
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 2916.42,
-      "count": 2
-    },
-    {
       "name": "Mark Wieser",
       "total": 2602.54,
       "count": 1
@@ -51,6 +46,11 @@
     {
       "name": "John L. Fleckenstein",
       "total": 2500.0,
+      "count": 1
+    },
+    {
+      "name": "Diane Zore",
+      "total": 2000.0,
       "count": 1
     }
   ]

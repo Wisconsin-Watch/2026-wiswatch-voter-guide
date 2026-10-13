@@ -1,0 +1,63 @@
+{
+  "candidate_group": "Tony Wied",
+  "committees_included": [
+    "TONY WIED FOR CONGRESS",
+    "TONY WIED VICTORY COMMITTEE"
+  ],
+  "candidate_id": "t-wied1",
+  "total_donated": 168998.55,
+  "total_contributions_count": 741,
+  "n_unique_donors": 163,
+  "top_donors": [
+    {
+      "name": "CHARLES, DAVID R",
+      "total": 10000,
+      "count": 1
+    },
+    {
+      "name": "BOYE, KEITH",
+      "total": 7000,
+      "count": 3
+    },
+    {
+      "name": "TOLL, NANCY A",
+      "total": 7000,
+      "count": 3
+    },
+    {
+      "name": "ATWELL, ROBERT B",
+      "total": 5000,
+      "count": 3
+    },
+    {
+      "name": "SCHAUPP, HANS",
+      "total": 5000,
+      "count": 3
+    },
+    {
+      "name": "TONN, GREG",
+      "total": 5000,
+      "count": 3
+    },
+    {
+      "name": "OSTROM, JAMES JOSEPH",
+      "total": 4500,
+      "count": 1
+    },
+    {
+      "name": "VOSTERS, JOHN",
+      "total": 4500,
+      "count": 1
+    },
+    {
+      "name": "WILLER, TODD A.",
+      "total": 4500,
+      "count": 1
+    },
+    {
+      "name": "FAISON, JAY W",
+      "total": 3500,
+      "count": 1
+    }
+  ]
+}

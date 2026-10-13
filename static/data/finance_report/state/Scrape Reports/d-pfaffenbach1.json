@@ -1,17 +1,27 @@
 {
   "candidate_id": "d-pfaffenbach1",
-  "entity_id": "12227330",
-  "contributions_received": 21095.12,
+  "entity_id": 12227330,
+  "contributions_received": 289536.68,
   "top_donors": [
     {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 214436.29,
+      "count": 7
+    },
+    {
       "name": "Republican Party of Wisconsin",
-      "total": 6764.3,
+      "total": 59147.0,
+      "count": 8
+    },
+    {
+      "name": "Kurtz for Assembly",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 5000.0,
-      "count": 2
+      "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Friends of Julian Bradley",
@@ -20,6 +30,11 @@
     },
     {
       "name": "Citizens for August",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -36,21 +51,6 @@
     {
       "name": "Patrick English",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kurtz for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Milwaukee Police Association Political Action Committee",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Kim Moeller",
-      "total": 500.0,
       "count": 1
     }
   ]

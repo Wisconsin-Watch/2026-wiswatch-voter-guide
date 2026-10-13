@@ -1,30 +1,25 @@
 {
   "candidate_id": "e-severson1",
-  "entity_id": "16291",
-  "contributions_received": 54084.18,
+  "entity_id": 16291,
+  "contributions_received": 234510.2,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 10080.0,
+      "total": 106080.0,
+      "count": 3
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 54075.0,
+      "count": 5
+    },
+    {
+      "name": "Wayne Shakal",
+      "total": 2000.0,
       "count": 1
     },
     {
       "name": "Scott Weber",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Realtors PAC, RPAC-Wisconsin",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Emily Lindus",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Wayne Shakal",
       "total": 2000.0,
       "count": 1
     },
@@ -34,23 +29,28 @@
       "count": 1
     },
     {
-      "name": "Dan  Cabreana",
-      "total": 1300.0,
+      "name": "Friends of Rachael Cabral Guevara",
+      "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Zygmund Jablonski",
-      "total": 1000.0,
+      "name": "Joel Hazzard",
+      "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Deb Mattison",
-      "total": 1000.0,
+      "name": "Testin for Senate",
+      "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Laurie McKenzie",
-      "total": 1000.0,
+      "name": "Friends of Julian Bradley",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors PAC, RPAC-Wisconsin",
+      "total": 2000.0,
       "count": 1
     }
   ]

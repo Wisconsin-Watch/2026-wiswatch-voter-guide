@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-baney1",
-  "entity_id": "12228968",
-  "contributions_received": 65500.44,
+  "entity_id": 12228968,
+  "contributions_received": 69267.15,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -19,7 +19,12 @@
       "count": 1
     },
     {
-      "name": "Dana McDermott",
+      "name": "Leah Schmidt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Laura Broullire",
       "total": 2000.0,
       "count": 1
     },
@@ -29,27 +34,22 @@
       "count": 1
     },
     {
+      "name": "Tim Schmidt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Drew Baney",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Tonnie  Schmidt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "Timothy Baney",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Carol Pointer",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Leah Schmidt",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Deborah Drew-Baney",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Laura Broullire",
       "total": 2000.0,
       "count": 1
     }

@@ -1,15 +1,20 @@
 {
   "candidate_id": "s-bodeen1",
-  "entity_id": "12226321",
-  "contributions_received": 10335.27,
+  "entity_id": 12226321,
+  "contributions_received": 12055.48,
   "top_donors": [
     {
-      "name": "Stephanie Stuve-Bodeen",
-      "total": 1940.86,
-      "count": 13
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Donna Rousey",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Constitution Party of Juneau County",
       "total": 1000.0,
       "count": 1
     },
@@ -19,12 +24,12 @@
       "count": 1
     },
     {
-      "name": "Stephanie Stuve-Bodeen",
-      "total": 500.0,
-      "count": 1
+      "name": "Democratic Party of Wisconsin",
+      "total": 574.69,
+      "count": 5
     },
     {
-      "name": "Constance Rajcic",
+      "name": "Stephanie Stuve-Bodeen",
       "total": 500.0,
       "count": 1
     },
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
+      "name": "Constance Rajcic",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Kathryn Olson",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 409.89,
-      "count": 1
-    },
-    {
       "name": "Karen McFadden",
       "total": 400.0,
-      "count": 1
-    },
-    {
-      "name": "Kristi Hanson",
-      "total": 250.0,
       "count": 1
     }
   ]

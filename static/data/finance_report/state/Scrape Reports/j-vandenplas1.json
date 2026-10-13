@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-vandenplas1",
-  "entity_id": "12187990",
-  "contributions_received": 12442.0,
+  "entity_id": 12187990,
+  "contributions_received": 12865.03,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -19,6 +19,11 @@
       "count": 3
     },
     {
+      "name": "Priscilla Reyes",
+      "total": 300.0,
+      "count": 3
+    },
+    {
       "name": "Anonymous",
       "total": 280.0,
       "count": 28
@@ -29,27 +34,22 @@
       "count": 1
     },
     {
+      "name": "Michael Chianese",
+      "total": 175.0,
+      "count": 7
+    },
+    {
       "name": "Jim Meyer",
       "total": 100.0,
       "count": 1
     },
     {
+      "name": "Kris Teegardin",
+      "total": 100.0,
+      "count": 2
+    },
+    {
       "name": "Beth Riebe",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Ed Heyward",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Priscilla Reyes",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Bryce Thon",
       "total": 100.0,
       "count": 1
     }

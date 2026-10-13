@@ -1,0 +1,57 @@
+{
+  "candidate_id": "d-madison1",
+  "entity_id": 999262,
+  "contributions_received": 7710.93,
+  "top_donors": [
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "David Thomas",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Kurt Olsson",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "ATU Cope",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Jesse Dercks",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Mary Cooper",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "Joe Sexauer",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "John Kashou",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Rev. Dennis Jacobsen",
+      "total": 150.0,
+      "count": 1
+    },
+    {
+      "name": "Willie Johnson Jr",
+      "total": 127.0,
+      "count": 1
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "candidate_id": "a-duda1",
-  "entity_id": "12228339",
-  "contributions_received": 24268.49,
+  "entity_id": 12228339,
+  "contributions_received": 52370.52,
   "top_donors": [
     {
       "name": "Adam Kazimierz Duda",
-      "total": 12474.43,
-      "count": 11
+      "total": 33076.91,
+      "count": 16
     },
     {
       "name": "Adam Duda",
@@ -14,19 +14,44 @@
       "count": 4
     },
     {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 1256.85,
+      "count": 3
+    },
+    {
       "name": "Adam Kazimierz Duda",
       "total": 1157.49,
       "count": 5
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 1152.15,
+      "name": "Democratic Party of Walworth County",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Marge Fornear",
-      "total": 176.0,
-      "count": 2
+      "name": "Democratic Party of Walworth County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Wesolek",
+      "total": 350.0,
+      "count": 1
+    },
+    {
+      "name": "John D Burke",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Daniel Maus",
+      "total": 250.0,
+      "count": 1
     }
   ]
 }

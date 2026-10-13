@@ -1,15 +1,15 @@
 {
   "candidate_id": "z-sullivan1",
-  "entity_id": "11963066",
-  "contributions_received": 14589.5,
+  "entity_id": 11963066,
+  "contributions_received": 15064.5,
   "top_donors": [
     {
-      "name": "Fausto DiTullio",
+      "name": "Rosemary  A. Ditullio",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Rosemary  A. Ditullio",
+      "name": "Fausto DiTullio",
       "total": 1000.0,
       "count": 1
     },
@@ -29,12 +29,7 @@
       "count": 2
     },
     {
-      "name": "Denise Prescod",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "craig pfister",
+      "name": "Edward  J. Sullivan",
       "total": 500.0,
       "count": 1
     },
@@ -44,7 +39,12 @@
       "count": 1
     },
     {
-      "name": "Edward  J. Sullivan",
+      "name": "craig pfister",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Denise Prescod",
       "total": 500.0,
       "count": 1
     },

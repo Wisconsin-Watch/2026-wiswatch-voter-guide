@@ -1,10 +1,25 @@
 {
   "candidate_id": "a-saunders1",
-  "entity_id": "843024",
-  "contributions_received": 4560.38,
+  "entity_id": 843024,
+  "contributions_received": 9906.82,
   "top_donors": [
     {
       "name": "Donald Baker Katz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AMERICAN COLLEGE OF OBSTRETRICS & GYNOCOLOGISTS WISCONSIN CHAPTER",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Brown County",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WEAC",
       "total": 1000.0,
       "count": 1
     },
@@ -14,7 +29,17 @@
       "count": 1
     },
     {
-      "name": "Democratic Party of Brown County",
+      "name": "Democratic Party of Wisconsin",
+      "total": 538.44,
+      "count": 2
+    },
+    {
+      "name": "WEAC Region 3 PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Manitowoc County Democratic Party",
       "total": 500.0,
       "count": 1
     },
@@ -26,31 +51,6 @@
     {
       "name": "Jameson Smits",
       "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Rebecca Smith",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Cindy Fallona",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Ryan Spaude",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Scruggs",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Cindy Fallona",
-      "total": 100.0,
       "count": 1
     }
   ]

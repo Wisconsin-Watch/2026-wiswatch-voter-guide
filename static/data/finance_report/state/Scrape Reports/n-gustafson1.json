@@ -1,18 +1,8 @@
 {
   "candidate_id": "n-gustafson1",
-  "entity_id": "30951",
-  "contributions_received": 13842.95,
+  "entity_id": 30951,
+  "contributions_received": 17851.47,
   "top_donors": [
-    {
-      "name": "PROG Holdings Inc, PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Stephen Lyons",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Friends of Rachael Cabral Guevara",
       "total": 1000.0,
@@ -24,12 +14,17 @@
       "count": 1
     },
     {
-      "name": "David J Beaupre",
+      "name": "PROG Holdings Inc, PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Association of Progressive Rental Orgaizations",
+      "name": "Stephen Lyons",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "David J Beaupre",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +34,24 @@
       "count": 1
     },
     {
-      "name": "christopher magiera",
-      "total": 577.76,
+      "name": "Association of Progressive Rental Orgaizations",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Pamela Galloway",
-      "total": 577.76,
-      "count": 1
+      "name": "Frederick Prehn",
+      "total": 800.0,
+      "count": 2
     },
     {
-      "name": "Steven Kessler",
-      "total": 500.0,
-      "count": 1
+      "name": "Richard Phillips",
+      "total": 750.0,
+      "count": 2
+    },
+    {
+      "name": "Jeffrey Beischel",
+      "total": 750.0,
+      "count": 2
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-bossert1",
-  "entity_id": "12190333",
-  "contributions_received": 3567.32,
+  "entity_id": 12190333,
+  "contributions_received": 3814.97,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee Segregated Fund",
@@ -26,6 +26,11 @@
     {
       "name": "Denis Kelling",
       "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Platypus Advertisig",
+      "total": 247.65,
       "count": 1
     },
     {

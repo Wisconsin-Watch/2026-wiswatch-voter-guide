@@ -1,7 +1,7 @@
 {
   "candidate_id": "d-helmenstine1",
-  "entity_id": "11957876",
-  "contributions_received": 99576.73,
+  "entity_id": 11957876,
+  "contributions_received": 105820.41,
   "top_donors": [
     {
       "name": "Gianna Catanzaro",
@@ -15,8 +15,8 @@
     },
     {
       "name": "Mark Sinnott",
-      "total": 7190.9,
-      "count": 37
+      "total": 8583.31,
+      "count": 41
     },
     {
       "name": "Elizabeth Seidl",
@@ -39,19 +39,19 @@
       "count": 2
     },
     {
-      "name": "Janet Brandt",
+      "name": "Ramonda Aeschlimann",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Robert Wilson",
+      "name": "Friends of Emily Kuhn",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Ramonda Aeschlimann",
+      "name": "Caitlan Washburn",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     }
   ]
 }

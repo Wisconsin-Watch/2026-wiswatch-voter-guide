@@ -1,41 +1,41 @@
 {
   "candidate_id": "b-franklin1",
-  "entity_id": "664158",
-  "contributions_received": 46895.1,
+  "entity_id": 664158,
+  "contributions_received": 730968.2,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 16416.28,
+      "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
+      "total": 490553.14,
       "count": 2
     },
     {
-      "name": "Matt Neumann",
-      "total": 1000.0,
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 72500.0,
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
-      "total": 1000.0,
+      "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
+      "total": 36250.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
+      "name": "Rep Assembly Campaign Com RACC -> Arena Mail & Digital",
+      "total": 27500.0,
+      "count": 2
     },
     {
-      "name": "Donald Wahlin",
-      "total": 1000.0,
-      "count": 1
+      "name": "Republican Party of Wisconsin",
+      "total": 24366.72,
+      "count": 3
     },
     {
-      "name": "RANW PAC",
-      "total": 1000.0,
-      "count": 1
+      "name": "Republican Party of Wisconsin -> Art & Copy Partners",
+      "total": 23851.32,
+      "count": 3
     },
     {
-      "name": "WI Soc Anesthesiologists PAC",
-      "total": 1000.0,
+      "name": "Republican Party of Wisconsin -> Art and Copy Partners",
+      "total": 7950.44,
       "count": 1
     },
     {
@@ -44,12 +44,12 @@
       "count": 1
     },
     {
-      "name": "Karl Schmidt",
+      "name": "KOCHPAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Todd Koss",
+      "name": "Tavern League of Wisconsin, Inc",
       "total": 1000.0,
       "count": 1
     }

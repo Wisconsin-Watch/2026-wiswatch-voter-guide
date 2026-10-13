@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-desanto1",
-  "entity_id": "16487",
-  "contributions_received": 26873.04,
+  "entity_id": 16487,
+  "contributions_received": 31731.59,
   "top_donors": [
     {
       "name": "Rebecca Oettinger",
@@ -9,7 +9,7 @@
       "count": 1
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "UAW",
       "total": 1000.0,
       "count": 1
     },
@@ -29,22 +29,22 @@
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "UAW",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Realtors Association of SC WI - PAC",
       "total": 1000.0,
       "count": 1
     },
     {
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Susan Lipp",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },

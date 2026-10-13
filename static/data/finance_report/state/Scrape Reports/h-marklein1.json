@@ -1,17 +1,17 @@
 {
   "candidate_id": "h-marklein1",
-  "entity_id": "16358",
-  "contributions_received": 346232.86,
+  "entity_id": 16358,
+  "contributions_received": 630230.85,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 110080.0,
-      "count": 2
+      "total": 283830.0,
+      "count": 8
     },
     {
-      "name": "BMO Harris Bank",
-      "total": 7147.51,
-      "count": 8
+      "name": "Republican Party of Wisconsin",
+      "total": 10724.0,
+      "count": 2
     },
     {
       "name": "Daniel Jansen",
@@ -19,37 +19,37 @@
       "count": 1
     },
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "John Scott",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Robert Arzbaecher",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Jill C Diehl",
+      "name": "Donald Wahlin",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Stephanie Medley",
+      "name": "Patrick English",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Stella Scott",
+      "name": "KOCHPAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "John F Scott",
+      "name": "Glennette N Stettler",
       "total": 2000.0,
-      "count": 1
+      "count": 2
     },
     {
-      "name": "Margaret Scott",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Tenley Scott",
+      "name": "Scott Frank",
       "total": 2000.0,
       "count": 1
     }

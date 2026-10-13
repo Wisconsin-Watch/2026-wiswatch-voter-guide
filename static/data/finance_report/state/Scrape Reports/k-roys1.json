@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-roys1",
-  "entity_id": "15992",
-  "contributions_received": 716797.26,
+  "entity_id": 15992,
+  "contributions_received": 779600.98,
   "top_donors": [
     {
       "name": "WEAC PAC",
@@ -9,7 +9,7 @@
       "count": 1
     },
     {
-      "name": "IUPAT Political Action",
+      "name": "IUPAT Political Action Together",
       "total": 25000.0,
       "count": 1
     },
@@ -20,8 +20,8 @@
     },
     {
       "name": "Kelda Helen Roys",
-      "total": 16943.25,
-      "count": 58
+      "total": 17185.97,
+      "count": 65
     },
     {
       "name": "Helen Bradbury",

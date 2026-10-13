@@ -1,0 +1,60 @@
+{
+  "candidate_group": "MIKE THUROW FOR CONGRESS",
+  "committees_included": "MIKE THUROW FOR CONGRESS",
+  "candidate_id": "m-thurow1",
+  "total_donated": 140970,
+  "total_contributions_count": 135,
+  "n_unique_donors": 92,
+  "top_donors": [
+    {
+      "name": "BONDERMAN, CALE",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "BONDERMAN, DJANGO",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "BOYERS, MICHELLE",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "ESCOBAR, MARTHA",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "MCCLAVE, JAMES",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "MINSKY, YARON",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "PRIMUS, LISA",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "PROCTOR, DAVID",
+      "total": 7000,
+      "count": 3
+    },
+    {
+      "name": "PROCTOR, NAOMI",
+      "total": 7000,
+      "count": 2
+    },
+    {
+      "name": "SIMONS, ELIZABETH",
+      "total": 7000,
+      "count": 3
+    }
+  ]
+}

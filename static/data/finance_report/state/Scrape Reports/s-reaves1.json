@@ -1,12 +1,17 @@
 {
   "candidate_id": "s-reaves1",
-  "entity_id": "12226745",
-  "contributions_received": 7095.49,
+  "entity_id": 12226745,
+  "contributions_received": 8625.49,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee",
       "total": 1610.49,
       "count": 2
+    },
+    {
+      "name": "Richard Gross",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -29,6 +34,11 @@
       "count": 1
     },
     {
+      "name": "Angila Allen",
+      "total": 250.0,
+      "count": 1
+    },
+    {
       "name": "Andrew McKinney",
       "total": 200.0,
       "count": 1
@@ -41,16 +51,6 @@
     {
       "name": "Michael Monk",
       "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Elijah Reaves",
-      "total": 110.0,
-      "count": 1
-    },
-    {
-      "name": "SHANDOWLYON REAVES",
-      "total": 100.0,
       "count": 1
     }
   ]

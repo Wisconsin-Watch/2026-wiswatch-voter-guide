@@ -1,17 +1,27 @@
 {
   "candidate_id": "j-marschall1",
-  "entity_id": "12169632",
-  "contributions_received": 2820.82,
+  "entity_id": 12169632,
+  "contributions_received": 5915.52,
   "top_donors": [
     {
+      "name": "Wisconsin Education Association Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Winnebago County Democratic Party",
-      "total": 500.0,
+      "total": 750.0,
+      "count": 2
+    },
+    {
+      "name": "Gertrude Pickett",
+      "total": 600.0,
       "count": 1
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 478.67,
-      "count": 1
+      "total": 583.37,
+      "count": 3
     },
     {
       "name": "Joey J Marschall",
@@ -24,6 +34,16 @@
       "count": 2
     },
     {
+      "name": "Democratic Party of Outagamie County",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Gary Goyke",
+      "total": 250.0,
+      "count": 1
+    },
+    {
       "name": "Tina Smith",
       "total": 244.04,
       "count": 3
@@ -31,26 +51,6 @@
     {
       "name": "Susan Zuege",
       "total": 200.0,
-      "count": 2
-    },
-    {
-      "name": "Randall G Trumbull Holper",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Jeffrey Anderson",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Ruth Caves",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Karen Goetz",
-      "total": 75.0,
       "count": 2
     }
   ]

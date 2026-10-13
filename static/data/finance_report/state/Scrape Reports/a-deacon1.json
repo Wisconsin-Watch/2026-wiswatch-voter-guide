@@ -1,8 +1,13 @@
 {
   "candidate_id": "a-deacon1",
-  "entity_id": "7620630",
-  "contributions_received": 10,
+  "entity_id": 7620630,
+  "contributions_received": 67,
   "top_donors": [
+    {
+      "name": "Alciro Deacon",
+      "total": 57.0,
+      "count": 2
+    },
     {
       "name": "Kyle Cleary",
       "total": 10.0,

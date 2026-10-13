@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-larson1",
-  "entity_id": "16833",
-  "contributions_received": 41274.46,
+  "entity_id": 16833,
+  "contributions_received": 45433.51,
   "top_donors": [
     {
       "name": "WEAC Region 6 Political Action Committee",
@@ -9,9 +9,9 @@
       "count": 1
     },
     {
-      "name": "Friends of Jessica Seawright",
+      "name": "Elizabeth Kessler",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
       "name": "mark thomsen",
@@ -19,37 +19,37 @@
       "count": 1
     },
     {
-      "name": "Sara Muender",
+      "name": "Carole Montgomery",
+      "total": 750.0,
+      "count": 2
+    },
+    {
+      "name": "Richard Espenscheid",
+      "total": 700.0,
+      "count": 3
+    },
+    {
+      "name": "Mark Thomsen",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Leonard J. Sobczak",
+      "name": "Lauren Baker",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "Dennis Conta",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "James Carpenter",
       "total": 500.0,
       "count": 1
     },
     {
       "name": "CHARLES KAMPS",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Richard Espenscheid",
-      "total": 500.0,
-      "count": 2
-    },
-    {
-      "name": "Glen McCoy",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Jack Kosmoski",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "John Littrell",
       "total": 500.0,
       "count": 1
     }

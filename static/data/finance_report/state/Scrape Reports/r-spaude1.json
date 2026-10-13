@@ -1,12 +1,17 @@
 {
   "candidate_id": "r-spaude1",
-  "entity_id": "16271",
-  "contributions_received": 110694.57,
+  "entity_id": 16271,
+  "contributions_received": 486567.2,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 29276.93,
-      "count": 2
+      "total": 344550.44,
+      "count": 5
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 31596.73,
+      "count": 4
     },
     {
       "name": "Assembly Democratic Camp Comm",
@@ -14,7 +19,12 @@
       "count": 1
     },
     {
-      "name": "Gary Conger",
+      "name": "Service and Hospitality Workers Union Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Todd Vogel",
       "total": 1000.0,
       "count": 1
     },
@@ -24,7 +34,7 @@
       "count": 1
     },
     {
-      "name": "John Florsheim",
+      "name": "Sachin Shivaram",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +49,9 @@
       "count": 1
     },
     {
-      "name": "Monica Golomski",
+      "name": "Patrick Murphy",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ana Mendez",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
+      "count": 3
     }
   ]
 }

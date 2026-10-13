@@ -1,16 +1,31 @@
 {
   "candidate_id": "r-camacho1",
-  "entity_id": "11959800",
-  "contributions_received": 5724.19,
+  "entity_id": 11959800,
+  "contributions_received": 12133.49,
   "top_donors": [
     {
-      "name": "Vice Executive LLC -> Vice Executive LLC",
-      "total": 500.0,
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jose Perez",
-      "total": 500.0,
+      "name": "Mibesol Reza",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jan Kwiatkowski",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Antonio Garcia",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -19,38 +34,23 @@
       "count": 1
     },
     {
-      "name": "Jan Kwiatkowski",
+      "name": "James Yourkovich",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Crunch Fitness -> Crunch Fitness",
-      "total": 300.0,
+      "name": "Aranda for WI",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Marianne Lubar",
-      "total": 250.0,
+      "name": "Vice Executive LLC -> Vice Executive LLC",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Amaad Rivera",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Citizens for Sylvia Ortiz-Velez",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Adam Garcia",
-      "total": 180.0,
-      "count": 3
-    },
-    {
-      "name": "Brooke Peddie",
-      "total": 158.0,
+      "name": "Jose Perez",
+      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,17 +1,12 @@
 {
   "candidate_id": "c-hendrickson1",
-  "entity_id": "11954497",
-  "contributions_received": 44401.18,
+  "entity_id": 11954497,
+  "contributions_received": 47408.18,
   "top_donors": [
     {
       "name": "Corrine Charity Hendrickson",
       "total": 2001.0,
       "count": 2
-    },
-    {
-      "name": "Tony Cerniglia",
-      "total": 2000.0,
-      "count": 1
     },
     {
       "name": "Thomas Heiber-Cobb",
@@ -29,12 +24,22 @@
       "count": 1
     },
     {
+      "name": "Tony Cerniglia",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "Steve Demler",
       "total": 1125.0,
       "count": 2
     },
     {
-      "name": "Mary Bowden",
+      "name": "Sarah O'Neill",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Travis Phillips",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +49,7 @@
       "count": 1
     },
     {
-      "name": "Joseph Schutte",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Travis Phillips",
+      "name": "Mary Bowden",
       "total": 1000.0,
       "count": 1
     }

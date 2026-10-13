@@ -1,11 +1,41 @@
 {
   "candidate_id": "m-bisabarros1",
-  "entity_id": "12228300",
-  "contributions_received": 1599.87,
+  "entity_id": 12228300,
+  "contributions_received": 9336.6,
   "top_donors": [
+    {
+      "name": "Democratic Party of Walworth County",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Adam Duda",
+      "total": 965.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin Organizing for America",
+      "total": 653.58,
+      "count": 4
+    },
     {
       "name": "Jayne Zeisler",
       "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Jayne Zeisler",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Jeffrey Greisch",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Nancy Lightfield",
+      "total": 400.0,
       "count": 1
     },
     {
@@ -14,43 +44,13 @@
       "count": 2
     },
     {
-      "name": "Jihad Shoshara",
-      "total": 193.0,
+      "name": "Steven Kempf",
+      "total": 241.25,
       "count": 1
     },
     {
-      "name": "Susan Jhin",
-      "total": 168.87,
-      "count": 1
-    },
-    {
-      "name": "Marge Fornear",
-      "total": 96.5,
-      "count": 1
-    },
-    {
-      "name": "Democratic Party of Walworth County",
-      "total": 90.25,
-      "count": 1
-    },
-    {
-      "name": "Maria  Elena Bisabarros",
-      "total": 75.0,
-      "count": 1
-    },
-    {
-      "name": "John Hudoc",
-      "total": 75.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Paestch",
-      "total": 60.0,
-      "count": 1
-    },
-    {
-      "name": "Jennifer Teffler",
-      "total": 50.0,
+      "name": "Karen Arestides",
+      "total": 200.0,
       "count": 1
     }
   ]

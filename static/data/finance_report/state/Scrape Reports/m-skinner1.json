@@ -1,20 +1,25 @@
 {
   "candidate_id": "m-skinner1",
-  "entity_id": "1704858",
-  "contributions_received": 144131.41,
+  "entity_id": 1704858,
+  "contributions_received": 766907.78,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 112004.75,
-      "count": 4
+      "total": 602483.75,
+      "count": 10
     },
     {
-      "name": "Matt Neuman",
-      "total": 2000.0,
+      "name": "Committee to Elect a Republican Senate",
+      "total": 99120.95,
+      "count": 2
+    },
+    {
+      "name": "Committee to Elect a Republican Senator",
+      "total": 8000.0,
       "count": 1
     },
     {
-      "name": "Friends of Mary",
+      "name": "WMC Conduit",
       "total": 2000.0,
       "count": 1
     },
@@ -24,12 +29,7 @@
       "count": 1
     },
     {
-      "name": "WMC Conduit",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Feyen for Senate",
+      "name": "Friends of Devin LeMahieu",
       "total": 2000.0,
       "count": 1
     },
@@ -39,17 +39,17 @@
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
+      "name": "Feyen for Senate",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Testin for Senate",
+      "name": "ABCPAC-WIS",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Diane M. Hendricks",
+      "name": "KOCHPAC-KOCH Inc. PAC",
       "total": 2000.0,
       "count": 1
     }

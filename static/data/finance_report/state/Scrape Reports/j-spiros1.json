@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-spiros1",
-  "entity_id": "16730",
-  "contributions_received": 9516.71,
+  "entity_id": 16730,
+  "contributions_received": 10191.71,
   "top_donors": [
     {
       "name": "Swetha Gudibanda",
@@ -29,6 +29,11 @@
       "count": 1
     },
     {
+      "name": "Delores Roehl",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Robert Roehl",
       "total": 500.0,
       "count": 1
@@ -45,11 +50,6 @@
     },
     {
       "name": "PAUL HARKINS",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Timothy Wengert",
       "total": 500.0,
       "count": 1
     }

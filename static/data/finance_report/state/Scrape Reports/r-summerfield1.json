@@ -1,20 +1,40 @@
 {
   "candidate_id": "r-summerfield1",
-  "entity_id": "16005",
-  "contributions_received": 24061.0,
+  "entity_id": 16005,
+  "contributions_received": 29186.0,
   "top_donors": [
     {
-      "name": "RANW PAC",
+      "name": "AT&T Wisconsin Employee PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Charter Communications, Inc. Wisconsin Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "REALTORS Assn of SC WI PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "AT&T Wisconsin Employee PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,27 +49,7 @@
       "count": 1
     },
     {
-      "name": "Tavern Industry PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEC Energy Group PAC (WEC PAC)",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Wisconsin REALTORS PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Charter Communications, Inc. Wisconsin Political Action Committee",
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     }

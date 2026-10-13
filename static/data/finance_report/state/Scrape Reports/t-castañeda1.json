@@ -1,27 +1,12 @@
 {
   "candidate_id": "t-castañeda1",
-  "entity_id": "12168449",
-  "contributions_received": 15960.29,
+  "entity_id": 12168449,
+  "contributions_received": 9336.0,
   "top_donors": [
-    {
-      "name": "Susan Audette",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Mary Alice Alice Wimmer",
       "total": 600.0,
       "count": 4
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 569.29,
-      "count": 1
-    },
-    {
-      "name": "Crystal Kauramaki",
-      "total": 500.0,
-      "count": 1
     },
     {
       "name": "Kristi Genna",
@@ -32,11 +17,6 @@
       "name": "Chaz Miller",
       "total": 500.0,
       "count": 1
-    },
-    {
-      "name": "Scott McDonell",
-      "total": 400.0,
-      "count": 2
     },
     {
       "name": "Daniel O'Brien",
@@ -51,6 +31,26 @@
     {
       "name": "Daniel Malacara",
       "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Dustin Dolezalek",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Scott McDonell",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "William McIlvaine",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "SAUL GLAZER",
+      "total": 200.0,
       "count": 1
     }
   ]

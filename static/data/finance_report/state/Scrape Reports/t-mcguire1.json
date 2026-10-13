@@ -1,15 +1,15 @@
 {
   "candidate_id": "t-mcguire1",
-  "entity_id": "17181",
-  "contributions_received": 36760.16,
+  "entity_id": 17181,
+  "contributions_received": 53078.16,
   "top_donors": [
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "WHCA-WiCAL PAC",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
-      "name": "Wisconsin Society of Anesthesiologists PAC",
+      "name": "State Farm Federal PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -24,7 +24,7 @@
       "count": 1
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
+      "name": "WI Laborers District Council",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +34,22 @@
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
+      "name": "Chad Peters",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Eli Lilly and Company PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "IBEW PAC Voluntary Fund",
+      "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WHCA-WiCAL PAC",
+      "name": "WI Dental Assn PAC",
       "total": 1000.0,
       "count": 2
     }

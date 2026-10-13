@@ -1,12 +1,12 @@
 {
   "candidate_id": "b-stabenow2",
-  "entity_id": "12228349",
-  "contributions_received": 10225.0,
+  "entity_id": 12228349,
+  "contributions_received": 11325.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 4000.0,
-      "count": 1
+      "total": 116106.54,
+      "count": 5
     },
     {
       "name": "Kurtz for Assembly",
@@ -14,12 +14,17 @@
       "count": 1
     },
     {
-      "name": "Tyler August",
+      "name": "GOPAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tyler August",
       "total": 1000.0,
       "count": 1
     },
@@ -34,6 +39,11 @@
       "count": 1
     },
     {
+      "name": "Eddy Herbison",
+      "total": 250.0,
+      "count": 1
+    },
+    {
       "name": "Scott Randall",
       "total": 250.0,
       "count": 1
@@ -41,16 +51,6 @@
     {
       "name": "Mark Sabin",
       "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Eddy Herbison",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Steve Dye",
-      "total": 200.0,
       "count": 1
     }
   ]

@@ -1,12 +1,12 @@
 {
   "candidate_id": "c-schnitzler1",
-  "entity_id": "1927630",
-  "contributions_received": 18687.43,
+  "entity_id": 1927630,
+  "contributions_received": 22074.43,
   "top_donors": [
     {
       "name": "cedric A schnitzler",
-      "total": 3657.0,
-      "count": 1
+      "total": 3924.0,
+      "count": 2
     },
     {
       "name": "LaCrosse County GOP",
@@ -19,22 +19,7 @@
       "count": 2
     },
     {
-      "name": "Gary Ascher",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Ready",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kathy Neubauer",
+      "name": "Wallace O Habhegger",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +34,22 @@
       "count": 1
     },
     {
-      "name": "Wallace O Habhegger",
+      "name": "Gary Ascher",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathy Neubauer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Thomas Ready",
       "total": 1000.0,
       "count": 1
     }

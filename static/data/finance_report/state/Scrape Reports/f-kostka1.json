@@ -1,7 +1,7 @@
 {
   "candidate_id": "f-kostka1",
-  "entity_id": "1170162",
-  "contributions_received": 3726.1,
+  "entity_id": 1170162,
+  "contributions_received": 6599.8,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -9,13 +9,18 @@
       "count": 3
     },
     {
-      "name": "Frank J Kostka",
+      "name": "Liakopoulos",
+      "total": 970.0,
+      "count": 1
+    },
+    {
+      "name": "Dan Reinerio",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Linda Kostka",
-      "total": 250.0,
+      "name": "Frank J Kostka",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -24,7 +29,27 @@
       "count": 1
     },
     {
-      "name": "Diane Foris",
+      "name": "George LaValley",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Linda Kostka",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Tim Kane",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "William Lundberg",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Bill Cosh",
       "total": 100.0,
       "count": 1
     }

@@ -1,15 +1,30 @@
 {
   "candidate_id": "l-palmeri1",
-  "entity_id": "15530",
-  "contributions_received": 30028.81,
+  "entity_id": 15530,
+  "contributions_received": 43993.43,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 5248.55,
+      "count": 2
+    },
     {
       "name": "SEIU Wisconsin State Council PAC",
       "total": 1500.0,
       "count": 2
     },
     {
-      "name": "Marianne Lubar",
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Winnebago County Democratic Party",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Stuart Schrottky",
       "total": 1000.0,
       "count": 1
     },
@@ -24,12 +39,7 @@
       "count": 1
     },
     {
-      "name": "WI Pipe Trades Assn PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Stuart Schrottky",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +49,9 @@
       "count": 1
     },
     {
-      "name": "Todd Vogel",
-      "total": 989.99,
+      "name": "Marianne Lubar",
+      "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Jean I. Erdman",
-      "total": 975.0,
-      "count": 3
-    },
-    {
-      "name": "Tom King",
-      "total": 900.0,
-      "count": 2
     }
   ]
 }

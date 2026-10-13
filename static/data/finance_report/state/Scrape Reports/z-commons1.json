@@ -1,7 +1,7 @@
 {
   "candidate_id": "z-commons1",
-  "entity_id": "12228056",
-  "contributions_received": 573.04,
+  "entity_id": 12228056,
+  "contributions_received": 660.1,
   "top_donors": [
     {
       "name": "Michelle Commons",
@@ -24,6 +24,11 @@
       "count": 1
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 73.1,
+      "count": 2
+    },
+    {
       "name": "Zachary Allen Commons",
       "total": 50.0,
       "count": 1
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
+      "name": "R Stephen Werner",
+      "total": 25.0,
+      "count": 1
+    },
+    {
       "name": "Tammy Wood",
       "total": 25.0,
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 24.04,
-      "count": 1
-    },
-    {
-      "name": "Sierra Hillsman",
-      "total": 5.0,
-      "count": 1
-    },
-    {
-      "name": "SAMANTHA GENEVA SWANSON",
-      "total": 5.0,
+      "name": "Heidi Thompson",
+      "total": 10.0,
       "count": 1
     }
   ]

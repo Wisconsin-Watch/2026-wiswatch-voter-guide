@@ -1,17 +1,17 @@
 {
   "candidate_id": "k-purnell1",
-  "entity_id": "12226899",
-  "contributions_received": 127339.46,
+  "entity_id": 12226899,
+  "contributions_received": 187724.77,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 85066.22,
-      "count": 3
+      "total": 93061.5,
+      "count": 4
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 8947.21,
-      "count": 1
+      "total": 40928.33,
+      "count": 5
     },
     {
       "name": "Lacrosse County Republican Party",
@@ -19,29 +19,14 @@
       "count": 1
     },
     {
-      "name": "Keith Bernard Purnell",
-      "total": 1132.87,
-      "count": 13
-    },
-    {
-      "name": "Daniel Epstein",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Daniel Kunz",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Spencer Nickelatti -> Spencer Nickelatti",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "John Reinhart",
-      "total": 1000.0,
-      "count": 2
+      "total": 1500.0,
+      "count": 3
+    },
+    {
+      "name": "Keith Bernard Purnell",
+      "total": 1159.43,
+      "count": 14
     },
     {
       "name": "Friends of Kevin Hoyer",
@@ -49,7 +34,22 @@
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
+      "name": "Friends of Devin LeMahieu",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kurtz for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "GOPAC Election Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Barbara Baroni",
       "total": 1000.0,
       "count": 1
     }

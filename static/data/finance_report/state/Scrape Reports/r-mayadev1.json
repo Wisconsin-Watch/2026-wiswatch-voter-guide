@@ -1,7 +1,7 @@
 {
   "candidate_id": "r-mayadev1",
-  "entity_id": "1149237",
-  "contributions_received": 32222.0,
+  "entity_id": 1149237,
+  "contributions_received": 37716.7,
   "top_donors": [
     {
       "name": "Stephen Jarchow",
@@ -9,17 +9,7 @@
       "count": 1
     },
     {
-      "name": "Daniel Vande Zande",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Jungbacker",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "GE HealthCare Technologies Inc. PAC",
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -29,22 +19,32 @@
       "count": 1
     },
     {
+      "name": "GE HealthCare Technologies Inc. PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Paula Bonner",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Karola Jungbacker",
+      "name": "Peter Jungbacker",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Naomi Camper",
+      "name": "Kathleen Chung",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Melissa Scholz",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Megan Goodrich",
+      "name": "Build Our Movement PAC",
       "total": 1000.0,
       "count": 1
     },

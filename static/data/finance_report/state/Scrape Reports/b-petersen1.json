@@ -1,8 +1,13 @@
 {
   "candidate_id": "b-petersen1",
-  "entity_id": "12226048",
-  "contributions_received": 4800.0,
+  "entity_id": 12226048,
+  "contributions_received": 11885.0,
   "top_donors": [
+    {
+      "name": "Wisconsin REALTORS Political Fund",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Brooks for Assembly",
       "total": 1000.0,
@@ -14,33 +19,38 @@
       "count": 1
     },
     {
+      "name": "Joel Fleischman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Citizens for August",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin REALTORS Political Fund",
-      "total": 1000.0,
+      "name": "Pro-Life WI Victory Fund PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Kristine Koffke",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Dawn Brooks",
+      "total": 500.0,
       "count": 1
     },
     {
       "name": "Christopher  Elbe",
       "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Mel Lepp",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Ron De Troye",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Michael R. Zahrt",
-      "total": 100.0,
       "count": 1
     }
   ]

@@ -1,11 +1,26 @@
 {
   "candidate_id": "s-hinze1",
-  "entity_id": "1149763",
-  "contributions_received": 200,
+  "entity_id": 1149763,
+  "contributions_received": 1000.0,
   "top_donors": [
+    {
+      "name": "Democratic Party of Brown County",
+      "total": 500.0,
+      "count": 1
+    },
     {
       "name": "Stephen Menard",
       "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Shawano-Menominee Counties",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Daniel A. Chair Weidner,",
+      "total": 100.0,
       "count": 1
     }
   ]

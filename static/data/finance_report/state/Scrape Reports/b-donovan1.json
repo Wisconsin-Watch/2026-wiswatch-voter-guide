@@ -1,11 +1,11 @@
 {
   "candidate_id": "b-donovan1",
-  "entity_id": "16491",
-  "contributions_received": 79327.78,
+  "entity_id": 16491,
+  "contributions_received": 172713.57,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 16443.64,
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 89500.0,
       "count": 2
     },
     {
@@ -14,32 +14,17 @@
       "count": 1
     },
     {
-      "name": "Robert G Donovan",
-      "total": 5100.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neumann",
+      "name": "Robert Keller",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Friends for Jessie",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kurtz for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ted Kellner",
+      "name": "Jay Smith",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +34,22 @@
       "count": 1
     },
     {
-      "name": "Michael Hupy",
+      "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Joel Kitchens for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Devin LeMahieu",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Andrea Bryant",
       "total": 1000.0,
       "count": 1
     }

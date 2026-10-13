@@ -1,8 +1,33 @@
 {
   "candidate_id": "a-hysell1",
-  "entity_id": "1147623",
-  "contributions_received": 12189.14,
+  "entity_id": 1147623,
+  "contributions_received": 18479.7,
   "top_donors": [
+    {
+      "name": "Barbara Jo Olson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Berdan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Local 400 COPE Fund",
       "total": 1000.0,
@@ -14,42 +39,17 @@
       "count": 1
     },
     {
-      "name": "Robert Berdan",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliant Energy PCA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Assn of SC WI PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Barbara Jo Olson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "North Central States Carpenters PAC",
+      "name": "HyVee Employees PAC",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Wisconsin REALTORS Political Fund",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Forest County Potawatomi Community",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "WI Laborers District Council",
+      "name": "IBEW PAC Voluntary Fund",
       "total": 500.0,
       "count": 1
     }

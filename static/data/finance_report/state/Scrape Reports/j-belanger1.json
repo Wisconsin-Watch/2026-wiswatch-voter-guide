@@ -1,20 +1,20 @@
 {
   "candidate_id": "j-belanger1",
-  "entity_id": "12230167",
-  "contributions_received": 8095.0,
+  "entity_id": 12230167,
+  "contributions_received": 37198.66,
   "top_donors": [
     {
-      "name": "Matt Neuman",
-      "total": 1000.0,
+      "name": "WISGOP",
+      "total": 7788.66,
       "count": 1
     },
     {
-      "name": "i360 Holdings -> i360 LLC",
-      "total": 1000.0,
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 6000.0,
       "count": 1
     },
     {
-      "name": "Tyler August",
+      "name": "Paul Tuttle",
       "total": 1000.0,
       "count": 1
     },
@@ -24,33 +24,33 @@
       "count": 1
     },
     {
-      "name": "Diane M. Hendricks",
+      "name": "Amy Binsfeld",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tony Kurtz",
+      "name": "Tyler August",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tom Testwuide Sr",
-      "total": 500.0,
+      "name": "GOPAC ELECTION FUND",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Charles Waldon",
-      "total": 250.0,
+      "name": "Kurt Werner",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Thomas Desotell",
-      "total": 150.0,
+      "name": "i360 Holdings -> i360 LLC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Kevin Stewart",
-      "total": 150.0,
+      "name": "Matt Neuman",
+      "total": 1000.0,
       "count": 1
     }
   ]

@@ -1,18 +1,8 @@
 {
   "candidate_id": "r-kreibich1",
-  "entity_id": "663805",
-  "contributions_received": 10135,
+  "entity_id": 663805,
+  "contributions_received": 10635.0,
   "top_donors": [
-    {
-      "name": "Realtors Association of SC WI - PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Society of Anesthesiologists PAC",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Bell Ambulance, Inc. Employees PAC",
       "total": 1000.0,
@@ -24,12 +14,7 @@
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "RANW PAC",
+      "name": "Paul Kluskowski",
       "total": 1000.0,
       "count": 1
     },
@@ -39,7 +24,12 @@
       "count": 1
     },
     {
-      "name": "Paul Kluskowski",
+      "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -49,8 +39,18 @@
       "count": 1
     },
     {
-      "name": "Association of Progressive Rental Orgaizations",
-      "total": 250.0,
+      "name": "Wisconsin Society of Anesthesiologists PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors Association of SC WI - PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WCULAF",
+      "total": 500.0,
       "count": 1
     }
   ]

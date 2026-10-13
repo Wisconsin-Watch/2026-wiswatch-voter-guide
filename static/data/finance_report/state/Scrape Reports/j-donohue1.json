@@ -1,11 +1,21 @@
 {
   "candidate_id": "j-donohue1",
-  "entity_id": "12229965",
-  "contributions_received": 2103.88,
+  "entity_id": 12229965,
+  "contributions_received": 6452.88,
   "top_donors": [
+    {
+      "name": "Republican Party of Dane County",
+      "total": 2000.0,
+      "count": 1
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Wood",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -21,6 +31,26 @@
     {
       "name": "Patrick McGinty",
       "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Katie Michel",
+      "total": 199.0,
+      "count": 1
+    },
+    {
+      "name": "Jimmie & Janet Oakley",
+      "total": 150.0,
+      "count": 2
+    },
+    {
+      "name": "Michael Holt",
+      "total": 130.0,
+      "count": 1
+    },
+    {
+      "name": "Rolf Lindgren",
+      "total": 100.0,
       "count": 1
     }
   ]

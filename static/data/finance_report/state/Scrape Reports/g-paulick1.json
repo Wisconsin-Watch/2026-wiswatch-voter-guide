@@ -1,8 +1,13 @@
 {
   "candidate_id": "g-paulick1",
-  "entity_id": "12228169",
-  "contributions_received": 56082.68,
+  "entity_id": 12228169,
+  "contributions_received": 89169.46,
   "top_donors": [
+    {
+      "name": "Racine County GOP",
+      "total": 20000.0,
+      "count": 1
+    },
     {
       "name": "Gina  Marie Cefalu Paulick",
       "total": 10000.0,
@@ -10,36 +15,26 @@
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 1602.03,
-      "count": 2
+      "total": 2602.03,
+      "count": 3
     },
     {
-      "name": "Patrick English",
+      "name": "James A Tomola",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Ray Antonneau",
+      "name": "Barb Griffin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Joseph  Christoffersen",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Sandra Lazzari",
+      "name": "Anita M Tomola",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Hollis Christoffersen",
-      "total": 1000.0,
-      "count": 5
-    },
-    {
-      "name": "Tyler August",
+      "name": "FRED YOUNG",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +44,12 @@
       "count": 4
     },
     {
-      "name": "Friends & Neighbors of Robin Vos",
+      "name": "Michelle Vos",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Matt Neumann",
       "total": 1000.0,
       "count": 1
     }

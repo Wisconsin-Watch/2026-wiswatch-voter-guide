@@ -1,17 +1,32 @@
 {
   "candidate_id": "j-emerson1",
-  "entity_id": "15871",
-  "contributions_received": 113372.63,
+  "entity_id": 15871,
+  "contributions_received": 194239.33,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 31281.7,
-      "count": 2
+      "total": 45797.72,
+      "count": 4
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 23010.15,
+      "count": 4
     },
     {
       "name": "Eau Claire County Democratic Party",
-      "total": 8000.0,
-      "count": 1
+      "total": 11281.0,
+      "count": 3
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Jill Barland",
+      "total": 1800.0,
+      "count": 3
     },
     {
       "name": "Jeanne Foust",
@@ -24,32 +39,17 @@
       "count": 1
     },
     {
-      "name": "Thomas Rothman",
+      "name": "Lots of People Supporting Mike Bare",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tom Walker",
+      "name": "Alex JACOB LASRY",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "UFCW Active Ballot Club General Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ethan Reed",
-      "total": 1000.0,
-      "count": 4
-    },
-    {
-      "name": "ELizabeth Simon",
+      "name": "Friends of Lisa Subeck",
       "total": 1000.0,
       "count": 1
     }

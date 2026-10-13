@@ -1,11 +1,31 @@
 {
   "candidate_id": "b-look1",
-  "entity_id": "1147691",
-  "contributions_received": 500.0,
+  "entity_id": 1147691,
+  "contributions_received": 2900.0,
   "top_donors": [
+    {
+      "name": "Friends of William Switalla",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Bob Look",
       "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Shawano County",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Waupaca County",
+      "total": 150.0,
       "count": 1
     }
   ]

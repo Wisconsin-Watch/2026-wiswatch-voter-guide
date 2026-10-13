@@ -1,26 +1,56 @@
 {
   "candidate_id": "s-arora1",
-  "entity_id": "12226240",
-  "contributions_received": 1797.03,
+  "entity_id": 12226240,
+  "contributions_received": 8942.75,
   "top_donors": [
+    {
+      "name": "Republican Party of Dane County",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 1602.03,
+      "count": 2
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Republican Assembly Campaign Committee",
-      "total": 602.03,
+      "name": "Jon Aleckson",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Billie Johnson",
-      "total": 120.0,
+      "name": "Murali Rajana",
+      "total": 300.0,
       "count": 1
     },
     {
-      "name": "Dave Ripp",
-      "total": 75.0,
+      "name": "Tara Kadium",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Sandy Hufton",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Keyanna Qi",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Leo Janus",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "Sandy Bakk",
+      "total": 150.0,
       "count": 1
     }
   ]

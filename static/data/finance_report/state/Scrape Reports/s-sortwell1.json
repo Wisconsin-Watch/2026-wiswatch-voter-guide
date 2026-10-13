@@ -1,35 +1,10 @@
 {
   "candidate_id": "s-sortwell1",
-  "entity_id": "663883",
-  "contributions_received": 19142.22,
+  "entity_id": 663883,
+  "contributions_received": 24149.0,
   "top_donors": [
     {
-      "name": "WEC Energy Group PAC (WEC PAC)",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Pipe Trades Assn PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Alliant Energy PCA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "TDS Telecommunication Corporation PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Plumbers &Steamfitters Local 400 COPE fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wei-Chuan Wang",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -39,7 +14,32 @@
       "count": 2
     },
     {
+      "name": "WI Institute of CPAs PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Patrick and Chrissy Flynn",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEC Energy Group PAC (WEC PAC)",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Plumbers &Steamfitters Local 400 COPE fund",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
+      "name": "Wei-Chuan Wang",
       "total": 1000.0,
       "count": 1
     }

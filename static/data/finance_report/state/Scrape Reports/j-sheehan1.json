@@ -1,12 +1,17 @@
 {
   "candidate_id": "j-sheehan1",
-  "entity_id": "16434",
-  "contributions_received": 76600.02,
+  "entity_id": 16434,
+  "contributions_received": 132717.35,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 31845.57,
-      "count": 2
+      "total": 42071.59,
+      "count": 3
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 20801.58,
+      "count": 4
     },
     {
       "name": "ADCC",
@@ -14,13 +19,13 @@
       "count": 1
     },
     {
-      "name": "Sara Paretsky",
-      "total": 1500.0,
-      "count": 2
+      "name": "Joe Sheehan",
+      "total": 1644.34,
+      "count": 6
     },
     {
-      "name": "Joe Sheehan",
-      "total": 1061.0,
+      "name": "Sara Paretsky",
+      "total": 1500.0,
       "count": 2
     },
     {
@@ -29,7 +34,12 @@
       "count": 1
     },
     {
-      "name": "Thomas Rothman",
+      "name": "karola jungbacker",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Lynde B. Uihlein",
       "total": 1000.0,
       "count": 1
     },
@@ -40,16 +50,6 @@
     },
     {
       "name": "Sarah Kenney",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "John Florsheim",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Todd Vogel",
       "total": 1000.0,
       "count": 1
     }

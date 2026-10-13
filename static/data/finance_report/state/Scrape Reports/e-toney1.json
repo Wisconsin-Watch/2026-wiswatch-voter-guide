@@ -1,12 +1,12 @@
 {
   "candidate_id": "e-toney1",
-  "entity_id": "16017",
-  "contributions_received": 915941.33,
+  "entity_id": 16017,
+  "contributions_received": 1443946.08,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 30000.0,
-      "count": 1
+      "total": 180000.0,
+      "count": 2
     },
     {
       "name": "Gregg E. Kunes",
@@ -49,8 +49,8 @@
       "count": 3
     },
     {
-      "name": "Edward A. Cox",
-      "total": 14000.0,
+      "name": "Kim Sell",
+      "total": 15000.0,
       "count": 1
     }
   ]

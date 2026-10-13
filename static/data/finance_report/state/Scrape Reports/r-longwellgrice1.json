@@ -1,32 +1,27 @@
 {
   "candidate_id": "r-longwellgrice1",
-  "entity_id": "11957570",
-  "contributions_received": 6550.0,
+  "entity_id": 11957570,
+  "contributions_received": 7700.0,
   "top_donors": [
     {
       "name": "Robert Longwell-Grice",
-      "total": 1500.0,
-      "count": 15
+      "total": 2200.0,
+      "count": 22
     },
     {
       "name": "Wisconsin Green Party",
-      "total": 500.0,
-      "count": 1
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Howard Meyers",
+      "total": 550.0,
+      "count": 2
     },
     {
       "name": "William Morison Morison",
       "total": 500.0,
       "count": 1
-    },
-    {
-      "name": "Howard Meyers",
-      "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Robert LongwellGrice",
-      "total": 300.0,
-      "count": 3
     },
     {
       "name": "Emily Longwell-Grice",
@@ -51,6 +46,11 @@
     {
       "name": "Peter Wells",
       "total": 150.0,
+      "count": 1
+    },
+    {
+      "name": "Thomas Alpren",
+      "total": 125.0,
       "count": 1
     }
   ]

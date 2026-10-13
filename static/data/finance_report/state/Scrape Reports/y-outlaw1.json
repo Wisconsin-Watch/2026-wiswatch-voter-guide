@@ -1,8 +1,13 @@
 {
   "candidate_id": "y-outlaw1",
-  "entity_id": "12226252",
-  "contributions_received": 4230.54,
+  "entity_id": 12226252,
+  "contributions_received": 5842.12,
   "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1611.58,
+      "count": 2
+    },
     {
       "name": "Republican Assembly Campaign Committee Segregated Fund",
       "total": 1000.0,

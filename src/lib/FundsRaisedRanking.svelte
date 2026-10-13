@@ -28,6 +28,10 @@
     };
 
     $: rankedRows = [...candidates]
+        .filter((candidate) => Object.prototype.hasOwnProperty.call(
+            fundsByCandidateId,
+            candidate.candidate_id
+        ))
         .map((candidate) => ({
             candidateId: candidate.candidate_id,
             name: candidate.name,

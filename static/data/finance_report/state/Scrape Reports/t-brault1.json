@@ -1,57 +1,57 @@
 {
   "candidate_id": "t-brault1",
-  "entity_id": "12226484",
-  "contributions_received": 1594.74,
+  "entity_id": 12226484,
+  "contributions_received": 7539.98,
   "top_donors": [
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Fond du Lac County Democratic Party",
+      "total": 600.0,
+      "count": 1
+    },
     {
       "name": "Patrick Mullen",
       "total": 507.87,
       "count": 1
     },
     {
+      "name": "Linda Kirk",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Kat Griffith",
+      "total": 450.0,
+      "count": 2
+    },
+    {
+      "name": "Joseph Lougher",
+      "total": 304.7,
+      "count": 2
+    },
+    {
+      "name": "KATHERINE GRIFFITH",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Brian Kolstad",
       "total": 200.0,
       "count": 1
     },
     {
-      "name": "Joseph Lougher",
-      "total": 104.7,
-      "count": 1
-    },
-    {
-      "name": "Colin Millard",
-      "total": 104.7,
+      "name": "WEAC Region 5 PAC",
+      "total": 200.0,
       "count": 1
     },
     {
       "name": "Tom Herlache",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Mary B. Hayes",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "SHANNON ZUPKE",
-      "total": 52.51,
-      "count": 1
-    },
-    {
-      "name": "Renee Will",
-      "total": 52.51,
-      "count": 1
-    },
-    {
-      "name": "Thomas Triatik",
-      "total": 52.51,
-      "count": 1
-    },
-    {
-      "name": "Abbie Jo Rickert",
-      "total": 50.0,
-      "count": 1
+      "total": 150.0,
+      "count": 2
     }
   ]
 }

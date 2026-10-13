@@ -1,12 +1,17 @@
 {
   "candidate_id": "j-kaul1",
-  "entity_id": "16762",
-  "contributions_received": 1067759.77,
+  "entity_id": 16762,
+  "contributions_received": 1751425.15,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 48040.88,
-      "count": 4
+      "total": 144118.39,
+      "count": 11
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 44000.0,
+      "count": 1
     },
     {
       "name": "Operating Engineers 139 PAC",
@@ -19,12 +24,17 @@
       "count": 2
     },
     {
-      "name": "Donald Katz",
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 25500.0,
+      "count": 1
+    },
+    {
+      "name": "Ross Boucher",
       "total": 20000.0,
       "count": 1
     },
     {
-      "name": "Stacy Schusterman",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 20000.0,
       "count": 1
     },
@@ -34,22 +44,12 @@
       "count": 1
     },
     {
-      "name": "Lynn Schusterman",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Ross Boucher",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Abigail Dow",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
       "name": "Rachel Dow",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Stacy Schusterman",
       "total": 20000.0,
       "count": 1
     }

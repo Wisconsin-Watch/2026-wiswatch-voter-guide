@@ -1,15 +1,15 @@
 {
   "candidate_id": "l-brill1",
-  "entity_id": "1717424",
-  "contributions_received": 6308.51,
+  "entity_id": 1717424,
+  "contributions_received": 7453.13,
   "top_donors": [
     {
-      "name": "Daven Claerbout",
+      "name": "Sandy  Claerbout",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Sandy  Claerbout",
+      "name": "Daven Claerbout",
       "total": 1000.0,
       "count": 1
     },
@@ -20,6 +20,11 @@
     },
     {
       "name": "Lisa Pankratz",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Dennis Gasper",
       "total": 500.0,
       "count": 1
     },
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
+      "name": "Timothy Sheahan",
+      "total": 250.0,
+      "count": 1
+    },
+    {
       "name": "Karen Fannin",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Andy Huebschmann",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Michael  Dulmes",
       "total": 250.0,
       "count": 1
     }

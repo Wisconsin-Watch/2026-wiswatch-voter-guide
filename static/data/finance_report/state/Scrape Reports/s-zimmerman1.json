@@ -1,17 +1,27 @@
 {
   "candidate_id": "s-zimmerman1",
-  "entity_id": "15969",
-  "contributions_received": 57157.46,
+  "entity_id": 15969,
+  "contributions_received": 569264.49,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 15000.0,
-      "count": 1
+      "total": 502346.24,
+      "count": 9
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 9032.46,
-      "count": 1
+      "total": 17079.67,
+      "count": 14
+    },
+    {
+      "name": "Nancy A. Nasvik",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Robert FEIDLER",
+      "total": 1500.0,
+      "count": 2
     },
     {
       "name": "Todd Koss",
@@ -19,7 +29,12 @@
       "count": 1
     },
     {
-      "name": "Friends for Jessie",
+      "name": "KOCHPAC-KOCH, Inc.",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Todd Gilbert",
       "total": 1000.0,
       "count": 1
     },
@@ -29,27 +44,12 @@
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Nancy A. Nasvik",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neumann",
+      "name": "Tavern League of Wisconsin Inc.",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Kurtz for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     }

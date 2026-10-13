@@ -1,0 +1,63 @@
+{
+  "candidate_group": "Derrick Van Orden",
+  "committees_included": [
+    "VAN ORDEN FOR CONGRESS",
+    "VAN ORDEN VICTORY FUND"
+  ],
+  "candidate_id": "d-orden1",
+  "total_donated": 1775119.45,
+  "total_contributions_count": 56239,
+  "n_unique_donors": 3962,
+  "top_donors": [
+    {
+      "name": "NEUMANN, MATT MR.",
+      "total": 17000,
+      "count": 1
+    },
+    {
+      "name": "JOUHET, FREDERIC",
+      "total": 12000,
+      "count": 1
+    },
+    {
+      "name": "MCKENNA, MIKE MR.",
+      "total": 12000,
+      "count": 1
+    },
+    {
+      "name": "KUNES, GREGG",
+      "total": 11000,
+      "count": 2
+    },
+    {
+      "name": "GARDNER, WAYNE",
+      "total": 10000,
+      "count": 1
+    },
+    {
+      "name": "WOODMAN, JANE MS.",
+      "total": 10000,
+      "count": 1
+    },
+    {
+      "name": "FORD, SUZANNE C.",
+      "total": 7949.19,
+      "count": 330
+    },
+    {
+      "name": "WANEK, KAREN",
+      "total": 7413.95,
+      "count": 2
+    },
+    {
+      "name": "GO, JULIE",
+      "total": 7041.02,
+      "count": 3
+    },
+    {
+      "name": "BAUM, DAVID",
+      "total": 7000,
+      "count": 1
+    }
+  ]
+}

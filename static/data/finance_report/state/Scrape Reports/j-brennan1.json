@@ -1,12 +1,17 @@
 {
   "candidate_id": "j-brennan1",
-  "entity_id": "11966062",
-  "contributions_received": 819221.69,
+  "entity_id": 11966062,
+  "contributions_received": 860299.93,
   "top_donors": [
     {
       "name": "Allan H. Selig",
       "total": 20000.0,
       "count": 2
+    },
+    {
+      "name": "Donald Layden",
+      "total": 20000.0,
+      "count": 1
     },
     {
       "name": "Shacey Petrovic",
@@ -34,24 +39,19 @@
       "count": 4
     },
     {
+      "name": "Stephanie Miller",
+      "total": 10000.0,
+      "count": 1
+    },
+    {
       "name": "Doug Jensen",
       "total": 10000.0,
       "count": 1
     },
     {
-      "name": "Walter Kunicki",
-      "total": 10000.0,
-      "count": 2
-    },
-    {
-      "name": "Sheldon Lubar",
+      "name": "Jeff Stephens Neubauer",
       "total": 10000.0,
       "count": 1
-    },
-    {
-      "name": "Marianne Lubar",
-      "total": 10000.0,
-      "count": 2
     }
   ]
 }

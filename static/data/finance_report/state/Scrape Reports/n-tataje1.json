@@ -1,6 +1,22 @@
 {
   "candidate_id": "n-tataje1",
-  "entity_id": "12227065",
-  "contributions_received": 0.0,
-  "top_donors": []
+  "entity_id": 12227065,
+  "contributions_received": 675.0,
+  "top_donors": [
+    {
+      "name": "Charles Jenkins",
+      "total": 375.0,
+      "count": 1
+    },
+    {
+      "name": "Jeffery Goldwasser",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "David Bovee",
+      "total": 100.0,
+      "count": 1
+    }
+  ]
 }

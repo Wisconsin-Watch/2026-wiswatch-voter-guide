@@ -1,17 +1,12 @@
 {
   "candidate_id": "i-luna1",
-  "entity_id": "12183906",
-  "contributions_received": 132532.98,
+  "entity_id": 12183906,
+  "contributions_received": 145276.97,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 110720.6,
-      "count": 7
-    },
-    {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
+      "total": 114524.83,
+      "count": 8
     },
     {
       "name": "Victor Ravago",
@@ -19,17 +14,7 @@
       "count": 1
     },
     {
-      "name": "Amanda Schroder",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "FRIENDS OF PRISCILLA A. PRADO",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Laborers District Council",
+      "name": "Robert Haselow",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +24,34 @@
       "count": 1
     },
     {
+      "name": "Stacy Schusterman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "WI PEOPLE Conference",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Eric Sancen",
-      "total": 800.0,
-      "count": 1
+      "name": "Clark Pellett",
+      "total": 1000.0,
+      "count": 2
     },
     {
-      "name": "Ted Chisholm",
-      "total": 600.0,
-      "count": 2
+      "name": "Justine Haselow",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

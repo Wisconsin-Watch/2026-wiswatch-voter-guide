@@ -1,0 +1,60 @@
+{
+  "candidate_group": "RICK CROSSON FOR CONGRESS",
+  "committees_included": "RICK CROSSON FOR CONGRESS",
+  "candidate_id": "r-crosson1",
+  "total_donated": 27124.52,
+  "total_contributions_count": 87,
+  "n_unique_donors": 50,
+  "top_donors": [
+    {
+      "name": "HANCOCK, JULIE",
+      "total": 3000,
+      "count": 1
+    },
+    {
+      "name": "SCIMECA, TONY",
+      "total": 2400,
+      "count": 2
+    },
+    {
+      "name": "CROSSON, RICK",
+      "total": 2160,
+      "count": 1
+    },
+    {
+      "name": "WELCH, MICHAEL",
+      "total": 1300,
+      "count": 15
+    },
+    {
+      "name": "BRADDY, WILLIAM",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "JOHNSON, AMY",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "MARCUS, PATRICIA",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "WHELAN, CLAIRE",
+      "total": 1000,
+      "count": 1
+    },
+    {
+      "name": "DECHAMPS, DEBBIE",
+      "total": 750,
+      "count": 1
+    },
+    {
+      "name": "ZENZ, DIANE",
+      "total": 750,
+      "count": 3
+    }
+  ]
+}

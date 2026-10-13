@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-maltese1",
-  "entity_id": "12228933",
-  "contributions_received": 8677.6,
+  "entity_id": 12228933,
+  "contributions_received": 11498.3,
   "top_donors": [
     {
       "name": "Wood County Democratic Party",
@@ -9,13 +9,23 @@
       "count": 1
     },
     {
-      "name": "Ron Natzke",
-      "total": 500.0,
+      "name": "Juneau County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC",
+      "total": 1000.0,
       "count": 1
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 463.48,
+      "total": 568.18,
+      "count": 3
+    },
+    {
+      "name": "Ron Natzke",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -39,19 +49,9 @@
       "count": 5
     },
     {
-      "name": "Deborah McCabe",
-      "total": 250.0,
-      "count": 1
-    },
-    {
       "name": "Joan Slaby",
-      "total": 150.0,
-      "count": 2
-    },
-    {
-      "name": "Jeanne  Cole",
-      "total": 120.0,
-      "count": 2
+      "total": 350.0,
+      "count": 4
     }
   ]
 }

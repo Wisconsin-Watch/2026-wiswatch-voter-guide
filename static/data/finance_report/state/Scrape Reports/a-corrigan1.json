@@ -1,8 +1,18 @@
 {
   "candidate_id": "a-corrigan1",
-  "entity_id": "12228150",
-  "contributions_received": 6130.9,
+  "entity_id": 12228150,
+  "contributions_received": 9975.98,
   "top_donors": [
+    {
+      "name": "WEAC Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Winnebago County Democratic Party",
+      "total": 1000.0,
+      "count": 2
+    },
     {
       "name": "Joyce A Rogan",
       "total": 1000.0,
@@ -19,18 +29,18 @@
       "count": 1
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 602.0,
+      "count": 3
+    },
+    {
+      "name": "JEAN ERDMAN",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Elizabeth Holdren",
       "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Winnebago County Democratic Party",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 497.3,
       "count": 1
     },
     {
@@ -42,16 +52,6 @@
       "name": "Gary Goyke",
       "total": 250.0,
       "count": 1
-    },
-    {
-      "name": "Me  Asbury",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Sarah Moore-Nokes",
-      "total": 200.0,
-      "count": 2
     }
   ]
 }

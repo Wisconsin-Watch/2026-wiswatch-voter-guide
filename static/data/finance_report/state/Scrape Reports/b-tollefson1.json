@@ -1,11 +1,16 @@
 {
   "candidate_id": "b-tollefson1",
-  "entity_id": "11965003",
-  "contributions_received": 135153.2,
+  "entity_id": 11965003,
+  "contributions_received": 490917.47,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 51920.91,
+      "total": 334248.82,
+      "count": 7
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 21212.1,
       "count": 5
     },
     {
@@ -14,42 +19,37 @@
       "count": 2
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "Sandra Sullivan-Dunbar",
+      "total": 1050.0,
+      "count": 2
+    },
+    {
+      "name": "Megan Hull",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Anu Menon",
+      "name": "Theodore Spencer",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Thomas Rothman",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "John O'Farrell",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "PEGGY HEDBERG",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "John Florsheim",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Justine Haselow",
+      "name": "karola jungbacker",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Linda Hughes",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Zoe Aron",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "States Win Federal PAC",
       "total": 1000.0,
       "count": 1
     }

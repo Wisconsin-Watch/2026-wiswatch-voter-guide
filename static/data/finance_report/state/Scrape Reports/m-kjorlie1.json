@@ -1,8 +1,18 @@
 {
   "candidate_id": "m-kjorlie1",
-  "entity_id": "12229804",
-  "contributions_received": 6025.62,
+  "entity_id": 12229804,
+  "contributions_received": 15721.77,
   "top_donors": [
+    {
+      "name": "Republican Party of Dane County",
+      "total": 4020.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1610.68,
+      "count": 2
+    },
     {
       "name": "Russell Wanke",
       "total": 1000.0,
@@ -14,17 +24,7 @@
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Masood Akhtar",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Mark Melvin Kjorlie",
+      "name": "Tim Higgins",
       "total": 500.0,
       "count": 1
     },
@@ -34,23 +34,23 @@
       "count": 1
     },
     {
-      "name": "Tom Waddell",
+      "name": "Masood Akhtar",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "James  Larsen",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Cathy Zeuske",
       "total": 500.0,
       "count": 1
     },
     {
       "name": "Tamara Sondgeroth",
       "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Republican Party of Dodge County",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Matthew Yentz",
-      "total": 100.0,
       "count": 1
     }
   ]

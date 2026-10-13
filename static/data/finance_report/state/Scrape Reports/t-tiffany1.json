@@ -1,12 +1,12 @@
 {
   "candidate_id": "t-tiffany1",
-  "entity_id": "16621",
-  "contributions_received": 13350853.02,
+  "entity_id": 16621,
+  "contributions_received": 39857553.49,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 10155000.0,
-      "count": 11
+      "total": 34561862.0,
+      "count": 24
     },
     {
       "name": "Wisconsin Federation of College Republicans",
@@ -24,32 +24,32 @@
       "count": 2
     },
     {
-      "name": "Karen Silseth",
-      "total": 20000.0,
-      "count": 2
-    },
-    {
-      "name": "Gregg E. Kunes",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neumann",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Todd R. Nelson",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Steven C. Fischer",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
       "name": "Steven R. Rooney",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Jimmy John Liautaud",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Paul Stahlberg",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Julie B. Dobrynio",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Dennis A. Gasper",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Stephen J. Ziegler",
       "total": 20000.0,
       "count": 1
     }

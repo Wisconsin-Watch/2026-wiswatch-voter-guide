@@ -1,15 +1,15 @@
 {
   "candidate_id": "a-joers1",
-  "entity_id": "16808",
-  "contributions_received": 25175.26,
+  "entity_id": 16808,
+  "contributions_received": 42501.65,
   "top_donors": [
     {
-      "name": "Diane Zillner",
-      "total": 1000.0,
-      "count": 1
+      "name": "Democratic Party of Wisconsin",
+      "total": 7637.89,
+      "count": 3
     },
     {
-      "name": "Alliant Energy WI Gov Act Cte",
+      "name": "Operating Engineers 139 PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,17 +19,7 @@
       "count": 1
     },
     {
-      "name": "Carol Reinerio",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Pipe Trades Assn PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
+      "name": "Diane Zillner",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +29,27 @@
       "count": 1
     },
     {
-      "name": "Katie Frank",
+      "name": "Carol Reinerio",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Alliant Energy WI Gov Act Cte",
       "total": 1000.0,
-      "count": 2
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Pipe Trades Assn PAC",
       "total": 1000.0,
       "count": 1
     }

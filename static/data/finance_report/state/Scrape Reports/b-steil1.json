@@ -1,0 +1,63 @@
+{
+  "candidate_group": "Bryan Steil",
+  "committees_included": [
+    "STEIL FOR WISCONSIN, INC.",
+    "STEIL VICTORY FUND"
+  ],
+  "candidate_id": "b-steil1",
+  "total_donated": 1474304,
+  "total_contributions_count": 2539,
+  "n_unique_donors": 808,
+  "top_donors": [
+    {
+      "name": "WADE, JOHN P. MR.",
+      "total": 66000,
+      "count": 3
+    },
+    {
+      "name": "BOWEN, JAMES A. MR.",
+      "total": 50000,
+      "count": 1
+    },
+    {
+      "name": "BOWEN, MARISA",
+      "total": 50000,
+      "count": 1
+    },
+    {
+      "name": "ACKERMAN, SHERRI L.",
+      "total": 30000,
+      "count": 3
+    },
+    {
+      "name": "JENSEN, HOLLY K.",
+      "total": 22000,
+      "count": 1
+    },
+    {
+      "name": "JENSEN, JAY S.",
+      "total": 22000,
+      "count": 1
+    },
+    {
+      "name": "MANSOUR, TAREK",
+      "total": 22000,
+      "count": 1
+    },
+    {
+      "name": "MOELLER, JAMES E.",
+      "total": 22000,
+      "count": 1
+    },
+    {
+      "name": "MOELLER, MICHELLE E.",
+      "total": 22000,
+      "count": 1
+    },
+    {
+      "name": "WADE, MALLORY",
+      "total": 22000,
+      "count": 1
+    }
+  ]
+}

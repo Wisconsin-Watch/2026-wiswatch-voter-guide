@@ -5,6 +5,10 @@ const SCRAPE_REPORTS_BASE_URL = `${base}/data/finance_report/state/Scrape%20Repo
 
 const reportDataCache = new Map();
 
+function getContributionsReceived(report) {
+    return Number(report?.contributions_received ?? report?.total_donated) || 0;
+}
+
 /**
  * Fetch the processed finance summary JSON for a candidate.
  * Files are named by candidate_id (e.g. a-phillips1.json).
@@ -47,7 +51,7 @@ export async function getFundsRaisedByCandidateId(candidateId) {
     }
 
     const report = await getCandidateReport(candidateId);
-    return Number(report?.contributions_received) || 0;
+    return getContributionsReceived(report);
 }
 
 /**
@@ -60,7 +64,12 @@ export async function getFundsRaisedForCandidates(candidateIds) {
 
     await Promise.all(
         candidateIds.map(async (candidateId) => {
-            totals[candidateId] = await getFundsRaisedByCandidateId(candidateId);
+            const report = await getCandidateReport(candidateId);
+
+            // A missing key tells the ranking to omit candidates without a report.
+            if (report) {
+                totals[candidateId] = getContributionsReceived(report);
+            }
         })
     );
 

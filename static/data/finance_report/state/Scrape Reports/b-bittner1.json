@@ -1,7 +1,7 @@
 {
   "candidate_id": "b-bittner1",
-  "entity_id": "12228297",
-  "contributions_received": 29362.45,
+  "entity_id": 12228297,
+  "contributions_received": 34397.76,
   "top_donors": [
     {
       "name": "Barb Bittner",
@@ -9,22 +9,12 @@
       "count": 3
     },
     {
-      "name": "Colleen Bittner",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
       "name": "Paul Bittner",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Mike Bertello",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Jean Bertello",
+      "name": "Colleen Bittner",
       "total": 2000.0,
       "count": 1
     },
@@ -34,8 +24,23 @@
       "count": 1
     },
     {
+      "name": "Jean Bertello",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Mike Bertello",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "Jerald Schneider",
       "total": 1900.0,
+      "count": 1
+    },
+    {
+      "name": "MULTI MEDIA, LLC",
+      "total": 1086.0,
       "count": 1
     },
     {
@@ -46,11 +51,6 @@
     {
       "name": "Veronica Trofka",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WALA PAC",
-      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,7 +1,7 @@
 {
   "candidate_id": "p-karas1",
-  "entity_id": "10042337",
-  "contributions_received": 30664.29,
+  "entity_id": 10042337,
+  "contributions_received": 34902.24,
   "top_donors": [
     {
       "name": "Peter Karas",
@@ -10,8 +10,8 @@
     },
     {
       "name": "Halley Karas",
-      "total": 4500.0,
-      "count": 4
+      "total": 5250.0,
+      "count": 5
     },
     {
       "name": "Jane Karas",
@@ -21,6 +21,11 @@
     {
       "name": "Jane Karas",
       "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "John Ballantyne",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -34,22 +39,17 @@
       "count": 1
     },
     {
-      "name": "John Ballantyne",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Halley Karas",
       "total": 750.0,
       "count": 1
     },
     {
-      "name": "George Eugene Gengler",
-      "total": 500.0,
-      "count": 1
+      "name": "Michael White",
+      "total": 550.0,
+      "count": 2
     },
     {
-      "name": "Alaa Musa",
+      "name": "George Eugene Gengler",
       "total": 500.0,
       "count": 1
     }

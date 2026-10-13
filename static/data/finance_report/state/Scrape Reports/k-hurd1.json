@@ -1,17 +1,27 @@
 {
   "candidate_id": "k-hurd1",
-  "entity_id": "17168",
-  "contributions_received": 21424.0,
+  "entity_id": 17168,
+  "contributions_received": 33054.0,
   "top_donors": [
+    {
+      "name": "Diane M Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Credit Union League",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Volunteers for Agriculture VFA",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Lois J. Wuethrich",
-      "total": 1000.0,
-      "count": 1
     },
     {
       "name": "Concerned Realtors Committee",
@@ -19,17 +29,17 @@
       "count": 1
     },
     {
-      "name": "Alliant Energy Wisconsin Governmental Action Committee",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Realtors Association of South Central Wisconsin",
+      "name": "Charter Communications, Inc. Wisconsin Political Action Committee",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "GOPAC",
       "total": 1000.0,
       "count": 1
     },
@@ -41,16 +51,6 @@
     {
       "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Realtors Association of Northeast Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Terrence R Wall",
-      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,12 +1,27 @@
 {
   "candidate_id": "b-gruber1",
-  "entity_id": "12037721",
-  "contributions_received": 158325.1,
+  "entity_id": 12037721,
+  "contributions_received": 434249.31,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 54417.19,
-      "count": 4
+      "total": 241341.73,
+      "count": 6
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 21336.34,
+      "count": 5
+    },
+    {
+      "name": "Iowa County Democratic Party",
+      "total": 3500.0,
+      "count": 2
+    },
+    {
+      "name": "Benjamin William Gruber",
+      "total": 1709.88,
+      "count": 33
     },
     {
       "name": "John O'Farrell",
@@ -14,7 +29,17 @@
       "count": 3
     },
     {
-      "name": "Iowa County Democratic Party",
+      "name": "Todd Vogel",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jen Zaborek",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "nick zaborek",
       "total": 1000.0,
       "count": 1
     },
@@ -24,32 +49,7 @@
       "count": 1
     },
     {
-      "name": "Derek Wallace",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Todd Vogel",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Brian Bigler",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Mike Van Sicklen",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Michael Unton",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "David Furlow",
+      "name": "Barbara Stuart",
       "total": 1000.0,
       "count": 1
     }

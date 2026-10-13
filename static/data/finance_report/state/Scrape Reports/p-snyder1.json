@@ -1,8 +1,13 @@
 {
   "candidate_id": "p-snyder1",
-  "entity_id": "17078",
-  "contributions_received": 64767.97,
+  "entity_id": 17078,
+  "contributions_received": 707738.22,
   "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 603150.45,
+      "count": 6
+    },
     {
       "name": "Republican Assembly Campaign Committee",
       "total": 15000.0,
@@ -10,31 +15,16 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 6302.1,
-      "count": 1
+      "total": 14251.9,
+      "count": 10
     },
     {
-      "name": "Tavern Industry PAC",
+      "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neumann",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Devin LeMahieu",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Michael R. Zahrt",
+      "name": "Volunteers for Agriculture VFA",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +34,22 @@
       "count": 1
     },
     {
-      "name": "Matthew Heywood",
+      "name": "KOCHPAC-KOCH, Inc.",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "ABCPAC-WIS",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Northwestern Wisconsin Realtors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eli Lilly PAC",
       "total": 1000.0,
       "count": 1
     }

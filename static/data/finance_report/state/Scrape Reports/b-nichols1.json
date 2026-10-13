@@ -1,25 +1,40 @@
 {
   "candidate_id": "b-nichols1",
-  "entity_id": "11682588",
-  "contributions_received": 51014.14,
+  "entity_id": 11682588,
+  "contributions_received": 463077.6,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 20074.58,
-      "count": 4
+      "total": 360764.48,
+      "count": 6
     },
     {
-      "name": "EMILY's List Wisconsin",
+      "name": "Democratic Party of Wisconsin",
+      "total": 22009.83,
+      "count": 5
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Sister District Project Federal PAC",
+      "name": "Sandra Sullivan-Dunbar",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Lynde B. Uihlein",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kristin Dassler Alfheim",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Ross Boucher",
       "total": 1000.0,
       "count": 1
     },
@@ -35,21 +50,6 @@
     },
     {
       "name": "Jeanne Foust",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Weston Milliken",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Snodgrass for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     }

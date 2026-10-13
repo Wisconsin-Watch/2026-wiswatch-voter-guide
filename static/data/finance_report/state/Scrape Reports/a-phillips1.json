@@ -1,25 +1,15 @@
 {
   "candidate_id": "a-phillips1",
-  "entity_id": "5202401",
-  "contributions_received": 13954.12,
+  "entity_id": 5202401,
+  "contributions_received": 18933.73,
   "top_donors": [
     {
-      "name": "Joe W Bast",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "David Duppler",
+      "name": "Rep Assembly Campaign Com RACC -> i360 LLC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Julianne Giese",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Rep Assembly Campaign Com RACC -> i360 LLC",
       "total": 1000.0,
       "count": 1
     },
@@ -34,7 +24,17 @@
       "count": 1
     },
     {
-      "name": "Diane Bast",
+      "name": "David Duppler",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Citizens for August",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Rachael Cabral Guevara",
       "total": 1000.0,
       "count": 1
     },
@@ -44,13 +44,13 @@
       "count": 1
     },
     {
-      "name": "Dean Ackmann",
-      "total": 600.0,
+      "name": "Diane Bast",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tom Van Straten",
-      "total": 500.0,
+      "name": "Joe W Bast",
+      "total": 1000.0,
       "count": 1
     }
   ]

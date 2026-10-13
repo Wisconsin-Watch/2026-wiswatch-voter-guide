@@ -1,10 +1,20 @@
 {
   "candidate_id": "l-whiting1",
-  "entity_id": "7620603",
-  "contributions_received": 840.0,
+  "entity_id": 7620603,
+  "contributions_received": 3340.0,
   "top_donors": [
     {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1800.0,
+      "count": 2
+    },
+    {
       "name": "Anjum Razzaq",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Bonnie Lee",
       "total": 300.0,
       "count": 1
     },
@@ -14,12 +24,27 @@
       "count": 1
     },
     {
+      "name": "Hemant Khuttan",
+      "total": 200.0,
+      "count": 1
+    },
+    {
       "name": "Athena Brown",
       "total": 140.0,
       "count": 1
     },
     {
       "name": "Kristin Lehmkuhl",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Patricia Malkowski",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "ronald slang",
       "total": 100.0,
       "count": 1
     }

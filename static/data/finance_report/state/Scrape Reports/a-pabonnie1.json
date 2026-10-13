@@ -1,11 +1,16 @@
 {
   "candidate_id": "a-pabonnie1",
-  "entity_id": "12226257",
-  "contributions_received": 1800,
+  "entity_id": 12226257,
+  "contributions_received": 2410.85,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 610.85,
       "count": 1
     },
     {
