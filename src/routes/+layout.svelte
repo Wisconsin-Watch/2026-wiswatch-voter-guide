@@ -164,6 +164,7 @@
 				<div class="footer-credits text-widget">
 					<h5 class="wp-block-heading has-text-align-left">Credits</h5>
 					<p class="has-text-align-left" style="font-size: 14px;"><strong>Reporters:</strong> Brittany Carloni, Zoey Elwood, Audrey Lopez-Stane, Tom Kertscher</p>
+					<p class="has-text-align-left" style="font-size: 14px;"><strong>Data Analysis:</strong> Paul Kiefer</p>
 					<p class="has-text-align-left" style="font-size: 14px;"><strong>Design and development:</strong> Hongyu Liu</p>
 					<p class="has-text-align-left" style="font-size: 14px;"><strong>Editing:</strong> Matthew DeFour</p>
 				</div>
