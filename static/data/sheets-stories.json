@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T15:40:07.265Z",
+  "lastUpdated": "2026-10-14T15:01:27.228Z",
   "stories": [
     {
       "id": 0,
@@ -640,6 +640,26 @@
       "published_date": "2026-10-12T11:00:00.000Z",
       "featured": "yes",
       "featured_img": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse1.jpg?resize=780%2C410&quality=100&ssl=1"
+    },
+    {
+      "id": 64,
+      "url": "https://www.channel3000.com/news/wisconsin-s-3rd-congressional-district-race-could-determine-control-of-u-s-house/article_05ae1adf-8782-40c4-842b-2a80eb2a69c2.html",
+      "race_id": "co-3",
+      "headline": "Wisconsin’s 3rd Congressional District race could determine control of U.S. House",
+      "byline": "Elly Laliberte / Channel3000.com",
+      "published_date": "2026-10-12T21:51:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 65,
+      "url": "https://www.wpr.org/news/republican-glenn-grothman-democrat-brad-smith-wisconsin-6th-congressional-district-2026",
+      "race_id": "co-6",
+      "headline": "Republican US Rep. Glenn Grothman faces Democrat Brad Smith in race for Wisconsin's 6th Congressional District",
+      "byline": "Joe Schulz / WPR",
+      "published_date": "2026-10-13T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
     }
   ]
 }
