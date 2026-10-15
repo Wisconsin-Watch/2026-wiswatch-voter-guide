@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T15:01:27.228Z",
+  "lastUpdated": "2026-10-15T20:22:36.283Z",
   "stories": [
     {
       "id": 0,
@@ -658,6 +658,86 @@
       "headline": "Republican US Rep. Glenn Grothman faces Democrat Brad Smith in race for Wisconsin's 6th Congressional District",
       "byline": "Joe Schulz / WPR",
       "published_date": "2026-10-13T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 66,
+      "url": "https://madison.com/news/local/government-politics/elections/article_d29200ea-8c11-46d7-9377-89f02e307643.html#tracking-source=home-top-story",
+      "race_id": "se-17",
+      "headline": "Meet the candidates for state Senate District 17",
+      "byline": "Wisconsin State Journal",
+      "published_date": "2026-10-13T22:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 67,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/14/republican-croft-democrat-jung-battle-on-affordability-solutions/92219708007/",
+      "race_id": "se-21",
+      "headline": "Where Republican Croft, Democrat Jung stand on issues in Senate race",
+      "byline": "Ricardo Torres / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-14T05:03:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 68,
+      "url": "https://pbswisconsin.org/news-item/what-are-the-top-issues-in-wisconsins-2026-election-for-ag/",
+      "race_id": "ag-1",
+      "headline": "What are the top issues in Wisconsin's 2026 election for AG?",
+      "byline": "Zac Schultz / PBS Wisconsin",
+      "published_date": "2026-09-29T17:00:47.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 69,
+      "url": "https://madison.com/news/local/government-politics/elections/article_6d4a48fa-a3cf-44aa-8a92-5f9ae11c86f0.html",
+      "race_id": "as-42",
+      "headline": "Meet the candidates for state Assembly District 42",
+      "byline": "Wisconsin State Journal",
+      "published_date": "2026-10-14T22:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 70,
+      "url": "https://madison.com/news/local/government-politics/elections/article_cd7a7a1a-e2ed-4c3f-8833-8589aa189cdc.html",
+      "race_id": "as-40",
+      "headline": "Meet the candidates for state Assembly District 40",
+      "byline": "Wisconsin State Journal",
+      "published_date": "2026-10-14T19:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 71,
+      "url": "https://www.hudsonstarobserver.com/news/meet-the-candidates-for-the-30th-assembly-district/article_7e964f22-3ecd-4227-b685-756d5a9aa7cb.html",
+      "race_id": "as-30",
+      "headline": "Meet the candidates for the 30th Assembly District",
+      "byline": "Star-Observer",
+      "published_date": "2026-10-07T11:23:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 72,
+      "url": "https://www.gmtoday.com/daily_news/news/incumbent-dan-knodl-faces-challenger-matt-brown-in-24th-assembly-race/article_8c3e094b-18d3-5853-9c47-cd7c5e72fdfb.html",
+      "race_id": "as-24",
+      "headline": "Incumbent Dan Knodl faces challenger Matt Brown in 24th Assembly race",
+      "byline": "Dan Muckelbauer - GMToday.com Staff / Greater Milwaukee Today",
+      "published_date": "2026-10-15T11:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 73,
+      "url": "https://www.jsonline.com/story/communities/north/2026/10/15/what-to-know-about-the-assembly-district-23-race-deb-andraca-aleaner-pabonnie-whitefish-bay-mequon/92117645007/",
+      "race_id": "as-23",
+      "headline": "What to know about the Assembly District 23 race: Andraca vs. Pabonnie",
+      "byline": "Claudia Levens / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-15T05:02:00.000Z",
       "featured": "",
       "featured_img": ""
     }
