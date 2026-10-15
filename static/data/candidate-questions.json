@@ -130,5 +130,141 @@
   {
     "question_id": "attygen_q5",
     "question_text": "What is your favorite fun Wisconsin history fact?"
+  },
+  {
+    "question_id": "new_q1",
+    "question_text": "Would you agree to hold in-person town halls if elected? Why or why not?"
+  },  
+  {
+    "question_id": "new_q2",
+    "question_text": "What policies are most important to address Americans' concerns about cost of living?"
+  },   
+  {
+    "question_id": "new_q3",
+    "question_text": "What changes, if any, should Congress make to federal tax policy?"
+  },  
+  {
+    "question_id": "new_q4",
+    "question_text": "What should Congress do to prepare workers and the economy for changes due to artificial intelligence and automation?"
+  },  
+  {
+    "question_id": "new_q5",
+    "question_text": "What actions would you take, if any, regarding the reduction in federal funding for special education, school meals and Head Start?"
+  },  
+  {
+    "question_id": "new_q6",
+    "question_text": "What steps can Congress take to alleviate court backlogs in Wisconsin?"
+  },  
+  {
+    "question_id": "new_q7",
+    "question_text": "What federal policies would you prioritize to help address concerns about drug trafficking, overdoses and strains on local law enforcement?"
+  },  
+  {
+    "question_id": "new_q8",
+    "question_text": "How significant an issue is climate change? What would you advocate for related to climate change if elected?"
+  },  
+  {
+    "question_id": "new_q9",
+    "question_text": "Wisconsin’s bipartisan support for a PFAS law to hold polluters accountable and the state's lower maximum contaminant levels for drinking water put it out in front nationally on forever-chemical protections. Some say the best way to prevent PFAS contaminations is to outlaw their use, while others hope to reverse the regulations. How important is this issue? What still needs to be addressed? How should remediation costs be raised?"
+  },  
+  {
+    "question_id": "new_q10",
+    "question_text": "Non-citizen immigrants make up a significant portion of the home health and nursing home workforce. What do you think about federal immigration policy, especially as it relates to the immigrant workforce among Wisconsin’s home health aides and nursing home staff?"
+  },  
+  {
+    "question_id": "new_q11",
+    "question_text": "Wisconsin has a large budget surplus. What should lawmakers prioritize: tax cuts, increased spending on public services, or something else?"
+  },  
+  {
+    "question_id": "new_q12",
+    "question_text": "What policies are most important to address Wisconsinites’ concerns about cost of living?"
+  },  
+  {
+    "question_id": "new_q13",
+    "question_text": "Housing costs have risen in many Wisconsin communities. What role should state government play in creating more affordable housing?"
+  },  
+  {
+    "question_id": "new_q14",
+    "question_text": "What policies would best address Wisconsinites’ concerns about property taxes?"
+  },  
+  {
+    "question_id": "new_q15",
+    "question_text": "Funding of public education has been an issue and has been tied to property taxes for years. Schools often rely on local referendums for funding staffing, programs and maintenance. What specific changes would you support to the state’s school funding formula and how would you pay for them?"
+  },  
+  {
+    "question_id": "new_q16",
+    "question_text": "Should the state direct more funding toward voucher and school-choice programs and what evidence supports your position?"
+  },  
+  {
+    "question_id": "new_q17",
+    "question_text": "What steps can the Legislature take to alleviate court backlogs and address the need for more judges, prosecutors and public defenders?"
+  },  
+  {
+    "question_id": "new_q18",
+    "question_text": "How do you feel about the number of prisons in Wisconsin - should there be more? Less? Why?"
+  },  
+  {
+    "question_id": "new_q19",
+    "question_text": "How significant an issue is climate change? What would you advocate for related to climate change if elected?"
+  },  
+  {
+    "question_id": "new_q20",
+    "question_text": "Wisconsin’s bipartisan support for a PFAS law to hold polluters accountable and the state's lower maximum contaminant levels for drinking water put it out in front nationally on forever-chemical protections. Some say the best way to prevent PFAS contaminations is to outlaw their use, while others hope to reverse the regulations. How important is this issue? What still needs to be addressed? How should remediation costs be raised?"
+  },  
+  {
+    "question_id": "new_q21",
+    "question_text": "What do you think of the implementation process for the new Medicaid work requirements so far in Wisconsin? What has worked? What could be improved?"
+  },  
+  {
+    "question_id": "new_q22",
+    "question_text": "What do you think about funding the 988 crisis line long-term at the state level?"
+  },  
+  {
+    "question_id": "new_q23",
+    "question_text": "Wisconsin has a large budget surplus. What should lawmakers prioritize: tax cuts, increased spending on public services, or something else?"
+  },  
+  {
+    "question_id": "new_q24",
+    "question_text": "What policies are most important to address Wisconsinites’ concerns about cost of living?"
+  },  
+  {
+    "question_id": "new_q25",
+    "question_text": "Housing costs have risen in many Wisconsin communities. What role should state government play in creating more affordable housing?"
+  },  
+  {
+    "question_id": "new_q26",
+    "question_text": "What policies would best address Wisconsinites’ concerns about property taxes?"
+  },  
+  {
+    "question_id": "new_q27",
+    "question_text": "Funding of public education has been an issue and has been tied to property taxes for years. Schools often rely on local referendums for funding staffing, programs and maintenance. What specific changes would you support to the state’s school funding formula and how would you pay for them?"
+  },  
+  {
+    "question_id": "new_q28",
+    "question_text": "Should the state direct more funding toward voucher and school-choice programs and what evidence supports your position?"
+  },  
+  {
+    "question_id": "new_q29",
+    "question_text": "What steps can the Legislature take to alleviate court backlogs and address the need for more judges, prosecutors and public defenders?"
+  },  
+  {
+    "question_id": "new_q30",
+    "question_text": "How do you feel about the number of prisons in Wisconsin - should there be more? Less? Why?"
+  },   
+  {
+    "question_id": "new_q31",
+    "question_text": "How significant an issue is climate change? What would you advocate for related to climate change if elected?"
+  }, 
+  {
+    "question_id": "new_q32",
+    "question_text": "Wisconsin’s bipartisan support for a PFAS law to hold polluters accountable and the state's lower maximum contaminant levels for drinking water put it out in front nationally on forever-chemical protections. Some say the best way to prevent PFAS contaminations is to outlaw their use, while others hope to reverse the regulations. How important is this issue? What still needs to be addressed? How should remediation costs be raised?"
+  },  
+  {
+    "question_id": "new_q33",
+    "question_text": "What do you think of the implementation process for the new Medicaid work requirements so far in Wisconsin? What has worked? What could be improved?"
+  },  
+  {
+    "question_id": "new_q34",
+    "question_text": "What do you think about funding the 988 crisis line long-term at the state level?"
   }
 ]

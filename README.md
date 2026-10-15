@@ -42,3 +42,7 @@
 <h4>Update Oct. 13, 2026</h4>
 
 - Updated funds raised
+
+<h4>Update Oct. 15, 2026</h4>
+
+- Added NEW News Question Answers

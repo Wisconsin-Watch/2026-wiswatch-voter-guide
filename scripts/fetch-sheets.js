@@ -22,6 +22,7 @@ const __dirname = dirname(__filename);
 
 // ── Spreadsheet IDs (same as src/lib/googleSheets.js) ───────────────────────
 const SPREADSHEET_ID        = '1H2tgXpnn7kt8KxvPkLSELsU5ohYFM0p2tvBQJi5M44E';
+const NEW_SPREADSHEET_ID    = '1fBmfpWviIZCtSHEHJs-lo5PsSK3LaxNKqK9RS19aKiY';
 const RACES_SPREADSHEET_ID  = '1XecLv5Q-ZFr-5ijvhHqEiVbX6MPl61jJDmiS4GuG-SY';
 const STORIES_SPREADSHEET_ID = '19-BcTq-ueiZgxwCjEgTbxPSL2LBLyhjJAYmXQn3Bk-E';
 
@@ -122,7 +123,30 @@ function saveIfChanged(filePath, payload) {
 async function fetchCandidates() {
   console.log('Fetching candidates…');
   const data = await fetchSheetValues(SPREADSHEET_ID, "'Candidate'!A:AY");
-  return rowsToObjects((data && data.values) || []);
+  const candidates = rowsToObjects((data && data.values) || []);
+
+  console.log('Fetching additional candidate Q&As…');
+  const metadata = await fetchSpreadsheetMetadata(NEW_SPREADSHEET_ID);
+  const firstSheetName = metadata.sheets?.[0]?.properties?.title;
+  if (!firstSheetName) return candidates;
+
+  const escapedSheetName = firstSheetName.replace(/'/g, "''");
+  const newData = await fetchSheetValues(
+    NEW_SPREADSHEET_ID,
+    `'${escapedSheetName}'!A:ZZ`
+  );
+  const newCandidates = rowsToObjects((newData && newData.values) || []);
+  const answersByCandidateId = new Map(
+    newCandidates.map(({ id: _id, candidate_id, candidate_name: _candidateName, ...answers }) => [
+      candidate_id,
+      answers
+    ])
+  );
+
+  return candidates.map(candidate => {
+    const neoQa = answersByCandidateId.get(candidate.candidate_id);
+    return neoQa ? { ...candidate, neo_qa: neoQa } : candidate;
+  });
 }
 
 async function fetchAllRaces() {

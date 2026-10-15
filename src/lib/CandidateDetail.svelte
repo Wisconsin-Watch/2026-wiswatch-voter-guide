@@ -31,6 +31,17 @@
       answer: candidate?.[q.question_id]
     }))
     .filter(qa => qa.answer && qa.answer.trim() !== '');
+
+  // Get the second batch of candidate data stored under neo_qa. Building this
+  // from neo_qa itself keeps metadata fields such as notes and experience in
+  // the collection, while matching question IDs to their display text.
+  $: newQuestionsAndAnswers = Object.entries(candidate?.neo_qa || {})
+    .map(([question_id, answer]) => ({
+      question_id,
+      question_text: question_id === 'relevant_experience' ? 'Relevant Experience' : questions.find(q => q.question_id === question_id)?.question_text || question_id,
+      answer
+    }))
+    .filter(qa => typeof qa.answer === 'string' && qa.answer.trim() !== '');
   
   // Debug logging
   $: if (browser && candidate && questions.length > 0) {
@@ -40,23 +51,24 @@
     console.log('Q&A details:', candidateQuestionsAndAnswers);
   }
 
-      //Ads
-      import {onMount, tick} from 'svelte';
-onMount(async () => {
-  await tick();
-  await new Promise(requestAnimationFrame);
+  //Ads
+  import {onMount, tick} from 'svelte';
 
-  const zones = document.querySelectorAll('broadstreet-zone');
-  console.log('Broadstreet zones found:', [...zones].map(z => ({
-    id: z.id,
-    zoneId: z.getAttribute('zone-id')
-  })));
+  onMount(async () => {
+    await tick();
+    await new Promise(requestAnimationFrame);
 
-  if (!window.__broadstreetWatched && window.broadstreet?.watch) {
-    window.__broadstreetWatched = true;
-    window.broadstreet.watch({ networkId: 9723 });
-  }
-});
+    const zones = document.querySelectorAll('broadstreet-zone');
+    console.log('Broadstreet zones found:', [...zones].map(z => ({
+      id: z.id,
+      zoneId: z.getAttribute('zone-id')
+    })));
+
+    if (!window.__broadstreetWatched && window.broadstreet?.watch) {
+      window.__broadstreetWatched = true;
+      window.broadstreet.watch({ networkId: 9723 });
+    }
+  });
 
   async function loadTopDonors(candidateId) {
     if (!candidateId) {
@@ -237,6 +249,43 @@ onMount(async () => {
           {/each}
         </div>
       {/each}
+    </div>
+  {/if}
+
+  <!-- NEW Q&As -->
+  {#if newQuestionsAndAnswers.length > 0}
+    <div class="info-section ring bento-section">
+      <div class="logo-container">
+        <div class="new_logo">
+          <img src={base + '/graphics/logos/ne_news_lab.png'} alt="News Lab" loading="lazy" width="150" height="150"/>
+        </div>
+        <h2>NEW News Lab general election questions</h2>
+      </div>
+      <div style="margin-top: 1rem; margin-bottom: 2rem;">
+        <small>
+          <i>
+            The Northeast Wisconsin News Lab sent candidates surveys as part of its coverage of the 2026 election. Answers were limited to no more than 100 words.
+          </i>
+        </small>
+      </div>
+      {#each newQuestionsAndAnswers as qa}
+        <div class="qa-item" style="margin-bottom: 1.5rem;">
+          {#if qa.question_id !== 'new_note'}
+            <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; color: #333;">
+              {qa.question_text}
+            </h3>
+          {/if}
+          {#each qa.answer.split(/\r?\n/).filter(Boolean) as paragraph}
+            <p style="margin: 0; line-height: 1.6; color: #555;">{@html paragraph}</p>
+          {/each}
+        </div>
+      {/each}
+
+      <small>
+        <i>
+            <strong>NEW News Lab general election question</strong> is made possible by our partners at the <a href="https://www.postcrescent.com/">Appleton Post-Crescent</a>, <a href="https://www.gopresstimes.com/">Green Bay Press Times</a>, <a href="https://www.greenbaypressgazette.com/">Green Bay Press-Gazette</a>, <a href="https://www.wpr.org/">Wisconsin Public Radio</a> and <a href="https://www.wisconsinwatch.org/">Wisconsin Watch</a>.
+        </i>
+      </small>
     </div>
   {/if}
 

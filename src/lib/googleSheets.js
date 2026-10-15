@@ -14,6 +14,7 @@
 import { base } from '$app/paths';
 
 const SPREADSHEET_ID = '1H2tgXpnn7kt8KxvPkLSELsU5ohYFM0p2tvBQJi5M44E';
+const NEW_SPREADSHEET_ID = '1fBmfpWviIZCtSHEHJs-lo5PsSK3LaxNKqK9RS19aKiY';
 const RACES_SPREADSHEET_ID = '1XecLv5Q-ZFr-5ijvhHqEiVbX6MPl61jJDmiS4GuG-SY';
 const STORIES_SPREADSHEET_ID = '19-BcTq-ueiZgxwCjEgTbxPSL2LBLyhjJAYmXQn3Bk-E';
 
@@ -89,7 +90,7 @@ async function fetchSpreadsheetMetadataWithCache(spreadsheetId) {
 // Bump this version string any time you make a breaking change to the JSON
 // schema (e.g. column renames). It invalidates all existing sessionStorage
 // caches for every visitor on their next page load.
-const CACHE_VERSION = 'v2';
+const CACHE_VERSION = 'v4';
 
 /**
  * Fetch a pre-generated static JSON file with sessionStorage caching.
@@ -139,12 +140,42 @@ export async function fetchCandidatesFromAPI(sheetName = 'Candidate') {
         if (rows.length === 0) return [];
 
         const headers = rows[0].map(h => h.toLowerCase().replace(/\s+/g, '_'));
-        return rows.slice(1).map((row, index) => {
+        const candidates = rows.slice(1).map((row, index) => {
             const candidate = { id: index };
             headers.forEach((header, i) => {
                 candidate[header] = row[i] || '';
             });
             return candidate;
+        });
+
+        const metadata = await fetchSpreadsheetMetadataWithCache(NEW_SPREADSHEET_ID);
+        const firstSheetName = metadata.sheets?.[0]?.properties?.title;
+        if (!firstSheetName) return candidates;
+
+        const escapedSheetName = firstSheetName.replace(/'/g, "''");
+        const newData = await fetchSheetValuesWithCache(
+            NEW_SPREADSHEET_ID,
+            `'${escapedSheetName}'!A:ZZ`
+        );
+        const newRows = (newData && newData.values) || [];
+        if (newRows.length === 0) return candidates;
+
+        const newHeaders = newRows[0].map(h => h.toLowerCase().replace(/\s+/g, '_'));
+        const answersByCandidateId = new Map(
+            newRows.slice(1).map(row => {
+                const answers = {};
+                newHeaders.forEach((header, i) => {
+                    if (header !== 'candidate_id' && header !== 'candidate_name') {
+                        answers[header] = row[i] || '';
+                    }
+                });
+                return [row[newHeaders.indexOf('candidate_id')], answers];
+            })
+        );
+
+        return candidates.map(candidate => {
+            const neoQa = answersByCandidateId.get(candidate.candidate_id);
+            return neoQa ? { ...candidate, neo_qa: neoQa } : candidate;
         });
     } catch (error) {
         console.error('Error fetching from Google Sheets API:', error);
