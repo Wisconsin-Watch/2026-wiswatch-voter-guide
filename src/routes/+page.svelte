@@ -1849,6 +1849,7 @@
                                     <h3 class="wp-block-heading has-text-align-center"><strong>How do you check if you're registered?</strong></h3>
                                     <p>You can check your registration status on the MyVote Wisconsin website <a href="https://myvote.wi.gov/en-us/Register-To-Vote">here</a> by entering your name and date of birth.</p>
                                     <p>The deadline to register <a href="https://myvote.wi.gov/en-us/Register-To-Vote">online</a> or by mail is Oct. 14. The deadline to register in person at your municipal clerk's office is Oct. 30 at 5 p.m. If you haven't registered to vote before Nov. 3, don't panic. You can register to vote in person at your polling place on Election Day. You'll just need to bring an <a href="https://myvote.wi.gov/Portals/0/Documents/AcceptablePhotoIDs.pdf?ver=vS9TnMVULlI9Yi0mGe-P0g%3D%3D">accepted form of ID</a> and <a href="https://myvote.wi.gov/Portals/0/Documents/ProofOfResidence.pdf?ver=vS9TnMVULlI9Yi0mGe-P0g%3d%3d">proof of residence</a> (and meet the voting requirements).</p>
+                                    <p>Need a free photo ID? You can follow <a href="https://wisconsinwatch.org/2026/10/wisconsin-how-to-get-free-photo-voter-id-before-november-election/">this tutorial</a>.</p>
                                 </div>
                                 <div class="bento-image-container">
                                     <img srcset="https://wisconsinwatch.org/wp-content/uploads/2024/11/20241105-General-Election-Voting-Timmerman-44.jpg">

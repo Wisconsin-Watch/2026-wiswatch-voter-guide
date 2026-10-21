@@ -4,6 +4,24 @@
 
 <h1>Release Update</h1>
 
+<h4>Update Oct. 15, 2026</h4>
+
+- Added NEW News Question Answers
+
+<h4>Update Oct. 13, 2026</h4>
+
+- Updated funds raised
+
+<h4>Update Oct. 1, 2026</h4>
+
+- Favicon update
+
+<h4>Update Sept. 16, 2026</h4>
+
+- Styling update
+- Add function of looking for candidate race via names
+- Add constitution amendment questions page
+
 <h4>Update Aug. 4, 2026</h4>
 
 - Updated campaign finance information.
@@ -28,21 +46,3 @@
 - Updated Geocoding service to Mapbox v6.
 - Fixed bug for not able to jump back to homepage in iframe.
 - Candidates now sorted by last name.
-
-<h4>Update Sept. 16, 2026</h4>
-
-- Styling update
-- Add function of looking for candidate race via names
-- Add constitution amendment questions page
-
-<h4>Update Oct. 1, 2026</h4>
-
-- Favicon update
-
-<h4>Update Oct. 13, 2026</h4>
-
-- Updated funds raised
-
-<h4>Update Oct. 15, 2026</h4>
-
-- Added NEW News Question Answers
