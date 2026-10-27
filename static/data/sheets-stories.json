@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T20:22:36.283Z",
+  "lastUpdated": "2026-10-27T16:31:04.435Z",
   "stories": [
     {
       "id": 0,
@@ -738,6 +738,186 @@
       "headline": "What to know about the Assembly District 23 race: Andraca vs. Pabonnie",
       "byline": "Claudia Levens / Milwaukee Journal Sentinel",
       "published_date": "2026-10-15T05:02:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 74,
+      "url": "https://apnews.com/article/wisconsin-governor-tiffany-crowley-trump-b92fe76b37132a38ecedfb8ff371e3e9",
+      "race_id": "go-1",
+      "headline": "Wisconsin’s Republican candidate for governor keeps his distance from Trump in nail-biter campaign",
+      "byline": "Scott Bauer / AP",
+      "published_date": "2026-10-15T09:40:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 75,
+      "url": "https://www.wpr.org/news/republican-incumbent-tony-wied-democrat-rick-crosson-northeast-wisconsin-8th-congressional-district",
+      "race_id": "co-8",
+      "headline": "Republican incumbent Tony Wied faces Democrat Rick Crosson in northeast Wisconsin Congressional race",
+      "byline": "Joe Schulz / WPR",
+      "published_date": "2026-10-16T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 76,
+      "url": "https://journaltimes.com/news/local/government-politics/elections/article_17f8b6eb-2be9-40bc-bd36-f33c012361aa.html#tracking-source=home-top-story",
+      "race_id": "as-62",
+      "headline": "Candidate Q&A: State Assembly District 62",
+      "byline": "Ryan Patterson / Journal Times",
+      "published_date": "2026-10-20T13:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 77,
+      "url": "https://madison.com/news/state-regional/wisconsin/article_caed10b1-902c-568e-b08e-e24b19155886.html",
+      "race_id": "se-21",
+      "headline": "Meet the candidates for state Senate District 21",
+      "byline": "Ryan Patterson / Wisconsin State Journal",
+      "published_date": "2026-10-20T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 78,
+      "url": "https://madison.com/news/local/government-politics/elections/article_8ebdbe5d-6905-452d-bef5-e0777f63f149.html",
+      "race_id": "as-76",
+      "headline": "Meet the candidates for state Assembly District 76",
+      "byline": "Wisconsin State Journal",
+      "published_date": "2026-10-19T22:25:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 79,
+      "url": "https://www.gmtoday.com/daily_news/news/two-newcomers-square-off-for-district-58-seat/article_a6a66912-1e90-54c0-94d7-edc4b8d11a9b.html",
+      "race_id": "as-58",
+      "headline": "2 newcomers square off for District 58 seat",
+      "byline": "Grayson Sewell / Greater Milwaukee Today",
+      "published_date": "2026-10-20T11:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 80,
+      "url": "https://www.jsonline.com/story/news/politics/2026/10/20/michael-alfonso-fred-clark-face-off-in-wisconsins-7th-district/91562320007/",
+      "race_id": "co-7",
+      "headline": "What to know about the two candidates in Wisconsin's 7th District",
+      "byline": "Laura Schulte / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-20T13:43:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 81,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/20/what-to-know-about-the-rebecca-cooke-derrick-van-orden-rematch/91562332007/",
+      "race_id": "co-3",
+      "headline": "What to know about the Rebecca Cooke, Derrick Van Orden rematch",
+      "byline": "Laura Schulte / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-20T05:01:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 82,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/19/steil-berman-talk-issues-in-the-race-for-congress-and-their-solutions/92252483007/",
+      "race_id": "co-1",
+      "headline": "Steil, Berman talk issues in the race for Congress and their solutions",
+      "byline": "Ricardo Torres / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-19T10:26:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 83,
+      "url": "https://www.wpr.org/news/josh-kaul-eric-toney-rematch-attorney-general-2026",
+      "race_id": "ag-1",
+      "headline": "Trump looms large in rematch for Wisconsin attorney general between Kaul, Toney",
+      "byline": "Sarah Lehr / WPR",
+      "published_date": "2026-10-21T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 84,
+      "url": "https://www.leadertelegram.com/news/daily-updates/phelps-ayala-square-off-for-assembly-seat-93/article_3b490aec-360c-448a-9575-080debb643be.html",
+      "race_id": "as-93",
+      "headline": "Phelps, Ayala square off for Assembly seat 93",
+      "byline": "Chris Vetter / Leader-Telegram",
+      "published_date": "2026-10-21T00:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 85,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/22/meet-the-assembly-district-13-candidates-amy-zimmerman-and-mike-morgan/91908067007/",
+      "race_id": "as-13",
+      "headline": "Meet the Assembly District 13 candidates Amy Zimmerman and Mike Morgan",
+      "byline": "Bridget Fogarty / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-22T05:01:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 86,
+      "url": "https://www.wpr.org/news/democrat-angela-stroud-73rd-assembly-district-school-funding-property-taxes",
+      "race_id": "as-73",
+      "headline": "Democrat Angela Stroud focuses on state school funding for property tax relief in Assembly race",
+      "byline": "Robin Washington / WPR",
+      "published_date": "2026-10-22T10:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 87,
+      "url": "https://captimes.com/news/elections/marklein-jacobson-matchup-could-decide-control-of-wisconsin-senate/article_1b1c4abc-b129-47b2-8d00-eee80f74accc.html",
+      "race_id": "se-17",
+      "headline": "Marklein, Jacobson matchup could decide control of Wisconsin Senate",
+      "byline": "Olivia Herken / The Cap Times",
+      "published_date": "2026-10-22T10:10:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 88,
+      "url": "https://www.jsonline.com/story/news/politics/elections/2026/10/22/ryan-clancy-faces-republican-challenger-in-yasmine-outlaw/92327316007/",
+      "race_id": "as-19",
+      "headline": "Ryan Clancy takes on Yasmine Outlaw in Wisconsin statehouse election",
+      "byline": "Blaise Mesa / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-22T10:05:03.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 89,
+      "url": "https://www.gmtoday.com/daily_news/news/melotik-and-glasstein-in-race-for-district-22-assembly-seat/article_9da753e7-e1ec-58d4-bbe7-0c7adfd51efb.html",
+      "race_id": "as-22",
+      "headline": "Melotik and Glasstein in race for District 22 Assembly seat",
+      "byline": "Daily News Staff / Greater Milwaukee Today",
+      "published_date": "2026-10-23T11:30:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 90,
+      "url": "https://www.gmtoday.com/the_freeman/news/assembly-13-candidates-focus-on-affordability-education/article_3fcd81ff-31c8-5062-80ba-c7c1b33b598b.html",
+      "race_id": "as-13",
+      "headline": "Assembly 13 candidates focus on affordability, education",
+      "byline": "Dan Muckelbauer / Greater Milwaukee Today",
+      "published_date": "2026-10-23T11:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 91,
+      "url": "https://www.superiortelegram.com/news/local/73rd-district-wisconsin-assembly-race-a-rematch",
+      "race_id": "as-73",
+      "headline": "73rd District Wisconsin Assembly race a rematch",
+      "byline": "Shelley Nelson / Superior Telegram",
+      "published_date": "2026-10-21T16:33:00.000Z",
       "featured": "",
       "featured_img": ""
     }
