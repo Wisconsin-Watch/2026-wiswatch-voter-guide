@@ -1,8 +1,13 @@
 {
   "candidate_id": "k-mogel1",
   "entity_id": 12229744,
-  "contributions_received": 5921.45,
+  "contributions_received": 8946.45,
   "top_donors": [
+    {
+      "name": "Wisconsin Democratic Party",
+      "total": 2000.0,
+      "count": 1
+    },
     {
       "name": "Wisconsin Education Association Council",
       "total": 1000.0,
@@ -29,29 +34,24 @@
       "count": 1
     },
     {
+      "name": "Patrick Vincent Meier",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "PATRICK V MEIER",
+      "total": 200.0,
+      "count": 1
+    },
+    {
       "name": "Janet Byers",
       "total": 200.0,
       "count": 2
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 104.7,
+      "name": "Kathleen Hinck",
+      "total": 125.0,
       "count": 2
-    },
-    {
-      "name": "Brad Mabry",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Paul Sexton",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Carolyn Saunders",
-      "total": 100.0,
-      "count": 1
     }
   ]
 }

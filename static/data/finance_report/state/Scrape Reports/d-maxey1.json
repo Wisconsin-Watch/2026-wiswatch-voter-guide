@@ -1,20 +1,25 @@
 {
   "candidate_id": "d-maxey1",
   "entity_id": 664296,
-  "contributions_received": 8456.33,
+  "contributions_received": 10693.26,
   "top_donors": [
-    {
-      "name": "Diane Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "ABCPAC-WIS",
       "total": 1000.0,
       "count": 1
     },
     {
+      "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane Hendricks",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +39,17 @@
       "count": 1
     },
     {
+      "name": "Rance Hilton",
+      "total": 400.0,
+      "count": 1
+    },
+    {
       "name": "Richard Burckle",
       "total": 400.0,
       "count": 2
     },
     {
       "name": "Thomas Michalski",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Aggregate Producers of Wisconsin Political Action Committee",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "James Leef",
       "total": 250.0,
       "count": 1
     }

@@ -1,30 +1,15 @@
 {
   "candidate_id": "k-hurd1",
   "entity_id": 17168,
-  "contributions_received": 33054.0,
+  "contributions_received": 38379.0,
   "top_donors": [
     {
-      "name": "Diane M Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Credit Union League",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Alliant Energy Wisconsin Governmental Action Committee",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Concerned Realtors Committee",
+      "name": "Volunteers for Agriculture VFA",
       "total": 1000.0,
       "count": 1
     },
@@ -34,12 +19,12 @@
       "count": 1
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "Taxpayers for Nygren",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "GOPAC",
+      "name": "Republican Party of Marathon County",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +34,22 @@
       "count": 1
     },
     {
+      "name": "Realtors Association of Northeast Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane M Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Credit Union League",
       "total": 1000.0,
       "count": 1
     }

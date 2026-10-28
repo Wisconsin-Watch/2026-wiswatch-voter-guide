@@ -1,12 +1,17 @@
 {
   "candidate_id": "b-brist1",
   "entity_id": 12160243,
-  "contributions_received": 492360.21,
+  "contributions_received": 1302468.03,
   "top_donors": [
     {
+      "name": "Assembly Democratic Camp Comm",
+      "total": 763399.46,
+      "count": 4
+    },
+    {
       "name": "Democratic Party of Wisconsin",
-      "total": 377502.52,
-      "count": 7
+      "total": 377582.19,
+      "count": 8
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -24,32 +29,27 @@
       "count": 2
     },
     {
+      "name": "States Win Federal PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Zoe Aron",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Mark Ediger",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Robert Haselow",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Greater Than PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Keith Bonin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Steven Brist",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Lee Stettner",
-      "total": 1000.0,
-      "count": 4
-    },
-    {
-      "name": "Tom Merfeld",
+      "name": "Justine Haselow",
       "total": 1000.0,
       "count": 1
     }

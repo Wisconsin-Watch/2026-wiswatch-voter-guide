@@ -1,7 +1,7 @@
 {
   "candidate_id": "p-karas1",
   "entity_id": 10042337,
-  "contributions_received": 34902.24,
+  "contributions_received": 38147.24,
   "top_donors": [
     {
       "name": "Peter Karas",
@@ -10,8 +10,13 @@
     },
     {
       "name": "Halley Karas",
-      "total": 5250.0,
-      "count": 5
+      "total": 6000.0,
+      "count": 6
+    },
+    {
+      "name": "Wisconsin Green Party",
+      "total": 3100.0,
+      "count": 2
     },
     {
       "name": "Jane Karas",
@@ -30,11 +35,6 @@
     },
     {
       "name": "GPUS",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Green Party",
       "total": 1000.0,
       "count": 1
     },

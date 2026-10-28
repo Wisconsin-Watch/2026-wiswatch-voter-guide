@@ -1,25 +1,10 @@
 {
   "candidate_id": "d-knodl1",
   "entity_id": 664207,
-  "contributions_received": 23510.0,
+  "contributions_received": 29465.0,
   "top_donors": [
     {
-      "name": "Jan Miller",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Chad Johnson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Daniel Minahan",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Carter Johnson",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -29,7 +14,22 @@
       "count": 1
     },
     {
-      "name": "Tavern Industry PAC",
+      "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathleen Coakley",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Daniel Minahan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Nygren",
       "total": 1000.0,
       "count": 1
     },
@@ -39,18 +39,18 @@
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
+      "name": "REALTORS Assn of SC WI PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Chad Johnson",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "James Marshall",
-      "total": 567.0,
+      "name": "Jan Miller",
+      "total": 1000.0,
       "count": 1
     }
   ]

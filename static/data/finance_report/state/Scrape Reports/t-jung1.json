@@ -1,12 +1,22 @@
 {
   "candidate_id": "t-jung1",
   "entity_id": 11956743,
-  "contributions_received": 1101055.18,
+  "contributions_received": 2169057.71,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 811743.85,
-      "count": 10
+      "total": 1822368.85,
+      "count": 14
+    },
+    {
+      "name": "Randal Spears",
+      "total": 3445.0,
+      "count": 2
+    },
+    {
+      "name": "Barbara Stuart",
+      "total": 3000.0,
+      "count": 2
     },
     {
       "name": "Norman D Durment",
@@ -14,42 +24,32 @@
       "count": 4
     },
     {
-      "name": "Democratic Party of Ozaukee County",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Jane Durment",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Marc Katz",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "United Association of Journeyman & 75 PPF",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Weston Milliken",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Ross Boucher",
-      "total": 2000.0,
+      "name": "Barry Kramer",
+      "total": 2500.0,
       "count": 2
     },
     {
-      "name": "Bashar Qedan",
+      "name": "Mark D. Ediger",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Leaders We Deserve",
+      "name": "International Union of Operating Engineers Local 139 PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW-PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
       "total": 2000.0,
       "count": 1
     }

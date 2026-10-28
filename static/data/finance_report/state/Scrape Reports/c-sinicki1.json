@@ -1,15 +1,15 @@
 {
   "candidate_id": "c-sinicki1",
   "entity_id": 15747,
-  "contributions_received": 17079.7,
+  "contributions_received": 19129.7,
   "top_donors": [
     {
-      "name": "Mark Thomsen",
+      "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Laborers District Council",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,6 +29,11 @@
       "count": 1
     },
     {
+      "name": "WI Laborers District Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Council of Auto & Truck Retail Political Action Committee",
       "total": 1000.0,
       "count": 1
@@ -39,18 +44,13 @@
       "count": 1
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
+      "name": "Mark Thomsen",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "AFSCME PEOPLE",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Bell Ambulance, Inc. Employees PAC",
-      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,15 +1,10 @@
 {
   "candidate_id": "b-newman1",
   "entity_id": 12226473,
-  "contributions_received": 9921.0,
+  "contributions_received": 11234.0,
   "top_donors": [
     {
-      "name": "Walter Krueger",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "JoAnn Krueger",
       "total": 1000.0,
       "count": 1
     },
@@ -24,7 +19,12 @@
       "count": 1
     },
     {
-      "name": "JoAnn Krueger",
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Walter Krueger",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +44,12 @@
       "count": 1
     },
     {
-      "name": "Louis Glassman",
+      "name": "David Dahms",
       "total": 250.0,
       "count": 1
     },
     {
-      "name": "David Dahms",
+      "name": "Louis Glassman",
       "total": 250.0,
       "count": 1
     }

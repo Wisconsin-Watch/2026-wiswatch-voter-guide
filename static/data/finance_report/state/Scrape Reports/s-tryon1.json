@@ -1,10 +1,35 @@
 {
   "candidate_id": "s-tryon1",
   "entity_id": 11964924,
-  "contributions_received": 12313.14,
+  "contributions_received": 18201.82,
   "top_donors": [
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2200.85,
+      "count": 6
+    },
+    {
+      "name": "Elyce Sheehan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Connor Tryon",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "WEAC Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AFSCME Council 32",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rick Tryon",
       "total": 1000.0,
       "count": 1
     },
@@ -19,37 +44,12 @@
       "count": 1
     },
     {
-      "name": "Elyce Sheehan",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Rick Tryon",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "James  Tryon",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jiangnan Zhu",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Elizabeth Schweppe",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Michael Tryon",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Jiangnan Zhu",
       "total": 500.0,
       "count": 1
     }

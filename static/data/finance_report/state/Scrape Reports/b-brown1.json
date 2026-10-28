@@ -1,15 +1,25 @@
 {
   "candidate_id": "b-brown1",
   "entity_id": 1147635,
-  "contributions_received": 53857.26,
+  "contributions_received": 71859.17,
   "top_donors": [
+    {
+      "name": "Assembly Democratic Camp Comm",
+      "total": 5878.98,
+      "count": 1
+    },
     {
       "name": "Democratic Party of Jefferson County",
       "total": 3000.0,
       "count": 1
     },
     {
-      "name": "Everett Long",
+      "name": "Democratic Party of Wisconsin",
+      "total": 1839.67,
+      "count": 2
+    },
+    {
+      "name": "Alliant Energy PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,22 +29,12 @@
       "count": 1
     },
     {
-      "name": "TIP for WI",
+      "name": "Democratic Party of Rock County",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Gayle Stettler",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Education Assoication Council PAC WEAC PAC 33",
+      "name": "Everett Long",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +44,12 @@
       "count": 1
     },
     {
-      "name": "steve Berry",
+      "name": "Operating Engineers Local 139 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "The Democratic Party of Wisconsin",
+      "name": "Wisconsin Education Assoication Council PAC WEAC PAC 33",
       "total": 1000.0,
       "count": 1
     }

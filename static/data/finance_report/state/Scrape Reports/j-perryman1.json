@@ -1,8 +1,13 @@
 {
   "candidate_id": "j-perryman1",
   "entity_id": 11957402,
-  "contributions_received": 29418.24,
+  "contributions_received": 36343.43,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2184.37,
+      "count": 4
+    },
     {
       "name": "Democratic Party of Walworth County",
       "total": 2090.25,
@@ -14,27 +19,7 @@
       "count": 2
     },
     {
-      "name": "Michael Freeborn",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jane Taylor",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ty Laurie",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Belinda Bauer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Adam Kazimierz Duda",
+      "name": "Peter Hazelhorst",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +29,27 @@
       "count": 1
     },
     {
+      "name": "Johan O'Regan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Michael Freeborn",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Policital Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Diane Schuchardt",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "WEAC Policital Action Committee",
+      "name": "Adam Kazimierz Duda",
       "total": 1000.0,
       "count": 1
     }

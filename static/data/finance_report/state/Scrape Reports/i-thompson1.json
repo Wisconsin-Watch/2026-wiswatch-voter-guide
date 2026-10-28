@@ -1,11 +1,16 @@
 {
   "candidate_id": "i-thompson1",
   "entity_id": 12044310,
-  "contributions_received": 9195.47,
+  "contributions_received": 11050.14,
   "top_donors": [
     {
       "name": "Dunn County Democratic Party",
       "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "BARRON COUNTY DEMOCTRATIC PARTY",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -24,7 +29,12 @@
       "count": 1
     },
     {
-      "name": "mary bygd",
+      "name": "adam staff",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "adam staff",
       "total": 200.0,
       "count": 1
     },
@@ -39,17 +49,7 @@
       "count": 1
     },
     {
-      "name": "adam staff",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "kris schoonover",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "glen anderson",
+      "name": "mary bygd",
       "total": 200.0,
       "count": 1
     }

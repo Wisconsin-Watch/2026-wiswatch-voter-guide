@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-roe1",
   "entity_id": 1149157,
-  "contributions_received": 32162.48,
+  "contributions_received": 36867.15,
   "top_donors": [
     {
       "name": "Cynthia Squire",
@@ -9,7 +9,7 @@
       "count": 2
     },
     {
-      "name": "Ann Roe",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,22 +19,17 @@
       "count": 1
     },
     {
+      "name": "Arra Lasse",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ann Roe",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Alliant Energy PCA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Democratic Party of Rock County",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jonathan Roe",
       "total": 1000.0,
       "count": 1
     },
@@ -44,14 +39,19 @@
       "count": 1
     },
     {
-      "name": "Arra Lasse",
+      "name": "Jonathan Roe",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Democratic Party of Rock County",
       "total": 1000.0,
-      "count": 2
+      "count": 1
+    },
+    {
+      "name": "WEAC",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "l-white1",
   "entity_id": 11946761,
-  "contributions_received": 22673.81,
+  "contributions_received": 22673.94,
   "top_donors": [
     {
       "name": "Lisa Rose White",
@@ -24,17 +24,17 @@
       "count": 2
     },
     {
-      "name": "Barbara Woodriff",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Joseph Patrick Eckstein",
       "total": 500.0,
       "count": 1
     },
     {
       "name": "Joan Harvey",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Barbara Woodriff",
       "total": 500.0,
       "count": 1
     },
@@ -49,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "Tammi J. Droessler",
+      "name": "irene Kendall",
       "total": 250.0,
       "count": 1
     }

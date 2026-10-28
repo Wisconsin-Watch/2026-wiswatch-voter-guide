@@ -1,10 +1,45 @@
 {
   "candidate_id": "t-august1",
   "entity_id": 16263,
-  "contributions_received": 137245.16,
+  "contributions_received": 217701.1,
   "top_donors": [
     {
-      "name": "Hugh McLaughlin",
+      "name": "Republican Party of Walworth County",
+      "total": 13615.86,
+      "count": 5
+    },
+    {
+      "name": "Dean Cady",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tad Eggenberger",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Matthew Siebenaler",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Joe Tilton",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "robert marchant",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Milwaukee Police Association Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy WI Gov Act Cte",
       "total": 1000.0,
       "count": 1
     },
@@ -14,42 +49,7 @@
       "count": 1
     },
     {
-      "name": "Operating Engineers 139 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEC Energy Group PAC (WEC PAC)",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WRA WI Restaurant Assn PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "American Family PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "AT&T Wisconsin Employee PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Forest Co Potawatomi Comm PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Credit Union Legislative Action Fund",
+      "name": "WI Soc Anesthesiologists PAC",
       "total": 1000.0,
       "count": 1
     }

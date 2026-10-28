@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-brown1",
   "entity_id": 1147683,
-  "contributions_received": 4273.0,
+  "contributions_received": 7534.27,
   "top_donors": [
     {
       "name": "Matthew Alan Brown",
@@ -9,8 +9,23 @@
       "count": 3
     },
     {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI PEOPLE Conference",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Michael Dill",
       "total": 999.0,
+      "count": 1
+    },
+    {
+      "name": "Neal Berger",
+      "total": 250.0,
       "count": 1
     },
     {
@@ -19,38 +34,23 @@
       "count": 2
     },
     {
+      "name": "Schneider Angela",
+      "total": 200.0,
+      "count": 1
+    },
+    {
       "name": "Judy Zwitter",
       "total": 200.0,
       "count": 1
     },
     {
-      "name": "Katherine Anderson",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Jim McBride",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Shirley Ellis",
-      "total": 100.0,
+      "name": "Linda Voelz",
+      "total": 200.0,
       "count": 1
     },
     {
       "name": "Rodney Bartlow",
       "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Lisa Schultz",
-      "total": 50.0,
-      "count": 1
-    },
-    {
-      "name": "Carla Giordana",
-      "total": 50.0,
       "count": 1
     }
   ]

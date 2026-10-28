@@ -1,10 +1,15 @@
 {
   "candidate_id": "c-callahan1",
   "entity_id": 16222,
-  "contributions_received": 22612.0,
+  "contributions_received": 34327.0,
   "top_donors": [
     {
-      "name": "Wisconsin Credit Union Legislative Action Fund",
+      "name": "Republican Party of Marathon County",
+      "total": 1420.0,
+      "count": 2
+    },
+    {
+      "name": "Thrivent Wisconsin PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -14,17 +19,12 @@
       "count": 1
     },
     {
+      "name": "Realtors Political Action Committee RPAC-Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Alliant Energy Wisconsin Governmental Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "The Travelers Companies, Inc. Political Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +34,22 @@
       "count": 1
     },
     {
-      "name": "Realtors Political Action Committee RPAC-Wisconsin",
+      "name": "The Travelers Companies, Inc. Political Action Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "CareSource Mission PAC",
+      "name": "Leonard E Boltz",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Thrivent Wisconsin PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Republican Party of Langlade County",
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     }

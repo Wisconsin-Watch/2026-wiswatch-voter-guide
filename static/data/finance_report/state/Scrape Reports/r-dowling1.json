@@ -1,7 +1,7 @@
 {
   "candidate_id": "r-dowling1",
   "entity_id": 12229665,
-  "contributions_received": 1753.18,
+  "contributions_received": 1828.18,
   "top_donors": [
     {
       "name": "Rachael Anna Dowling",
@@ -19,12 +19,12 @@
       "count": 1
     },
     {
-      "name": "Mary Gay",
+      "name": "Leigh Pennings",
       "total": 100.0,
       "count": 1
     },
     {
-      "name": "Leigh Pennings",
+      "name": "Mary Gay",
       "total": 100.0,
       "count": 1
     },
@@ -34,7 +34,12 @@
       "count": 1
     },
     {
-      "name": "Monique R. Gonzales",
+      "name": "Lindsay Thorson",
+      "total": 75.0,
+      "count": 1
+    },
+    {
+      "name": "Melanie Kading",
       "total": 50.0,
       "count": 1
     },
@@ -44,13 +49,8 @@
       "count": 1
     },
     {
-      "name": "Melanie Kading",
+      "name": "Monique R. Gonzales",
       "total": 50.0,
-      "count": 1
-    },
-    {
-      "name": "Lousie Zenefski",
-      "total": 25.0,
       "count": 1
     }
   ]

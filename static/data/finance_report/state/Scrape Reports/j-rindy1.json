@@ -1,12 +1,22 @@
 {
   "candidate_id": "j-rindy1",
   "entity_id": 12164720,
-  "contributions_received": 14436.02,
+  "contributions_received": 16900.74,
   "top_donors": [
     {
       "name": "John Rindy",
-      "total": 9435.04,
-      "count": 71
+      "total": 9615.09,
+      "count": 74
+    },
+    {
+      "name": "WEAC Region 6 Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 516.95,
+      "count": 2
     },
     {
       "name": "Tom Caywood",
@@ -14,22 +24,22 @@
       "count": 6
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 437.28,
-      "count": 1
-    },
-    {
       "name": "Rebecca Gottlieb",
       "total": 360.0,
       "count": 1
     },
     {
-      "name": "Sylvia Peckham",
+      "name": "Tom Caywood",
+      "total": 350.0,
+      "count": 2
+    },
+    {
+      "name": "Joyce Bos",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "Joyce Bos",
+      "name": "Sylvia Peckham",
       "total": 300.0,
       "count": 1
     },
@@ -39,17 +49,7 @@
       "count": 3
     },
     {
-      "name": "Richard Rundell",
-      "total": 250.0,
-      "count": 1
-    },
-    {
       "name": "Sheila Tranel",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Crawford County Democratic Party",
       "total": 250.0,
       "count": 1
     }

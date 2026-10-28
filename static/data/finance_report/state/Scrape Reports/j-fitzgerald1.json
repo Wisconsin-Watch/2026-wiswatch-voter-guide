@@ -1,45 +1,20 @@
 {
   "candidate_id": "j-fitzgerald1",
   "entity_id": 16212,
-  "contributions_received": 34800.08,
+  "contributions_received": 55666.05,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 14100.41,
+      "count": 6
+    },
     {
       "name": "Democratic Party of Jefferson County",
       "total": 6500.0,
       "count": 2
     },
     {
-      "name": "Joan Jones",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Alliant Energy Wisconsin Governmental Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "WI Laborers District Council",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Assn of SC WI PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -49,9 +24,34 @@
       "count": 1
     },
     {
-      "name": "Joan Fitzgerald",
-      "total": 551.01,
-      "count": 4
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WI PEOPLE Conference",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 6 Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy Wisconsin Governmental Action Committee",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

@@ -1,12 +1,17 @@
 {
   "candidate_id": "j-kaul1",
   "entity_id": 16762,
-  "contributions_received": 1751425.15,
+  "contributions_received": 2341754.17,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 144118.39,
-      "count": 11
+      "total": 303426.38,
+      "count": 15
+    },
+    {
+      "name": "THE PAC OF THE INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+      "total": 44000.0,
+      "count": 1
     },
     {
       "name": "WEAC PAC",
@@ -16,6 +21,16 @@
     {
       "name": "Operating Engineers 139 PAC",
       "total": 44000.0,
+      "count": 2
+    },
+    {
+      "name": "Democracy Defenders PAC",
+      "total": 44000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 40000.0,
       "count": 2
     },
     {
@@ -29,22 +44,7 @@
       "count": 1
     },
     {
-      "name": "Ross Boucher",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Rothman",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Rachel Dow",
+      "name": "Donald Katz",
       "total": 20000.0,
       "count": 1
     },

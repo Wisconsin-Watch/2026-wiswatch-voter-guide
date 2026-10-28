@@ -1,20 +1,30 @@
 {
   "candidate_id": "c-able1",
   "entity_id": 12225682,
-  "contributions_received": 21133.57,
+  "contributions_received": 28233.43,
   "top_donors": [
     {
-      "name": "Christopher Able",
-      "total": 3735.92,
-      "count": 10
+      "name": "Manitowoc County Democratic Party",
+      "total": 5000.0,
+      "count": 2
     },
     {
-      "name": "Manitowoc County Democratic Party",
-      "total": 2500.0,
+      "name": "Christopher Able",
+      "total": 3750.92,
+      "count": 11
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 1500.86,
+      "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Richard Holgate",
+      "name": "International Brotherhood of Electrical Workers Local 494",
       "total": 1000.0,
       "count": 1
     },
@@ -24,32 +34,22 @@
       "count": 1
     },
     {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Mimi Munch",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Linda Wenzel",
-      "total": 500.0,
+      "name": "Richard Holgate",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Dave and Joan Estes",
-      "total": 500.0,
-      "count": 1
+      "name": "Susan Barry",
+      "total": 1000.0,
+      "count": 2
     },
     {
-      "name": "Annette Kaminsky",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC Region 3 PAC",
+      "name": "Ann Salutz",
       "total": 500.0,
       "count": 1
     }

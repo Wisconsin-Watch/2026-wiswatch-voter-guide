@@ -1,10 +1,15 @@
 {
   "candidate_id": "j-marschall1",
   "entity_id": 12169632,
-  "contributions_received": 5915.52,
+  "contributions_received": 7584.19,
   "top_donors": [
     {
       "name": "Wisconsin Education Association Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -14,13 +19,18 @@
       "count": 2
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 663.04,
+      "count": 4
+    },
+    {
       "name": "Gertrude Pickett",
       "total": 600.0,
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 583.37,
+      "name": "Peter Kronzer",
+      "total": 400.0,
       "count": 3
     },
     {
@@ -29,9 +39,9 @@
       "count": 1
     },
     {
-      "name": "Peter Kronzer",
+      "name": "6th Congressional District Democratic Party of Wisconsin",
       "total": 300.0,
-      "count": 2
+      "count": 1
     },
     {
       "name": "Democratic Party of Outagamie County",
@@ -42,16 +52,6 @@
       "name": "Gary Goyke",
       "total": 250.0,
       "count": 1
-    },
-    {
-      "name": "Tina Smith",
-      "total": 244.04,
-      "count": 3
-    },
-    {
-      "name": "Susan Zuege",
-      "total": 200.0,
-      "count": 2
     }
   ]
 }

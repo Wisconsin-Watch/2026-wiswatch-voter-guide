@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-mccormick1",
   "entity_id": 12230011,
-  "contributions_received": 18598.32,
+  "contributions_received": 19098.32,
   "top_donors": [
     {
       "name": "Republican Party of Dane County",
@@ -24,11 +24,6 @@
       "count": 1
     },
     {
-      "name": "Holly Jensen",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Eric Hovde",
       "total": 1000.0,
       "count": 1
@@ -39,7 +34,7 @@
       "count": 1
     },
     {
-      "name": "Sarah Kelly",
+      "name": "Jane Villa",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +44,12 @@
       "count": 1
     },
     {
-      "name": "Jane Villa",
+      "name": "Sarah Kelly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Holly Jensen",
       "total": 1000.0,
       "count": 1
     }

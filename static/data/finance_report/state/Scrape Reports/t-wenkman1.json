@@ -1,12 +1,17 @@
 {
   "candidate_id": "t-wenkman1",
   "entity_id": 12156696,
-  "contributions_received": 34174.43,
+  "contributions_received": 37262.96,
   "top_donors": [
     {
       "name": "Democratic Party of Jefferson County",
       "total": 10500.0,
       "count": 2
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2597.23,
+      "count": 5
     },
     {
       "name": "Terri Wenkman",
@@ -24,19 +29,19 @@
       "count": 1
     },
     {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Peggy Schwartz",
       "total": 1000.0,
       "count": 1
     },
     {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Terri Wenkman",
-      "total": 952.67,
-      "count": 13
+      "total": 922.67,
+      "count": 14
     },
     {
       "name": "Dodge County Democratic Party",
@@ -47,11 +52,6 @@
       "name": "Steve Bower",
       "total": 600.0,
       "count": 2
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 517.56,
-      "count": 3
     }
   ]
 }

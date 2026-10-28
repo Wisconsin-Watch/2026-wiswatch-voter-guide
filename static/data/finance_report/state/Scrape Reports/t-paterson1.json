@@ -1,12 +1,22 @@
 {
   "candidate_id": "t-paterson1",
   "entity_id": 8110587,
-  "contributions_received": 11868.18,
+  "contributions_received": 25861.79,
   "top_donors": [
     {
+      "name": "Republican Party of Wisconsin",
+      "total": 7372.0,
+      "count": 1
+    },
+    {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 2602.77,
-      "count": 3
+      "total": 2879.38,
+      "count": 4
+    },
+    {
+      "name": "Winnebago County Republican Party",
+      "total": 2000.0,
+      "count": 1
     },
     {
       "name": "Dale Staege",
@@ -14,7 +24,12 @@
       "count": 1
     },
     {
-      "name": "Howie Miller",
+      "name": "Mark Hank",
+      "total": 515.0,
+      "count": 1
+    },
+    {
+      "name": "Randall Davis",
       "total": 500.0,
       "count": 1
     },
@@ -24,22 +39,7 @@
       "count": 1
     },
     {
-      "name": "Randall Davis",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "William Kiesling",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Frank Frassetto",
-      "total": 500.0,
-      "count": 2
-    },
-    {
-      "name": "John Thur",
+      "name": "Kiesling Michael",
       "total": 500.0,
       "count": 1
     },
@@ -49,8 +49,8 @@
       "count": 1
     },
     {
-      "name": "Ben Ganther",
-      "total": 257.5,
+      "name": "William Kiesling",
+      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,7 +1,7 @@
 {
   "candidate_id": "n-chat1",
   "entity_id": 12230231,
-  "contributions_received": 1560.0,
+  "contributions_received": 1760.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC -> i360 Holdings",
@@ -20,6 +20,16 @@
     },
     {
       "name": "Cynthia Simmons",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Jose Cuevas Jr",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Tara Kadium",
       "total": 100.0,
       "count": 1
     },

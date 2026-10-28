@@ -1,8 +1,13 @@
 {
   "candidate_id": "j-fons1",
   "entity_id": 12227039,
-  "contributions_received": 842.93,
+  "contributions_received": 1546.39,
   "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002))",
+      "total": 603.46,
+      "count": 1
+    },
     {
       "name": "Thuy Pham-Remmele",
       "total": 500.0,
@@ -15,6 +20,11 @@
     },
     {
       "name": "John E. Fons Election Committee",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Lee Gasper-Galvin",
       "total": 100.0,
       "count": 1
     },

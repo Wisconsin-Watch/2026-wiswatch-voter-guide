@@ -1,7 +1,7 @@
 {
   "candidate_id": "j-fredrickson1",
   "entity_id": 12161639,
-  "contributions_received": 357958.68,
+  "contributions_received": 516293.36,
   "top_donors": [
     {
       "name": "ADCC -> ADCC",
@@ -10,13 +10,13 @@
     },
     {
       "name": "ADCC",
-      "total": 47681.42,
-      "count": 4
+      "total": 163410.53,
+      "count": 6
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 12349.44,
-      "count": 4
+      "total": 22333.87,
+      "count": 6
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -34,22 +34,22 @@
       "count": 1
     },
     {
+      "name": "Jeanne Foust",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Peter Mensch",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "IBEW-PAC",
+      "name": "Jane Katz",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Todd Vogel",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Case",
+      "name": "Marc Katz",
       "total": 1000.0,
       "count": 1
     }

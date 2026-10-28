@@ -1,15 +1,30 @@
 {
   "candidate_id": "j-jagler1",
   "entity_id": 17164,
-  "contributions_received": 27705.0,
+  "contributions_received": 72841.0,
   "top_donors": [
     {
-      "name": "Northwestern Wisconsin REALTORS PAC",
+      "name": "Republican Party of Wisconsin",
+      "total": 28836.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Mary",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Stafsholt",
       "total": 2000.0,
       "count": 1
     },
     {
       "name": "Scott Fitzgerald for Senate",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -35,21 +50,6 @@
     },
     {
       "name": "Diane M. Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Brett Ewald",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Marchant",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
       "total": 1000.0,
       "count": 1
     }

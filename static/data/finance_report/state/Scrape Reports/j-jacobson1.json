@@ -1,16 +1,21 @@
 {
   "candidate_id": "j-jacobson1",
   "entity_id": 16793,
-  "contributions_received": 1399377.07,
+  "contributions_received": 1863214.33,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 1134889.97,
-      "count": 12
+      "total": 1522817.97,
+      "count": 16
     },
     {
       "name": "Linus Upson",
       "total": 4000.0,
+      "count": 2
+    },
+    {
+      "name": "Barbara Stuart",
+      "total": 3000.0,
       "count": 2
     },
     {
@@ -24,32 +29,27 @@
       "count": 2
     },
     {
-      "name": "Greater Than",
+      "name": "WI Laborers District Council",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Robert Haselow",
+      "name": "Wisconsin Carpenters PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Barbara Stuart",
+      "name": "International Union of Painters and Allied Trades Political Action Together Political Committee",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Teresa Welch",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Todd Vogel",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Theodore Spencer",
+      "name": "Local 400 COPE Fund",
       "total": 2000.0,
       "count": 1
     }

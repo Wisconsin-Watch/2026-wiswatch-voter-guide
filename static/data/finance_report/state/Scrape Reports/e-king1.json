@@ -1,8 +1,13 @@
 {
   "candidate_id": "e-king1",
   "entity_id": 11957212,
-  "contributions_received": 7041.93,
+  "contributions_received": 9421.6,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2666.03,
+      "count": 5
+    },
     {
       "name": "WEAC PAC",
       "total": 1000.0,
@@ -29,9 +34,9 @@
       "count": 3
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 586.36,
-      "count": 3
+      "name": "Shirley  Smith",
+      "total": 300.0,
+      "count": 1
     },
     {
       "name": "Jason Bergeron",
@@ -45,11 +50,6 @@
     },
     {
       "name": "Joseph  Stienessen",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "John Kowalewski",
       "total": 200.0,
       "count": 1
     }

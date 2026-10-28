@@ -1,17 +1,22 @@
 {
   "candidate_id": "j-croft1",
   "entity_id": 12226367,
-  "contributions_received": 1485533.75,
+  "contributions_received": 2614062.58,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 1423507.4,
-      "count": 14
+      "total": 2451294.13,
+      "count": 24
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 12494.0,
-      "count": 8
+      "total": 95450.0,
+      "count": 13
+    },
+    {
+      "name": "Racine County Republican Party",
+      "total": 2500.0,
+      "count": 1
     },
     {
       "name": "Fred Young",
@@ -19,22 +24,7 @@
       "count": 1
     },
     {
-      "name": "Patrick English",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Adam Beren",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Julian Bradley",
+      "name": "Feyen for Senate",
       "total": 2000.0,
       "count": 1
     },
@@ -45,6 +35,16 @@
     },
     {
       "name": "Testin for Senate",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Stafsholt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "KOCHPAC",
       "total": 2000.0,
       "count": 1
     },

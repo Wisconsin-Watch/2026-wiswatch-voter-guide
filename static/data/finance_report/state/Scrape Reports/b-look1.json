@@ -1,7 +1,7 @@
 {
   "candidate_id": "b-look1",
   "entity_id": 1147691,
-  "contributions_received": 2900.0,
+  "contributions_received": 5350.0,
   "top_donors": [
     {
       "name": "Friends of William Switalla",
@@ -10,6 +10,16 @@
     },
     {
       "name": "WEAC Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "William Switalla For Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -24,8 +34,23 @@
       "count": 1
     },
     {
+      "name": "Shawano County Democratic Party",
+      "total": 200.0,
+      "count": 1
+    },
+    {
       "name": "Democratic Party of Waupaca County",
       "total": 150.0,
+      "count": 1
+    },
+    {
+      "name": "Waupaca Democratic Party",
+      "total": 150.0,
+      "count": 1
+    },
+    {
+      "name": "Jeff Starr",
+      "total": 50.0,
       "count": 1
     }
   ]

@@ -1,40 +1,35 @@
 {
   "candidate_id": "e-severson1",
   "entity_id": 16291,
-  "contributions_received": 234510.2,
+  "contributions_received": 786927.54,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 106080.0,
-      "count": 3
+      "total": 537705.01,
+      "count": 9
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 54075.0,
-      "count": 5
+      "total": 151284.0,
+      "count": 11
     },
     {
-      "name": "Wayne Shakal",
-      "total": 2000.0,
+      "name": "Polk County Republican Party",
+      "total": 6000.0,
       "count": 1
     },
     {
-      "name": "Scott Weber",
-      "total": 2000.0,
-      "count": 1
+      "name": "Sawyer County Republican Party",
+      "total": 3000.0,
+      "count": 2
     },
     {
-      "name": "Scott Bretting",
+      "name": "Douglas County Republican Party",
       "total": 2000.0,
       "count": 1
     },
     {
       "name": "Friends of Rachael Cabral Guevara",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Joel Hazzard",
       "total": 2000.0,
       "count": 1
     },
@@ -49,7 +44,12 @@
       "count": 1
     },
     {
-      "name": "Realtors PAC, RPAC-Wisconsin",
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Quinn for Senate",
       "total": 2000.0,
       "count": 1
     }

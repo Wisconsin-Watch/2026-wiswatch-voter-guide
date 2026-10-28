@@ -1,25 +1,15 @@
 {
   "candidate_id": "b-desmidt1",
   "entity_id": 15509,
-  "contributions_received": 33880.7,
+  "contributions_received": 38310.37,
   "top_donors": [
     {
       "name": "Kenosha County Democratic Party",
-      "total": 2000.0,
-      "count": 1
+      "total": 4000.0,
+      "count": 2
     },
     {
-      "name": "United Association Local 118 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "TIP FOR WI",
       "total": 1000.0,
       "count": 1
     },
@@ -29,9 +19,24 @@
       "count": 1
     },
     {
+      "name": "Jeffrey S. Lindemann",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "United Association Local 118 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 2
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "WI Pipe Trades Assn PAC",
@@ -39,12 +44,7 @@
       "count": 1
     },
     {
-      "name": "TIP FOR WI",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jeffrey S. Lindemann",
+      "name": "Wisconsin Beer Distributors PAC",
       "total": 1000.0,
       "count": 1
     },

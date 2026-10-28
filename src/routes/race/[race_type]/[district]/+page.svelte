@@ -505,7 +505,7 @@
                                     {#if raceTypeParam === 'congress'}
                                         <i>Data reflects contributions reported to the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. <strong>Personal loans</strong> are excluded. Totals combine a candidate's principal campaign committee and victory fund. Data was retrieved on Oct. 9, 2026.</i>
                                     {:else}
-                                        <i>Data reflects <strong>monetary</strong>, <strong>conduit</strong>, <strong>local office</strong>, and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates, minus <strong>returned contributions</strong>. <strong>Personal loans</strong> are excluded. Data was retrieved on Oct. 8, 2026.</i>
+                                        <i>Data reflects <strong>monetary</strong>, <strong>conduit</strong>, <strong>local office</strong>, and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates, minus <strong>returned contributions</strong>. <strong>Personal loans</strong> are excluded. Data was retrieved on Oct. 28, 2026. 72-Hour Contributions reports submitted after the pre-election report not included.</i>
                                     {/if}
                                 </small>
                             </div>

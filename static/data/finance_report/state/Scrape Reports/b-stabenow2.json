@@ -1,12 +1,17 @@
 {
   "candidate_id": "b-stabenow2",
   "entity_id": 12228349,
-  "contributions_received": 11325.0,
+  "contributions_received": 13120.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 116106.54,
       "count": 5
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC -> Art and Copy LLC",
+      "total": 7897.82,
+      "count": 1
     },
     {
       "name": "Kurtz for Assembly",
@@ -19,17 +24,17 @@
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Tyler August",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Dr Jeffrey Jones",
+      "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Larry Hoekstra",
       "total": 500.0,
       "count": 1
     },
@@ -39,18 +44,13 @@
       "count": 1
     },
     {
-      "name": "Eddy Herbison",
-      "total": 250.0,
+      "name": "Jennifer Bethke",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Scott Randall",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Mark Sabin",
-      "total": 250.0,
+      "name": "Dr Jeffrey Jones",
+      "total": 500.0,
       "count": 1
     }
   ]

@@ -1,15 +1,30 @@
 {
   "candidate_id": "l-snodgrass1",
   "entity_id": 16130,
-  "contributions_received": 36891.83,
+  "contributions_received": 55000.83,
   "top_donors": [
     {
-      "name": "Eric Swanson",
+      "name": "Democratic Party of Wisconsin",
+      "total": 14245.44,
+      "count": 4
+    },
+    {
+      "name": "CAR/PAC Car & Truck Retailers Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SMART TD PAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "WEAC Region 3 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eric Swanson",
       "total": 1000.0,
       "count": 1
     },
@@ -24,11 +39,6 @@
       "count": 1
     },
     {
-      "name": "SMART TD PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Kristin Dassler Alfheim",
       "total": 750.0,
       "count": 2
@@ -39,17 +49,7 @@
       "count": 2
     },
     {
-      "name": "WI League/Conservation Voters Political Action Committee",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "IBEW PAC Voluntary Fund",
+      "name": "Daniel Wessel",
       "total": 500.0,
       "count": 1
     }

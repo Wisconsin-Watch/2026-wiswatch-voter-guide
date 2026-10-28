@@ -1,7 +1,7 @@
 {
   "candidate_id": "l-whiting1",
   "entity_id": 7620603,
-  "contributions_received": 3340.0,
+  "contributions_received": 3950.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -20,6 +20,11 @@
     },
     {
       "name": "Milan Stojangevic",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "donna and bob  werderich",
       "total": 300.0,
       "count": 1
     },

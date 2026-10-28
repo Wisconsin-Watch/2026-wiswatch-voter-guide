@@ -1,20 +1,25 @@
 {
   "candidate_id": "g-miller1",
   "entity_id": 12228352,
-  "contributions_received": 9317.05,
+  "contributions_received": 12586.55,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2256.49,
+      "count": 7
+    },
     {
       "name": "Friends of Max Winkels",
       "total": 2000.0,
       "count": 2
     },
     {
-      "name": "Kenosha County Democratic Party",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "Kenosha County Democratic Party",
       "total": 1000.0,
       "count": 1
     },
@@ -46,11 +51,6 @@
     {
       "name": "Mark D Winkels",
       "total": 420.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Sue Lux",
-      "total": 243.55,
       "count": 1
     }
   ]

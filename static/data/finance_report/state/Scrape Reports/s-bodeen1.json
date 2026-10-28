@@ -1,15 +1,25 @@
 {
   "candidate_id": "s-bodeen1",
   "entity_id": 12226321,
-  "contributions_received": 12055.48,
+  "contributions_received": 21464.18,
   "top_donors": [
     {
-      "name": "WEAC PAC",
-      "total": 1000.0,
+      "name": "WisDems",
+      "total": 2000.0,
       "count": 1
     },
     {
       "name": "Donna Rousey",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Andrea Hoffman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -24,33 +34,23 @@
       "count": 1
     },
     {
+      "name": "Creekside Winery",
+      "total": 931.9,
+      "count": 1
+    },
+    {
+      "name": "Jackson County Democratic Party",
+      "total": 747.0,
+      "count": 2
+    },
+    {
       "name": "Democratic Party of Wisconsin",
-      "total": 574.69,
-      "count": 5
+      "total": 726.49,
+      "count": 8
     },
     {
-      "name": "Stephanie Stuve-Bodeen",
+      "name": "Gilbert Homstad",
       "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Cindy Clark",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Constance Rajcic",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Kathryn Olson",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Karen McFadden",
-      "total": 400.0,
       "count": 1
     }
   ]

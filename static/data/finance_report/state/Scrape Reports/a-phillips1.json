@@ -1,10 +1,20 @@
 {
   "candidate_id": "a-phillips1",
   "entity_id": 5202401,
-  "contributions_received": 18933.73,
+  "contributions_received": 19058.73,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC -> i360 LLC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane Bast",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Joe W Bast",
       "total": 1000.0,
       "count": 1
     },
@@ -14,17 +24,12 @@
       "count": 1
     },
     {
-      "name": "500146 REALTORS - RPAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Rex Gromer",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "David Duppler",
+      "name": "Margie Phillips",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
-      "name": "Margie Phillips",
+      "name": "David Duppler",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Diane Bast",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Joe W Bast",
+      "name": "500146 REALTORS - RPAC",
       "total": 1000.0,
       "count": 1
     }

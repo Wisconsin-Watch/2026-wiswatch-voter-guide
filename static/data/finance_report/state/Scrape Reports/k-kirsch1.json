@@ -1,8 +1,13 @@
 {
   "candidate_id": "k-kirsch1",
   "entity_id": 999194,
-  "contributions_received": 10309.65,
+  "contributions_received": 11712.5,
   "top_donors": [
+    {
+      "name": "WI PEOPLE Conference",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
@@ -19,16 +24,6 @@
       "count": 1
     },
     {
-      "name": "Ann Jacobs",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Mutual PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "WI Laborers District Council",
       "total": 500.0,
       "count": 1
@@ -39,17 +34,22 @@
       "count": 1
     },
     {
+      "name": "Northwestern Mutual PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Ann Jacobs",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "James Olsen",
       "total": 250.0,
       "count": 1
     },
     {
-      "name": "Bruce Arbit",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "JOHN WEST",
+      "name": "Moshe Katz",
       "total": 250.0,
       "count": 1
     }

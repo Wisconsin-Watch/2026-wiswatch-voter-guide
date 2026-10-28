@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-born1",
   "entity_id": 16575,
-  "contributions_received": 122878.1,
+  "contributions_received": 152958.1,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
@@ -14,27 +14,12 @@
       "count": 1
     },
     {
-      "name": "The Travelers Companies, INC PAC",
+      "name": "Chad Peters",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "GOPAC Election Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "StateFarm Federal PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Insurance Alliance WIA PAC",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Northwestern Wisconsin REALTORS PAC",
+      "name": "Northwestern Mutual PAC A Multi Candidate Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +29,27 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "CareSource Mission PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
+      "name": "WSTA FONEPAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Andrea Fitzgerald",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Xcel Energy-WI PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Robert Trone",
       "total": 1000.0,
       "count": 1
     }

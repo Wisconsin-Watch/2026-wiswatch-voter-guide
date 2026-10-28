@@ -1,12 +1,12 @@
 {
   "candidate_id": "a-duda1",
   "entity_id": 12228339,
-  "contributions_received": 52370.52,
+  "contributions_received": 61406.19,
   "top_donors": [
     {
       "name": "Adam Kazimierz Duda",
-      "total": 33076.91,
-      "count": 16
+      "total": 34076.91,
+      "count": 18
     },
     {
       "name": "Adam Duda",
@@ -14,14 +14,14 @@
       "count": 4
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 5336.52,
+      "count": 5
+    },
+    {
       "name": "WEAC PAC",
       "total": 2000.0,
       "count": 1
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 1256.85,
-      "count": 3
     },
     {
       "name": "Adam Kazimierz Duda",
@@ -39,17 +39,17 @@
       "count": 1
     },
     {
+      "name": "Denis Mc Namara",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Richard Wesolek",
       "total": 350.0,
       "count": 1
     },
     {
       "name": "John D Burke",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Daniel Maus",
       "total": 250.0,
       "count": 1
     }

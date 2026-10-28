@@ -1,15 +1,10 @@
 {
   "candidate_id": "a-murphy1",
   "entity_id": 12230180,
-  "contributions_received": 7160.0,
+  "contributions_received": 8132.0,
   "top_donors": [
     {
       "name": "Republican Party of Milwaukee County",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Richard Gross",
       "total": 1000.0,
       "count": 1
     },
@@ -21,6 +16,16 @@
     {
       "name": "Republican Assembly Campaign Committee",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Richard Gross",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Matthew Terski",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -45,11 +50,6 @@
     },
     {
       "name": "John Karol",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Peter R Zellmer",
       "total": 200.0,
       "count": 1
     }

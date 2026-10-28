@@ -1,7 +1,7 @@
 {
   "candidate_id": "r-udell1",
   "entity_id": 1149184,
-  "contributions_received": 39020.37,
+  "contributions_received": 50112.04,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
@@ -9,12 +9,7 @@
       "count": 3
     },
     {
-      "name": "Northwestern Mutual  PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Paul S Sutfin",
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -24,22 +19,7 @@
       "count": 1
     },
     {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Bradley Braaten",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Alliant Energy PCA",
+      "name": "Paul S Sutfin",
       "total": 1000.0,
       "count": 1
     },
@@ -50,6 +30,26 @@
     },
     {
       "name": "Realtors Association of SC WI - PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "CAR/PAC Car & Truck Retailers PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 6 Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
       "total": 1000.0,
       "count": 1
     }

@@ -1,17 +1,22 @@
 {
   "candidate_id": "b-franklin1",
   "entity_id": 664158,
-  "contributions_received": 730968.2,
+  "contributions_received": 1328570.13,
   "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 619792.53,
+      "count": 4
+    },
     {
       "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
       "total": 490553.14,
       "count": 2
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 72500.0,
-      "count": 1
+      "name": "Republican Party of Wisconsin",
+      "total": 56168.48,
+      "count": 7
     },
     {
       "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
@@ -24,11 +29,6 @@
       "count": 2
     },
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 24366.72,
-      "count": 3
-    },
-    {
       "name": "Republican Party of Wisconsin -> Art & Copy Partners",
       "total": 23851.32,
       "count": 3
@@ -39,17 +39,17 @@
       "count": 1
     },
     {
-      "name": "William Kress",
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "KOCHPAC",
+      "name": "Friends of Devin LeMahieu",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tavern League of Wisconsin, Inc",
+      "name": "Charter Communications, Inc. Wisconsin Political Action Committee",
       "total": 1000.0,
       "count": 1
     }

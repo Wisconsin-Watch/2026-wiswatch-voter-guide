@@ -1,11 +1,16 @@
 {
   "candidate_id": "a-wuethrich1",
   "entity_id": 12229986,
-  "contributions_received": 5727.94,
+  "contributions_received": 14994.95,
   "top_donors": [
     {
       "name": "Wood County Democratic Party",
-      "total": 3000.0,
+      "total": 6000.0,
+      "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -15,42 +20,37 @@
     },
     {
       "name": "Friends of Kelda Roys",
-      "total": 445.0,
+      "total": 890.0,
+      "count": 2
+    },
+    {
+      "name": "Kathleen Rulka",
+      "total": 700.0,
+      "count": 2
+    },
+    {
+      "name": "Kathryn Schopp",
+      "total": 600.0,
+      "count": 2
+    },
+    {
+      "name": "Bridget O'Brien",
+      "total": 500.0,
       "count": 1
     },
     {
       "name": "Brian Ewert",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Kathleen Rulka",
-      "total": 200.0,
+      "total": 500.0,
       "count": 1
     },
     {
       "name": "Lee Nafziger",
-      "total": 196.5,
-      "count": 2
+      "total": 446.5,
+      "count": 4
     },
     {
-      "name": "Joe Behlen",
-      "total": 193.0,
-      "count": 1
-    },
-    {
-      "name": "Chris Stargardt",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Ann StevningRoe",
-      "total": 96.5,
-      "count": 1
-    },
-    {
-      "name": "Roxie Wetterau",
-      "total": 96.5,
+      "name": "Ronald Cowan",
+      "total": 300.0,
       "count": 1
     }
   ]

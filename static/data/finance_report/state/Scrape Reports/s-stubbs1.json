@@ -1,17 +1,17 @@
 {
   "candidate_id": "s-stubbs1",
   "entity_id": 15805,
-  "contributions_received": 20091.94,
+  "contributions_received": 24016.61,
   "top_donors": [
     {
-      "name": "Forest County Potawatomi Community PAC",
+      "name": "Council of Auto & Truck Retail Political Action Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     },
     {
       "name": "Joseph Krupp",
@@ -19,9 +19,19 @@
       "count": 2
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "Forest County Potawatomi Community PAC",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 2
     },
     {
       "name": "DaMon White",
@@ -34,22 +44,12 @@
       "count": 4
     },
     {
-      "name": "Julius Gerald",
+      "name": "Local 215",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Kaleem Caire",
-      "total": 500.0,
-      "count": 2
-    },
-    {
-      "name": "WI Laborers District Council",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Joe Sensenbrenner",
+      "name": "IBEW PAC Voluntary Fund",
       "total": 500.0,
       "count": 1
     }

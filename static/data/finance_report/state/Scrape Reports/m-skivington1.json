@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-skivington1",
   "entity_id": 12229971,
-  "contributions_received": 10278.71,
+  "contributions_received": 11814.14,
   "top_donors": [
     {
       "name": "WEAC PAC",
@@ -24,13 +24,18 @@
       "count": 1
     },
     {
+      "name": "Susan R Allen",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Linda Kloosterboer",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Susan R Allen",
-      "total": 500.0,
+      "name": "Emily Sensenbrenner",
+      "total": 482.5,
       "count": 1
     },
     {
@@ -44,13 +49,8 @@
       "count": 1
     },
     {
-      "name": "Michael Skivington",
-      "total": 379.13,
-      "count": 1
-    },
-    {
-      "name": "James Hebbe",
-      "total": 250.0,
+      "name": "DPW 6th District",
+      "total": 400.0,
       "count": 1
     }
   ]

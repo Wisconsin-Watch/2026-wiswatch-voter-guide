@@ -1,12 +1,57 @@
 {
   "candidate_id": "s-omokunde1",
   "entity_id": 16245,
-  "contributions_received": 150,
+  "contributions_received": 5561.28,
   "top_donors": [
     {
-      "name": "Matthew Swentkofske",
-      "total": 150.0,
+      "name": "Jeffrey Slavin",
+      "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Gwendolynne Moore",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Milwaukee Professional Fire Fighters Assn Local 215 Campaign Fund",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WI Friends of Charter Communications",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "WI PEOPLE Conference",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Paula S. Dorsey",
+      "total": 300.0,
+      "count": 2
+    },
+    {
+      "name": "Aim High Wisconsin",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin's Electric Cooperatives PAC",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Brenda Moore",
+      "total": 200.0,
+      "count": 2
+    },
+    {
+      "name": "James Eckblad",
+      "total": 200.0,
+      "count": 2
     }
   ]
 }

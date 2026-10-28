@@ -1,15 +1,20 @@
 {
   "candidate_id": "d-martinezrutherford1",
   "entity_id": 11956899,
-  "contributions_received": 69921.97,
+  "contributions_received": 78516.63,
   "top_donors": [
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Eliot Butler",
+      "name": "Sam Rajkowski",
+      "total": 1000.0,
+      "count": 3
+    },
+    {
+      "name": "Fire Fighters Local 311 FirePac",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +49,7 @@
       "count": 1
     },
     {
-      "name": "Gregg May",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Fire Fighters Local 311 FirePac",
+      "name": "Eliot Butler",
       "total": 1000.0,
       "count": 1
     }

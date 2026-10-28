@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-dallman1",
   "entity_id": 15943,
-  "contributions_received": 74424.0,
+  "contributions_received": 91680.0,
   "top_donors": [
     {
       "name": "Glenn Madrigano",
@@ -9,47 +9,47 @@
       "count": 1
     },
     {
+      "name": "Robert Wills",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Bankers Assn PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
       "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Northwestern Wisconsin REALTORS PAC",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliant Energy WI Gov Act Cte",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "Xcel Energy-WI PAC",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "RANW PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Gerald Julius",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Todd Gutschow",
-      "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
       "name": "Matthew Braun",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane M. Hendricks",
       "total": 1000.0,
       "count": 1
     }

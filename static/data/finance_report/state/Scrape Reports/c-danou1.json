@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-danou1",
   "entity_id": 17086,
-  "contributions_received": 11385.08,
+  "contributions_received": 13282.46,
   "top_donors": [
     {
       "name": "Chris Danou",
@@ -14,13 +14,18 @@
       "count": 1
     },
     {
+      "name": "James Thompson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Buffalo County Democratic Party",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "James Thompson",
-      "total": 1000.0,
+      "name": "DPW",
+      "total": 997.38,
       "count": 1
     },
     {
@@ -34,24 +39,19 @@
       "count": 1
     },
     {
-      "name": "Nancy Danou",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Erika Danou-Hasan",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "William Fetzner",
-      "total": 250.0,
+      "name": "Nancy Danou",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Christopherson Gary",
-      "total": 200.0,
-      "count": 2
+      "name": "Lee Bailey",
+      "total": 400.0,
+      "count": 1
     }
   ]
 }

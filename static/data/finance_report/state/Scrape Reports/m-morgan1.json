@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-morgan1",
   "entity_id": 12228277,
-  "contributions_received": 13649.06,
+  "contributions_received": 16103.06,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -24,6 +24,11 @@
       "count": 1
     },
     {
+      "name": "Citizens for Rob Hutton",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "John Vassallo",
       "total": 500.0,
       "count": 1
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
-      "name": "S. Duane & Laura Stroebel Jr",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Sukhal Gill",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Robert D. Wood",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Bonnie Lee",
-      "total": 300.0,
+      "name": "S. Duane & Laura Stroebel Jr",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Rick Alvord",
+      "total": 500.0,
       "count": 1
     }
   ]

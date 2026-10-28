@@ -1,15 +1,20 @@
 {
   "candidate_id": "l-bates1",
   "entity_id": 1149791,
-  "contributions_received": 702.0,
+  "contributions_received": 3518.67,
   "top_donors": [
     {
-      "name": "ted hankes",
-      "total": 100.0,
+      "name": "Democratic Party of Wisconsin",
+      "total": 2079.67,
+      "count": 2
+    },
+    {
+      "name": "6th Congressional District",
+      "total": 400.0,
       "count": 1
     },
     {
-      "name": "Patricia Schubert",
+      "name": "ted hankes",
       "total": 100.0,
       "count": 1
     },
@@ -19,38 +24,33 @@
       "count": 1
     },
     {
-      "name": "Robert Lauer",
-      "total": 70.0,
-      "count": 7
+      "name": "Lori Schultz",
+      "total": 100.0,
+      "count": 1
     },
     {
       "name": "Susan Linde",
-      "total": 50.0,
-      "count": 1
-    },
-    {
-      "name": "Angie Kirst",
-      "total": 50.0,
-      "count": 1
-    },
-    {
-      "name": "Adam Brabender",
-      "total": 40.0,
+      "total": 100.0,
       "count": 2
     },
     {
-      "name": "Sarah Kazell",
-      "total": 37.0,
+      "name": "Patricia Schubert",
+      "total": 100.0,
       "count": 1
     },
     {
-      "name": "Katherine Berkvam",
-      "total": 25.0,
+      "name": "Robert Lauer",
+      "total": 80.0,
+      "count": 8
+    },
+    {
+      "name": "Lori Brereton",
+      "total": 50.0,
       "count": 1
     },
     {
-      "name": "Bryna Caves",
-      "total": 25.0,
+      "name": "Jacqueline Burke",
+      "total": 50.0,
       "count": 1
     }
   ]

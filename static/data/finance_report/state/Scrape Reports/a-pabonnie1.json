@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-pabonnie1",
   "entity_id": 12226257,
-  "contributions_received": 2410.85,
+  "contributions_received": 2510.85,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee",
@@ -21,6 +21,11 @@
     {
       "name": "Bonnie Lee",
       "total": 300.0,
+      "count": 1
+    },
+    {
+      "name": "Van Mobly",
+      "total": 100.0,
       "count": 1
     }
   ]

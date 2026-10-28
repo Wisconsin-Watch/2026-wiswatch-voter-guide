@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-cleary1",
   "entity_id": 12230199,
-  "contributions_received": 5904.96,
+  "contributions_received": 6270.76,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -44,8 +44,13 @@
       "count": 1
     },
     {
-      "name": "Lisa Bingenheimer",
-      "total": 42.0,
+      "name": "Peggy L. Chielewski",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "James Scheurell",
+      "total": 95.7,
       "count": 1
     }
   ]

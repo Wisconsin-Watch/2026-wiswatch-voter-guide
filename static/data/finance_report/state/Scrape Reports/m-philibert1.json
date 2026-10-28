@@ -1,17 +1,17 @@
 {
   "candidate_id": "m-philibert1",
   "entity_id": 12184882,
-  "contributions_received": 2281.46,
+  "contributions_received": 4361.13,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2790.13,
+      "count": 7
+    },
     {
       "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 710.46,
-      "count": 5
     },
     {
       "name": "Matt Bruce",

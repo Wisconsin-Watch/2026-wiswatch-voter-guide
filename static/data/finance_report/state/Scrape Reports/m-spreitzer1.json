@@ -1,12 +1,12 @@
 {
   "candidate_id": "m-spreitzer1",
   "entity_id": 16972,
-  "contributions_received": 63316.35,
+  "contributions_received": 98657.77,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 7246.13,
-      "count": 4
+      "total": 7904.88,
+      "count": 5
     },
     {
       "name": "Democratic Party of Walworth County",
@@ -14,7 +14,22 @@
       "count": 3
     },
     {
-      "name": "UFCW Active Ballot Club General Fund",
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "William MacFarlane",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -24,12 +39,7 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "WEAC PAC",
+      "name": "UFCW Active Ballot Club General Fund",
       "total": 2000.0,
       "count": 1
     },
@@ -42,16 +52,6 @@
       "name": "SEIU Wisconsin State Council PAC",
       "total": 2000.0,
       "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1250.0,
-      "count": 2
-    },
-    {
-      "name": "Democratic Party of Jefferson County",
-      "total": 1250.0,
-      "count": 2
     }
   ]
 }

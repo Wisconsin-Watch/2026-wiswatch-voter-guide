@@ -1,7 +1,7 @@
 {
   "candidate_id": "s-fleming1",
   "entity_id": 12226479,
-  "contributions_received": 19851.04,
+  "contributions_received": 26371.04,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -9,13 +9,28 @@
       "count": 3
     },
     {
+      "name": "Friends of Devin LeMahieu",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "Testin for Senate",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
-      "total": 2000.0,
+      "name": "James Daley",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "Shirley J. Daley",
+      "total": 1500.0,
+      "count": 1
+    },
+    {
+      "name": "Jeff Shadel",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -24,33 +39,18 @@
       "count": 1
     },
     {
-      "name": "Teresa Johnson",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Nick Lesar",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Warren and Eunice Hansen",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Joe Speich",
-      "total": 300.0,
+      "name": "Walter Vogel",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Matt Loudenbeck",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Building Grassroots Support PAC",
-      "total": 250.0,
+      "name": "David Horning",
+      "total": 500.0,
       "count": 1
     }
   ]

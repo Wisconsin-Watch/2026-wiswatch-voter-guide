@@ -1,11 +1,41 @@
 {
   "candidate_id": "r-cabralguevara1",
   "entity_id": 16205,
-  "contributions_received": 66335.0,
+  "contributions_received": 78876.74,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 10080.0,
+      "total": 10153.74,
+      "count": 2
+    },
+    {
+      "name": "Realtors Association of SC WI - PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Julie Dobrynio",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Stafsholt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Jesse James",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Joy Neuville",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Michael Dobrynio",
+      "total": 2000.0,
       "count": 1
     },
     {
@@ -19,39 +49,9 @@
       "count": 1
     },
     {
-      "name": "Realtors Association of SC WI - PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Jesse James",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Julie Dobrynio",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Michael Dobrynio",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
       "name": "Frederick Prehn",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Friends of Mary",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Joy Neuville",
-      "total": 1000.0,
-      "count": 1
     }
   ]
 }

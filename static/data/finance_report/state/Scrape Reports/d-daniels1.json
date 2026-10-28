@@ -1,12 +1,12 @@
 {
   "candidate_id": "d-daniels1",
   "entity_id": 12227977,
-  "contributions_received": 704240.63,
+  "contributions_received": 1075620.76,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 496920.68,
-      "count": 8
+      "total": 835344.16,
+      "count": 12
     },
     {
       "name": "Republican Assembly Campaign Committee -> Medium Buying",
@@ -15,8 +15,8 @@
     },
     {
       "name": "WISGOP",
-      "total": 39318.86,
-      "count": 5
+      "total": 62975.51,
+      "count": 8
     },
     {
       "name": "Republican Party of Wisconsin",
@@ -34,22 +34,22 @@
       "count": 1
     },
     {
+      "name": "Diane M. Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Michael Gilbertson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Kurtz for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Citizens for August",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jay Smith",
       "total": 1000.0,
       "count": 1
     }

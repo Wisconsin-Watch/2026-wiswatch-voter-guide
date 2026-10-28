@@ -1,17 +1,17 @@
 {
   "candidate_id": "j-emerson1",
   "entity_id": 15871,
-  "contributions_received": 194239.33,
+  "contributions_received": 243965.41,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 45797.72,
-      "count": 4
+      "total": 58522.12,
+      "count": 6
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 23010.15,
-      "count": 4
+      "total": 23089.82,
+      "count": 5
     },
     {
       "name": "Eau Claire County Democratic Party",
@@ -34,24 +34,24 @@
       "count": 2
     },
     {
-      "name": "Climate Cabinet PAC",
+      "name": "Deborah Raymer",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Lots of People Supporting Mike Bare",
+      "name": "Wisconsin REALTORS Political Fund",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Ross Boucher",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alex JACOB LASRY",
+      "name": "EMILY NEWMANN",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Lisa Subeck",
-      "total": 1000.0,
-      "count": 1
+      "count": 3
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "m-arney1",
   "entity_id": 613274,
-  "contributions_received": 16211.46,
+  "contributions_received": 19376.13,
   "top_donors": [
     {
       "name": "Operating Engineers Local 139 PAC",
@@ -24,7 +24,17 @@
       "count": 2
     },
     {
+      "name": "WI PEOPLE Conference",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sprinkler Fitters Local 183",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +49,7 @@
       "count": 1
     },
     {
-      "name": "WI Laborers District Council",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Mutual PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers For Agriculture",
+      "name": "RENEW Wisconsin Energy Fund, Inc. PAC",
       "total": 500.0,
       "count": 1
     }

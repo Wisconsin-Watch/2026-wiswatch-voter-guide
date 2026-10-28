@@ -1,12 +1,22 @@
 {
   "candidate_id": "s-ripley1",
   "entity_id": 11948571,
-  "contributions_received": 17769.53,
+  "contributions_received": 26415.2,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 5289.2,
+      "count": 5
+    },
     {
       "name": "Democratic Party of Jefferson County",
       "total": 5250.0,
       "count": 2
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
     },
     {
       "name": "WEAC Region 6 Political Action Committee",
@@ -24,9 +34,9 @@
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 1209.53,
-      "count": 3
+      "name": "6th Congressional District Democratic Party of Wisconsin",
+      "total": 800.0,
+      "count": 1
     },
     {
       "name": "Fond du Lac County Democratic Party",
@@ -39,18 +49,8 @@
       "count": 1
     },
     {
-      "name": "WEAC Region 5 PAC",
-      "total": 400.0,
-      "count": 1
-    },
-    {
-      "name": "Marquette County Democratic Party",
-      "total": 400.0,
-      "count": 1
-    },
-    {
       "name": "Ben Adams",
-      "total": 275.0,
+      "total": 410.0,
       "count": 4
     }
   ]

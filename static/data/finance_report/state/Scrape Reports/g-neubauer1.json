@@ -1,37 +1,17 @@
 {
   "candidate_id": "g-neubauer1",
   "entity_id": 17223,
-  "contributions_received": 64859.02,
+  "contributions_received": 124066.38,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 6984.63,
+      "count": 4
+    },
     {
       "name": "Daniel Conley",
       "total": 1250.0,
       "count": 2
-    },
-    {
-      "name": "Karla Jurvetson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Carol Stephens",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "GE HealthCare Technologies Inc. PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Adam Barr",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "State Farm Federal PAC",
-      "total": 1000.0,
-      "count": 1
     },
     {
       "name": "Cynthia Snell",
@@ -39,17 +19,37 @@
       "count": 1
     },
     {
-      "name": "GE Healthcare Technologies Inc. PAC",
+      "name": "Mike Frank",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jennifer and Neil Young",
+      "name": "The PAC For Americaâs Future",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Candida Smith",
+      "name": "Matthew Braun",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Venkata Thota",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Wills",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Parisi-Trone",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Greta Neubauer",
       "total": 1000.0,
       "count": 1
     }

@@ -1,30 +1,25 @@
 {
   "candidate_id": "r-paplham1",
   "entity_id": 843162,
-  "contributions_received": 21609.84,
+  "contributions_received": 36162.82,
   "top_donors": [
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 7991.68,
+      "count": 8
+    },
+    {
       "name": "Democratic Party of Door Co",
-      "total": 4000.0,
-      "count": 1
+      "total": 6000.0,
+      "count": 2
     },
     {
-      "name": "Allin Walker",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Colleen O'Brien",
+      "name": "OB-GYN PAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "WEAC Pol. Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kewaunee County Democratic Party",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +34,24 @@
       "count": 1
     },
     {
-      "name": "Christine Kellems",
+      "name": "Allin Walker",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kewaunee County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Colleen O'Brien",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "William Quinlan",
       "total": 600.0,
       "count": 2
-    },
-    {
-      "name": "Democratic Party of Brown County",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Green Bay PAC",
-      "total": 500.0,
-      "count": 1
     }
   ]
 }

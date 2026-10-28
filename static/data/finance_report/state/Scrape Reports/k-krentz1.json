@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-krentz1",
   "entity_id": 12187974,
-  "contributions_received": 32942.82,
+  "contributions_received": 35312.82,
   "top_donors": [
     {
       "name": "Kevin Krentz",
@@ -9,12 +9,17 @@
       "count": 3
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
+      "name": "Citizens for August",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Citizens for August",
+      "name": "Realtors Assn of Northeast WI",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,17 +34,12 @@
       "count": 1
     },
     {
-      "name": "James Busse",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Realtors Assn of Northeast WI",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Donald Nelson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "James Busse",
       "total": 1000.0,
       "count": 1
     },

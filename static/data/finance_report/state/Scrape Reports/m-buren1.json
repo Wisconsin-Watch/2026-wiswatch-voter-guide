@@ -1,12 +1,17 @@
 {
   "candidate_id": "m-buren1",
   "entity_id": 12226543,
-  "contributions_received": 22953.29,
+  "contributions_received": 29271.36,
   "top_donors": [
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2695.52,
+      "count": 5
+    },
+    {
       "name": "Merlin Van Buren",
-      "total": 2406.84,
-      "count": 7
+      "total": 2423.24,
+      "count": 8
     },
     {
       "name": "Vilas County Democratic Party",
@@ -14,12 +19,7 @@
       "count": 1
     },
     {
-      "name": "John Langeland",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Gerald Anderson",
+      "name": "Judith Thoms",
       "total": 1000.0,
       "count": 1
     },
@@ -29,7 +29,12 @@
       "count": 1
     },
     {
-      "name": "Judith Thoms",
+      "name": "Gerald Anderson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "John Langeland",
       "total": 1000.0,
       "count": 1
     },
@@ -44,14 +49,9 @@
       "count": 2
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 615.85,
-      "count": 3
-    },
-    {
-      "name": "Thomas Winquist",
-      "total": 514.0,
-      "count": 1
+      "name": "Shelley Spooner",
+      "total": 750.0,
+      "count": 2
     }
   ]
 }

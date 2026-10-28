@@ -1,17 +1,17 @@
 {
   "candidate_id": "d-pfaffenbach1",
   "entity_id": 12227330,
-  "contributions_received": 289536.68,
+  "contributions_received": 367534.03,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 214436.29,
-      "count": 7
+      "total": 266850.84,
+      "count": 10
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 59147.0,
-      "count": 8
+      "total": 82302.8,
+      "count": 11
     },
     {
       "name": "Kurtz for Assembly",
@@ -19,7 +19,7 @@
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
+      "name": "Patrick English",
       "total": 1000.0,
       "count": 1
     },
@@ -34,12 +34,12 @@
       "count": 1
     },
     {
-      "name": "Born For Assembly",
+      "name": "Kevin R. Martin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Friends for Jessie",
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "Patrick English",
+      "name": "Friends for Jessie",
       "total": 1000.0,
       "count": 1
     }

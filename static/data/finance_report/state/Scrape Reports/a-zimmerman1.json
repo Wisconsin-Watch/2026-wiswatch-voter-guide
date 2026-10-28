@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-zimmerman1",
   "entity_id": 11948217,
-  "contributions_received": 54093.13,
+  "contributions_received": 65927.71,
   "top_donors": [
     {
       "name": "Amy Zimmerman",
@@ -15,26 +15,11 @@
     },
     {
       "name": "Carol Hudson",
-      "total": 1100.0,
-      "count": 2
-    },
-    {
-      "name": "John Voorhees",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Chris Rockwood",
       "total": 1000.0,
       "count": 3
     },
     {
-      "name": "WEAC Region 6 Political Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "PEGGY HEDBERG",
+      "name": "John Voorhees",
       "total": 1000.0,
       "count": 1
     },
@@ -49,8 +34,23 @@
       "count": 1
     },
     {
-      "name": "Jane Fonda Climate PAC",
-      "total": 900.0,
+      "name": "Chris Rockwood",
+      "total": 1000.0,
+      "count": 3
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "PEGGY HEDBERG",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 6 Political Action Committee",
+      "total": 1000.0,
       "count": 1
     }
   ]

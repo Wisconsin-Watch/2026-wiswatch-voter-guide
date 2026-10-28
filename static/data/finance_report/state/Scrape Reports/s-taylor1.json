@@ -1,12 +1,12 @@
 {
   "candidate_id": "s-taylor1",
   "entity_id": 999181,
-  "contributions_received": 8424.28,
+  "contributions_received": 13463.95,
   "top_donors": [
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     },
     {
       "name": "WEAC PAC",
@@ -14,22 +14,17 @@
       "count": 1
     },
     {
-      "name": "natalie renteria",
-      "total": 500.0,
+      "name": "WI PEOPLE Conference",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Forest County Potawatomi Community PAC",
-      "total": 500.0,
-      "count": 1
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 2
     },
     {
-      "name": "Milwaukee Professional Firefighters Local 215",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
+      "name": "IBEW Local 494 PAC",
       "total": 500.0,
       "count": 1
     },
@@ -39,18 +34,23 @@
       "count": 1
     },
     {
-      "name": "IBEW Local 494 PAC",
+      "name": "Dele  Ojelabi",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Latonya Baker",
-      "total": 330.0,
+      "name": "Milwaukee Professional Firefighters Local 215",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "United Association of Journeyman PAC",
-      "total": 250.0,
+      "name": "Sahr Lebbie",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "natalie renteria",
+      "total": 500.0,
       "count": 1
     }
   ]

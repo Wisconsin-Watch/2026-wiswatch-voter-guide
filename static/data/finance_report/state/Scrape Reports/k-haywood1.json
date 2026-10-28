@@ -1,40 +1,10 @@
 {
   "candidate_id": "k-haywood1",
   "entity_id": 16325,
-  "contributions_received": 43118.71,
+  "contributions_received": 71808.54,
   "top_donors": [
     {
       "name": "Operating Engineers Local 139 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "LaShonda Harvey",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kaye Mitchell",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "IBEW PAC Voluntary Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Camille Ellison",
       "total": 1000.0,
       "count": 1
     },
@@ -44,14 +14,44 @@
       "count": 1
     },
     {
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Gary Sadoff",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Nkem Iroegbu",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Karl Rajani",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Patricia Faulhaber",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Cory Nettles",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Mark Wade",
+      "total": 1000.0,
+      "count": 2
     }
   ]
 }

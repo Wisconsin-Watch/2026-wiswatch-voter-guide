@@ -1,7 +1,7 @@
 {
   "candidate_id": "t-johnson1",
   "entity_id": 16547,
-  "contributions_received": 51375.69,
+  "contributions_received": 74999.98,
   "top_donors": [
     {
       "name": "Tara Johnson",
@@ -9,7 +9,32 @@
       "count": 24
     },
     {
-      "name": "Karen Lumb",
+      "name": "Democratic Party of Wisconsin",
+      "total": 4403.95,
+      "count": 2
+    },
+    {
+      "name": "AFT-Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "EMILY NEWMANN",
+      "total": 1000.0,
+      "count": 3
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeanetta Kirkpatrick",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW-PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,37 +44,12 @@
       "count": 2
     },
     {
-      "name": "AFT-Wisconsin PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Tim Padesky",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Sarah Godlewski",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Julie Barezinsky",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Mensch",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Keith Belzer",
+      "name": "WI PEOPLE Conference",
       "total": 1000.0,
       "count": 1
     }

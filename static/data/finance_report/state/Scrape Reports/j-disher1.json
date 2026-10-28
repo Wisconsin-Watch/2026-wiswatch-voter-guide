@@ -1,8 +1,13 @@
 {
   "candidate_id": "j-disher1",
   "entity_id": 12228972,
-  "contributions_received": 9805.2,
+  "contributions_received": 18668.04,
   "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 8182.0,
+      "count": 1
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 2600.63,
@@ -11,11 +16,6 @@
     {
       "name": "Jeff Disher",
       "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Testin for Senate",
-      "total": 1000.0,
       "count": 1
     },
     {
@@ -29,8 +29,18 @@
       "count": 1
     },
     {
+      "name": "Testin for Senate",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Robert Berard",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 359.84,
       "count": 1
     },
     {
@@ -41,16 +51,6 @@
     {
       "name": "Mark & Sandra Brystrom",
       "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Michael Curtis",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Joann Schultz",
-      "total": 100.0,
       "count": 1
     }
   ]

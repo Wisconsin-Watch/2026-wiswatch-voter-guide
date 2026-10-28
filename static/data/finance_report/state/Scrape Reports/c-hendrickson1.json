@@ -1,12 +1,17 @@
 {
   "candidate_id": "c-hendrickson1",
   "entity_id": 11954497,
-  "contributions_received": 47408.18,
+  "contributions_received": 49408.18,
   "top_donors": [
     {
       "name": "Corrine Charity Hendrickson",
       "total": 2001.0,
       "count": 2
+    },
+    {
+      "name": "Kriss Marion for SW Wisconsin",
+      "total": 2000.0,
+      "count": 1
     },
     {
       "name": "Thomas Heiber-Cobb",
@@ -45,11 +50,6 @@
     },
     {
       "name": "Phil Scott",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Bowden",
       "total": 1000.0,
       "count": 1
     }

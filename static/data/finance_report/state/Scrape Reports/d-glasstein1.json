@@ -1,12 +1,17 @@
 {
   "candidate_id": "d-glasstein1",
   "entity_id": 843082,
-  "contributions_received": 69512.99,
+  "contributions_received": 91630.26,
   "top_donors": [
     {
       "name": "Democratic Party of Ozaukee County",
-      "total": 12700.0,
-      "count": 2
+      "total": 14935.0,
+      "count": 4
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 13357.96,
+      "count": 8
     },
     {
       "name": "Wendy Freitag",
@@ -14,14 +19,19 @@
       "count": 2
     },
     {
-      "name": "Nickolas Offerman",
+      "name": "Richard L Baldwin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Richard L Baldwin",
+      "name": "Nancy Daum",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Linda Frank",
+      "total": 1000.0,
+      "count": 2
     },
     {
       "name": "Gwen Armbrust",
@@ -29,27 +39,17 @@
       "count": 1
     },
     {
-      "name": "Neil Glasstein",
+      "name": "Donald Katz",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Richard Jones",
-      "total": 1000.0,
-      "count": 9
-    },
-    {
-      "name": "Daniel Armbrust",
+      "name": "Nickolas Offerman",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Kathy Tatterson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Nancy Daum",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     }

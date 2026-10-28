@@ -1,17 +1,22 @@
 {
   "candidate_id": "s-sortwell1",
   "entity_id": 663883,
-  "contributions_received": 24149.0,
+  "contributions_received": 35694.0,
   "top_donors": [
     {
-      "name": "Concerned Realtors Committee",
+      "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Milwaukee Police Association Political Action Committee",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
-      "count": 2
+      "count": 1
+    },
+    {
+      "name": "Plumbers &Steamfitters Local 400 COPE fund",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "WI Institute of CPAs PAC",
@@ -19,7 +24,22 @@
       "count": 1
     },
     {
-      "name": "Patrick and Chrissy Flynn",
+      "name": "Chad and Jaclyn Fradette",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane and Joseph Bast",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Rachael Cabral Guevara",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kurtz for Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -30,26 +50,6 @@
     },
     {
       "name": "WEC Energy Group PAC (WEC PAC)",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Forest Co Potawatomi Comm PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Plumbers &Steamfitters Local 400 COPE fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wei-Chuan Wang",
       "total": 1000.0,
       "count": 1
     }

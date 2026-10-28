@@ -1,30 +1,45 @@
 {
   "candidate_id": "j-billings1",
   "entity_id": 15842,
-  "contributions_received": 54692.63,
+  "contributions_received": 79544.45,
   "top_donors": [
+    {
+      "name": "Assembly Democratic Camp Comm",
+      "total": 9453.42,
+      "count": 1
+    },
     {
       "name": "Assembly Democratic Campaign Committee",
       "total": 6033.96,
       "count": 1
     },
     {
+      "name": "Operating Engineers 139 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Smart TD PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Wills",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Hospitals PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "CRUE / WEAC Region 4 - PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Rosalie Schnick",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Mensch",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WBD Corporate",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Mary E Nelson",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +49,7 @@
       "count": 2
     },
     {
-      "name": "Robert Wills",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Keith Belzer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Ericka Bjorngaard",
+      "name": "WBD Corporate",
       "total": 1000.0,
       "count": 1
     }

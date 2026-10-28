@@ -1,12 +1,17 @@
 {
   "candidate_id": "g-paulick1",
   "entity_id": 12228169,
-  "contributions_received": 89169.46,
+  "contributions_received": 109539.66,
   "top_donors": [
     {
       "name": "Racine County GOP",
       "total": 20000.0,
       "count": 1
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 15117.0,
+      "count": 2
     },
     {
       "name": "Gina  Marie Cefalu Paulick",
@@ -19,37 +24,32 @@
       "count": 3
     },
     {
-      "name": "James A Tomola",
+      "name": "Patrick English",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Barb Griffin",
+      "name": "Hollis Christoffersen",
+      "total": 1000.0,
+      "count": 5
+    },
+    {
+      "name": "Christine Oakes",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Anita M Tomola",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "FRED YOUNG",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Susan Christoffersen",
-      "total": 1000.0,
-      "count": 4
-    },
-    {
-      "name": "Michelle Vos",
+      "name": "Joseph  Christoffersen",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Matt Neumann",
+      "name": "Tamala Witt",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Dave Grebetz",
       "total": 1000.0,
       "count": 1
     }

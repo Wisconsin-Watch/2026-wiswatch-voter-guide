@@ -1,12 +1,12 @@
 {
   "candidate_id": "b-gruber1",
   "entity_id": 12037721,
-  "contributions_received": 434249.31,
+  "contributions_received": 1271393.44,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 241341.73,
-      "count": 6
+      "total": 1014787.55,
+      "count": 12
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -16,6 +16,11 @@
     {
       "name": "Iowa County Democratic Party",
       "total": 3500.0,
+      "count": 2
+    },
+    {
+      "name": "Roslyn Meyer",
+      "total": 2000.0,
       "count": 2
     },
     {
@@ -29,27 +34,22 @@
       "count": 3
     },
     {
-      "name": "Todd Vogel",
+      "name": "Richard Ballard",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jen Zaborek",
+      "name": "Peter Case",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "nick zaborek",
+      "name": "Rose Ellen Schneider",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peter Mensch",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Barbara Stuart",
+      "name": "James Sinclair",
       "total": 1000.0,
       "count": 1
     }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "e-phanichkul1",
   "entity_id": 12228955,
-  "contributions_received": 7418.73,
+  "contributions_received": 8495.88,
   "top_donors": [
     {
       "name": "Wisconsin Education Association Council",
@@ -20,8 +20,13 @@
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 597.24,
-      "count": 3
+      "total": 676.91,
+      "count": 4
+    },
+    {
+      "name": "Fran Martin",
+      "total": 500.0,
+      "count": 1
     },
     {
       "name": "LuAnn Bird",
@@ -46,11 +51,6 @@
     {
       "name": "mark thomsen",
       "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Jonker",
-      "total": 200.0,
       "count": 1
     }
   ]

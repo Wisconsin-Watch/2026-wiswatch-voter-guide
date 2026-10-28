@@ -1,15 +1,10 @@
 {
   "candidate_id": "c-duchow1",
   "entity_id": 16901,
-  "contributions_received": 18697.55,
+  "contributions_received": 21477.55,
   "top_donors": [
     {
-      "name": "Professional Insurance Agents PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "RANW PAC",
+      "name": "Clayton Rehm",
       "total": 1000.0,
       "count": 1
     },
@@ -19,7 +14,22 @@
       "count": 1
     },
     {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Professional Insurance Agents PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,27 +39,17 @@
       "count": 1
     },
     {
-      "name": "Northwestern Mutual PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "William Rehm",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Thrivent Wisconsin PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Clayton Rehm",
+      "name": "Taxpayers for Nygren",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     }

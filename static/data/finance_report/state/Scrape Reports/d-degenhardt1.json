@@ -1,8 +1,13 @@
 {
   "candidate_id": "d-degenhardt1",
   "entity_id": 1150578,
-  "contributions_received": 5139.22,
+  "contributions_received": 8568.89,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2447.83,
+      "count": 5
+    },
     {
       "name": "Paul De Chant",
       "total": 1000.0,
@@ -19,13 +24,13 @@
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 368.16,
-      "count": 3
+      "name": "John Horner-Ibler",
+      "total": 500.0,
+      "count": 1
     },
     {
-      "name": "John Torinus, Jr.",
-      "total": 200.0,
+      "name": "Joan Rudnitzi",
+      "total": 275.0,
       "count": 1
     },
     {
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
-      "name": "Bartlow Rodney",
+      "name": "Dru Popper",
       "total": 200.0,
       "count": 1
     },
     {
-      "name": "Waring Fincke",
-      "total": 100.0,
+      "name": "John Torinus, Jr.",
+      "total": 200.0,
       "count": 1
     },
     {
-      "name": "Robert Russon",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Kay Dricken",
-      "total": 100.0,
+      "name": "Bartlow Rodney",
+      "total": 200.0,
       "count": 1
     }
   ]

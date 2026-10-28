@@ -1,35 +1,20 @@
 {
   "candidate_id": "a-joers1",
   "entity_id": 16808,
-  "contributions_received": 42501.65,
+  "contributions_received": 51511.32,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 7637.89,
-      "count": 3
+      "total": 7717.56,
+      "count": 4
     },
     {
-      "name": "Operating Engineers 139 PAC",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
-      "name": "Emily Kuhn",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Diane Zillner",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Carol Reinerio",
+      "name": "Sarah Wittwer",
       "total": 1000.0,
       "count": 1
     },
@@ -39,7 +24,17 @@
       "count": 1
     },
     {
+      "name": "Carol Reinerio",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Emily Kuhn",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +44,12 @@
       "count": 1
     },
     {
-      "name": "WI Pipe Trades Assn PAC",
+      "name": "Council of Auto & Truck Retail Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane Zillner",
       "total": 1000.0,
       "count": 1
     }

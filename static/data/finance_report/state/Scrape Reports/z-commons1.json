@@ -1,8 +1,23 @@
 {
   "candidate_id": "z-commons1",
   "entity_id": 12228056,
-  "contributions_received": 660.1,
+  "contributions_received": 1245.41,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 208.41,
+      "count": 4
+    },
+    {
+      "name": "CRUE / WEAC Region 4 - PAC",
+      "total": 200.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 5 PAC",
+      "total": 200.0,
+      "count": 1
+    },
     {
       "name": "Michelle Commons",
       "total": 110.0,
@@ -24,12 +39,7 @@
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 73.1,
-      "count": 2
-    },
-    {
-      "name": "Zachary Allen Commons",
+      "name": "Stephen Werner",
       "total": 50.0,
       "count": 1
     },
@@ -39,18 +49,8 @@
       "count": 1
     },
     {
-      "name": "R Stephen Werner",
-      "total": 25.0,
-      "count": 1
-    },
-    {
-      "name": "Tammy Wood",
-      "total": 25.0,
-      "count": 1
-    },
-    {
-      "name": "Heidi Thompson",
-      "total": 10.0,
+      "name": "Zachary Allen Commons",
+      "total": 50.0,
       "count": 1
     }
   ]

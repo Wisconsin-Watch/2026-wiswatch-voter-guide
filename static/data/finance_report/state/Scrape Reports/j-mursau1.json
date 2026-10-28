@@ -1,37 +1,32 @@
 {
   "candidate_id": "j-mursau1",
   "entity_id": 15735,
-  "contributions_received": 9250.0,
+  "contributions_received": 13950.0,
   "top_donors": [
-    {
-      "name": "Plumbers & Steamfitters Local 400",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Forest County Potawatomi Community",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "John Bergstrom",
-      "total": 500.0,
+      "name": "Realtors Association of South Central Wisconsin",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Ezra Gruszynski",
-      "total": 500.0,
+      "name": "Taxpayers for Nygren",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Chad Koehne",
-      "total": 500.0,
+      "name": "Plumbers & Steamfitters Local 400",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Debra A Cisar",
-      "total": 500.0,
-      "count": 2
+      "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Judy Derusha",
@@ -44,13 +39,18 @@
       "count": 1
     },
     {
-      "name": "Gary Tauchen",
-      "total": 300.0,
+      "name": "Ezra Gruszynski",
+      "total": 500.0,
       "count": 1
     },
     {
-      "name": "Richard M. Connor Jr.",
-      "total": 250.0,
+      "name": "Debra A Cisar",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "Chad Koehne",
+      "total": 500.0,
       "count": 1
     }
   ]

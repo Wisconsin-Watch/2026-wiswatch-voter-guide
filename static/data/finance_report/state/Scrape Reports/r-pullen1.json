@@ -1,22 +1,22 @@
 {
   "candidate_id": "r-pullen1",
   "entity_id": 11948245,
-  "contributions_received": 20390.12,
+  "contributions_received": 39033.27,
   "top_donors": [
     {
+      "name": "Republican Party of Wisconsin",
+      "total": 16180.0,
+      "count": 2
+    },
+    {
       "name": "Reive Martin Pullen",
-      "total": 7412.12,
-      "count": 138
+      "total": 8111.6,
+      "count": 149
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 2602.93,
-      "count": 3
-    },
-    {
-      "name": "RON TUSLER",
-      "total": 1000.0,
-      "count": 1
+      "total": 2964.27,
+      "count": 4
     },
     {
       "name": "Friends of Rachael Cabral Guevara",
@@ -24,17 +24,22 @@
       "count": 2
     },
     {
+      "name": "RON TUSLER",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Linda Hash",
       "total": 520.51,
       "count": 1
     },
     {
-      "name": "Joe W Bast",
+      "name": "Neighbors for Nate Gustafson",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "George Baker",
+      "name": "Joe W Bast",
       "total": 500.0,
       "count": 1
     },
@@ -44,14 +49,9 @@
       "count": 1
     },
     {
-      "name": "Neighbors for Nate Gustafson",
+      "name": "George Baker",
       "total": 500.0,
       "count": 1
-    },
-    {
-      "name": "Tim Higgins",
-      "total": 364.35,
-      "count": 2
     }
   ]
 }

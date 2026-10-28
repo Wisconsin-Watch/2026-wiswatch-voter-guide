@@ -1,17 +1,12 @@
 {
   "candidate_id": "c-tomczyk1",
   "entity_id": 16821,
-  "contributions_received": 75830.0,
+  "contributions_received": 94330.0,
   "top_donors": [
     {
-      "name": "Meryl Kelch",
-      "total": 2000.0,
+      "name": "Republican Party of Marathon County",
+      "total": 2700.0,
       "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 2000.0,
-      "count": 2
     },
     {
       "name": "Leonard Boltz",
@@ -24,7 +19,22 @@
       "count": 1
     },
     {
+      "name": "Taxpayers for Stafsholt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
       "name": "Kent Olson",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Meryl Kelch",
       "total": 2000.0,
       "count": 1
     },
@@ -34,7 +44,7 @@
       "count": 1
     },
     {
-      "name": "James Bauer",
+      "name": "Thomas Garver",
       "total": 1500.0,
       "count": 1
     },
@@ -42,16 +52,6 @@
       "name": "Thomas Gardner",
       "total": 1500.0,
       "count": 1
-    },
-    {
-      "name": "Gary Sulzer",
-      "total": 1250.0,
-      "count": 2
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 1250.0,
-      "count": 2
     }
   ]
 }

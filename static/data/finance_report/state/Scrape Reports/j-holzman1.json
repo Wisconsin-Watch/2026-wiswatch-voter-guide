@@ -1,16 +1,26 @@
 {
   "candidate_id": "j-holzman1",
   "entity_id": 843212,
-  "contributions_received": 13270.16,
+  "contributions_received": 18909.83,
   "top_donors": [
     {
       "name": "Democratic Party of Ozaukee County",
-      "total": 10000.0,
-      "count": 2
+      "total": 12310.0,
+      "count": 4
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2128.73,
+      "count": 3
     },
     {
       "name": "WEAC PAC",
       "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Fond du Lac County Democratic Party",
+      "total": 600.0,
       "count": 1
     },
     {
@@ -22,6 +32,11 @@
       "name": "Debra Dassow",
       "total": 500.0,
       "count": 2
+    },
+    {
+      "name": "6th Congressional District Democratic Party of Wisconsin",
+      "total": 300.0,
+      "count": 1
     },
     {
       "name": "Ralph Weber",
@@ -36,21 +51,6 @@
     {
       "name": "James A Blank",
       "total": 135.0,
-      "count": 1
-    },
-    {
-      "name": "Ted Poull",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Dodge County Democratic Party",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Colleen McCauley",
-      "total": 100.0,
       "count": 1
     }
   ]

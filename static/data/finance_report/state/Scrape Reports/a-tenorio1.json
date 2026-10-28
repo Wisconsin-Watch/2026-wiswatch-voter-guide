@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-tenorio1",
   "entity_id": 1147110,
-  "contributions_received": 11605.73,
+  "contributions_received": 12914.47,
   "top_donors": [
     {
       "name": "RPAC Wisconsin",
@@ -19,23 +19,23 @@
       "count": 1
     },
     {
+      "name": "AFSCME",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Forest County Potawatomi Community PAC",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Holly Schmidtke",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Dean Schultzbank",
-      "total": 250.0,
+      "name": "John Littrell",
+      "total": 375.0,
       "count": 1
     },
     {
       "name": "William H Lynch",
-      "total": 250.0,
+      "total": 350.0,
       "count": 2
     },
     {
@@ -44,7 +44,7 @@
       "count": 1
     },
     {
-      "name": "William H Lynch",
+      "name": "Dean Schultzbank",
       "total": 250.0,
       "count": 1
     },

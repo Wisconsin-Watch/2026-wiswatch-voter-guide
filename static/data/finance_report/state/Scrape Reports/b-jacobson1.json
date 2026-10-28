@@ -1,7 +1,7 @@
 {
   "candidate_id": "b-jacobson1",
   "entity_id": 15639,
-  "contributions_received": 32307.86,
+  "contributions_received": 46437.86,
   "top_donors": [
     {
       "name": "Brent William Jacobson",
@@ -9,32 +9,17 @@
       "count": 3
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "Republican Party of Marathon County",
+      "total": 2630.0,
+      "count": 1
+    },
+    {
+      "name": "Cory Giertz",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Steven Greiner",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Volunteers for Agriculture VFA",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +29,27 @@
       "count": 1
     },
     {
-      "name": "Cory Giertz",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Operating Engineers Local 139 PAC",
+      "name": "ABCPAC-WIS",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     }

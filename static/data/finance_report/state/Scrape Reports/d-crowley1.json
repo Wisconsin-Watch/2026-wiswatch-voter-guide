@@ -1,32 +1,27 @@
 {
   "candidate_id": "d-crowley1",
   "entity_id": 16295,
-  "contributions_received": 11461426.14,
+  "contributions_received": 27082340.35,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2982462.68,
-      "count": 15
+      "total": 12832338.8,
+      "count": 24
     },
     {
       "name": "Sarah for Wisconsin",
-      "total": 326000.0,
-      "count": 4
+      "total": 586000.0,
+      "count": 7
     },
     {
-      "name": "Laborers' International Union of North America  PAC - Wisconsin Account",
+      "name": "SEIU PEA",
       "total": 86000.0,
       "count": 1
     },
     {
-      "name": "DRIVE Committee",
+      "name": "International Association of Fire Fighters",
       "total": 86000.0,
       "count": 1
-    },
-    {
-      "name": "Plumbers Local 75 PAC",
-      "total": 86000.0,
-      "count": 2
     },
     {
       "name": "WEAC PAC",
@@ -34,22 +29,27 @@
       "count": 1
     },
     {
-      "name": "AFSCME People PAC",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 86000.0,
       "count": 1
     },
     {
-      "name": "Active Ballot Club General Fund",
+      "name": "IBEW PAC Voluntary Fund",
       "total": 86000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "The NEA Fund for Children & Public Education",
       "total": 86000.0,
-      "count": 2
+      "count": 1
     },
     {
-      "name": "Democratic Action",
+      "name": "UA Plumbers & Pipefitters Vote! PAC",
+      "total": 86000.0,
+      "count": 1
+    },
+    {
+      "name": "City Fund Action Political Fund",
       "total": 86000.0,
       "count": 1
     }

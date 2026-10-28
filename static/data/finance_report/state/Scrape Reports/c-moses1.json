@@ -1,12 +1,17 @@
 {
   "candidate_id": "c-moses1",
   "entity_id": 15939,
-  "contributions_received": 464825.45,
+  "contributions_received": 786785.52,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee",
-      "total": 331081.77,
-      "count": 7
+      "total": 531948.28,
+      "count": 10
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 93382.77,
+      "count": 16
     },
     {
       "name": "Republican Party of Wisconsin -> Arena Mail & Digital",
@@ -24,12 +29,12 @@
       "count": 1
     },
     {
-      "name": "Forest County Potawatomi Community",
-      "total": 1000.0,
+      "name": "Republican Party-Eau Claire County",
+      "total": 3000.0,
       "count": 1
     },
     {
-      "name": "GE Healthcare Technologies Inc. PAC",
+      "name": "Chad Updike",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
-      "name": "WSTA FONEPAC",
+      "name": "Kevin Blau",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Realtors Association of South Central Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neumann",
+      "name": "Diane Hendricks",
       "total": 1000.0,
       "count": 1
     }

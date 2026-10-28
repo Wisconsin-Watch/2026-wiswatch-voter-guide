@@ -1,25 +1,15 @@
 {
   "candidate_id": "n-vandermeer1",
   "entity_id": 15590,
-  "contributions_received": 49009.0,
+  "contributions_received": 52915.0,
   "top_donors": [
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 2594.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Dental Association PAC",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Keith R Potter",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Brian Buswell",
+      "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -29,22 +19,22 @@
       "count": 2
     },
     {
+      "name": "Brian Buswell",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Patrick Rezin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Donald Zietlow",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliant Energy Wisconsin Governmental Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Paula Laugen",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture",
+      "name": "Wisconsin Dental Association PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -52,6 +42,16 @@
       "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kathleen Neubauer",
+      "total": 1000.0,
+      "count": 2
     }
   ]
 }

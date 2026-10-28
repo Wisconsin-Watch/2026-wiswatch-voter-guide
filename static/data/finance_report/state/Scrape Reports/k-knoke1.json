@@ -1,17 +1,17 @@
 {
   "candidate_id": "k-knoke1",
   "entity_id": 12154548,
-  "contributions_received": 440079.32,
+  "contributions_received": 1309542.66,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 295192.28,
-      "count": 4
+      "total": 1127341.71,
+      "count": 8
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 11431.58,
-      "count": 2
+      "total": 23316.27,
+      "count": 3
     },
     {
       "name": "Kevin Knoke",
@@ -21,6 +21,11 @@
     {
       "name": "ADCC",
       "total": 3029.7,
+      "count": 1
+    },
+    {
+      "name": "Pierce Cty Dems 300141",
+      "total": 2000.0,
       "count": 1
     },
     {
@@ -39,17 +44,12 @@
       "count": 2
     },
     {
-      "name": "Ben Knoke",
+      "name": "Climate Cabinet PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Patricia Mcquiddy",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Lynette Beinlich",
+      "name": "Tomas Torres",
       "total": 1000.0,
       "count": 1
     }

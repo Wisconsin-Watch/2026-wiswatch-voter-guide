@@ -1,45 +1,25 @@
 {
   "candidate_id": "r-summerfield1",
   "entity_id": 16005,
-  "contributions_received": 29186.0,
+  "contributions_received": 39006.0,
   "top_donors": [
-    {
-      "name": "AT&T Wisconsin Employee PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Alliant Energy PCA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Charter Communications, Inc. Wisconsin Political Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Wisconsin REALTORS PAC",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "Keith Kocourek",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "500146 REALTORS - RPAC",
+      "name": "WEC Energy Group PAC (WEC PAC)",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tavern Industry PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +29,27 @@
       "count": 1
     },
     {
-      "name": "RANW PAC",
+      "name": "Gerald Jacobson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "500146 REALTORS - RPAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WSTA FONEPAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Nygren",
       "total": 1000.0,
       "count": 1
     }

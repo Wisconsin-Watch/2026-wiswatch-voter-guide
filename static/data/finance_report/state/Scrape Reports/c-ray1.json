@@ -1,17 +1,17 @@
 {
   "candidate_id": "c-ray1",
   "entity_id": 11959444,
-  "contributions_received": 280790.71,
+  "contributions_received": 521151.8,
   "top_donors": [
+    {
+      "name": "State Senate Democratic Committee",
+      "total": 239888.51,
+      "count": 12
+    },
     {
       "name": "Wisconsin State Senate Democratic Committee",
       "total": 67231.2,
       "count": 4
-    },
-    {
-      "name": "State Senate Democratic Committee",
-      "total": 39888.51,
-      "count": 7
     },
     {
       "name": "Charly B Ray",
@@ -19,22 +19,12 @@
       "count": 1
     },
     {
-      "name": "Barry Boothe",
+      "name": "Committee to Elect Kristin Alfheim",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Justine Haselow",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Wall for Wisconsin",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "KeyeskiForWI",
+      "name": "Robert Habush",
       "total": 2000.0,
       "count": 1
     },
@@ -44,12 +34,22 @@
       "count": 1
     },
     {
-      "name": "Pfaff for State Senate",
+      "name": "Kimberly West",
       "total": 2000.0,
-      "count": 2
+      "count": 1
     },
     {
-      "name": "Friends of Dianne Hesselbein",
+      "name": "KeyeskiForWI",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Justine Haselow",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Haselow",
       "total": 2000.0,
       "count": 1
     }

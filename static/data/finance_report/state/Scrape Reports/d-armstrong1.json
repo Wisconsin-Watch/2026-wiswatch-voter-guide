@@ -1,30 +1,10 @@
 {
   "candidate_id": "d-armstrong1",
   "entity_id": 16037,
-  "contributions_received": 15660.0,
+  "contributions_received": 18385.0,
   "top_donors": [
     {
-      "name": "Friends of Wisconsin Bear Hunters",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Mark Jr Johnson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Andrea Menard",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
       "total": 1000.0,
       "count": 1
     },
@@ -39,12 +19,32 @@
       "count": 1
     },
     {
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Wisconsin Bear Hunters",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Andrea Menard",
       "total": 1000.0,
       "count": 1
     },

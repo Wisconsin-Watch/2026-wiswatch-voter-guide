@@ -1,37 +1,17 @@
 {
   "candidate_id": "t-kurtz1",
   "entity_id": 16281,
-  "contributions_received": 137018.0,
+  "contributions_received": 159592.98,
   "top_donors": [
     {
-      "name": "Alissa Gander",
+      "name": "Forest County Potawatomi Community PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Patrick English",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Margaret Diehl",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WSTA FONEPAC",
+      "name": "John A Scott",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "PFFW PAC",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Allan Vignieri",
-      "total": 1000.0,
-      "count": 1
     },
     {
       "name": "Stephanie Navis",
@@ -39,17 +19,37 @@
       "count": 1
     },
     {
-      "name": "Cory Lucke",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Chad B. Navis",
+      "name": "NextEra, Inc. PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "AT&T Wisconsin Employee PAC",
+      "name": "Alissa Gander",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Linda Householder",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Humana Inc. Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WCULAF",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Nygren",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Gander",
       "total": 1000.0,
       "count": 1
     }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "i-luna1",
   "entity_id": 12183906,
-  "contributions_received": 145276.97,
+  "contributions_received": 150636.64,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
@@ -9,32 +9,17 @@
       "count": 8
     },
     {
-      "name": "Victor Ravago",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Robert Haselow",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "IBEW Local 494 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Stacy Schusterman",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Laborers District Council",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
+      "name": "Justine Haselow",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +29,27 @@
       "count": 1
     },
     {
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Clark Pellett",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Justine Haselow",
+      "name": "James M Walton",
       "total": 1000.0,
       "count": 1
     }

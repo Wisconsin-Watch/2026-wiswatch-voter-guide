@@ -1,7 +1,7 @@
 {
   "candidate_id": "k-purnell1",
   "entity_id": 12226899,
-  "contributions_received": 187724.77,
+  "contributions_received": 237289.63,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -10,8 +10,13 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 40928.33,
-      "count": 5
+      "total": 81001.19,
+      "count": 10
+    },
+    {
+      "name": "John Reinhart",
+      "total": 2000.0,
+      "count": 4
     },
     {
       "name": "Lacrosse County Republican Party",
@@ -19,27 +24,12 @@
       "count": 1
     },
     {
-      "name": "John Reinhart",
-      "total": 1500.0,
-      "count": 3
-    },
-    {
       "name": "Keith Bernard Purnell",
       "total": 1159.43,
       "count": 14
     },
     {
-      "name": "Friends of Kevin Hoyer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Devin LeMahieu",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kurtz for Assembly",
+      "name": "Friends of Julian Bradley",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +39,17 @@
       "count": 1
     },
     {
-      "name": "Barbara Baroni",
+      "name": "Republican Party of Trempealeau County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Shawn Werner",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     }

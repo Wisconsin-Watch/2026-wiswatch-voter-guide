@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-riverawagner1",
   "entity_id": 16408,
-  "contributions_received": 17577.28,
+  "contributions_received": 22547.24,
   "top_donors": [
     {
       "name": "Karen Flood",
@@ -9,12 +9,17 @@
       "count": 5
     },
     {
-      "name": "WEAC PAC",
+      "name": "Zachary Kroh",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WEAC Region 3 PAC",
+      "name": "Howard Rich",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Howard Rich",
       "total": 1000.0,
       "count": 1
     },
@@ -29,29 +34,24 @@
       "count": 1
     },
     {
-      "name": "Zachary Kroh",
+      "name": "WEAC Region 3 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Laborers District Council",
-      "total": 500.0,
+      "name": "WEAC PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WCULAF",
-      "total": 500.0,
+      "name": "GREEN BAY POLITICAL ACTION COMMITTEE",
+      "total": 980.0,
       "count": 1
     },
     {
-      "name": "Robert Erickson",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Democratic Party of Brown County",
-      "total": 500.0,
-      "count": 1
+      "name": "Katherine Klass",
+      "total": 550.0,
+      "count": 13
     }
   ]
 }

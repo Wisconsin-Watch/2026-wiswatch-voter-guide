@@ -1,12 +1,17 @@
 {
   "candidate_id": "m-skinner1",
   "entity_id": 1704858,
-  "contributions_received": 766907.78,
+  "contributions_received": 1400058.89,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 602483.75,
-      "count": 10
+      "total": 899983.75,
+      "count": 12
+    },
+    {
+      "name": "Arena Mail & Digitl",
+      "total": 314447.0,
+      "count": 7
     },
     {
       "name": "Committee to Elect a Republican Senate",
@@ -19,27 +24,7 @@
       "count": 1
     },
     {
-      "name": "WMC Conduit",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
       "name": "Robert Keller",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Devin LeMahieu",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Quinn for Senate",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Feyen for Senate",
       "total": 2000.0,
       "count": 1
     },
@@ -50,6 +35,21 @@
     },
     {
       "name": "KOCHPAC-KOCH Inc. PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Chippewa County",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WMC Conduit",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Matt Neuman",
       "total": 2000.0,
       "count": 1
     }

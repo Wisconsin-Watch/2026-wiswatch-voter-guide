@@ -1,7 +1,7 @@
 {
   "candidate_id": "s-reaves1",
   "entity_id": 12226745,
-  "contributions_received": 8625.49,
+  "contributions_received": 9735.49,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee",
@@ -24,6 +24,16 @@
       "count": 1
     },
     {
+      "name": "SHANDOWLYON REAVES",
+      "total": 700.0,
+      "count": 2
+    },
+    {
+      "name": "Milwaukee Police Association Political Action Committee",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Fenon Muhammad",
       "total": 300.0,
       "count": 1
@@ -40,16 +50,6 @@
     },
     {
       "name": "Andrew McKinney",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Rogers Onick",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Michael Monk",
       "total": 200.0,
       "count": 1
     }

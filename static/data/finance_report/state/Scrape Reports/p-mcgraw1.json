@@ -1,12 +1,17 @@
 {
   "candidate_id": "p-mcgraw1",
   "entity_id": 11948316,
-  "contributions_received": 35062.82,
+  "contributions_received": 58512.65,
   "top_donors": [
     {
       "name": "Republican Party of Walworth County",
-      "total": 2364.74,
-      "count": 3
+      "total": 16191.47,
+      "count": 8
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 8359.0,
+      "count": 1
     },
     {
       "name": "Republican Assembly Campaign Committee (ID #0400002))",
@@ -14,27 +19,7 @@
       "count": 2
     },
     {
-      "name": "Diane M Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Teri Baar",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Tyler August",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Nick Lesar",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kimberly K Adamany",
+      "name": "Joseph W Conway",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +29,27 @@
       "count": 1
     },
     {
-      "name": "Brad Austin",
+      "name": "Brent A Fox",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Brent A Fox",
+      "name": "Diane M Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kevin J Hendricks",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "David E Babcock",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kimberly K Adamany",
       "total": 1000.0,
       "count": 1
     }

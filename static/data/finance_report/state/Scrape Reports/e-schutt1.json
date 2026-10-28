@@ -1,20 +1,15 @@
 {
   "candidate_id": "e-schutt1",
   "entity_id": 15958,
-  "contributions_received": 117034.65,
+  "contributions_received": 156857.68,
   "top_donors": [
     {
-      "name": "Friends of Jesse James",
-      "total": 2000.0,
-      "count": 1
+      "name": "Republican Party of Walworth County",
+      "total": 15713.68,
+      "count": 7
     },
     {
-      "name": "Edward Cox",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Rachael Cabral Guevara",
+      "name": "Jeff Schultz",
       "total": 2000.0,
       "count": 1
     },
@@ -24,24 +19,24 @@
       "count": 1
     },
     {
+      "name": "Testin for Senate",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Stafsholt",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Jesse James",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 2000.0,
       "count": 1
-    },
-    {
-      "name": "Citizens for August",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Kathryn Leith",
-      "total": 2000.0,
-      "count": 3
     },
     {
       "name": "Friends of Mary",
@@ -49,7 +44,12 @@
       "count": 1
     },
     {
-      "name": "Jeff Schultz",
+      "name": "Friends of Rachael Cabral Guevara",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Citizens for August",
       "total": 2000.0,
       "count": 1
     }

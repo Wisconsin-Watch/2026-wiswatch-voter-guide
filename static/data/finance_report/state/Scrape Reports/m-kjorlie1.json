@@ -1,8 +1,13 @@
 {
   "candidate_id": "m-kjorlie1",
   "entity_id": 12229804,
-  "contributions_received": 15721.77,
+  "contributions_received": 26233.16,
   "top_donors": [
+    {
+      "name": "Republican Party - Dane County",
+      "total": 10391.39,
+      "count": 3
+    },
     {
       "name": "Republican Party of Dane County",
       "total": 4020.0,
@@ -24,7 +29,17 @@
       "count": 1
     },
     {
-      "name": "Tim Higgins",
+      "name": "Mark Melvin Kjorlie",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Tamara Sondgeroth",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Tom Waddell",
       "total": 500.0,
       "count": 1
     },
@@ -34,22 +49,7 @@
       "count": 1
     },
     {
-      "name": "Masood Akhtar",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "James  Larsen",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Cathy Zeuske",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Tamara Sondgeroth",
+      "name": "Tim Higgins",
       "total": 500.0,
       "count": 1
     }

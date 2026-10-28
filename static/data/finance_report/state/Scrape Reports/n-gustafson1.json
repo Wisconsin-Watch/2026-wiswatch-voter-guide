@@ -1,20 +1,20 @@
 {
   "candidate_id": "n-gustafson1",
   "entity_id": 30951,
-  "contributions_received": 17851.47,
+  "contributions_received": 28533.47,
   "top_donors": [
     {
-      "name": "Friends of Rachael Cabral Guevara",
+      "name": "David J Beaupre",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "GE Healthcare Technologies Inc. PAC",
+      "name": "David Kriete",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "PROG Holdings Inc, PAC",
+      "name": "Joseph Bast",
       "total": 1000.0,
       "count": 1
     },
@@ -24,7 +24,27 @@
       "count": 1
     },
     {
-      "name": "David J Beaupre",
+      "name": "Association of Progressive Rental Orgaizations",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Wisconsin Bear Hunters",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "PROG Holdings Inc, PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "GE Healthcare Technologies Inc. PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "John Klein",
       "total": 1000.0,
       "count": 1
     },
@@ -32,26 +52,6 @@
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Association of Progressive Rental Orgaizations",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Frederick Prehn",
-      "total": 800.0,
-      "count": 2
-    },
-    {
-      "name": "Richard Phillips",
-      "total": 750.0,
-      "count": 2
-    },
-    {
-      "name": "Jeffrey Beischel",
-      "total": 750.0,
-      "count": 2
     }
   ]
 }

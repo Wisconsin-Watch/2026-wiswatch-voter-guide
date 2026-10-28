@@ -1,8 +1,13 @@
 {
   "candidate_id": "s-russellantoniogoodwin1",
   "entity_id": 1149729,
-  "contributions_received": 7209.7,
+  "contributions_received": 10814.37,
   "top_donors": [
+    {
+      "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
@@ -19,7 +24,17 @@
       "count": 1
     },
     {
-      "name": "Milwaukee Police Association Political Action Committee",
+      "name": "IBEW Local 494 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Mutual  PAC",
       "total": 500.0,
       "count": 1
     },
@@ -34,23 +49,8 @@
       "count": 1
     },
     {
-      "name": "Theodore Chisholm",
-      "total": 350.0,
-      "count": 2
-    },
-    {
-      "name": "Ted Chisholm",
-      "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Keegan Panetti",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Assisted Living Association-PAC",
-      "total": 250.0,
+      "name": "Milwaukee Police Association Political Action Committee",
+      "total": 500.0,
       "count": 1
     }
   ]

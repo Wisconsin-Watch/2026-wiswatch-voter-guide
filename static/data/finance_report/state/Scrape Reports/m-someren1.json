@@ -1,8 +1,13 @@
 {
   "candidate_id": "m-someren1",
   "entity_id": 11948129,
-  "contributions_received": 45521.0,
+  "contributions_received": 57583.37,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 4184.37,
+      "count": 4
+    },
     {
       "name": "Democratic Party of Jefferson County",
       "total": 3500.0,
@@ -10,6 +15,11 @@
     },
     {
       "name": "WEAC PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW Local 494 PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -24,12 +34,12 @@
       "count": 1
     },
     {
-      "name": "Kathryn Q Flores",
+      "name": "Robert Batey",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Robert Batey",
+      "name": "Kathryn Q Flores",
       "total": 1000.0,
       "count": 1
     },
@@ -42,16 +52,6 @@
       "name": "Jane Miscavage",
       "total": 725.0,
       "count": 2
-    },
-    {
-      "name": "Brett Swanson",
-      "total": 700.0,
-      "count": 7
-    },
-    {
-      "name": "Jan Hardy",
-      "total": 600.0,
-      "count": 1
     }
   ]
 }

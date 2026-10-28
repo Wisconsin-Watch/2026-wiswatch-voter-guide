@@ -1,10 +1,10 @@
 {
   "candidate_id": "d-tucker1",
   "entity_id": 15635,
-  "contributions_received": 15887.09,
+  "contributions_received": 19237.09,
   "top_donors": [
     {
-      "name": "ABCPAC-WIS",
+      "name": "Wisconsin Bear Hunters Association",
       "total": 1000.0,
       "count": 1
     },
@@ -19,17 +19,7 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Bear Hunters Association",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Becky Lake",
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +29,27 @@
       "count": 1
     },
     {
-      "name": "Curt Lee",
-      "total": 500.0,
+      "name": "Becky Lake",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WEC Energy Group PAC (WEC PAC)",
-      "total": 500.0,
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "JAMIE L ANDREWS",
+      "name": "ABCPAC-WIS",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Association of Equipment Manufacturers PAC",
       "total": 500.0,
       "count": 1
     }

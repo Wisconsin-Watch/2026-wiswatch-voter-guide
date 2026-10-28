@@ -1,15 +1,15 @@
 {
   "candidate_id": "c-ellis1",
   "entity_id": 12226491,
-  "contributions_received": 32073.07,
+  "contributions_received": 41136.12,
   "top_donors": [
     {
-      "name": "Diane Ellis",
+      "name": "WEAC PAC",
       "total": 2000.0,
-      "count": 2
+      "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "Brennan for Wisconsin",
       "total": 2000.0,
       "count": 1
     },
@@ -17,6 +17,11 @@
       "name": "Montgomery Trapper Sexton",
       "total": 2000.0,
       "count": 1
+    },
+    {
+      "name": "Diane Ellis",
+      "total": 2000.0,
+      "count": 2
     },
     {
       "name": "Walter Ellis",
@@ -39,14 +44,9 @@
       "count": 2
     },
     {
-      "name": "Julie Stodolka",
+      "name": "Hugh Ross",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Teresa Welch",
-      "total": 1000.0,
-      "count": 1
     },
     {
       "name": "Rebecca Clarke",

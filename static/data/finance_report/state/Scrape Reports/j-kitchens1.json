@@ -1,40 +1,10 @@
 {
   "candidate_id": "j-kitchens1",
   "entity_id": 17342,
-  "contributions_received": 31165.21,
+  "contributions_received": 36665.21,
   "top_donors": [
     {
-      "name": "Diane Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Lisa Karandanis",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kathleen Kilgore",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wendy Tinnon",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "KOCHPAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Local 400 COPE Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
       "total": 1000.0,
       "count": 1
     },
@@ -44,14 +14,44 @@
       "count": 1
     },
     {
-      "name": "Thomas Wulf",
-      "total": 750.0,
-      "count": 2
+      "name": "Kathleen Kilgore",
+      "total": 1000.0,
+      "count": 1
     },
     {
-      "name": "David Ward",
-      "total": 600.0,
-      "count": 2
+      "name": "KOCHPAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Volunteers for Agriculture VFA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Local 400 COPE Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Nygren",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wendy Tinnon",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Dwight Davis",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane Hendricks",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

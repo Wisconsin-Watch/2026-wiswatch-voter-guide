@@ -1,16 +1,11 @@
 {
   "candidate_id": "c-maltese1",
   "entity_id": 12228933,
-  "contributions_received": 11498.3,
+  "contributions_received": 14122.9,
   "top_donors": [
     {
       "name": "Wood County Democratic Party",
       "total": 3000.0,
-      "count": 1
-    },
-    {
-      "name": "Juneau County Democratic Party",
-      "total": 1000.0,
       "count": 1
     },
     {
@@ -19,9 +14,24 @@
       "count": 1
     },
     {
+      "name": "Juneau County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Democratic Party of Wisconsin",
-      "total": 568.18,
-      "count": 3
+      "total": 647.85,
+      "count": 4
+    },
+    {
+      "name": "Joan Slaby",
+      "total": 550.0,
+      "count": 6
+    },
+    {
+      "name": "Democratic Party of Adams County",
+      "total": 500.0,
+      "count": 1
     },
     {
       "name": "Ron Natzke",
@@ -42,16 +52,6 @@
       "name": "David Gorski",
       "total": 368.8,
       "count": 2
-    },
-    {
-      "name": "Deane Mathews",
-      "total": 366.0,
-      "count": 5
-    },
-    {
-      "name": "Joan Slaby",
-      "total": 350.0,
-      "count": 4
     }
   ]
 }

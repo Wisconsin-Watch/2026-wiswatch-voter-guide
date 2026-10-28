@@ -1,8 +1,13 @@
 {
   "candidate_id": "j-belanger1",
   "entity_id": 12230167,
-  "contributions_received": 37198.66,
+  "contributions_received": 65039.47,
   "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 25950.81,
+      "count": 1
+    },
     {
       "name": "WISGOP",
       "total": 7788.66,
@@ -11,6 +16,16 @@
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 6000.0,
+      "count": 1
+    },
+    {
+      "name": "i360 Holdings -> i360 LLC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eric Kriete",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -29,27 +44,12 @@
       "count": 1
     },
     {
-      "name": "Tyler August",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "GOPAC ELECTION FUND",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Kurt Werner",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "i360 Holdings -> i360 LLC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neuman",
+      "name": "GOPAC ELECTION FUND",
       "total": 1000.0,
       "count": 1
     }

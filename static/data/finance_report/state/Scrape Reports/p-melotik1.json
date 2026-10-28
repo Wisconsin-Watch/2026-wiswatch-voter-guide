@@ -1,36 +1,11 @@
 {
   "candidate_id": "p-melotik1",
   "entity_id": 664015,
-  "contributions_received": 28467.56,
+  "contributions_received": 36686.19,
   "top_donors": [
     {
       "name": "Paul Melotik",
       "total": 10000.0,
-      "count": 1
-    },
-    {
-      "name": "Realtors PAC, RPAC-Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Scott Mayer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Dan Graziano",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Diane Hendricks",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
-      "total": 1000.0,
       "count": 1
     },
     {
@@ -39,7 +14,7 @@
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -49,8 +24,33 @@
       "count": 1
     },
     {
-      "name": "Patrick English",
-      "total": 959.7,
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors PAC, RPAC-Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "ABCPAC-WIS",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Dan Graziano",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Scott Mayer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Diane Hendricks",
+      "total": 1000.0,
       "count": 1
     }
   ]

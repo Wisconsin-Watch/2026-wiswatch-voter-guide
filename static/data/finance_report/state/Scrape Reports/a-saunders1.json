@@ -1,10 +1,25 @@
 {
   "candidate_id": "a-saunders1",
   "entity_id": 843024,
-  "contributions_received": 9906.82,
+  "contributions_received": 13157.65,
   "top_donors": [
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2714.27,
+      "count": 6
+    },
+    {
       "name": "Donald Baker Katz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Andrea Gage",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,27 +34,12 @@
       "count": 2
     },
     {
-      "name": "WEAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Andrea Gage",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 538.44,
-      "count": 2
-    },
-    {
-      "name": "WEAC Region 3 PAC",
+      "name": "Manitowoc County Democratic Party",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Manitowoc County Democratic Party",
+      "name": "WEAC Region 3 PAC",
       "total": 500.0,
       "count": 1
     },
@@ -49,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "Jameson Smits",
+      "name": "Democratic Party of Outagamie County",
       "total": 250.0,
       "count": 1
     }

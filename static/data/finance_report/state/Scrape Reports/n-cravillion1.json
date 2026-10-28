@@ -1,7 +1,7 @@
 {
   "candidate_id": "n-cravillion1",
   "entity_id": 12226986,
-  "contributions_received": 62907.47,
+  "contributions_received": 82827.99,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -9,7 +9,17 @@
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
+      "name": "RANW PAC",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "ABCPAC-WIS",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 2000.0,
       "count": 1
     },
@@ -24,17 +34,12 @@
       "count": 4
     },
     {
-      "name": "RANW PAC",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "Testin for Senate",
+      "name": "Lee H Kinnard",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Dairy Business Association",
+      "name": "Testin for Senate",
       "total": 2000.0,
       "count": 1
     },
@@ -44,12 +49,7 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
+      "name": "Friends of Mary",
       "total": 2000.0,
       "count": 1
     }

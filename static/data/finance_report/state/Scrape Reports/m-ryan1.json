@@ -1,15 +1,25 @@
 {
   "candidate_id": "m-ryan1",
   "entity_id": 12226520,
-  "contributions_received": 23595.0,
+  "contributions_received": 33635.0,
   "top_donors": [
     {
-      "name": "Rep Assembly Campaign Com RACC -> i360 Holdings",
+      "name": "Lacey Lakin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Citizens for August",
+      "name": "Kevin Michels",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eric Everson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rosemary Lakin",
       "total": 1000.0,
       "count": 1
     },
@@ -19,12 +29,7 @@
       "count": 2
     },
     {
-      "name": "Eric Everson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Tripp Ahern",
+      "name": "Citizens for August",
       "total": 1000.0,
       "count": 1
     },
@@ -34,24 +39,19 @@
       "count": 1
     },
     {
-      "name": "Anthony Ahern",
+      "name": "Rep Assembly Campaign Com RACC -> i360 Holdings",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Chris Bernier",
+      "name": "Tripp Ahern",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Thomas Gross",
-      "total": 850.0,
-      "count": 3
-    },
-    {
-      "name": "Pat  Ryan",
-      "total": 600.0,
-      "count": 2
+      "name": "Gary E Lakin",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

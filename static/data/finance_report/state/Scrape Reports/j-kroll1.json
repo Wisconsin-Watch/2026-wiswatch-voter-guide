@@ -1,12 +1,12 @@
 {
   "candidate_id": "j-kroll1",
   "entity_id": 12049265,
-  "contributions_received": 495277.32,
+  "contributions_received": 1436836.98,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 288065.82,
-      "count": 6
+      "total": 1195596.84,
+      "count": 9
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -15,41 +15,41 @@
     },
     {
       "name": "John Kroll",
-      "total": 3813.0,
-      "count": 10
+      "total": 4188.0,
+      "count": 11
     },
     {
-      "name": "Eric Vittinghoff",
+      "name": "Barbara Stuart",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Alexander Weiss",
+      "total": 1142.87,
+      "count": 3
+    },
+    {
+      "name": "John O'Farrell",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Elliot Stahnke",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Marc Katz",
+      "name": "Robert Rothhouse",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Gregg Oppenheimer",
+      "name": "Hein Roehrig",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peter Case",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Adam Jermyn",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jeffrey Heath",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Richard Samson",
+      "name": "Phelps Campaign",
       "total": 1000.0,
       "count": 1
     }

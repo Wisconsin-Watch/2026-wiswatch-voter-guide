@@ -1,22 +1,22 @@
 {
   "candidate_id": "s-doyle1",
   "entity_id": 16691,
-  "contributions_received": 270058.94,
+  "contributions_received": 378397.74,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 99838.61,
+      "count": 6
+    },
     {
       "name": "Assembly Democratic Camp Comm - SEG FUND",
       "total": 78992.13,
       "count": 1
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 59007.24,
-      "count": 4
-    },
-    {
       "name": "Assembly Democratic Camp Comm",
-      "total": 43841.07,
-      "count": 2
+      "total": 74335.06,
+      "count": 3
     },
     {
       "name": "State Bank Financial",
@@ -29,17 +29,17 @@
       "count": 1
     },
     {
-      "name": "Peter Case",
+      "name": "Todd Vogel",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Northwestern Mutual PAC",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peter Mensch",
+      "name": "Weston Milliken",
       "total": 1000.0,
       "count": 1
     },
@@ -49,9 +49,9 @@
       "count": 1
     },
     {
-      "name": "Zurich Holding Co. of America Committee for Good Government",
+      "name": "Ron Kind",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     }
   ]
 }

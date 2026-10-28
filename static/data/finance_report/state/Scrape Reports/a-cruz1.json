@@ -1,8 +1,18 @@
 {
   "candidate_id": "a-cruz1",
   "entity_id": 16430,
-  "contributions_received": 15810.82,
+  "contributions_received": 23283.6,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 5397.48,
+      "count": 4
+    },
+    {
+      "name": "Service and Hospitality PAC",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
@@ -14,17 +24,12 @@
       "count": 1
     },
     {
-      "name": "Peter Knotek",
-      "total": 500.0,
+      "name": "Patrick K. Cafferty",
+      "total": 600.0,
       "count": 2
     },
     {
       "name": "500146 REALTORS - RPAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "William Schalk",
       "total": 500.0,
       "count": 1
     },
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
+      "name": "Peter Knotek",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "William Schalk",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Taft for Racine",
       "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Domingo Cruz",
-      "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Constance A Saculla",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Kim Schroeder",
-      "total": 250.0,
       "count": 1
     }
   ]

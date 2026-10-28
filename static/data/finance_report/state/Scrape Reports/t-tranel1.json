@@ -1,20 +1,10 @@
 {
   "candidate_id": "t-tranel1",
   "entity_id": 15899,
-  "contributions_received": 19325.0,
+  "contributions_received": 32045.0,
   "top_donors": [
     {
       "name": "Steven Buholzer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert A Digman",
       "total": 1000.0,
       "count": 1
     },
@@ -24,17 +14,7 @@
       "count": 1
     },
     {
-      "name": "Alliant Energy PCA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Thomas Flogel",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Julie Frey",
       "total": 1000.0,
       "count": 1
     },
@@ -44,13 +24,33 @@
       "count": 1
     },
     {
-      "name": "Jackson Flogel",
-      "total": 750.0,
+      "name": "Julie Frey",
+      "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Davis Flogel",
-      "total": 750.0,
+      "name": "Adam Warthesen",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Lois Fritz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "David Buholzer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "ABCPAC-WIS",
+      "total": 1000.0,
       "count": 1
     }
   ]

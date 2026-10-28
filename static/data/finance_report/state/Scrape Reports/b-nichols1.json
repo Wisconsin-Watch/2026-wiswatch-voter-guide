@@ -1,37 +1,17 @@
 {
   "candidate_id": "b-nichols1",
   "entity_id": 11682588,
-  "contributions_received": 463077.6,
+  "contributions_received": 1324706.47,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 360764.48,
-      "count": 6
+      "total": 1151789.4,
+      "count": 8
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 22009.83,
-      "count": 5
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Sandra Sullivan-Dunbar",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Lynde B. Uihlein",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kristin Dassler Alfheim",
-      "total": 1000.0,
-      "count": 2
+      "total": 22089.5,
+      "count": 6
     },
     {
       "name": "Ross Boucher",
@@ -39,19 +19,39 @@
       "count": 1
     },
     {
-      "name": "Linda Hughes",
+      "name": "EMILY's List Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peggy Hedberg",
+      "name": "Brenda Dixon",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jeanne Foust",
+      "name": "Peter Case",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Electing Women Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Megan Hull",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Neva Goodwin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Don Gregurich",
+      "total": 1000.0,
+      "count": 3
     }
   ]
 }

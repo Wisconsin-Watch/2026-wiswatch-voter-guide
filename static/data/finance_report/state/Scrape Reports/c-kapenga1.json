@@ -1,11 +1,16 @@
 {
   "candidate_id": "c-kapenga1",
   "entity_id": 15522,
-  "contributions_received": 19915.0,
+  "contributions_received": 28837.0,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
       "total": 10080.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 8922.0,
       "count": 1
     },
     {
@@ -46,11 +51,6 @@
     {
       "name": "Marcel Cesar",
       "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Ogden",
-      "total": 250.0,
       "count": 1
     }
   ]

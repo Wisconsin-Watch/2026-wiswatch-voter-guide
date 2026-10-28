@@ -1,8 +1,13 @@
 {
   "candidate_id": "b-lindsey1",
   "entity_id": 12226525,
-  "contributions_received": 639463.25,
+  "contributions_received": 1201276.99,
   "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 525343.18,
+      "count": 4
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 399092.48,
@@ -15,11 +20,11 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 56640.07,
-      "count": 7
+      "total": 88260.63,
+      "count": 11
     },
     {
-      "name": "Joel Kitchens for Assembly",
+      "name": "Friends of Devin LeMahieu",
       "total": 1000.0,
       "count": 1
     },
@@ -45,11 +50,6 @@
     },
     {
       "name": "Citizens for August",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Devin LeMahieu",
       "total": 1000.0,
       "count": 1
     }

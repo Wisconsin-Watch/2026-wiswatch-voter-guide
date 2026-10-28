@@ -1,12 +1,17 @@
 {
   "candidate_id": "p-snyder1",
   "entity_id": 17078,
-  "contributions_received": 707738.22,
+  "contributions_received": 1266114.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 603150.45,
-      "count": 6
+      "total": 1120131.83,
+      "count": 9
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 38101.3,
+      "count": 13
     },
     {
       "name": "Republican Assembly Campaign Committee",
@@ -14,42 +19,37 @@
       "count": 1
     },
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 14251.9,
-      "count": 10
-    },
-    {
-      "name": "Wisconsin Credit Union Legislative Action Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Keller",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "KOCHPAC-KOCH, Inc.",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Northwestern Wisconsin Realtors PAC",
-      "total": 1000.0,
+      "name": "Republican Party of Marathon County",
+      "total": 3730.0,
       "count": 1
     },
     {
       "name": "Eli Lilly PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeff Lindemann",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Building A Better WI",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "GOPAC Election Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     }

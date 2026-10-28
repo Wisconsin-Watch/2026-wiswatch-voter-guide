@@ -1,10 +1,20 @@
 {
   "candidate_id": "r-camacho1",
   "entity_id": 11959800,
-  "contributions_received": 12133.49,
+  "contributions_received": 16084.3,
   "top_donors": [
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "Democratic Party of Wisconsin",
+      "total": 2184.37,
+      "count": 4
+    },
+    {
+      "name": "Antonio Garcia",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Megan Hull",
       "total": 1000.0,
       "count": 1
     },
@@ -14,24 +24,19 @@
       "count": 1
     },
     {
-      "name": "Jan Kwiatkowski",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Antonio Garcia",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Laborers District Council",
-      "total": 500.0,
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Jan Kwiatkowski",
+      "total": 1000.0,
+      "count": 2
     },
     {
       "name": "James Yourkovich",
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
-      "name": "Aranda for WI",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Vice Executive LLC -> Vice Executive LLC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Jose Perez",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Aranda for WI",
       "total": 500.0,
       "count": 1
     }

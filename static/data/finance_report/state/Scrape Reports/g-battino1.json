@@ -1,12 +1,22 @@
 {
   "candidate_id": "g-battino1",
   "entity_id": 2985283,
-  "contributions_received": 162744.51,
+  "contributions_received": 208207.99,
   "top_donors": [
     {
       "name": "Gillian Battino",
       "total": 43503.0,
       "count": 4
+    },
+    {
+      "name": "State Senate Democratic Committee",
+      "total": 10230.77,
+      "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 5124.3,
+      "count": 2
     },
     {
       "name": "Gillian Battino",
@@ -15,11 +25,11 @@
     },
     {
       "name": "Wood County Democratic Party",
-      "total": 3000.0,
-      "count": 1
+      "total": 4000.0,
+      "count": 2
     },
     {
-      "name": "James Weber",
+      "name": "COLEEN BECK",
       "total": 2000.0,
       "count": 1
     },
@@ -29,29 +39,19 @@
       "count": 1
     },
     {
-      "name": "Karen Vanderleest",
+      "name": "Local 400 COPE Fund",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "COLEEN BECK",
+      "name": "Megan Marohl",
       "total": 2000.0,
       "count": 1
-    },
-    {
-      "name": "Friends of Dianne Hesselbein",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Marian Greenburg",
-      "total": 2000.0,
-      "count": 2
     }
   ]
 }

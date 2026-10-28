@@ -1,12 +1,17 @@
 {
   "candidate_id": "a-binsfeld1",
   "entity_id": 30955,
-  "contributions_received": 66159.06,
+  "contributions_received": 90852.33,
   "top_donors": [
     {
+      "name": "Republican Party of Wisconsin",
+      "total": 19102.0,
+      "count": 2
+    },
+    {
       "name": "Committee to Elect a Republican Senate",
-      "total": 10080.0,
-      "count": 1
+      "total": 10137.26,
+      "count": 2
     },
     {
       "name": "Katsma Terry",
@@ -14,12 +19,7 @@
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Plumbers & Steamfitters Local 400 Cope Fund",
+      "name": "Janet  E Radue",
       "total": 2000.0,
       "count": 1
     },
@@ -29,7 +29,12 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Plumbers & Steamfitters Local 400 Cope Fund",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Devin LeMahieu",
       "total": 2000.0,
       "count": 1
     },
@@ -44,13 +49,8 @@
       "count": 1
     },
     {
-      "name": "Janet  E Radue",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
-      "total": 1000.0,
       "count": 1
     }
   ]

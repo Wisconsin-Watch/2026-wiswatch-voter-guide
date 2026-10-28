@@ -1,10 +1,15 @@
 {
   "candidate_id": "j-donohue1",
   "entity_id": 12229965,
-  "contributions_received": 6452.88,
+  "contributions_received": 9204.47,
   "top_donors": [
     {
       "name": "Republican Party of Dane County",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party - Dane County",
       "total": 2000.0,
       "count": 1
     },
@@ -20,6 +25,11 @@
     },
     {
       "name": "Jefferson County Republican Party",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party - Dane County",
       "total": 500.0,
       "count": 1
     },
@@ -42,16 +52,6 @@
       "name": "Jimmie & Janet Oakley",
       "total": 150.0,
       "count": 2
-    },
-    {
-      "name": "Michael Holt",
-      "total": 130.0,
-      "count": 1
-    },
-    {
-      "name": "Rolf Lindgren",
-      "total": 100.0,
-      "count": 1
     }
   ]
 }

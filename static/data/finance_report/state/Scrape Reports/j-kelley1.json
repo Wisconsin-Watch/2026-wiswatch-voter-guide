@@ -1,6 +1,12 @@
 {
   "candidate_id": "j-kelley1",
   "entity_id": 11932682,
-  "contributions_received": 0,
-  "top_donors": []
+  "contributions_received": 166.16,
+  "top_donors": [
+    {
+      "name": "Joshua Steven Kelley",
+      "total": 166.16,
+      "count": 2
+    }
+  ]
 }

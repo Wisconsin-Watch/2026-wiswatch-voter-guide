@@ -1,12 +1,17 @@
 {
   "candidate_id": "b-donovan1",
   "entity_id": 16491,
-  "contributions_received": 172713.57,
+  "contributions_received": 1143684.87,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 89500.0,
-      "count": 2
+      "total": 1019486.18,
+      "count": 6
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 25104.12,
+      "count": 15
     },
     {
       "name": "Republican Assembly Campaign Committee",
@@ -14,42 +19,37 @@
       "count": 1
     },
     {
-      "name": "Robert Keller",
+      "name": "Kurtz for Assembly",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Born For Assembly",
+      "name": "Sprinkler Fitters Local 183",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jay Smith",
+      "name": "Wisconsin Credit Union Legislative Action Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Todd Koss",
+      "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
+      "name": "Timothy Sheehy",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Joel Kitchens for Assembly",
+      "name": "Building A Better WI",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Andrea Bryant",
+      "name": "Matt Neumann",
       "total": 1000.0,
       "count": 1
     }

@@ -1,12 +1,12 @@
 {
   "candidate_id": "t-tiffany1",
   "entity_id": 16621,
-  "contributions_received": 39857553.49,
+  "contributions_received": 53436208.2,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 34561862.0,
-      "count": 24
+      "total": 47059424.9,
+      "count": 36
     },
     {
       "name": "Wisconsin Federation of College Republicans",
@@ -14,42 +14,42 @@
       "count": 1
     },
     {
+      "name": "Realtors PAC (Group)",
+      "total": 86000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin's Electric Cooperatives PAC",
+      "total": 35000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party - Dane County",
+      "total": 30000.0,
+      "count": 1
+    },
+    {
+      "name": "Kim Hendricks",
+      "total": 22500.0,
+      "count": 2
+    },
+    {
       "name": "Kathryn Burke",
       "total": 20445.16,
       "count": 3
     },
     {
-      "name": "Debbie A. Kunes",
-      "total": 20000.0,
-      "count": 2
-    },
-    {
-      "name": "Steven R. Rooney",
+      "name": "Steven C. Fischer",
       "total": 20000.0,
       "count": 1
     },
     {
-      "name": "Jimmy John Liautaud",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Paul Stahlberg",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Julie B. Dobrynio",
+      "name": "Gregg E. Kunes",
       "total": 20000.0,
       "count": 1
     },
     {
       "name": "Dennis A. Gasper",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
-      "name": "Stephen J. Ziegler",
       "total": 20000.0,
       "count": 1
     }

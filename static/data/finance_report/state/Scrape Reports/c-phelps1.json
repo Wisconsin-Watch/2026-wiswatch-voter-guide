@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-phelps1",
   "entity_id": 16364,
-  "contributions_received": 50830.82,
+  "contributions_received": 58315.39,
   "top_donors": [
     {
       "name": "Eau Claire County Democratic Party",
@@ -10,31 +10,11 @@
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 1145.95,
-      "count": 3
+      "total": 1225.62,
+      "count": 4
     },
     {
-      "name": "Karen Voss",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Young People for MGR Govindarajan",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Leaders We Deserve",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Martin Voss",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Mensch",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +24,32 @@
       "count": 1
     },
     {
-      "name": "AFT Wisconsin COPE",
+      "name": "Laurie Pederson Nowak",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AFT Wisconsin COPE",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Peter Mensch",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Operating Engineers Local 139 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Martin Voss",
       "total": 1000.0,
       "count": 1
     }

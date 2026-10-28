@@ -1,8 +1,18 @@
 {
   "candidate_id": "k-miller1",
   "entity_id": 12229741,
-  "contributions_received": 9430.93,
+  "contributions_received": 25628.08,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 8510.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Party of Dane County",
+      "total": 6837.15,
+      "count": 2
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 2620.93,
@@ -24,23 +34,13 @@
       "count": 1
     },
     {
+      "name": "Club 60, LLC",
+      "total": 400.0,
+      "count": 1
+    },
+    {
       "name": "Lori Schwoerer",
       "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Scott Fitzgerald for Senate",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Russell Dykstra",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Kevin Miller",
-      "total": 250.0,
       "count": 1
     },
     {
@@ -49,8 +49,8 @@
       "count": 1
     },
     {
-      "name": "James Sanderson",
-      "total": 200.0,
+      "name": "Scott Fitzgerald for Senate",
+      "total": 250.0,
       "count": 1
     }
   ]

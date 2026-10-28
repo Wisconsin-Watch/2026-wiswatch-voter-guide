@@ -1,11 +1,16 @@
 {
   "candidate_id": "s-bakk1",
   "entity_id": 5296411,
-  "contributions_received": 9719.87,
+  "contributions_received": 18617.16,
   "top_donors": [
     {
       "name": "Republican Party of Dane County",
-      "total": 4000.0,
+      "total": 11727.29,
+      "count": 3
+    },
+    {
+      "name": "Republican Party of Dane County",
+      "total": 1000.0,
       "count": 1
     },
     {
@@ -46,11 +51,6 @@
     {
       "name": "Leo Janus",
       "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Sandra J Hufton",
-      "total": 200.0,
       "count": 1
     }
   ]

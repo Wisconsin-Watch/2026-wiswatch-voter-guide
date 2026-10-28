@@ -1,12 +1,17 @@
 {
   "candidate_id": "s-godlewski1",
   "entity_id": 16091,
-  "contributions_received": 723096.76,
+  "contributions_received": 1119324.71,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 222711.74,
-      "count": 6
+      "total": 281529.69,
+      "count": 8
+    },
+    {
+      "name": "Crowley for Wisconsin",
+      "total": 100707.28,
+      "count": 22
     },
     {
       "name": "Operating Engineers 139 PAC",
@@ -14,17 +19,17 @@
       "count": 2
     },
     {
-      "name": "WEAC PAC",
-      "total": 26000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Pipe Trades Assn PAC",
-      "total": 26000.0,
-      "count": 1
-    },
-    {
       "name": "LIUNA PAC",
+      "total": 26000.0,
+      "count": 1
+    },
+    {
+      "name": "DRIVE Committee",
+      "total": 26000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 26000.0,
       "count": 1
     },
@@ -34,23 +39,18 @@
       "count": 1
     },
     {
-      "name": "Crowley for Wisconsin",
-      "total": 25578.99,
-      "count": 7
-    },
-    {
-      "name": "WI Laborers District Council",
-      "total": 22500.0,
+      "name": "NEA Fund for Children and Public Education Non-Federal Itemized Account",
+      "total": 26000.0,
       "count": 1
     },
     {
-      "name": "Nicholas Jackson",
-      "total": 20000.0,
+      "name": "Democratic Action",
+      "total": 26000.0,
       "count": 1
     },
     {
-      "name": "David J Lubar",
-      "total": 20000.0,
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 26000.0,
       "count": 1
     }
   ]

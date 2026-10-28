@@ -1,15 +1,25 @@
 {
   "candidate_id": "r-mayadev1",
   "entity_id": 1149237,
-  "contributions_received": 37716.7,
+  "contributions_received": 42666.37,
   "top_donors": [
+    {
+      "name": "Meredith Shaffer",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "Stephen Jarchow",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "Melissa Scholz",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -19,7 +29,7 @@
       "count": 1
     },
     {
-      "name": "GE HealthCare Technologies Inc. PAC",
+      "name": "International Union of Operating Engineers Local 139 PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +44,12 @@
       "count": 1
     },
     {
-      "name": "Kathleen Chung",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Melissa Scholz",
+      "name": "Daniel Vande Zande",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Build Our Movement PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Meredith Shaffer",
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
       "total": 1000.0,
       "count": 1
     }

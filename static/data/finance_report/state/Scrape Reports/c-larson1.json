@@ -1,10 +1,15 @@
 {
   "candidate_id": "c-larson1",
   "entity_id": 16833,
-  "contributions_received": 45433.51,
+  "contributions_received": 49839.81,
   "top_donors": [
     {
       "name": "WEAC Region 6 Political Action Committee",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -34,22 +39,17 @@
       "count": 1
     },
     {
-      "name": "Lauren Baker",
-      "total": 500.0,
-      "count": 2
-    },
-    {
-      "name": "Dennis Conta",
+      "name": "Jack Kosmoski",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "James Carpenter",
+      "name": "Leonard J. Sobczak",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "CHARLES KAMPS",
+      "name": "Martin Marie Schreiber",
       "total": 500.0,
       "count": 1
     }

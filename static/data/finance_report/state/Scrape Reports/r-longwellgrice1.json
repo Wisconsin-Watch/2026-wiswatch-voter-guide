@@ -1,12 +1,12 @@
 {
   "candidate_id": "r-longwellgrice1",
   "entity_id": 11957570,
-  "contributions_received": 7700.0,
+  "contributions_received": 8600.0,
   "top_donors": [
     {
       "name": "Robert Longwell-Grice",
-      "total": 2200.0,
-      "count": 22
+      "total": 3000.0,
+      "count": 25
     },
     {
       "name": "Wisconsin Green Party",
@@ -24,12 +24,12 @@
       "count": 1
     },
     {
-      "name": "Emily Longwell-Grice",
+      "name": "Ann Kowal",
       "total": 250.0,
       "count": 1
     },
     {
-      "name": "Ann Kowal",
+      "name": "Emily Longwell-Grice",
       "total": 250.0,
       "count": 1
     },
@@ -39,19 +39,19 @@
       "count": 1
     },
     {
-      "name": "Thomas Bachhuber",
-      "total": 150.0,
-      "count": 1
-    },
-    {
       "name": "Peter Wells",
       "total": 150.0,
       "count": 1
     },
     {
-      "name": "Thomas Alpren",
-      "total": 125.0,
+      "name": "Thomas Bachhuber",
+      "total": 150.0,
       "count": 1
+    },
+    {
+      "name": "James Longwell",
+      "total": 125.0,
+      "count": 2
     }
   ]
 }

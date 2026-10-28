@@ -1,17 +1,17 @@
 {
   "candidate_id": "c-wichgers1",
   "entity_id": 664174,
-  "contributions_received": 5023.0,
+  "contributions_received": 7608.0,
   "top_donors": [
     {
       "name": "Building Grassroots Support PAC",
-      "total": 1000.0,
-      "count": 1
+      "total": 2000.0,
+      "count": 2
     },
     {
       "name": "ABCPAC-WIS",
-      "total": 1000.0,
-      "count": 1
+      "total": 2000.0,
+      "count": 2
     },
     {
       "name": "Gary Blumel",
@@ -24,6 +24,16 @@
       "count": 1
     },
     {
+      "name": "Aggregate Producers of Wisconsin Political Action Committee",
+      "total": 500.0,
+      "count": 2
+    },
+    {
+      "name": "Wisconsin Athletic Trainer's Association PAC",
+      "total": 500.0,
+      "count": 2
+    },
+    {
       "name": "Wisconsin Assisted Living Association",
       "total": 500.0,
       "count": 1
@@ -34,22 +44,12 @@
       "count": 1
     },
     {
-      "name": "Aggregate Producers of Wisconsin Political Action Committee",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Athletic Trainer's Association PAC",
-      "total": 250.0,
-      "count": 1
-    },
-    {
       "name": "jeffrey moore",
       "total": 100.0,
       "count": 1
     },
     {
-      "name": "Cheryl Zastrow",
+      "name": "Ronald Petersen",
       "total": 50.0,
       "count": 1
     }

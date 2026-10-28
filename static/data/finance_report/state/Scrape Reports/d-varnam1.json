@@ -1,8 +1,13 @@
 {
   "candidate_id": "d-varnam1",
   "entity_id": 1015379,
-  "contributions_received": 65329.26,
+  "contributions_received": 83385.56,
   "top_donors": [
+    {
+      "name": "Republican Party of Walworth County",
+      "total": 13615.86,
+      "count": 5
+    },
     {
       "name": "John Fleckenstein",
       "total": 12000.0,
@@ -17,6 +22,11 @@
       "name": "Gary West",
       "total": 3693.56,
       "count": 2
+    },
+    {
+      "name": "Republican Party Wood County",
+      "total": 2500.0,
+      "count": 1
     },
     {
       "name": "John Stoesser",
@@ -34,23 +44,13 @@
       "count": 3
     },
     {
-      "name": "Jennifer North",
-      "total": 1500.0,
-      "count": 1
-    },
-    {
       "name": "Mike North",
       "total": 1500.0,
       "count": 1
     },
     {
-      "name": "Teresa A. Stader",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kirby Gibson",
-      "total": 1000.0,
+      "name": "Jennifer North",
+      "total": 1500.0,
       "count": 1
     }
   ]

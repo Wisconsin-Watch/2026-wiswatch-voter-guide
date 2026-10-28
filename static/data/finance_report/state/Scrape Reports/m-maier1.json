@@ -1,16 +1,16 @@
 {
   "candidate_id": "m-maier1",
   "entity_id": 12229724,
-  "contributions_received": 21887.57,
+  "contributions_received": 32381.28,
   "top_donors": [
+    {
+      "name": "Republican Party - Dane County",
+      "total": 10493.71,
+      "count": 3
+    },
     {
       "name": "Republican Party",
       "total": 8000.0,
-      "count": 1
-    },
-    {
-      "name": "Marie May",
-      "total": 1000.0,
       "count": 1
     },
     {
@@ -34,6 +34,11 @@
       "count": 1
     },
     {
+      "name": "Marie May",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 620.2,
       "count": 1
@@ -45,11 +50,6 @@
     },
     {
       "name": "Jae Bok Chung",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Janet Renschler",
       "total": 500.0,
       "count": 1
     }

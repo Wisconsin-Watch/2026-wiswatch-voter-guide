@@ -1,7 +1,7 @@
 {
   "candidate_id": "g-abitz1",
   "entity_id": 12226778,
-  "contributions_received": 12525.35,
+  "contributions_received": 16560.02,
   "top_donors": [
     {
       "name": "Grace Elizabeth Abitz",
@@ -14,14 +14,34 @@
       "count": 1
     },
     {
+      "name": "Tom Hartfiel",
+      "total": 700.0,
+      "count": 6
+    },
+    {
+      "name": "Waupaca Democratic Party",
+      "total": 650.0,
+      "count": 2
+    },
+    {
+      "name": "Betty Wihongi",
+      "total": 600.0,
+      "count": 3
+    },
+    {
+      "name": "Ryan Clancy",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Nancy  Manion",
       "total": 500.0,
       "count": 5
     },
     {
-      "name": "Tom Hartfiel",
+      "name": "Amy Nasr",
       "total": 500.0,
-      "count": 5
+      "count": 1
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -31,26 +51,6 @@
     {
       "name": "Mark Palm",
       "total": 400.0,
-      "count": 2
-    },
-    {
-      "name": "Betty Wihongi",
-      "total": 400.0,
-      "count": 2
-    },
-    {
-      "name": "Laurie Fannin",
-      "total": 300.0,
-      "count": 3
-    },
-    {
-      "name": "Charles Collier",
-      "total": 255.0,
-      "count": 1
-    },
-    {
-      "name": "Lori Fitzgibbon",
-      "total": 250.0,
       "count": 2
     }
   ]

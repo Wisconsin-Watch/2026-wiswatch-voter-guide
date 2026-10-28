@@ -1,23 +1,8 @@
 {
   "candidate_id": "b-petersen1",
   "entity_id": 12226048,
-  "contributions_received": 11885.0,
+  "contributions_received": 12360.0,
   "top_donors": [
-    {
-      "name": "Wisconsin REALTORS Political Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Brooks for Assembly",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matthew Elbe",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Joel Fleischman",
       "total": 1000.0,
@@ -34,7 +19,22 @@
       "count": 1
     },
     {
-      "name": "Pro-Life WI Victory Fund PAC",
+      "name": "Wisconsin REALTORS Political Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Brooks for Assembly",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Matthew Elbe",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Christopher  Elbe",
       "total": 500.0,
       "count": 1
     },
@@ -44,12 +44,12 @@
       "count": 1
     },
     {
-      "name": "Dawn Brooks",
+      "name": "Pro-Life WI Victory Fund PAC",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Christopher  Elbe",
+      "name": "Dawn Brooks",
       "total": 500.0,
       "count": 1
     }

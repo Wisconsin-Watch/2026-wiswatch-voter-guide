@@ -1,15 +1,10 @@
 {
   "candidate_id": "b-dittrich1",
   "entity_id": 16176,
-  "contributions_received": 24635.0,
+  "contributions_received": 26185.0,
   "top_donors": [
     {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Credit Union Legislative Action Fund",
+      "name": "RPAC Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -19,29 +14,34 @@
       "count": 1
     },
     {
+      "name": "Northwestern Mutual PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Nygren",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Credit Union Legislative Action Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "WI Dental Assn PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Angela Batterman",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Thrivent Wisconsin PAC",
+      "name": "Alliance of Health Insurers PAC",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Wisconsin Emergency Medicine PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Association of Health Plans PAC",
-      "total": 1000.0,
-      "count": 2
     },
     {
       "name": "The Travelers Co., Inc. PAC",
@@ -49,9 +49,9 @@
       "count": 1
     },
     {
-      "name": "WIA PAC",
+      "name": "Wisconsin Association of Health Plans PAC",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     }
   ]
 }

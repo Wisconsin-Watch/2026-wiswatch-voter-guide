@@ -1,8 +1,38 @@
 {
   "candidate_id": "m-becker1",
   "entity_id": 12226273,
-  "contributions_received": 27853.06,
+  "contributions_received": 65997.92,
   "top_donors": [
+    {
+      "name": "Democratic Party of Door Co",
+      "total": 6000.0,
+      "count": 2
+    },
+    {
+      "name": "Patrick Warpinski",
+      "total": 2000.0,
+      "count": 3
+    },
+    {
+      "name": "Katherine Klass",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "GREEN BAY POLITICAL ACTION COMMITTEE",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "James Dempsey",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Education Association Council",
+      "total": 2000.0,
+      "count": 1
+    },
     {
       "name": "Committee to Elect Kristin Alfheim",
       "total": 2000.0,
@@ -14,44 +44,14 @@
       "count": 1
     },
     {
-      "name": "Katherine Klass",
+      "name": "Jeff Maras",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Larry Eriksson",
+      "name": "John Koza",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Kate Siegel",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Patrick Warpinski",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Sachin Shivaram",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Marianne Lubar",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Catherine Siegel",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Daniel Olson",
-      "total": 600.0,
-      "count": 2
     }
   ]
 }

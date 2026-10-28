@@ -1,7 +1,7 @@
 {
   "candidate_id": "a-neylon1",
   "entity_id": 17043,
-  "contributions_received": 8744.35,
+  "contributions_received": 11444.35,
   "top_donors": [
     {
       "name": "Gerald Julius",
@@ -14,17 +14,7 @@
       "count": 1
     },
     {
-      "name": "Wisconsin Association of Health Plans PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Eli Lilly and Company PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "WIANA PAC",
+      "name": "Dawn Kost",
       "total": 500.0,
       "count": 1
     },
@@ -34,23 +24,33 @@
       "count": 1
     },
     {
+      "name": "WIANA PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Fred Schwertfeger",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Eli Lilly and Company PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Association of Health Plans PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Alliance of Health Insurers PAC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Andrea Bryant",
       "total": 300.0,
-      "count": 1
-    },
-    {
-      "name": "Jim Villa",
-      "total": 260.25,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Hospitals PAC",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "John Fleckenstein",
-      "total": 250.0,
       "count": 1
     }
   ]

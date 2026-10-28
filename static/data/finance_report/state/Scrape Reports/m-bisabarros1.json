@@ -1,8 +1,13 @@
 {
   "candidate_id": "m-bisabarros1",
   "entity_id": 12228300,
-  "contributions_received": 9336.6,
+  "contributions_received": 12642.43,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconisn",
+      "total": 2000.0,
+      "count": 1
+    },
     {
       "name": "Democratic Party of Walworth County",
       "total": 2000.0,
@@ -11,6 +16,11 @@
     {
       "name": "Adam Duda",
       "total": 965.0,
+      "count": 1
+    },
+    {
+      "name": "Andrew J Gehl",
+      "total": 723.25,
       "count": 1
     },
     {
@@ -24,12 +34,12 @@
       "count": 1
     },
     {
-      "name": "Jayne Zeisler",
+      "name": "Jeffrey Greisch",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Jeffrey Greisch",
+      "name": "Jayne Zeisler",
       "total": 500.0,
       "count": 1
     },
@@ -42,16 +52,6 @@
       "name": "Marguerite Schutten",
       "total": 291.25,
       "count": 2
-    },
-    {
-      "name": "Steven Kempf",
-      "total": 241.25,
-      "count": 1
-    },
-    {
-      "name": "Karen Arestides",
-      "total": 200.0,
-      "count": 1
     }
   ]
 }

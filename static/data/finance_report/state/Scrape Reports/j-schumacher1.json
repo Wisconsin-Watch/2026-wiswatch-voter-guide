@@ -1,12 +1,17 @@
 {
   "candidate_id": "j-schumacher1",
   "entity_id": 12229718,
-  "contributions_received": 8302.7,
+  "contributions_received": 9757.95,
   "top_donors": [
     {
       "name": "Justin Schumacher",
       "total": 4635.0,
       "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 1559.95,
+      "count": 4
     },
     {
       "name": "Keith M. Gonnering",
@@ -32,11 +37,6 @@
       "name": "Democratic Party of Outagamie County",
       "total": 250.0,
       "count": 1
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 104.7,
-      "count": 2
     },
     {
       "name": "Wayne Fryda",

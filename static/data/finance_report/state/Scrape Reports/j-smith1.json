@@ -1,12 +1,12 @@
 {
   "candidate_id": "j-smith1",
   "entity_id": 17261,
-  "contributions_received": 440137.32,
+  "contributions_received": 493622.67,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 139471.25,
-      "count": 4
+      "total": 150971.25,
+      "count": 6
     },
     {
       "name": "Eau Claire County Democratic Party",
@@ -24,12 +24,17 @@
       "count": 1
     },
     {
-      "name": "William Rupp",
+      "name": "Wisconsin Carpenters PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Mark Ediger",
+      "name": "WI Soc Anesthesiologists PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Mary E Nikolay",
       "total": 2000.0,
       "count": 1
     },
@@ -39,17 +44,12 @@
       "count": 1
     },
     {
-      "name": "George Moore",
+      "name": "Friends of Tim Carpenter",
       "total": 2000.0,
-      "count": 1
+      "count": 2
     },
     {
-      "name": "Adam Jermyn",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Karen Voss",
+      "name": "Jordan Crow",
       "total": 2000.0,
       "count": 1
     }

@@ -1,7 +1,7 @@
 {
   "candidate_id": "c-green1",
   "entity_id": 16734,
-  "contributions_received": 53814.04,
+  "contributions_received": 53969.04,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
@@ -19,7 +19,12 @@
       "count": 1
     },
     {
-      "name": "Jeff Lindemann",
+      "name": "WI Hotel & Lodging Association",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Corridor 29 PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -45,11 +50,6 @@
     },
     {
       "name": "Matt Meinen",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Sanci Harshman",
       "total": 1000.0,
       "count": 1
     }

@@ -1,12 +1,22 @@
 {
   "candidate_id": "r-halls1",
   "entity_id": 1149741,
-  "contributions_received": 411.7,
+  "contributions_received": 3225.41,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 104.7,
+      "total": 2208.41,
+      "count": 5
+    },
+    {
+      "name": "Taylor County Democratic Party",
+      "total": 500.0,
       "count": 2
+    },
+    {
+      "name": "Sharon Cypher",
+      "total": 150.0,
+      "count": 1
     },
     {
       "name": "Linda Halls",
@@ -16,6 +26,11 @@
     {
       "name": "Jeffrey Erbs",
       "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Russ Weiler",
+      "total": 50.0,
       "count": 1
     },
     {
@@ -29,23 +44,13 @@
       "count": 1
     },
     {
+      "name": "Linda Scallon",
+      "total": 10.0,
+      "count": 1
+    },
+    {
       "name": "Julia Sarr",
       "total": 4.0,
-      "count": 1
-    },
-    {
-      "name": "B Berkery",
-      "total": 1.0,
-      "count": 1
-    },
-    {
-      "name": "Kevin Hall",
-      "total": 1.0,
-      "count": 1
-    },
-    {
-      "name": "Anne Taylor",
-      "total": 1.0,
       "count": 1
     }
   ]

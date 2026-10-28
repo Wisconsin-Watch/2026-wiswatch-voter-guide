@@ -1,12 +1,12 @@
 {
   "candidate_id": "l-palmeri1",
   "entity_id": 15530,
-  "contributions_received": 43993.43,
+  "contributions_received": 63148.9,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 5248.55,
-      "count": 2
+      "total": 6789.5,
+      "count": 4
     },
     {
       "name": "SEIU Wisconsin State Council PAC",
@@ -14,17 +14,17 @@
       "count": 2
     },
     {
-      "name": "WI Pipe Trades Assn PAC",
+      "name": "Operating Engineers 139 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Winnebago County Democratic Party",
+      "name": "Marianne Lubar",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     },
     {
-      "name": "Stuart Schrottky",
+      "name": "John O'Farrell",
       "total": 1000.0,
       "count": 1
     },
@@ -39,7 +39,7 @@
       "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "Sara Paretsky",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +49,7 @@
       "count": 1
     },
     {
-      "name": "Marianne Lubar",
+      "name": "IUPAT Political Action Together Political Committe",
       "total": 1000.0,
       "count": 1
     }

@@ -1,8 +1,13 @@
 {
   "candidate_id": "j-helmer1",
   "entity_id": 11948185,
-  "contributions_received": 15686.02,
+  "contributions_received": 26585.02,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 9199.0,
+      "count": 1
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 2619.52,
@@ -14,12 +19,17 @@
       "count": 1
     },
     {
-      "name": "Mark Weaver",
+      "name": "Richard Illgen",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Richard Illgen",
+      "name": "Republican Party of Sauk County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Mark Weaver",
       "total": 1000.0,
       "count": 1
     },
@@ -41,16 +51,6 @@
     {
       "name": "DOUG SCOTT",
       "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Pam Speich",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Dave Olson",
-      "total": 250.0,
       "count": 1
     }
   ]

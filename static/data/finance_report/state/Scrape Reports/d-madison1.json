@@ -1,15 +1,30 @@
 {
   "candidate_id": "d-madison1",
   "entity_id": 999262,
-  "contributions_received": 7710.93,
+  "contributions_received": 10256.68,
   "top_donors": [
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
     {
+      "name": "Wisconsin Progress",
+      "total": 355.41,
+      "count": 2
+    },
+    {
       "name": "David Thomas",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Conservation Voters",
       "total": 250.0,
       "count": 1
     },
@@ -19,7 +34,12 @@
       "count": 1
     },
     {
-      "name": "ATU Cope",
+      "name": "Kimberly Forbeck",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "name": "Deloitte PAC",
       "total": 250.0,
       "count": 1
     },
@@ -29,28 +49,8 @@
       "count": 1
     },
     {
-      "name": "Mary Cooper",
-      "total": 200.0,
-      "count": 2
-    },
-    {
-      "name": "Joe Sexauer",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "John Kashou",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Rev. Dennis Jacobsen",
-      "total": 150.0,
-      "count": 1
-    },
-    {
-      "name": "Willie Johnson Jr",
-      "total": 127.0,
+      "name": "ATU Cope",
+      "total": 250.0,
       "count": 1
     }
   ]

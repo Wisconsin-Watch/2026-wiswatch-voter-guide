@@ -1,7 +1,7 @@
 {
   "candidate_id": "t-brault1",
   "entity_id": 12226484,
-  "contributions_received": 7539.98,
+  "contributions_received": 9910.24,
   "top_donors": [
     {
       "name": "WEAC PAC",
@@ -19,7 +19,22 @@
       "count": 1
     },
     {
+      "name": "Anonymous",
+      "total": 504.0,
+      "count": 52
+    },
+    {
       "name": "Linda Kirk",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "John L Rolfe",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "name": "Cathy Erdmann",
       "total": 500.0,
       "count": 1
     },
@@ -29,28 +44,13 @@
       "count": 2
     },
     {
+      "name": "Tom Herlache",
+      "total": 350.0,
+      "count": 3
+    },
+    {
       "name": "Joseph Lougher",
       "total": 304.7,
-      "count": 2
-    },
-    {
-      "name": "KATHERINE GRIFFITH",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Brian Kolstad",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC Region 5 PAC",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Tom Herlache",
-      "total": 150.0,
       "count": 2
     }
   ]

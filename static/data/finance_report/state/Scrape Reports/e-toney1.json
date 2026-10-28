@@ -1,20 +1,20 @@
 {
   "candidate_id": "e-toney1",
   "entity_id": 16017,
-  "contributions_received": 1443946.08,
+  "contributions_received": 1738259.72,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 180000.0,
-      "count": 2
+      "total": 200000.0,
+      "count": 3
     },
     {
-      "name": "Gregg E. Kunes",
+      "name": "Silvia Dretzka",
       "total": 20000.0,
       "count": 1
     },
     {
-      "name": "Silvia Dretzka",
+      "name": "Gregg E. Kunes",
       "total": 20000.0,
       "count": 1
     },
@@ -24,33 +24,33 @@
       "count": 1
     },
     {
-      "name": "Kathryn Burke",
-      "total": 19000.0,
+      "name": "Cesar Perez",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "John Lambert Fleckenstein",
+      "total": 20000.0,
+      "count": 3
+    },
+    {
+      "name": "Daniel J. Minahan",
+      "total": 20000.0,
       "count": 2
+    },
+    {
+      "name": "Republican Party - Dane County",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Crystal Perez",
+      "total": 20000.0,
+      "count": 1
     },
     {
       "name": "Dennis A. Gasper",
       "total": 19000.0,
-      "count": 1
-    },
-    {
-      "name": "Matthew Neumann",
-      "total": 17500.0,
-      "count": 1
-    },
-    {
-      "name": "Judith Gasper",
-      "total": 16000.0,
-      "count": 1
-    },
-    {
-      "name": "Jere Dhein",
-      "total": 15000.0,
-      "count": 3
-    },
-    {
-      "name": "Kim Sell",
-      "total": 15000.0,
       "count": 1
     }
   ]

@@ -1,12 +1,12 @@
 {
   "candidate_id": "s-chapman1",
   "entity_id": 12226977,
-  "contributions_received": 1418.69,
+  "contributions_received": 1657.41,
   "top_donors": [
     {
       "name": "Shena Chapman",
-      "total": 956.69,
-      "count": 18
+      "total": 975.41,
+      "count": 19
     },
     {
       "name": "Therese Neri",
@@ -14,9 +14,19 @@
       "count": 1
     },
     {
+      "name": "Martha Karban",
+      "total": 100.0,
+      "count": 1
+    },
+    {
+      "name": "Edward Mullaney",
+      "total": 100.0,
+      "count": 1
+    },
+    {
       "name": "Anonymous",
-      "total": 25.0,
-      "count": 3
+      "total": 45.0,
+      "count": 5
     },
     {
       "name": "Angelina \"Angelo\" Chapman",

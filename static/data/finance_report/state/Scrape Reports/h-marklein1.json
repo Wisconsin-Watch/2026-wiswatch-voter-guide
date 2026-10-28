@@ -1,17 +1,17 @@
 {
   "candidate_id": "h-marklein1",
   "entity_id": 16358,
-  "contributions_received": 630230.85,
+  "contributions_received": 2271047.24,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 283830.0,
-      "count": 8
+      "total": 1774964.72,
+      "count": 17
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 10724.0,
-      "count": 2
+      "total": 96686.0,
+      "count": 7
     },
     {
       "name": "Daniel Jansen",
@@ -19,27 +19,12 @@
       "count": 1
     },
     {
-      "name": "John Scott",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "Robert Arzbaecher",
+      "name": "Don M. Millis",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Donald Wahlin",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Patrick English",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "KOCHPAC",
+      "name": "Zachary Knutson",
       "total": 2000.0,
       "count": 1
     },
@@ -49,7 +34,22 @@
       "count": 2
     },
     {
-      "name": "Scott Frank",
+      "name": "KOCHPAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Lou Schweigert",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Eric Wimberger",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Kimberly Knudsen",
       "total": 2000.0,
       "count": 1
     }

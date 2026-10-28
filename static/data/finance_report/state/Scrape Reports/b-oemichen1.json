@@ -1,7 +1,7 @@
 {
   "candidate_id": "b-oemichen1",
   "entity_id": 12200319,
-  "contributions_received": 38308.1,
+  "contributions_received": 46627.77,
   "top_donors": [
     {
       "name": "William  Oemichen",
@@ -9,37 +9,7 @@
       "count": 7
     },
     {
-      "name": "WI Laborers District Council",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Anne Oemichen",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Emily Kuhn",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Michael Furgal",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -49,8 +19,38 @@
       "count": 1
     },
     {
-      "name": "Bruce Brandsness",
-      "total": 500.0,
+      "name": "WEAC Region 6",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Michael Furgal",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Laborers District Council",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Emily Kuhn",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Mary Anne Oemichen",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
       "count": 1
     }
   ]

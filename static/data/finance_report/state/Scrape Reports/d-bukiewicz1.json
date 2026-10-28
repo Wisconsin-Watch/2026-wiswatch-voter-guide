@@ -1,17 +1,17 @@
 {
   "candidate_id": "d-bukiewicz1",
   "entity_id": 12066647,
-  "contributions_received": 451642.34,
+  "contributions_received": 995296.14,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 295452.39,
-      "count": 10
+      "total": 804523.64,
+      "count": 13
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 33665.68,
-      "count": 5
+      "total": 36908.92,
+      "count": 7
     },
     {
       "name": "Assembly Democratic Camp Comm -> Dylan Green",
@@ -19,37 +19,37 @@
       "count": 1
     },
     {
-      "name": "Plasterers' and Cement Masons' PAC",
-      "total": 1000.0,
-      "count": 1
+      "name": "Barry Kramer",
+      "total": 1100.0,
+      "count": 2
     },
     {
-      "name": "Richard Ballard",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Todd Vogel",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Richard Schlesinger",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Rothman",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Anna O'Connor",
+      "name": "Professional Ambulance Association of Wisconsin PAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "North America's Building Trades Union",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Cavalier for Milwaukee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Rachel Delaney",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jeffrey Stephens Neubauer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kent Thurber",
       "total": 1000.0,
       "count": 1
     }
