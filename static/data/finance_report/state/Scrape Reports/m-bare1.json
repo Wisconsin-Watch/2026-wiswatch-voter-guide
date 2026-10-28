@@ -2,34 +2,25 @@
   "candidate_id": "m-bare1",
   "entity_id": 16787,
   "contributions_received": 62133.69,
+  "contributions_received_72hr": 4416.17,
   "top_donors": [
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 4020.87,
+      "count": 3
+    },
+    {
+      "name": "Donald Michelson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Operating Engineers 139 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC Region 6 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Carpenters PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +30,27 @@
       "count": 1
     },
     {
-      "name": "Bob Kasieta",
+      "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Carpenters PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 6 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "MIKE WITTENWYLER",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Council of Auto & Truck Retail Political Action Committee",
       "total": 1000.0,
       "count": 1
     }

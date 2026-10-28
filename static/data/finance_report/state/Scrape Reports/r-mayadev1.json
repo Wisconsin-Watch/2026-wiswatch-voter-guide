@@ -2,14 +2,20 @@
   "candidate_id": "r-mayadev1",
   "entity_id": 1149237,
   "contributions_received": 42666.37,
+  "contributions_received_72hr": 4863.72,
   "top_donors": [
     {
-      "name": "Meredith Shaffer",
+      "name": "Democratic Party of Wisconsin",
+      "total": 4048.09,
+      "count": 4
+    },
+    {
+      "name": "Mack Hartwell",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Stephen Jarchow",
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -19,17 +25,12 @@
       "count": 1
     },
     {
+      "name": "Daniel Vande Zande",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Garry Jenkins",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "International Union of Operating Engineers Local 139 PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +40,17 @@
       "count": 1
     },
     {
-      "name": "Peter Jungbacker",
+      "name": "Naomi Camper",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Daniel Vande Zande",
+      "name": "Megan Goodrich",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "name": "Meredith Shaffer",
       "total": 1000.0,
       "count": 1
     }

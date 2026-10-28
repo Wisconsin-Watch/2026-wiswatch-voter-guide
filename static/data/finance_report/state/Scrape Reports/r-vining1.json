@@ -2,6 +2,7 @@
   "candidate_id": "r-vining1",
   "entity_id": 16126,
   "contributions_received": 459341.8,
+  "contributions_received_72hr": 13116.32,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
@@ -9,22 +10,22 @@
       "count": 23
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 9300.69,
+      "count": 4
+    },
+    {
       "name": "Anna Bukowski",
       "total": 2033.0,
       "count": 3
     },
     {
+      "name": "March On PAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "IBEW Local 494 PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Linus Upson",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 2000.0,
       "count": 1
     },
@@ -34,7 +35,7 @@
       "count": 1
     },
     {
-      "name": "Friends of Chris Larson",
+      "name": "Hamza Kurter",
       "total": 2000.0,
       "count": 1
     },
@@ -44,12 +45,12 @@
       "count": 1
     },
     {
-      "name": "Jodi for State Senate",
+      "name": "Selahattin Kurter",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Steven Carl Euller",
+      "name": "Friends of Chris Larson",
       "total": 2000.0,
       "count": 1
     }

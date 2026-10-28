@@ -2,7 +2,13 @@
   "candidate_id": "c-ray1",
   "entity_id": 11959444,
   "contributions_received": 521151.8,
+  "contributions_received_72hr": 549348.77,
   "top_donors": [
+    {
+      "name": "State Senate Democratic Committee",
+      "total": 540000.0,
+      "count": 1
+    },
     {
       "name": "State Senate Democratic Committee",
       "total": 239888.51,
@@ -19,12 +25,22 @@
       "count": 1
     },
     {
-      "name": "Committee to Elect Kristin Alfheim",
+      "name": "Democratic Party of Wisconsin",
+      "total": 5530.14,
+      "count": 4
+    },
+    {
+      "name": "Robert Haselow",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Robert Habush",
+      "name": "Brennan for Wisconsin",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Forward Wisconsin",
       "total": 2000.0,
       "count": 1
     },
@@ -34,22 +50,7 @@
       "count": 1
     },
     {
-      "name": "Kimberly West",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "KeyeskiForWI",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Justine Haselow",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Haselow",
+      "name": "Wall for Wisconsin",
       "total": 2000.0,
       "count": 1
     }

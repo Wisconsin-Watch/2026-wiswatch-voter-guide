@@ -2,16 +2,22 @@
   "candidate_id": "s-zimmerman1",
   "entity_id": 15969,
   "contributions_received": 1175541.62,
+  "contributions_received_72hr": 348714.18,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 1059406.74,
-      "count": 15
+      "total": 1372638.86,
+      "count": 20
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 41221.3,
-      "count": 17
+      "total": 61703.36,
+      "count": 20
+    },
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 15000.0,
+      "count": 1
     },
     {
       "name": "Nancy A. Nasvik",
@@ -24,17 +30,12 @@
       "count": 2
     },
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Matt Neumann",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jeff Lindemann",
+      "name": "Jay Smith",
       "total": 1000.0,
       "count": 1
     },

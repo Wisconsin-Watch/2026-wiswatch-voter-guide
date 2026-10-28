@@ -2,11 +2,12 @@
   "candidate_id": "a-joers1",
   "entity_id": 16808,
   "contributions_received": 51511.32,
+  "contributions_received_72hr": 3030.92,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 7717.56,
-      "count": 4
+      "total": 10748.48,
+      "count": 5
     },
     {
       "name": "REALTORS Political Action Committee - Wisconsin",

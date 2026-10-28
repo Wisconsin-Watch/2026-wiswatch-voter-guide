@@ -2,25 +2,11 @@
   "candidate_id": "t-kurtz1",
   "entity_id": 16281,
   "contributions_received": 159592.98,
+  "contributions_received_72hr": 12705.0,
   "top_donors": [
     {
-      "name": "Forest County Potawatomi Community PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "John A Scott",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Stephanie Navis",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "NextEra, Inc. PAC",
-      "total": 1000.0,
+      "name": "Republican Party of Wisconsin",
+      "total": 8705.0,
       "count": 1
     },
     {
@@ -29,27 +15,42 @@
       "count": 1
     },
     {
-      "name": "Linda Householder",
+      "name": "WIANA PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Humana Inc. Political Action Committee",
+      "name": "PFFW PAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WSTA FONEPAC",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "Todd R  Nelson, Jr",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WCULAF",
+      "name": "Richard E. Uihlein",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Taxpayers for Nygren",
+      "name": "Robert Spoerl",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Robert Gander",
+      "name": "Shari Nelson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Stephanie Navis",
       "total": 1000.0,
       "count": 1
     }

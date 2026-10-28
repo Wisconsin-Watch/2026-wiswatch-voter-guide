@@ -2,11 +2,12 @@
   "candidate_id": "r-pullen1",
   "entity_id": 11948245,
   "contributions_received": 39033.27,
+  "contributions_received_72hr": 21179.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 16180.0,
-      "count": 2
+      "total": 32359.0,
+      "count": 4
     },
     {
       "name": "Reive Martin Pullen",
@@ -15,8 +16,8 @@
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 2964.27,
-      "count": 4
+      "total": 7964.27,
+      "count": 5
     },
     {
       "name": "Friends of Rachael Cabral Guevara",

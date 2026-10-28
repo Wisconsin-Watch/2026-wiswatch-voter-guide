@@ -2,11 +2,12 @@
   "candidate_id": "r-paplham1",
   "entity_id": 843162,
   "contributions_received": 36162.82,
+  "contributions_received_72hr": 1553.51,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 7991.68,
-      "count": 8
+      "total": 9545.19,
+      "count": 10
     },
     {
       "name": "Democratic Party of Door Co",

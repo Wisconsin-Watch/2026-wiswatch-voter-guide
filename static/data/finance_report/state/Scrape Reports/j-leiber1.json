@@ -2,6 +2,7 @@
   "candidate_id": "j-leiber1",
   "entity_id": 16108,
   "contributions_received": 99525.17,
+  "contributions_received_72hr": 1109.57,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
@@ -15,8 +16,8 @@
     },
     {
       "name": "Republican Party of Walworth County",
-      "total": 13615.86,
-      "count": 2
+      "total": 14725.43,
+      "count": 4
     },
     {
       "name": "Jimmy John Liautaud",

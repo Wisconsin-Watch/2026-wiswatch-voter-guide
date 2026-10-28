@@ -2,21 +2,22 @@
   "candidate_id": "j-fredrickson1",
   "entity_id": 12161639,
   "contributions_received": 516293.36,
+  "contributions_received_72hr": 54571.82,
   "top_donors": [
+    {
+      "name": "ADCC",
+      "total": 193410.53,
+      "count": 7
+    },
     {
       "name": "ADCC -> ADCC",
       "total": 181543.0,
       "count": 1
     },
     {
-      "name": "ADCC",
-      "total": 163410.53,
-      "count": 6
-    },
-    {
       "name": "Democratic Party of Wisconsin",
-      "total": 22333.87,
-      "count": 6
+      "total": 43905.69,
+      "count": 8
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -34,22 +35,22 @@
       "count": 1
     },
     {
-      "name": "Jeanne Foust",
+      "name": "Kevin Knause",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peter Mensch",
+      "name": "International Brotherhood of Electrical Workers Local Union 14 PAC Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jane Katz",
+      "name": "Theodore Spencer",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Marc Katz",
+      "name": "Lots of People Supporting Mike Bare",
       "total": 1000.0,
       "count": 1
     }

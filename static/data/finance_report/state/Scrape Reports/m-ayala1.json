@@ -2,7 +2,13 @@
   "candidate_id": "m-ayala1",
   "entity_id": 12230207,
   "contributions_received": 1727.09,
+  "contributions_received_72hr": 8225.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin (Committee ID (#0300173)",
+      "total": 8225.0,
+      "count": 1
+    },
     {
       "name": "Rep Assembly Campaign Com RACC -> Rep Assembly Campaign Com RACC",
       "total": 1000.0,

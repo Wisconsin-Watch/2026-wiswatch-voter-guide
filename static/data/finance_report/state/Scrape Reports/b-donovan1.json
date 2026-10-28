@@ -2,6 +2,7 @@
   "candidate_id": "b-donovan1",
   "entity_id": 16491,
   "contributions_received": 1143684.87,
+  "contributions_received_72hr": 366332.72,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -9,22 +10,22 @@
       "count": 6
     },
     {
-      "name": "Republican Party of Wisconsin",
-      "total": 25104.12,
-      "count": 15
-    },
-    {
       "name": "Republican Assembly Campaign Committee",
-      "total": 15000.0,
-      "count": 1
+      "total": 367453.87,
+      "count": 4
     },
     {
-      "name": "Kurtz for Assembly",
+      "name": "Republican Party of Wisconsin",
+      "total": 36982.97,
+      "count": 17
+    },
+    {
+      "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Sprinkler Fitters Local 183",
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +35,22 @@
       "count": 1
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Timothy Sheehy",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Building A Better WI",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Matt Neumann",
+      "name": "Patrick English",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Tavern Industry PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     }

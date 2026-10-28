@@ -2,11 +2,12 @@
   "candidate_id": "g-neubauer1",
   "entity_id": 17223,
   "contributions_received": 124066.38,
+  "contributions_received_72hr": 25982.96,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 6984.63,
-      "count": 4
+      "total": 28967.59,
+      "count": 7
     },
     {
       "name": "Daniel Conley",
@@ -14,42 +15,42 @@
       "count": 2
     },
     {
-      "name": "Cynthia Snell",
+      "name": "WI Pipe Trades Assn PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Mike Frank",
+      "name": "WEAC Can Do It",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "The PAC For Americaâs Future",
+      "name": "Sprinkler Fitters Local 183",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Matthew Braun",
+      "name": "Plumbers/Steamfitters 434 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Venkata Thota",
+      "name": "Eli Lilly and Company PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Robert Wills",
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Robert Parisi-Trone",
+      "name": "Tavern Industry PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Friends of Greta Neubauer",
+      "name": "Operating Engineers 139 PAC",
       "total": 1000.0,
       "count": 1
     }

@@ -2,6 +2,7 @@
   "candidate_id": "b-oemichen1",
   "entity_id": 12200319,
   "contributions_received": 46627.77,
+  "contributions_received_72hr": 5290.21,
   "top_donors": [
     {
       "name": "William  Oemichen",
@@ -9,12 +10,17 @@
       "count": 7
     },
     {
-      "name": "WEAC PAC",
+      "name": "DPW",
+      "total": 3290.21,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Institute of CPAs",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin REALTORS Political Fund",
+      "name": "Alliant Energy Wisconsin Governmental",
       "total": 1000.0,
       "count": 1
     },
@@ -24,32 +30,27 @@
       "count": 1
     },
     {
-      "name": "Michael Furgal",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Laborers District Council",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Emily Kuhn",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Mary Anne Oemichen",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "WI Carpenters PAC",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Wisconsin Beer Distributors PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Volunteers for Agriculture VFA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "AFSCME WI Council 32",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     }

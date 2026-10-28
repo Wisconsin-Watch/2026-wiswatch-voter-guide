@@ -2,11 +2,12 @@
   "candidate_id": "m-someren1",
   "entity_id": 11948129,
   "contributions_received": 57583.37,
+  "contributions_received_72hr": 3411.35,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 4184.37,
-      "count": 4
+      "total": 6595.72,
+      "count": 5
     },
     {
       "name": "Democratic Party of Jefferson County",
@@ -39,6 +40,11 @@
       "count": 1
     },
     {
+      "name": "Washington County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Kathryn Q Flores",
       "total": 1000.0,
       "count": 1
@@ -47,11 +53,6 @@
       "name": "William Peche",
       "total": 750.0,
       "count": 4
-    },
-    {
-      "name": "Jane Miscavage",
-      "total": 725.0,
-      "count": 2
     }
   ]
 }

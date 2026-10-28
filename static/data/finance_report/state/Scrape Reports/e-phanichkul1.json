@@ -2,7 +2,13 @@
   "candidate_id": "e-phanichkul1",
   "entity_id": 12228955,
   "contributions_received": 8495.88,
+  "contributions_received_72hr": 2953.38,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 3630.29,
+      "count": 5
+    },
     {
       "name": "Wisconsin Education Association Council",
       "total": 1000.0,
@@ -17,11 +23,6 @@
       "name": "Eddie Phanichkul",
       "total": 809.07,
       "count": 5
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 676.91,
-      "count": 4
     },
     {
       "name": "Fran Martin",

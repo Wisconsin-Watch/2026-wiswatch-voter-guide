@@ -2,11 +2,22 @@
   "candidate_id": "d-degenhardt1",
   "entity_id": 1150578,
   "contributions_received": 8568.89,
+  "contributions_received_72hr": 1000.0,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
       "total": 2447.83,
       "count": 5
+    },
+    {
+      "name": "WEAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Washington County Democratic Party",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Paul De Chant",
@@ -15,11 +26,6 @@
     },
     {
       "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC",
       "total": 1000.0,
       "count": 1
     },
@@ -45,11 +51,6 @@
     },
     {
       "name": "John Torinus, Jr.",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Bartlow Rodney",
       "total": 200.0,
       "count": 1
     }

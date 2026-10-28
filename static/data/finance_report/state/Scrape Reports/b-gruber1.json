@@ -2,16 +2,17 @@
   "candidate_id": "b-gruber1",
   "entity_id": 12037721,
   "contributions_received": 1271393.44,
+  "contributions_received_72hr": 347069.95,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 1014787.55,
-      "count": 12
+      "total": 1338766.55,
+      "count": 13
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 21336.34,
-      "count": 5
+      "total": 43427.29,
+      "count": 7
     },
     {
       "name": "Iowa County Democratic Party",
@@ -34,12 +35,12 @@
       "count": 3
     },
     {
-      "name": "Richard Ballard",
+      "name": "Peter Case",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peter Case",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },

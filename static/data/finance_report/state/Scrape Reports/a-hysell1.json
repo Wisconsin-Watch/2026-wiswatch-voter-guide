@@ -2,39 +2,15 @@
   "candidate_id": "a-hysell1",
   "entity_id": 1147623,
   "contributions_received": 23459.37,
+  "contributions_received_72hr": 3594.23,
   "top_donors": [
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 3778.6,
+      "count": 4
+    },
+    {
       "name": "WI PEOPLE Conference",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC Region 6 Political Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Assn of SC WI PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Barbara Jo Olson",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Berdan",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +20,37 @@
       "count": 1
     },
     {
-      "name": "Alliant Energy PCA",
+      "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Local 400 COPE Fund",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliant Energy PCA",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC Region 6 Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Robert Berdan",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Barbara Jo Olson",
       "total": 1000.0,
       "count": 1
     }

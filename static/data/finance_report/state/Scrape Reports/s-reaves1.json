@@ -2,7 +2,13 @@
   "candidate_id": "s-reaves1",
   "entity_id": 12226745,
   "contributions_received": 9735.49,
+  "contributions_received_72hr": 8584.0,
   "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 9584.0,
+      "count": 3
+    },
     {
       "name": "Republican Assembly Campaign Committee",
       "total": 1610.49,
@@ -10,11 +16,6 @@
     },
     {
       "name": "Richard Gross",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     },

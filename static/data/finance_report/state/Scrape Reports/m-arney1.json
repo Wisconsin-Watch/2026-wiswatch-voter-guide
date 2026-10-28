@@ -2,7 +2,13 @@
   "candidate_id": "m-arney1",
   "entity_id": 613274,
   "contributions_received": 19376.13,
+  "contributions_received_72hr": 3598.03,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 3782.4,
+      "count": 4
+    },
     {
       "name": "Operating Engineers Local 139 PAC",
       "total": 1000.0,
@@ -45,11 +51,6 @@
     },
     {
       "name": "Forest County Potawatomi Community PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "RENEW Wisconsin Energy Fund, Inc. PAC",
       "total": 500.0,
       "count": 1
     }

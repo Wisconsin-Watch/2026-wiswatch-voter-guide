@@ -2,16 +2,17 @@
   "candidate_id": "j-sheehan1",
   "entity_id": 16434,
   "contributions_received": 212831.59,
+  "contributions_received_72hr": 55944.45,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 98694.44,
-      "count": 6
+      "total": 131532.69,
+      "count": 8
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 20881.25,
-      "count": 5
+      "total": 40987.45,
+      "count": 7
     },
     {
       "name": "ADCC",
@@ -29,22 +30,22 @@
       "count": 2
     },
     {
-      "name": "John O'Farrell",
+      "name": "Tomas Torres",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Peter Beckman",
+      "name": "Neva Goodwin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Todd Vogel",
+      "name": "karola jungbacker",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Lots of People Supporting Mike Bare",
+      "name": "IBEW PAC Voluntary Fund",
       "total": 1000.0,
       "count": 1
     },

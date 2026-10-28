@@ -2,16 +2,22 @@
   "candidate_id": "r-quinn1",
   "entity_id": 17271,
   "contributions_received": 107742.4,
+  "contributions_received_72hr": 26310.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 26310.0,
+      "count": 1
+    },
     {
       "name": "Committee to Elect a Republican Senate",
       "total": 11876.88,
       "count": 2
     },
     {
-      "name": "Operating Engineers 139 PAC",
+      "name": "Tavern League of WI Direct Givers Fund",
       "total": 2000.0,
-      "count": 1
+      "count": 2
     },
     {
       "name": "Jason Anderson",
@@ -29,7 +35,7 @@
       "count": 1
     },
     {
-      "name": "WI Dental Assn PAC",
+      "name": "RANW PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -39,19 +45,14 @@
       "count": 1
     },
     {
-      "name": "RANW PAC",
+      "name": "Operating Engineers 139 PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
+      "name": "WI Dental Assn PAC",
       "total": 2000.0,
       "count": 1
-    },
-    {
-      "name": "Tavern League of WI Direct Givers Fund",
-      "total": 2000.0,
-      "count": 2
     }
   ]
 }

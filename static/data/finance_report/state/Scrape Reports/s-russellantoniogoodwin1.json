@@ -2,7 +2,18 @@
   "candidate_id": "s-russellantoniogoodwin1",
   "entity_id": 1149729,
   "contributions_received": 10814.37,
+  "contributions_received_72hr": 5596.9,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 3781.27,
+      "count": 4
+    },
+    {
+      "name": "Northwestern Wisconsin REALTORS PAC",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "RANW PAC",
       "total": 1000.0,
@@ -34,22 +45,12 @@
       "count": 1
     },
     {
-      "name": "Northwestern Mutual  PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Forest County Potawatomi Community PAC",
-      "total": 500.0,
+      "name": "Realtors Association of SC WI - PAC",
+      "total": 1000.0,
       "count": 1
     },
     {
       "name": "IBEW PAC Voluntary Fund",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Milwaukee Police Association Political Action Committee",
       "total": 500.0,
       "count": 1
     }

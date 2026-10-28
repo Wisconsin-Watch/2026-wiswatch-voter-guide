@@ -2,16 +2,12 @@
   "candidate_id": "a-stroud1",
   "entity_id": 16446,
   "contributions_received": 63751.24,
+  "contributions_received_72hr": 4930.8,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 6893.89,
-      "count": 4
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 1000.0,
-      "count": 1
+      "total": 10824.69,
+      "count": 5
     },
     {
       "name": "WI Laborers District Council",
@@ -39,7 +35,7 @@
       "count": 1
     },
     {
-      "name": "Rachel Floran",
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +45,12 @@
       "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "Rachel Floran",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Ann Reitz",
       "total": 1000.0,
       "count": 1
     }

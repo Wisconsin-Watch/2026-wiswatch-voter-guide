@@ -2,11 +2,12 @@
   "candidate_id": "m-bisabarros1",
   "entity_id": 12228300,
   "contributions_received": 12642.43,
+  "contributions_received_72hr": 1113.31,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconisn",
-      "total": 2000.0,
-      "count": 1
+      "total": 3113.31,
+      "count": 2
     },
     {
       "name": "Democratic Party of Walworth County",

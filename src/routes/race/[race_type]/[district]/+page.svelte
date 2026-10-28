@@ -131,7 +131,9 @@
     let config = null;
     let raceTypeParam = '';
     let showFundsRaisedSection = true;
-    $: hasAnyFinanceData = Object.values(fundsByCandidateId).some(v => v > 0);
+    $: hasAnyFinanceData = Object.values(fundsByCandidateId).some((funds) =>
+        Number(funds?.contributionsReceived || 0) + Number(funds?.contributionsReceived72Hr || 0) > 0
+    );
     let previousRaceType = data?.raceTypeParam ?? '';
     let previousDistrict = data?.district ?? '';
     
@@ -505,7 +507,7 @@
                                     {#if raceTypeParam === 'congress'}
                                         <i>Data reflects contributions reported to the <a href="https://www.fec.gov/data/">Federal Election Commission</a>. <strong>Personal loans</strong> are excluded. Totals combine a candidate's principal campaign committee and victory fund. Data was retrieved on Oct. 9, 2026.</i>
                                     {:else}
-                                        <i>Data reflects <strong>monetary</strong>, <strong>conduit</strong>, <strong>local office</strong>, and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates, minus <strong>returned contributions</strong>. <strong>Personal loans</strong> are excluded. Data was retrieved on Oct. 28, 2026. 72-Hour Contributions reports submitted after the pre-election report not included.</i>
+                                        <i>Data reflects <strong>monetary</strong>, <strong>conduit</strong>, <strong>local office</strong>, and <strong>in-kind</strong> contributions reported to the <a href="https://campaignfinance.wi.gov/">Wisconsin Ethics Commission</a> with 2026 transaction dates, minus <strong>returned contributions</strong>. <strong>Personal loans</strong> are excluded. Totals include 72-Hour Contributions reports submitted after the pre-election report. Data was retrieved on Oct. 28, 2026.</i>
                                     {/if}
                                 </small>
                             </div>

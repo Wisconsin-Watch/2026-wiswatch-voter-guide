@@ -2,9 +2,15 @@
   "candidate_id": "d-maxey1",
   "entity_id": 664296,
   "contributions_received": 10693.26,
+  "contributions_received_72hr": 6284.0,
   "top_donors": [
     {
-      "name": "ABCPAC-WIS",
+      "name": "Republican Party of Wisconsin",
+      "total": 6284.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -14,7 +20,7 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "ABCPAC-WIS",
       "total": 1000.0,
       "count": 1
     },
@@ -29,18 +35,13 @@
       "count": 1
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
-      "total": 500.0,
-      "count": 1
-    },
-    {
       "name": "Jerome Johnson",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Rance Hilton",
-      "total": 400.0,
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -49,8 +50,8 @@
       "count": 2
     },
     {
-      "name": "Thomas Michalski",
-      "total": 250.0,
+      "name": "Rance Hilton",
+      "total": 400.0,
       "count": 1
     }
   ]

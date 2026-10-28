@@ -2,11 +2,12 @@
   "candidate_id": "s-godlewski1",
   "entity_id": 16091,
   "contributions_received": 1119324.71,
+  "contributions_received_72hr": 279254.51,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 281529.69,
-      "count": 8
+      "total": 509884.2,
+      "count": 10
     },
     {
       "name": "Crowley for Wisconsin",
@@ -19,7 +20,22 @@
       "count": 2
     },
     {
-      "name": "LIUNA PAC",
+      "name": "UFCW",
+      "total": 26000.0,
+      "count": 1
+    },
+    {
+      "name": "Service Employees International Union",
+      "total": 26000.0,
+      "count": 1
+    },
+    {
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 26000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
       "total": 26000.0,
       "count": 1
     },
@@ -29,27 +45,12 @@
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 26000.0,
-      "count": 1
-    },
-    {
-      "name": "UFCW",
-      "total": 26000.0,
-      "count": 1
-    },
-    {
-      "name": "NEA Fund for Children and Public Education Non-Federal Itemized Account",
-      "total": 26000.0,
-      "count": 1
-    },
-    {
       "name": "Democratic Action",
       "total": 26000.0,
       "count": 1
     },
     {
-      "name": "WI Pipe Trades Assn PAC",
+      "name": "LIUNA PAC",
       "total": 26000.0,
       "count": 1
     }

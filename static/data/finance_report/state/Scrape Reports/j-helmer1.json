@@ -2,16 +2,17 @@
   "candidate_id": "j-helmer1",
   "entity_id": 11948185,
   "contributions_received": 26585.02,
+  "contributions_received_72hr": 10602.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 9199.0,
-      "count": 1
+      "total": 18301.0,
+      "count": 2
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 2619.52,
-      "count": 3
+      "total": 4119.52,
+      "count": 4
     },
     {
       "name": "Self",

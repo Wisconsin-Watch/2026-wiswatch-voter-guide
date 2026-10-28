@@ -2,11 +2,12 @@
   "candidate_id": "d-pfaffenbach1",
   "entity_id": 12227330,
   "contributions_received": 367534.03,
+  "contributions_received_72hr": 9500.0,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 266850.84,
-      "count": 10
+      "total": 276350.84,
+      "count": 11
     },
     {
       "name": "Republican Party of Wisconsin",

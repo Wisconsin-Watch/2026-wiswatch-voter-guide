@@ -2,7 +2,13 @@
   "candidate_id": "t-tranel1",
   "entity_id": 15899,
   "contributions_received": 32045.0,
+  "contributions_received_72hr": 5000.0,
   "top_donors": [
+    {
+      "name": "Republican Assembly Campaign Committee",
+      "total": 3000.0,
+      "count": 1
+    },
     {
       "name": "Steven Buholzer",
       "total": 1000.0,
@@ -10,11 +16,6 @@
     },
     {
       "name": "Jordan Ruttenberg",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Flogel",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +45,12 @@
       "count": 1
     },
     {
-      "name": "Alliant Energy PCA",
+      "name": "WI Realtors Assoc",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "Alliant Energy PCA",
       "total": 1000.0,
       "count": 1
     }

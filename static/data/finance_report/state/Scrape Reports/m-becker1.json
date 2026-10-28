@@ -2,6 +2,7 @@
   "candidate_id": "m-becker1",
   "entity_id": 12226273,
   "contributions_received": 65997.92,
+  "contributions_received_72hr": 3496.54,
   "top_donors": [
     {
       "name": "Democratic Party of Door Co",
@@ -9,12 +10,12 @@
       "count": 2
     },
     {
-      "name": "Patrick Warpinski",
-      "total": 2000.0,
-      "count": 3
+      "name": "Democratic Party of Wisconsin",
+      "total": 3545.6,
+      "count": 2
     },
     {
-      "name": "Katherine Klass",
+      "name": "Wisconsin Education Association Council",
       "total": 2000.0,
       "count": 1
     },
@@ -29,7 +30,12 @@
       "count": 1
     },
     {
-      "name": "Wisconsin Education Association Council",
+      "name": "Patrick Warpinski",
+      "total": 2000.0,
+      "count": 3
+    },
+    {
+      "name": "Katherine Klass",
       "total": 2000.0,
       "count": 1
     },
@@ -46,11 +52,6 @@
     {
       "name": "Jeff Maras",
       "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "John Koza",
-      "total": 1000.0,
       "count": 1
     }
   ]

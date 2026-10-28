@@ -2,11 +2,12 @@
   "candidate_id": "m-kjorlie1",
   "entity_id": 12229804,
   "contributions_received": 26233.16,
+  "contributions_received_72hr": 4421.69,
   "top_donors": [
     {
       "name": "Republican Party - Dane County",
-      "total": 10391.39,
-      "count": 3
+      "total": 12313.08,
+      "count": 5
     },
     {
       "name": "Republican Party of Dane County",
@@ -15,8 +16,8 @@
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 1610.68,
-      "count": 2
+      "total": 2610.68,
+      "count": 3
     },
     {
       "name": "Russell Wanke",
@@ -29,17 +30,17 @@
       "count": 1
     },
     {
-      "name": "Mark Melvin Kjorlie",
-      "total": 500.0,
+      "name": "Troy Statz",
+      "total": 750.0,
       "count": 1
     },
     {
-      "name": "Tamara Sondgeroth",
-      "total": 500.0,
+      "name": "Renee Statz",
+      "total": 750.0,
       "count": 1
     },
     {
-      "name": "Tom Waddell",
+      "name": "James  Larsen",
       "total": 500.0,
       "count": 1
     },

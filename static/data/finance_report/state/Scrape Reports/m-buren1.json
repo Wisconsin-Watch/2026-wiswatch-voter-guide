@@ -2,11 +2,12 @@
   "candidate_id": "m-buren1",
   "entity_id": 12226543,
   "contributions_received": 29271.36,
+  "contributions_received_72hr": 1520.78,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2695.52,
-      "count": 5
+      "total": 4216.3,
+      "count": 6
     },
     {
       "name": "Merlin Van Buren",

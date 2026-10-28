@@ -2,7 +2,13 @@
   "candidate_id": "l-palmeri1",
   "entity_id": 15530,
   "contributions_received": 63148.9,
+  "contributions_received_72hr": 9006.49,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin -> DPW",
+      "total": 9006.49,
+      "count": 2
+    },
     {
       "name": "Democratic Party of Wisconsin",
       "total": 6789.5,
@@ -14,17 +20,17 @@
       "count": 2
     },
     {
-      "name": "Operating Engineers 139 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Marianne Lubar",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "John O'Farrell",
+      "name": "Operating Engineers 139 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Beer Distributors PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +40,17 @@
       "count": 2
     },
     {
-      "name": "Wisconsin Beer Distributors PAC",
+      "name": "WI Laborers District Council",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "WI PEOPLE Conference",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Sara Paretsky",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Emily's List",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "IUPAT Political Action Together Political Committe",
+      "name": "Stuart Schrottky",
       "total": 1000.0,
       "count": 1
     }

@@ -2,6 +2,7 @@
   "candidate_id": "s-arora1",
   "entity_id": 12226240,
   "contributions_received": 16770.0,
+  "contributions_received_72hr": 9991.0,
   "top_donors": [
     {
       "name": "Republican Party of Dane County",
@@ -9,9 +10,19 @@
       "count": 5
     },
     {
+      "name": "Republican Party of Wisconsin (Committee ID #0300173)",
+      "total": 8491.0,
+      "count": 1
+    },
+    {
       "name": "Republican Assembly Campaign Committee",
       "total": 1602.03,
       "count": 2
+    },
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 1500.0,
+      "count": 1
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -24,12 +35,12 @@
       "count": 1
     },
     {
-      "name": "Murali Rajana",
+      "name": "Tara Kadium",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "Tara Kadium",
+      "name": "Murali Rajana",
       "total": 300.0,
       "count": 1
     },
@@ -41,16 +52,6 @@
     {
       "name": "Keyanna Qi",
       "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Leo Janus",
-      "total": 200.0,
-      "count": 1
-    },
-    {
-      "name": "Sandy Bakk",
-      "total": 150.0,
       "count": 1
     }
   ]

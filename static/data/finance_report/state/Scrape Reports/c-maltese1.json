@@ -2,11 +2,17 @@
   "candidate_id": "c-maltese1",
   "entity_id": 12228933,
   "contributions_received": 14122.9,
+  "contributions_received_72hr": 1876.55,
   "top_donors": [
     {
       "name": "Wood County Democratic Party",
       "total": 3000.0,
       "count": 1
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2524.4,
+      "count": 5
     },
     {
       "name": "WEAC",
@@ -17,11 +23,6 @@
       "name": "Juneau County Democratic Party",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 647.85,
-      "count": 4
     },
     {
       "name": "Joan Slaby",

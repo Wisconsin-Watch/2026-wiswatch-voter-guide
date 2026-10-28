@@ -2,6 +2,7 @@
   "candidate_id": "p-melotik1",
   "entity_id": 664015,
   "contributions_received": 36686.19,
+  "contributions_received_72hr": 10847.0,
   "top_donors": [
     {
       "name": "Paul Melotik",
@@ -9,17 +10,12 @@
       "count": 1
     },
     {
-      "name": "GOPAC Election Fund",
-      "total": 1000.0,
+      "name": "Republican Party of Wisconsin",
+      "total": 9847.0,
       "count": 1
     },
     {
-      "name": "RANW PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Matt Neumann",
+      "name": "ABCPAC-WIS",
       "total": 1000.0,
       "count": 1
     },
@@ -29,12 +25,12 @@
       "count": 1
     },
     {
-      "name": "Realtors PAC, RPAC-Wisconsin",
+      "name": "GOPAC Election Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "Realtors PAC, RPAC-Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +40,17 @@
       "count": 1
     },
     {
-      "name": "Scott Mayer",
+      "name": "REALTORS Assn of SC WI PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
+      "name": "Matt Neumann",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Scott Mayer",
       "total": 1000.0,
       "count": 1
     }

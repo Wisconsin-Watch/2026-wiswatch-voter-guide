@@ -2,34 +2,20 @@
   "candidate_id": "d-martinezrutherford1",
   "entity_id": 11956899,
   "contributions_received": 78516.63,
+  "contributions_received_72hr": 3217.17,
   "top_donors": [
     {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Sam Rajkowski",
-      "total": 1000.0,
+      "name": "Democratic Party of Wisconsin",
+      "total": 3321.87,
       "count": 3
     },
     {
-      "name": "Fire Fighters Local 311 FirePac",
+      "name": "Gregg May",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Rene Heiden",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "David Steinglass",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Liz Steinglass",
+      "name": "Eliot Butler",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +35,22 @@
       "count": 1
     },
     {
-      "name": "Eliot Butler",
+      "name": "Rene Heiden",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Liz Steinglass",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sam Rajkowski",
+      "total": 1000.0,
+      "count": 3
+    },
+    {
+      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     }

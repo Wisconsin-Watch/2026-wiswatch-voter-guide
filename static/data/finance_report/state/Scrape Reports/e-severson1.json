@@ -2,6 +2,7 @@
   "candidate_id": "e-severson1",
   "entity_id": 16291,
   "contributions_received": 786927.54,
+  "contributions_received_72hr": 72961.09,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -10,8 +11,8 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 151284.0,
-      "count": 11
+      "total": 219355.0,
+      "count": 15
     },
     {
       "name": "Polk County Republican Party",
@@ -24,22 +25,17 @@
       "count": 2
     },
     {
-      "name": "Douglas County Republican Party",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Rachael Cabral Guevara",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
       "name": "Testin for Senate",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Friends of Julian Bradley",
+      "name": "Emily Lindus",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Douglas County Republican Party",
       "total": 2000.0,
       "count": 1
     },
@@ -49,7 +45,12 @@
       "count": 1
     },
     {
-      "name": "Quinn for Senate",
+      "name": "Friends of Devin LeMahieu",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Scott Bretting",
       "total": 2000.0,
       "count": 1
     }

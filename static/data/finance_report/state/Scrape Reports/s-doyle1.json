@@ -2,11 +2,12 @@
   "candidate_id": "s-doyle1",
   "entity_id": 16691,
   "contributions_received": 378397.74,
+  "contributions_received_72hr": 22784.8,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 99838.61,
-      "count": 6
+      "total": 118623.41,
+      "count": 8
     },
     {
       "name": "Assembly Democratic Camp Comm - SEG FUND",
@@ -29,17 +30,17 @@
       "count": 1
     },
     {
-      "name": "Todd Vogel",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
+      "name": "I.B.E.W. Local 14 COPE Fund",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Weston Milliken",
+      "name": "Ron Kind",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +50,7 @@
       "count": 1
     },
     {
-      "name": "Ron Kind",
+      "name": "Thomas Rothman",
       "total": 1000.0,
       "count": 1
     }

@@ -2,11 +2,12 @@
   "candidate_id": "b-franklin1",
   "entity_id": 664158,
   "contributions_received": 1328570.13,
+  "contributions_received_72hr": 257637.27,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 619792.53,
-      "count": 4
+      "total": 859472.65,
+      "count": 7
     },
     {
       "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
@@ -15,8 +16,8 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 56168.48,
-      "count": 7
+      "total": 67665.33,
+      "count": 9
     },
     {
       "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
@@ -39,17 +40,17 @@
       "count": 1
     },
     {
-      "name": "Northwestern Mutual PAC",
+      "name": "Born For Assembly",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
+      "name": "Krug for Assembly",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Charter Communications, Inc. Wisconsin Political Action Committee",
+      "name": "Friends of Alex Dallman",
       "total": 1000.0,
       "count": 1
     }

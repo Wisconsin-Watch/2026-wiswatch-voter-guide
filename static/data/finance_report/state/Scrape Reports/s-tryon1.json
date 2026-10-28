@@ -2,11 +2,12 @@
   "candidate_id": "s-tryon1",
   "entity_id": 11964924,
   "contributions_received": 18201.82,
+  "contributions_received_72hr": 2349.78,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2200.85,
-      "count": 6
+      "total": 4550.63,
+      "count": 7
     },
     {
       "name": "Elyce Sheehan",

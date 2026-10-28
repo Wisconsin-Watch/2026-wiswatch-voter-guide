@@ -2,19 +2,20 @@
   "candidate_id": "t-johnson1",
   "entity_id": 16547,
   "contributions_received": 74999.98,
+  "contributions_received_72hr": 14297.98,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 17701.93,
+      "count": 5
+    },
     {
       "name": "Tara Johnson",
       "total": 8766.86,
       "count": 24
     },
     {
-      "name": "Democratic Party of Wisconsin",
-      "total": 4403.95,
-      "count": 2
-    },
-    {
-      "name": "AFT-Wisconsin PAC",
+      "name": "Karen Lumb",
       "total": 1000.0,
       "count": 1
     },
@@ -24,12 +25,22 @@
       "count": 3
     },
     {
+      "name": "AFT-Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Keith Belzer",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Jeanetta Kirkpatrick",
+      "name": "I.B.E.W. Local 14 COPE Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -42,16 +53,6 @@
       "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Sarah Godlewski",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI PEOPLE Conference",
-      "total": 1000.0,
-      "count": 1
     }
   ]
 }

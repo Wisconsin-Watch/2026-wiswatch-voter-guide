@@ -2,39 +2,40 @@
   "candidate_id": "t-mcguire1",
   "entity_id": 17181,
   "contributions_received": 71880.5,
+  "contributions_received_72hr": 12010.49,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 11010.49,
+      "count": 2
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
     {
       "name": "State Farm Federal PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Pipe Trades Assn PAC",
+      "name": "United Association Local 118 PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tavern Industry PAC",
+      "name": "Wisconsin Society of Anesthesiologists PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Operating Engineers 139 PAC",
+      "name": "Eric W. Klemm",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Chad Peters",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Laborers District Council",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEC Energy Group PAC (WEC PAC)",
+      "name": "Humana Inc. PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +45,12 @@
       "count": 1
     },
     {
-      "name": "Wisconsin Beer Distributors PAC",
+      "name": "WHCA-WiCAL PAC",
       "total": 1000.0,
-      "count": 1
+      "count": 2
     },
     {
-      "name": "Wisconsin Society of Anesthesiologists PAC",
+      "name": "Wisconsin Beer Distributors PAC",
       "total": 1000.0,
       "count": 1
     }

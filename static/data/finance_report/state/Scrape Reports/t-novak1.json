@@ -2,11 +2,12 @@
   "candidate_id": "t-novak1",
   "entity_id": 17280,
   "contributions_received": 1033718.03,
+  "contributions_received_72hr": 261605.96,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 463998.16,
-      "count": 7
+      "total": 712997.59,
+      "count": 10
     },
     {
       "name": "Rep Assembly Campaign Com RACC -> Medium Buying",
@@ -14,14 +15,14 @@
       "count": 1
     },
     {
+      "name": "Republican Party of Wisconsin",
+      "total": 69430.16,
+      "count": 9
+    },
+    {
       "name": "Rep Assembly Campaign Com RACC -> Medium",
       "total": 58732.6,
       "count": 1
-    },
-    {
-      "name": "Republican Party of Wisconsin",
-      "total": 56823.63,
-      "count": 7
     },
     {
       "name": "Rep Assembly Campaign Com RACC -> Medium Buying",

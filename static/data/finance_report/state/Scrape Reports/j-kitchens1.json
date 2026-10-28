@@ -2,14 +2,20 @@
   "candidate_id": "j-kitchens1",
   "entity_id": 17342,
   "contributions_received": 36665.21,
+  "contributions_received_72hr": 11236.0,
   "top_donors": [
     {
-      "name": "Lisa Karandanis",
+      "name": "Republican Party of Wisconsin",
+      "total": 9236.0,
+      "count": 3
+    },
+    {
+      "name": "KOCHPAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Lisa Karandanis",
       "total": 1000.0,
       "count": 1
     },
@@ -19,17 +25,12 @@
       "count": 1
     },
     {
-      "name": "KOCHPAC",
+      "name": "Diane Hendricks",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Volunteers for Agriculture VFA",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Local 400 COPE Fund",
+      "name": "Amy Boston",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +50,7 @@
       "count": 1
     },
     {
-      "name": "Diane Hendricks",
+      "name": "Local 400 COPE Fund",
       "total": 1000.0,
       "count": 1
     }

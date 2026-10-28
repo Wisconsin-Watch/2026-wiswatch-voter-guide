@@ -2,11 +2,12 @@
   "candidate_id": "r-udell1",
   "entity_id": 1149184,
   "contributions_received": 50112.04,
+  "contributions_received_72hr": 3532.27,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 4104.7,
-      "count": 3
+      "total": 7636.97,
+      "count": 4
     },
     {
       "name": "Wisconsin Pipe Trades Association PAC Fund",

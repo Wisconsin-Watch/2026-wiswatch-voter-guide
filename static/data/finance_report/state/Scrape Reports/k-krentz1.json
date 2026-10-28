@@ -2,11 +2,17 @@
   "candidate_id": "k-krentz1",
   "entity_id": 12187974,
   "contributions_received": 35312.82,
+  "contributions_received_72hr": 6385.0,
   "top_donors": [
     {
       "name": "Kevin Krentz",
       "total": 12600.0,
       "count": 3
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 6385.0,
+      "count": 1
     },
     {
       "name": "Citizens for August",
@@ -46,11 +52,6 @@
     {
       "name": "James Button",
       "total": 750.0,
-      "count": 1
-    },
-    {
-      "name": "Jeanne Welch",
-      "total": 667.82,
       "count": 1
     }
   ]

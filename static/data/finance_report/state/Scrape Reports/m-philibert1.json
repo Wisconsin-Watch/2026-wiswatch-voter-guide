@@ -2,11 +2,12 @@
   "candidate_id": "m-philibert1",
   "entity_id": 12184882,
   "contributions_received": 4361.13,
+  "contributions_received_72hr": 1020.33,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2790.13,
-      "count": 7
+      "total": 3810.46,
+      "count": 9
     },
     {
       "name": "WEAC PAC",

@@ -2,11 +2,12 @@
   "candidate_id": "t-tiffany1",
   "entity_id": 16621,
   "contributions_received": 53436208.2,
+  "contributions_received_72hr": 2405478.11,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 47059424.9,
-      "count": 36
+      "total": 49327268.9,
+      "count": 42
     },
     {
       "name": "Wisconsin Federation of College Republicans",
@@ -39,17 +40,17 @@
       "count": 3
     },
     {
-      "name": "Steven C. Fischer",
-      "total": 20000.0,
-      "count": 1
-    },
-    {
       "name": "Gregg E. Kunes",
       "total": 20000.0,
       "count": 1
     },
     {
-      "name": "Dennis A. Gasper",
+      "name": "Holly K. Jensen",
+      "total": 20000.0,
+      "count": 1
+    },
+    {
+      "name": "Steven C. Boysa",
       "total": 20000.0,
       "count": 1
     }

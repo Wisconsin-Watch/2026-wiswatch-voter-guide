@@ -2,11 +2,12 @@
   "candidate_id": "l-snodgrass1",
   "entity_id": 16130,
   "contributions_received": 55000.83,
+  "contributions_received_72hr": 10986.49,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 14245.44,
-      "count": 4
+      "total": 25231.93,
+      "count": 7
     },
     {
       "name": "CAR/PAC Car & Truck Retailers Political Action Committee",

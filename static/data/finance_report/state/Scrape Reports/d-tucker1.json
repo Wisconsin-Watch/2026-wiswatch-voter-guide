@@ -2,9 +2,20 @@
   "candidate_id": "d-tucker1",
   "entity_id": 15635,
   "contributions_received": 19237.09,
+  "contributions_received_72hr": 9478.0,
   "top_donors": [
     {
-      "name": "Wisconsin Bear Hunters Association",
+      "name": "Republican Party of Wisconsin",
+      "total": 9478.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Assn of SC WI PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Sharon Glover",
       "total": 1000.0,
       "count": 1
     },
@@ -19,12 +30,12 @@
       "count": 1
     },
     {
-      "name": "RANW PAC",
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Sharon Glover",
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -34,23 +45,13 @@
       "count": 1
     },
     {
-      "name": "REALTORS Assn of SC WI PAC",
+      "name": "Wisconsin Bear Hunters Association",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "ABCPAC-WIS",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Association of Equipment Manufacturers PAC",
-      "total": 500.0,
       "count": 1
     }
   ]

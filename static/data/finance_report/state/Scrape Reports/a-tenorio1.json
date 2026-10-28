@@ -2,7 +2,13 @@
   "candidate_id": "a-tenorio1",
   "entity_id": 1147110,
   "contributions_received": 12914.47,
+  "contributions_received_72hr": 3579.02,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 3634.66,
+      "count": 2
+    },
     {
       "name": "RPAC Wisconsin",
       "total": 1000.0,
@@ -45,11 +51,6 @@
     },
     {
       "name": "Dean Schultzbank",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "AFT Wisconsin COPE",
       "total": 250.0,
       "count": 1
     }

@@ -2,16 +2,17 @@
   "candidate_id": "k-knoke1",
   "entity_id": 12154548,
   "contributions_received": 1309542.66,
+  "contributions_received_72hr": 461344.26,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 1127341.71,
-      "count": 8
+      "total": 1569789.89,
+      "count": 10
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 23316.27,
-      "count": 3
+      "total": 36212.35,
+      "count": 5
     },
     {
       "name": "Kevin Knoke",
@@ -44,12 +45,12 @@
       "count": 2
     },
     {
-      "name": "Climate Cabinet PAC",
+      "name": "Joel Brennan for Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tomas Torres",
+      "name": "Alison Page",
       "total": 1000.0,
       "count": 1
     }

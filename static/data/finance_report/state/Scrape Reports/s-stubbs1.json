@@ -2,29 +2,25 @@
   "candidate_id": "s-stubbs1",
   "entity_id": 15805,
   "contributions_received": 24016.61,
+  "contributions_received_72hr": 5176.5,
   "top_donors": [
     {
-      "name": "Council of Auto & Truck Retail Political Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Pipe Trades Association PAC Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Joseph Krupp",
-      "total": 1000.0,
+      "name": "Democratic Party of Wisconsin",
+      "total": 3256.17,
       "count": 2
     },
     {
-      "name": "Forest County Potawatomi Community PAC",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "Plumbers and Steamfitters Local 118 PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Kirbie Mack",
       "total": 1000.0,
       "count": 1
     },
@@ -34,23 +30,28 @@
       "count": 2
     },
     {
+      "name": "Wisconsin Pipe Trades Association PAC Fund",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Council of Auto & Truck Retail Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Forest County Potawatomi Community PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Joseph Krupp",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
       "name": "DaMon White",
       "total": 900.0,
-      "count": 1
-    },
-    {
-      "name": "Ralph Sirmons",
-      "total": 700.0,
-      "count": 4
-    },
-    {
-      "name": "Local 215",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "IBEW PAC Voluntary Fund",
-      "total": 500.0,
       "count": 1
     }
   ]

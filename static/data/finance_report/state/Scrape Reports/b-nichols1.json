@@ -2,44 +2,20 @@
   "candidate_id": "b-nichols1",
   "entity_id": 11682588,
   "contributions_received": 1324706.47,
+  "contributions_received_72hr": 431845.68,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 1151789.4,
-      "count": 8
+      "total": 1569059.48,
+      "count": 10
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 22089.5,
-      "count": 6
+      "total": 33665.1,
+      "count": 8
     },
     {
-      "name": "Ross Boucher",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "EMILY's List Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Brenda Dixon",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Case",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Electing Women Wisconsin PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Megan Hull",
+      "name": "Bruce Golden",
       "total": 1000.0,
       "count": 1
     },
@@ -49,9 +25,34 @@
       "count": 1
     },
     {
-      "name": "Don Gregurich",
+      "name": "William Maina",
       "total": 1000.0,
-      "count": 3
+      "count": 1
+    },
+    {
+      "name": "Lynde B. Uihlein",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Wisconsin Carpenters PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "EMILY's List Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Electing Women Wisconsin PAC",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

@@ -2,16 +2,22 @@
   "candidate_id": "p-mcgraw1",
   "entity_id": 11948316,
   "contributions_received": 58512.65,
+  "contributions_received_72hr": 21793.57,
   "top_donors": [
     {
       "name": "Republican Party of Walworth County",
-      "total": 16191.47,
-      "count": 8
+      "total": 17301.04,
+      "count": 10
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 8359.0,
-      "count": 1
+      "total": 17043.0,
+      "count": 2
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 13000.0,
+      "count": 2
     },
     {
       "name": "Republican Assembly Campaign Committee (ID #0400002))",
@@ -24,7 +30,7 @@
       "count": 1
     },
     {
-      "name": "Kathleen M Hendricks",
+      "name": "Teri Baar",
       "total": 1000.0,
       "count": 1
     },
@@ -45,11 +51,6 @@
     },
     {
       "name": "David E Babcock",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kimberly K Adamany",
       "total": 1000.0,
       "count": 1
     }

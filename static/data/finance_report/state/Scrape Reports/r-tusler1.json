@@ -2,7 +2,13 @@
   "candidate_id": "r-tusler1",
   "entity_id": 16459,
   "contributions_received": 14005.7,
+  "contributions_received_72hr": 9828.0,
   "top_donors": [
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 9828.0,
+      "count": 2
+    },
     {
       "name": "Forest Co Potawatomi Comm PAC",
       "total": 1000.0,
@@ -36,11 +42,6 @@
     {
       "name": "Cyra Schneider",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Hospitals PAC",
-      "total": 500.0,
       "count": 1
     },
     {

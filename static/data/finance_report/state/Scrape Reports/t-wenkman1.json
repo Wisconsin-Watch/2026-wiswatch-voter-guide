@@ -2,6 +2,7 @@
   "candidate_id": "t-wenkman1",
   "entity_id": 12156696,
   "contributions_received": 37262.96,
+  "contributions_received_72hr": 1088.61,
   "top_donors": [
     {
       "name": "Democratic Party of Jefferson County",
@@ -10,8 +11,8 @@
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2597.23,
-      "count": 5
+      "total": 3685.84,
+      "count": 6
     },
     {
       "name": "Terri Wenkman",

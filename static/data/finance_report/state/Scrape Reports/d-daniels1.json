@@ -2,11 +2,12 @@
   "candidate_id": "d-daniels1",
   "entity_id": 12227977,
   "contributions_received": 1075620.76,
+  "contributions_received_72hr": 109187.79,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 835344.16,
-      "count": 12
+      "total": 925156.38,
+      "count": 15
     },
     {
       "name": "Republican Assembly Campaign Committee -> Medium Buying",
@@ -15,8 +16,8 @@
     },
     {
       "name": "WISGOP",
-      "total": 62975.51,
-      "count": 8
+      "total": 82351.08,
+      "count": 11
     },
     {
       "name": "Republican Party of Wisconsin",

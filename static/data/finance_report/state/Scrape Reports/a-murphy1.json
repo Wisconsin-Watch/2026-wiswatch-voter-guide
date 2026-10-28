@@ -2,7 +2,13 @@
   "candidate_id": "a-murphy1",
   "entity_id": 12230180,
   "contributions_received": 8132.0,
+  "contributions_received_72hr": 8242.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 8242.0,
+      "count": 1
+    },
     {
       "name": "Republican Party of Milwaukee County",
       "total": 1000.0,
@@ -14,12 +20,12 @@
       "count": 1
     },
     {
-      "name": "Republican Assembly Campaign Committee",
+      "name": "Richard Gross",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Richard Gross",
+      "name": "Republican Assembly Campaign Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -46,11 +52,6 @@
     {
       "name": "Laurie Wolf",
       "total": 260.0,
-      "count": 1
-    },
-    {
-      "name": "John Karol",
-      "total": 200.0,
       "count": 1
     }
   ]

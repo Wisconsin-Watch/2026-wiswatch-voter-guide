@@ -2,6 +2,7 @@
   "candidate_id": "k-haywood1",
   "entity_id": 16325,
   "contributions_received": 71808.54,
+  "contributions_received_72hr": 1000.0,
   "top_donors": [
     {
       "name": "Operating Engineers Local 139 PAC",
@@ -9,7 +10,12 @@
       "count": 1
     },
     {
-      "name": "Sprinkler Fitters Local 183",
+      "name": "Plumbers/Steamfitters 434 PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW PAC Voluntary Fund",
       "total": 1000.0,
       "count": 1
     },
@@ -19,17 +25,12 @@
       "count": 1
     },
     {
-      "name": "Gary Sadoff",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Nkem Iroegbu",
+      "name": "Gary Sadoff",
       "total": 1000.0,
       "count": 1
     },
@@ -49,9 +50,9 @@
       "count": 1
     },
     {
-      "name": "Mark Wade",
+      "name": "Realtors Association of SC WI - PAC",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     }
   ]
 }

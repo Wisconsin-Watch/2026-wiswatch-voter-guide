@@ -2,6 +2,7 @@
   "candidate_id": "s-bakk1",
   "entity_id": 5296411,
   "contributions_received": 18617.16,
+  "contributions_received_72hr": 9246.0,
   "top_donors": [
     {
       "name": "Republican Party of Dane County",
@@ -9,7 +10,17 @@
       "count": 3
     },
     {
+      "name": "RPW  -> Arena LLC",
+      "total": 8146.0,
+      "count": 1
+    },
+    {
       "name": "Republican Party of Dane County",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002))",
       "total": 1000.0,
       "count": 1
     },
@@ -24,18 +35,13 @@
       "count": 1
     },
     {
-      "name": "WIlliam Richardson",
-      "total": 300.0,
-      "count": 1
-    },
-    {
       "name": "Mary Kaderabek-Aleckson",
       "total": 300.0,
       "count": 1
     },
     {
-      "name": "Mark S. Maier",
-      "total": 250.0,
+      "name": "WIlliam Richardson",
+      "total": 300.0,
       "count": 1
     },
     {
@@ -44,12 +50,7 @@
       "count": 1
     },
     {
-      "name": "Mike Herl",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Leo Janus",
+      "name": "Mark S. Maier",
       "total": 250.0,
       "count": 1
     }

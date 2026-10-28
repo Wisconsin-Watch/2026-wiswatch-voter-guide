@@ -2,7 +2,13 @@
   "candidate_id": "m-skivington1",
   "entity_id": 12229971,
   "contributions_received": 11814.14,
+  "contributions_received_72hr": 1037.18,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 1221.55,
+      "count": 5
+    },
     {
       "name": "WEAC PAC",
       "total": 1000.0,
@@ -19,6 +25,11 @@
       "count": 1
     },
     {
+      "name": "Linda Kloosterboer",
+      "total": 500.0,
+      "count": 1
+    },
+    {
       "name": "Thomas Altholz",
       "total": 500.0,
       "count": 1
@@ -29,23 +40,13 @@
       "count": 1
     },
     {
-      "name": "Linda Kloosterboer",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Emily Sensenbrenner",
-      "total": 482.5,
-      "count": 1
-    },
-    {
       "name": "Kat Griffith",
       "total": 482.5,
       "count": 1
     },
     {
-      "name": "Marquette County Democratic Party",
-      "total": 400.0,
+      "name": "Emily Sensenbrenner",
+      "total": 482.5,
       "count": 1
     },
     {

@@ -2,19 +2,20 @@
   "candidate_id": "a-roe1",
   "entity_id": 1149157,
   "contributions_received": 36867.15,
+  "contributions_received_72hr": 25432.6,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 25016.97,
+      "count": 6
+    },
     {
       "name": "Cynthia Squire",
       "total": 1050.0,
       "count": 2
     },
     {
-      "name": "WEAC PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Lasse",
+      "name": "Jonathan Roe",
       "total": 1000.0,
       "count": 1
     },
@@ -22,6 +23,11 @@
       "name": "Arra Lasse",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "UAW",
+      "total": 1000.0,
+      "count": 2
     },
     {
       "name": "Ann Roe",
@@ -39,17 +45,12 @@
       "count": 1
     },
     {
-      "name": "Jonathan Roe",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Democratic Party of Rock County",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WEAC",
+      "name": "Thomas Lasse",
       "total": 1000.0,
       "count": 1
     }

@@ -2,11 +2,12 @@
   "candidate_id": "s-ripley1",
   "entity_id": 11948571,
   "contributions_received": 26415.2,
+  "contributions_received_72hr": 2786.13,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 5289.2,
-      "count": 5
+      "total": 8075.33,
+      "count": 6
     },
     {
       "name": "Democratic Party of Jefferson County",

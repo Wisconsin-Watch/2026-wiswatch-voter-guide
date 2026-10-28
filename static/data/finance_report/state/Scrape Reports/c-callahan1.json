@@ -2,19 +2,25 @@
   "candidate_id": "c-callahan1",
   "entity_id": 16222,
   "contributions_received": 34327.0,
+  "contributions_received_72hr": 16763.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 16763.0,
+      "count": 2
+    },
     {
       "name": "Republican Party of Marathon County",
       "total": 1420.0,
       "count": 2
     },
     {
-      "name": "Thrivent Wisconsin PAC",
+      "name": "Forest County Potawatomi Community PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Forest County Potawatomi Community PAC",
+      "name": "Concerned Realtors Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +45,12 @@
       "count": 1
     },
     {
-      "name": "Leonard E Boltz",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "Wisconsin Credit Union Legislative Action Fund",
+      "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Northwestern Mutual PAC",
+      "name": "Thrivent Wisconsin PAC",
       "total": 1000.0,
       "count": 1
     }

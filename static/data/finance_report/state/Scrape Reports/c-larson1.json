@@ -2,14 +2,20 @@
   "candidate_id": "c-larson1",
   "entity_id": 16833,
   "contributions_received": 49839.81,
+  "contributions_received_72hr": 10019.06,
   "top_donors": [
     {
-      "name": "WEAC Region 6 Political Action Committee",
+      "name": "DPW -> DPW",
+      "total": 10098.82,
+      "count": 2
+    },
+    {
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "WEAC Region 6 Political Action Committee",
       "total": 2000.0,
       "count": 1
     },
@@ -34,22 +40,17 @@
       "count": 3
     },
     {
-      "name": "Mark Thomsen",
+      "name": "waleed Najeeb",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Jack Kosmoski",
+      "name": "James Carpenter",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Leonard J. Sobczak",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Martin Marie Schreiber",
+      "name": "David Liners",
       "total": 500.0,
       "count": 1
     }

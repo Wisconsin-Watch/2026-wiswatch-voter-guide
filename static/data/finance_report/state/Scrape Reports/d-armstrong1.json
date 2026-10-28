@@ -2,9 +2,10 @@
   "candidate_id": "d-armstrong1",
   "entity_id": 16037,
   "contributions_received": 18385.0,
+  "contributions_received_72hr": 1040.0,
   "top_donors": [
     {
-      "name": "Mark Jr Johnson",
+      "name": "Andrea Menard",
       "total": 1000.0,
       "count": 1
     },
@@ -14,7 +15,7 @@
       "count": 1
     },
     {
-      "name": "Realtors Association of SC WI - PAC",
+      "name": "Republican Assembly Campaign Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -24,7 +25,22 @@
       "count": 1
     },
     {
+      "name": "Mark Jr Johnson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Friends of Wisconsin Bear Hunters",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Concerned Realtors Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors Association of SC WI - PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -36,21 +52,6 @@
     {
       "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Andrea Menard",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Eli Belisle",
-      "total": 550.0,
       "count": 1
     }
   ]

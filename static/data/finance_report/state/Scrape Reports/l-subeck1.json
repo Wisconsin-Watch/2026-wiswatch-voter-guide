@@ -2,34 +2,15 @@
   "candidate_id": "l-subeck1",
   "entity_id": 16953,
   "contributions_received": 65159.47,
+  "contributions_received_72hr": 2899.78,
   "top_donors": [
     {
-      "name": "Todd Gutschow",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI PEOPLE Conference",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Council of Auto & Truck Retail Political Action Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
+      "name": "Democratic Party of Wisconsin",
+      "total": 2976.75,
       "count": 2
     },
     {
-      "name": "Wisconsin Hospitals PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Elizabeth Friedman",
+      "name": "WEC Energy Group PAC (WEC PAC)",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +20,37 @@
       "count": 2
     },
     {
-      "name": "Forest Co Potawatomi Comm PAC",
+      "name": "CareSource Mission Political Action Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Beer Distributors PAC",
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "IBEW-PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Todd Gutschow",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "AT&T Wisconsin Employee PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Elizabeth Friedman",
       "total": 1000.0,
       "count": 1
     }

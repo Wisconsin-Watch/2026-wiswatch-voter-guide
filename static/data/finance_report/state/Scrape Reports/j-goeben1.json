@@ -2,9 +2,15 @@
   "candidate_id": "j-goeben1",
   "entity_id": 663797,
   "contributions_received": 25080.7,
+  "contributions_received_72hr": 8730.0,
   "top_donors": [
     {
-      "name": "Chad Hertler",
+      "name": "WISGOP",
+      "total": 8730.0,
+      "count": 1
+    },
+    {
+      "name": "RANW PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -14,17 +20,22 @@
       "count": 1
     },
     {
+      "name": "ABCPAC-WIS",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Realtors Political Action Committee RPAC-Wisconsin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Realtors Association of SC WI - PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Diane Hendrick",
+      "name": "Chad Hertler",
       "total": 1000.0,
       "count": 1
     },
@@ -34,22 +45,12 @@
       "count": 1
     },
     {
-      "name": "RANW PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Joseph Bast",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Realtors Political Action Committee RPAC-Wisconsin",
+      "name": "Diane Hendrick",
       "total": 1000.0,
       "count": 1
     }

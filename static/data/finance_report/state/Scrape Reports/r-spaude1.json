@@ -2,16 +2,17 @@
   "candidate_id": "r-spaude1",
   "entity_id": 16271,
   "contributions_received": 1244377.01,
+  "contributions_received_72hr": 1148477.63,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 1045323.39,
-      "count": 8
+      "total": 2157152.02,
+      "count": 13
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 31676.4,
-      "count": 5
+      "total": 64825.4,
+      "count": 8
     },
     {
       "name": "Assembly Democratic Camp Comm",
@@ -24,22 +25,12 @@
       "count": 5
     },
     {
-      "name": "Green Bay PAC",
+      "name": "Tomas Torres",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Peter Chase",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC Region 3 PAC",
+      "name": "Dawn Beckman",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +40,17 @@
       "count": 1
     },
     {
-      "name": "IBEW-PAC",
+      "name": "Peter Beckman",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends Of Steve Doyle",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Lots of People Supporting Mike Bare",
       "total": 1000.0,
       "count": 1
     }

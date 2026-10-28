@@ -2,11 +2,12 @@
   "candidate_id": "j-smith1",
   "entity_id": 17261,
   "contributions_received": 493622.67,
+  "contributions_received_72hr": 202279.51,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 150971.25,
-      "count": 6
+      "total": 335971.25,
+      "count": 8
     },
     {
       "name": "Eau Claire County Democratic Party",
@@ -19,37 +20,37 @@
       "count": 2
     },
     {
-      "name": "Prescott J. Bergh",
+      "name": "Democratic Party of Wisconsin",
+      "total": 7859.18,
+      "count": 2
+    },
+    {
+      "name": "George Moore",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "FONEPAC",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Mark Ediger",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Jordan Crow",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "SEIU Wisconsin State Council Independent Expenditure Committee",
       "total": 2000.0,
       "count": 1
     },
     {
       "name": "Wisconsin Carpenters PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Soc Anesthesiologists PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Mary E Nikolay",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Richard Samson",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Tim Carpenter",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "Jordan Crow",
       "total": 2000.0,
       "count": 1
     }

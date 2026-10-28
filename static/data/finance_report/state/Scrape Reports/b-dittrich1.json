@@ -2,44 +2,25 @@
   "candidate_id": "b-dittrich1",
   "entity_id": 16176,
   "contributions_received": 26185.0,
+  "contributions_received_72hr": 3000.0,
   "top_donors": [
-    {
-      "name": "RPAC Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Professional Insurance Agents PAC",
-      "total": 1000.0,
-      "count": 1
-    },
     {
       "name": "Northwestern Mutual PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Taxpayers for Nygren",
+      "name": "Angela Batterman",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Credit Union Legislative Action Fund",
+      "name": "Wisconsin Emergency Medicine PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Dental Assn PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Concerned Realtors Committee",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Alliance of Health Insurers PAC",
+      "name": "RPAC Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -52,6 +33,26 @@
       "name": "Wisconsin Association of Health Plans PAC",
       "total": 1000.0,
       "count": 2
+    },
+    {
+      "name": "RANW PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Professional Insurance Agents PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alliance of Health Insurers PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Volunteers for Agriculture VFA",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

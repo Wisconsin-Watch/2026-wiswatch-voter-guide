@@ -2,16 +2,17 @@
   "candidate_id": "h-marklein1",
   "entity_id": 16358,
   "contributions_received": 2271047.24,
+  "contributions_received_72hr": 117325.0,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 1774964.72,
-      "count": 17
+      "total": 1847714.72,
+      "count": 19
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 96686.0,
-      "count": 7
+      "total": 133561.0,
+      "count": 9
     },
     {
       "name": "Daniel Jansen",
@@ -19,37 +20,37 @@
       "count": 1
     },
     {
-      "name": "Don M. Millis",
+      "name": "Building Grassroots Support PAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Zachary Knutson",
+      "name": "Diane Hendricks",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Glennette N Stettler",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "KOCHPAC",
+      "name": "James Leef",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Lou Schweigert",
+      "name": "Tenley Scott",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Friends of Eric Wimberger",
+      "name": "Margaret Scott",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Kimberly Knudsen",
+      "name": "Theresa Scott",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Patrick English",
       "total": 2000.0,
       "count": 1
     }

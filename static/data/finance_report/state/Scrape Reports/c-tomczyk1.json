@@ -2,24 +2,25 @@
   "candidate_id": "c-tomczyk1",
   "entity_id": 16821,
   "contributions_received": 94330.0,
+  "contributions_received_72hr": 13706.0,
   "top_donors": [
+    {
+      "name": "Committee to Elect a Republican Senate",
+      "total": 13706.0,
+      "count": 3
+    },
     {
       "name": "Republican Party of Marathon County",
       "total": 2700.0,
       "count": 1
     },
     {
-      "name": "Leonard Boltz",
-      "total": 2000.0,
-      "count": 2
-    },
-    {
-      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
+      "name": "Kent Olson",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Taxpayers for Stafsholt",
+      "name": "WISCONSIN PIPE TRADES ASSOCIATION PAC FUND",
       "total": 2000.0,
       "count": 1
     },
@@ -29,14 +30,19 @@
       "count": 2
     },
     {
-      "name": "Kent Olson",
+      "name": "Meryl Kelch",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Meryl Kelch",
+      "name": "Taxpayers for Stafsholt",
       "total": 2000.0,
       "count": 1
+    },
+    {
+      "name": "Leonard Boltz",
+      "total": 2000.0,
+      "count": 2
     },
     {
       "name": "Volunteers for Agriculture VFA",
@@ -45,11 +51,6 @@
     },
     {
       "name": "Thomas Garver",
-      "total": 1500.0,
-      "count": 1
-    },
-    {
-      "name": "Thomas Gardner",
       "total": 1500.0,
       "count": 1
     }

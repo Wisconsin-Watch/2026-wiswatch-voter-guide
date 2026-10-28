@@ -2,7 +2,13 @@
   "candidate_id": "s-krug1",
   "entity_id": 16180,
   "contributions_received": 47267.5,
+  "contributions_received_72hr": 7044.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 7044.0,
+      "count": 1
+    },
     {
       "name": "Republican Party of Wood County",
       "total": 2500.0,
@@ -15,11 +21,6 @@
     },
     {
       "name": "Phillip J. Larkin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Housing Alliance Political Action Committee",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +50,7 @@
       "count": 1
     },
     {
-      "name": "Rob G. Rybarczyk",
+      "name": "Michael Schlichte",
       "total": 1000.0,
       "count": 1
     }

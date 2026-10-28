@@ -2,6 +2,7 @@
   "candidate_id": "r-wittke1",
   "entity_id": 16172,
   "contributions_received": 46698.0,
+  "contributions_received_72hr": 9507.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
@@ -9,14 +10,24 @@
       "count": 3
     },
     {
-      "name": "Building Grassroots Support PAC",
+      "name": "Republican Party of Wisconsin -> Arena LLC",
+      "total": 8507.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "WI Institute of CPA's PAC",
+      "name": "Racine County Republican Party",
       "total": 1000.0,
       "count": 1
+    },
+    {
+      "name": "Operating Engineers 139 PAC",
+      "total": 1000.0,
+      "count": 2
     },
     {
       "name": "Forest Co Potawatomi Comm PAC",
@@ -29,22 +40,12 @@
       "count": 1
     },
     {
-      "name": "GOPAC Election Fund",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Gregg Tushaus",
       "total": 1000.0,
       "count": 1
     },
     {
       "name": "Friends and Neighbors of Tom Weatherston",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Gregg Tushaus",
       "total": 1000.0,
       "count": 1
     },

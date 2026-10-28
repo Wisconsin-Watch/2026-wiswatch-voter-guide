@@ -2,11 +2,12 @@
   "candidate_id": "m-born1",
   "entity_id": 16575,
   "contributions_received": 152958.1,
+  "contributions_received_72hr": 9318.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 5443.0,
-      "count": 7
+      "total": 13761.0,
+      "count": 8
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -14,12 +15,17 @@
       "count": 1
     },
     {
-      "name": "Chad Peters",
+      "name": "Northwestern Mutual PAC A Multi Candidate Committee",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Northwestern Mutual PAC A Multi Candidate Committee",
+      "name": "Donald Wahlin",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
       "total": 1000.0,
       "count": 1
     },
@@ -29,7 +35,7 @@
       "count": 1
     },
     {
-      "name": "CareSource Mission PAC",
+      "name": "KOCHPAC",
       "total": 1000.0,
       "count": 1
     },
@@ -47,11 +53,6 @@
       "name": "Xcel Energy-WI PAC",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Robert Trone",
-      "total": 1000.0,
-      "count": 1
     }
   ]
 }

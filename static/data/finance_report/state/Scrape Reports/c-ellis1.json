@@ -2,10 +2,11 @@
   "candidate_id": "c-ellis1",
   "entity_id": 12226491,
   "contributions_received": 41136.12,
+  "contributions_received_72hr": 297303.0,
   "top_donors": [
     {
-      "name": "WEAC PAC",
-      "total": 2000.0,
+      "name": "State Senate Democratic Committee",
+      "total": 297303.0,
       "count": 1
     },
     {
@@ -15,6 +16,11 @@
     },
     {
       "name": "Montgomery Trapper Sexton",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "WEAC PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -44,14 +50,9 @@
       "count": 2
     },
     {
-      "name": "Hugh Ross",
+      "name": "Julie Stodolka",
       "total": 1000.0,
       "count": 2
-    },
-    {
-      "name": "Rebecca Clarke",
-      "total": 1000.0,
-      "count": 1
     }
   ]
 }

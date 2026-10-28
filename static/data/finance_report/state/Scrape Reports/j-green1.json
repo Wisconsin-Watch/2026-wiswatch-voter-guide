@@ -2,7 +2,13 @@
   "candidate_id": "j-green1",
   "entity_id": 12228940,
   "contributions_received": 6942.73,
+  "contributions_received_72hr": 7911.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 7911.0,
+      "count": 1
+    },
     {
       "name": "Republican Party of La Crosse County",
       "total": 2000.0,
@@ -47,11 +53,6 @@
       "name": "Jay Larochelle",
       "total": 50.0,
       "count": 2
-    },
-    {
-      "name": "Bill Fasching",
-      "total": 25.0,
-      "count": 1
     }
   ]
 }

@@ -2,14 +2,25 @@
   "candidate_id": "e-schutt1",
   "entity_id": 15958,
   "contributions_received": 156857.68,
+  "contributions_received_72hr": 1971.33,
   "top_donors": [
     {
       "name": "Republican Party of Walworth County",
-      "total": 15713.68,
-      "count": 7
+      "total": 16435.01,
+      "count": 8
     },
     {
-      "name": "Jeff Schultz",
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Friends of Van Wanggaard",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
+      "name": "Taxpayers for Stafsholt",
       "total": 2000.0,
       "count": 1
     },
@@ -19,27 +30,17 @@
       "count": 1
     },
     {
-      "name": "Testin for Senate",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Taxpayers for Stafsholt",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
       "name": "Friends of Jesse James",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Kathryn Leith",
       "total": 2000.0,
-      "count": 1
+      "count": 3
     },
     {
-      "name": "Friends of Mary",
+      "name": "ABCPAC-WIS",
       "total": 2000.0,
       "count": 1
     },
@@ -49,7 +50,7 @@
       "count": 1
     },
     {
-      "name": "Citizens for August",
+      "name": "Volunteers for Agriculture VFA",
       "total": 2000.0,
       "count": 1
     }

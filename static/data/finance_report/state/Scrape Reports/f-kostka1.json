@@ -2,7 +2,13 @@
   "candidate_id": "f-kostka1",
   "entity_id": 1170162,
   "contributions_received": 6792.3,
+  "contributions_received_72hr": 8768.0,
   "top_donors": [
+    {
+      "name": "RPW",
+      "total": 8768.0,
+      "count": 1
+    },
     {
       "name": "Rep Assembly Campaign Com RACC",
       "total": 2626.1,
@@ -29,12 +35,12 @@
       "count": 1
     },
     {
-      "name": "George LaValley",
+      "name": "Linda Kostka",
       "total": 250.0,
       "count": 1
     },
     {
-      "name": "Linda Kostka",
+      "name": "George LaValley",
       "total": 250.0,
       "count": 1
     },
@@ -44,12 +50,7 @@
       "count": 1
     },
     {
-      "name": "Mark A. Smith",
-      "total": 100.0,
-      "count": 1
-    },
-    {
-      "name": "Bill Cosh",
+      "name": "Angie Sapik",
       "total": 100.0,
       "count": 1
     }

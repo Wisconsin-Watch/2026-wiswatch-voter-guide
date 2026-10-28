@@ -2,16 +2,22 @@
   "candidate_id": "j-kroll1",
   "entity_id": 12049265,
   "contributions_received": 1436836.98,
+  "contributions_received_72hr": 577144.53,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 1195596.84,
-      "count": 9
+      "total": 1249271.77,
+      "count": 10
+    },
+    {
+      "name": "Assembly Democratic Campaign Committee",
+      "total": 497427.0,
+      "count": 1
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 30618.96,
-      "count": 5
+      "total": 52336.37,
+      "count": 8
     },
     {
       "name": "John Kroll",
@@ -29,27 +35,22 @@
       "count": 3
     },
     {
-      "name": "John O'Farrell",
+      "name": "Lots of People Supporting Mike Bare",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Joshua Mack",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Alex for Wisconsin",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Elliot Stahnke",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Rothhouse",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Hein Roehrig",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Phelps Campaign",
+      "name": "TIP FOR WI",
       "total": 1000.0,
       "count": 1
     }

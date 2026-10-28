@@ -2,10 +2,16 @@
   "candidate_id": "j-billings1",
   "entity_id": 15842,
   "contributions_received": 79544.45,
+  "contributions_received_72hr": 11200.55,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
       "total": 9453.42,
+      "count": 1
+    },
+    {
+      "name": "Assembly Democratic Camp Comm",
+      "total": 8297.75,
       "count": 1
     },
     {
@@ -14,24 +20,29 @@
       "count": 1
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2008.47,
+      "count": 4
+    },
+    {
+      "name": "Monroe County Democratic Party",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Council of Auto & Truck Retail Political Action Committee",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI PEOPLE Conference",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Operating Engineers 139 PAC",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Smart TD PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Robert Wills",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Hospitals PAC",
-      "total": 1000.0,
-      "count": 2
     },
     {
       "name": "CRUE / WEAC Region 4 - PAC",
@@ -40,16 +51,6 @@
     },
     {
       "name": "Rosalie Schnick",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "David Jenkins",
-      "total": 1000.0,
-      "count": 2
-    },
-    {
-      "name": "WBD Corporate",
       "total": 1000.0,
       "count": 1
     }

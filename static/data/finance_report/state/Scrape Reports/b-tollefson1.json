@@ -2,16 +2,17 @@
   "candidate_id": "b-tollefson1",
   "entity_id": 11965003,
   "contributions_received": 532930.15,
+  "contributions_received_72hr": 364250.25,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 334248.82,
-      "count": 7
+      "total": 673457.82,
+      "count": 8
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 21212.1,
-      "count": 5
+      "total": 42253.35,
+      "count": 7
     },
     {
       "name": "Unitemized",
@@ -24,32 +25,32 @@
       "count": 2
     },
     {
-      "name": "Marc Katz",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "John A Langeland",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Weston Milliken",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Linda Hughes",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Greta Neubauer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Eric Knight",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Megan Hull",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Jessica Librande",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Eileen Stauss",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "States Win Federal PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "Neva Goodwin",
       "total": 1000.0,
       "count": 1
     }

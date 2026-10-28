@@ -2,6 +2,7 @@
   "candidate_id": "v-kretchmer1",
   "entity_id": 12225838,
   "contributions_received": 35454.28,
+  "contributions_received_72hr": 3150.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
@@ -10,8 +11,8 @@
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 3017.96,
-      "count": 4
+      "total": 6017.96,
+      "count": 5
     },
     {
       "name": "Valerie Han Kretchmer",
@@ -26,6 +27,11 @@
     {
       "name": "Matt Smith",
       "total": 900.0,
+      "count": 1
+    },
+    {
+      "name": "Milwaukee Police Association Political Action Committee",
+      "total": 500.0,
       "count": 1
     },
     {
@@ -44,12 +50,7 @@
       "count": 1
     },
     {
-      "name": "Milwaukee Police Association Political Action Committee",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Friends of Duane O'Keefe",
+      "name": "Jayson Cross",
       "total": 300.0,
       "count": 1
     }

@@ -2,16 +2,17 @@
   "candidate_id": "d-andraca1",
   "entity_id": 16226,
   "contributions_received": 75052.64,
+  "contributions_received_72hr": 5373.42,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 6991.38,
-      "count": 4
+      "total": 9714.8,
+      "count": 5
     },
     {
       "name": "Democratic Party of Ozaukee County",
-      "total": 2400.0,
-      "count": 2
+      "total": 4050.0,
+      "count": 3
     },
     {
       "name": "SEIU Wisconsin State Council PAC",
@@ -19,7 +20,7 @@
       "count": 1
     },
     {
-      "name": "Northwestern Mutual PAC",
+      "name": "Sprinkler Fitters Local 183",
       "total": 1000.0,
       "count": 1
     },
@@ -39,19 +40,19 @@
       "count": 1
     },
     {
-      "name": "WI Laborers District Council",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
       "name": "Dan Graziano",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tavern Industry PAC",
+      "name": "WI Laborers District Council",
       "total": 1000.0,
-      "count": 2
+      "count": 1
+    },
+    {
+      "name": "Operating Engineers 139 PAC",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

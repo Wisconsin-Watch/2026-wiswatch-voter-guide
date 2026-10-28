@@ -2,11 +2,17 @@
   "candidate_id": "t-jung1",
   "entity_id": 11956743,
   "contributions_received": 2169057.71,
+  "contributions_received_72hr": 325650.87,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
-      "total": 1822368.85,
-      "count": 14
+      "total": 2134974.1,
+      "count": 17
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 10312.17,
+      "count": 5
     },
     {
       "name": "Randal Spears",
@@ -29,27 +35,22 @@
       "count": 2
     },
     {
+      "name": "WI Laborers District Council",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
       "name": "Mark D. Ediger",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "International Union of Operating Engineers Local 139 PAC",
+      "name": "Neva Goodwin",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "WEAC PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "IBEW-PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin Beer Distributors PAC",
+      "name": "Elizabeth Simons",
       "total": 2000.0,
       "count": 1
     }

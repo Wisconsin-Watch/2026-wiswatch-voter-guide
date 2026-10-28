@@ -2,16 +2,17 @@
   "candidate_id": "b-brist1",
   "entity_id": 12160243,
   "contributions_received": 1302468.03,
+  "contributions_received_72hr": 406569.96,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
-      "total": 763399.46,
-      "count": 4
+      "total": 1127680.46,
+      "count": 5
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 377582.19,
-      "count": 8
+      "total": 413871.15,
+      "count": 11
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -29,22 +30,22 @@
       "count": 2
     },
     {
-      "name": "States Win Federal PAC",
+      "name": "SEIU Wisconsin State Council",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Zoe Aron",
+      "name": "Patricia Ryan",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Mark Ediger",
+      "name": "LuAnn Bird",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Robert Haselow",
+      "name": "Greater Than PAC",
       "total": 1000.0,
       "count": 1
     },

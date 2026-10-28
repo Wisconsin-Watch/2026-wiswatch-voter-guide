@@ -2,11 +2,12 @@
   "candidate_id": "g-miller1",
   "entity_id": 12228352,
   "contributions_received": 12586.55,
+  "contributions_received_72hr": 1197.32,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2256.49,
-      "count": 7
+      "total": 3453.81,
+      "count": 8
     },
     {
       "name": "Friends of Max Winkels",

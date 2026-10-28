@@ -1,8 +1,19 @@
 {
   "candidate_id": "a-deacon1",
   "entity_id": 7620630,
-  "contributions_received": 67,
+  "contributions_received": 67.0,
+  "contributions_received_72hr": 11096.9,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin (Committee ID #0300173)",
+      "total": 7485.0,
+      "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 3611.9,
+      "count": 2
+    },
     {
       "name": "Alciro Deacon",
       "total": 57.0,

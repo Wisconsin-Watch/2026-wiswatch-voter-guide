@@ -2,16 +2,17 @@
   "candidate_id": "t-paterson1",
   "entity_id": 8110587,
   "contributions_received": 25861.79,
+  "contributions_received_72hr": 12872.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 7372.0,
-      "count": 1
+      "total": 14744.0,
+      "count": 2
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
-      "total": 2879.38,
-      "count": 4
+      "total": 8379.38,
+      "count": 5
     },
     {
       "name": "Winnebago County Republican Party",

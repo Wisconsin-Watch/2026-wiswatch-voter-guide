@@ -9,6 +9,10 @@ function getContributionsReceived(report) {
     return Number(report?.contributions_received ?? report?.total_donated) || 0;
 }
 
+function getContributionsReceived72Hr(report) {
+    return Number(report?.contributions_received_72hr) || 0;
+}
+
 /**
  * Fetch the processed finance summary JSON for a candidate.
  * Files are named by candidate_id (e.g. a-phillips1.json).
@@ -56,10 +60,10 @@ export async function getFundsRaisedByCandidateId(candidateId) {
 
 /**
  * @param {string[]} candidateIds
- * @returns {Promise<Record<string, number>>}
+ * @returns {Promise<Record<string, {contributionsReceived: number, contributionsReceived72Hr: number}>>}
  */
 export async function getFundsRaisedForCandidates(candidateIds) {
-    /** @type {Record<string, number>} */
+    /** @type {Record<string, {contributionsReceived: number, contributionsReceived72Hr: number}>} */
     const totals = {};
 
     await Promise.all(
@@ -68,7 +72,10 @@ export async function getFundsRaisedForCandidates(candidateIds) {
 
             // A missing key tells the ranking to omit candidates without a report.
             if (report) {
-                totals[candidateId] = getContributionsReceived(report);
+                totals[candidateId] = {
+                    contributionsReceived: getContributionsReceived(report),
+                    contributionsReceived72Hr: getContributionsReceived72Hr(report)
+                };
             }
         })
     );

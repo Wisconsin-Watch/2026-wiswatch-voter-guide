@@ -2,6 +2,7 @@
   "candidate_id": "a-binsfeld1",
   "entity_id": 30955,
   "contributions_received": 90852.33,
+  "contributions_received_72hr": 1373.8,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
@@ -19,12 +20,7 @@
       "count": 1
     },
     {
-      "name": "Janet  E Radue",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "ABCPAC-WIS",
+      "name": "Friends of Devin LeMahieu",
       "total": 2000.0,
       "count": 1
     },
@@ -34,12 +30,17 @@
       "count": 1
     },
     {
-      "name": "Friends of Devin LeMahieu",
+      "name": "ABCPAC-WIS",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Friends of Mary",
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "name": "Taxpayers for Stafsholt",
       "total": 2000.0,
       "count": 1
     },
@@ -49,7 +50,7 @@
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "Friends of Mary",
       "total": 2000.0,
       "count": 1
     }

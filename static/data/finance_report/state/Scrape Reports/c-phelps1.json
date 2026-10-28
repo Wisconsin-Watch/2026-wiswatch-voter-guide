@@ -2,6 +2,7 @@
   "candidate_id": "c-phelps1",
   "entity_id": 16364,
   "contributions_received": 58315.39,
+  "contributions_received_72hr": 2807.42,
   "top_donors": [
     {
       "name": "Eau Claire County Democratic Party",
@@ -10,8 +11,8 @@
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 1225.62,
-      "count": 4
+      "total": 4033.04,
+      "count": 5
     },
     {
       "name": "SEIU Wisconsin State Council PAC",

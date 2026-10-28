@@ -2,16 +2,22 @@
   "candidate_id": "m-maier1",
   "entity_id": 12229724,
   "contributions_received": 32381.28,
+  "contributions_received_72hr": 2070.72,
   "top_donors": [
     {
       "name": "Republican Party - Dane County",
-      "total": 10493.71,
-      "count": 3
+      "total": 11564.43,
+      "count": 4
     },
     {
       "name": "Republican Party",
       "total": 8000.0,
       "count": 1
+    },
+    {
+      "name": "Rep Assembly Campaign Com RACC",
+      "total": 1620.2,
+      "count": 2
     },
     {
       "name": "Kurt Wong",
@@ -39,17 +45,12 @@
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
-      "total": 620.2,
-      "count": 1
-    },
-    {
       "name": "Dave Ripp",
       "total": 600.0,
       "count": 2
     },
     {
-      "name": "Jae Bok Chung",
+      "name": "Scott Pernitz",
       "total": 500.0,
       "count": 1
     }

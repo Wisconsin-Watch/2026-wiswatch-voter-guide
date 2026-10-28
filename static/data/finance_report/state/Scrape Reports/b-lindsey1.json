@@ -2,11 +2,12 @@
   "candidate_id": "b-lindsey1",
   "entity_id": 12226525,
   "contributions_received": 1201276.99,
+  "contributions_received_72hr": 186037.41,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee (ID #0400002)",
-      "total": 525343.18,
-      "count": 4
+      "total": 700174.88,
+      "count": 7
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -20,8 +21,8 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 88260.63,
-      "count": 11
+      "total": 99466.34,
+      "count": 13
     },
     {
       "name": "Friends of Devin LeMahieu",

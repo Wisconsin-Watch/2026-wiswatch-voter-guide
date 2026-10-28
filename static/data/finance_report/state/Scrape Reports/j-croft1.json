@@ -2,16 +2,17 @@
   "candidate_id": "j-croft1",
   "entity_id": 12226367,
   "contributions_received": 2614062.58,
+  "contributions_received_72hr": 63439.0,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 2451294.13,
-      "count": 24
+      "total": 2478544.13,
+      "count": 26
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 95450.0,
-      "count": 13
+      "total": 131639.0,
+      "count": 15
     },
     {
       "name": "Racine County Republican Party",

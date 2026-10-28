@@ -2,6 +2,7 @@
   "candidate_id": "g-battino1",
   "entity_id": 2985283,
   "contributions_received": 208207.99,
+  "contributions_received_72hr": 24160.56,
   "top_donors": [
     {
       "name": "Gillian Battino",
@@ -10,8 +11,8 @@
     },
     {
       "name": "State Senate Democratic Committee",
-      "total": 10230.77,
-      "count": 1
+      "total": 27203.77,
+      "count": 2
     },
     {
       "name": "Democratic Party of Wisconsin",
@@ -24,17 +25,17 @@
       "count": 5
     },
     {
+      "name": "Wisconsin Democrats Wisconsin Democrats",
+      "total": 4187.56,
+      "count": 1
+    },
+    {
       "name": "Wood County Democratic Party",
       "total": 4000.0,
       "count": 2
     },
     {
-      "name": "COLEEN BECK",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Donald Katz",
+      "name": "James Weber",
       "total": 2000.0,
       "count": 1
     },
@@ -44,7 +45,7 @@
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "Mikko Zuchner",
       "total": 2000.0,
       "count": 1
     },

@@ -2,10 +2,16 @@
   "candidate_id": "c-schnitzler1",
   "entity_id": 1927630,
   "contributions_received": 34761.88,
+  "contributions_received_72hr": 11036.0,
   "top_donors": [
     {
       "name": "Republican Party of Wisconsin",
-      "total": 7465.0,
+      "total": 9465.0,
+      "count": 2
+    },
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 7460.0,
       "count": 1
     },
     {
@@ -24,17 +30,17 @@
       "count": 2
     },
     {
-      "name": "Gary Ascher",
+      "name": "Nancy 4 Wisconsin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Thomas Ready",
+      "name": "Steven Rickert",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Rep Assembly Campaign Com RACC",
+      "name": "Kathy Neubauer",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +50,7 @@
       "count": 1
     },
     {
-      "name": "Nancy 4 Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Kathy Neubauer",
+      "name": "Rep Assembly Campaign Com RACC",
       "total": 1000.0,
       "count": 1
     }

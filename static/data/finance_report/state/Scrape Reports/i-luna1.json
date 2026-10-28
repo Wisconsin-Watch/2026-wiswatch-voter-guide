@@ -2,6 +2,7 @@
   "candidate_id": "i-luna1",
   "entity_id": 12183906,
   "contributions_received": 150636.64,
+  "contributions_received_72hr": 3469.4,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
@@ -9,32 +10,27 @@
       "count": 8
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2598.13,
+      "count": 4
+    },
+    {
+      "name": "UAW WI State PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "Robert Haselow",
       "total": 1000.0,
       "count": 1
     },
     {
+      "name": "Lots of People Supporting Mike Bare",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
       "name": "IBEW Local 494 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Justine Haselow",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI PEOPLE Conference",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Forest Co Potawatomi Comm PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
       "total": 1000.0,
       "count": 1
     },
@@ -44,12 +40,17 @@
       "count": 1
     },
     {
-      "name": "Clark Pellett",
+      "name": "WEAC PAC",
       "total": 1000.0,
-      "count": 2
+      "count": 1
     },
     {
-      "name": "James M Walton",
+      "name": "Forest Co Potawatomi Comm PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI PEOPLE Conference",
       "total": 1000.0,
       "count": 1
     }

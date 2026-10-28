@@ -2,7 +2,13 @@
   "candidate_id": "m-spreitzer1",
   "entity_id": 16972,
   "contributions_received": 98657.77,
+  "contributions_received_72hr": 72626.08,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 71460.45,
+      "count": 5
+    },
     {
       "name": "State Senate Democratic Committee",
       "total": 7904.88,
@@ -14,9 +20,9 @@
       "count": 3
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
+      "name": "WEAC PAC",
       "total": 2000.0,
-      "count": 2
+      "count": 1
     },
     {
       "name": "William MacFarlane",
@@ -24,12 +30,7 @@
       "count": 1
     },
     {
-      "name": "Northwestern Wisconsin REALTORS PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "WEAC PAC",
+      "name": "SEIU Wisconsin State Council PAC",
       "total": 2000.0,
       "count": 1
     },
@@ -39,17 +40,17 @@
       "count": 1
     },
     {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 2000.0,
+      "count": 2
+    },
+    {
       "name": "UFCW Active Ballot Club General Fund",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Democratic Party of Rock County",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "SEIU Wisconsin State Council PAC",
+      "name": "Northwestern Wisconsin REALTORS PAC",
       "total": 2000.0,
       "count": 1
     }

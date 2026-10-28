@@ -2,7 +2,13 @@
   "candidate_id": "y-xiong1",
   "entity_id": 16341,
   "contributions_received": 303115.2,
+  "contributions_received_72hr": 269089.8,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 267089.8,
+      "count": 2
+    },
     {
       "name": "Democratic Party of Wisconsin",
       "total": 111169.34,
@@ -14,12 +20,12 @@
       "count": 1
     },
     {
-      "name": "WEAC PAC",
+      "name": "Democracy Defenders PAC",
       "total": 18000.0,
       "count": 1
     },
     {
-      "name": "Democracy Defenders PAC",
+      "name": "WEAC PAC",
       "total": 18000.0,
       "count": 1
     },
@@ -29,12 +35,12 @@
       "count": 1
     },
     {
-      "name": "Green Bay Political Action Committee",
+      "name": "Douglas E Hosler",
       "total": 4000.0,
       "count": 1
     },
     {
-      "name": "Douglas E Hosler",
+      "name": "Green Bay Political Action Committee",
       "total": 4000.0,
       "count": 1
     },
@@ -47,11 +53,6 @@
       "name": "Victor Neng Xiong",
       "total": 2500.0,
       "count": 3
-    },
-    {
-      "name": "Sy Xiong",
-      "total": 2380.0,
-      "count": 5
     }
   ]
 }

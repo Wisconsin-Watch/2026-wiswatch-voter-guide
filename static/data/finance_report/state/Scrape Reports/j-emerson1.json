@@ -2,6 +2,7 @@
   "candidate_id": "j-emerson1",
   "entity_id": 15871,
   "contributions_received": 243965.41,
+  "contributions_received_72hr": 4626.87,
   "top_donors": [
     {
       "name": "Assembly Democratic Camp Comm",
@@ -10,8 +11,8 @@
     },
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 23089.82,
-      "count": 5
+      "total": 25716.69,
+      "count": 6
     },
     {
       "name": "Eau Claire County Democratic Party",
@@ -34,24 +35,24 @@
       "count": 2
     },
     {
-      "name": "Deborah Raymer",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Wisconsin REALTORS Political Fund",
+      "name": "Martin J Voss",
       "total": 1000.0,
       "count": 2
     },
     {
-      "name": "Ross Boucher",
+      "name": "Cooke for Congress",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "EMILY NEWMANN",
+      "name": "Realtors Association of Northeast Wisconsin",
       "total": 1000.0,
-      "count": 3
+      "count": 1
+    },
+    {
+      "name": "Helen Drawbert",
+      "total": 1000.0,
+      "count": 1
     }
   ]
 }

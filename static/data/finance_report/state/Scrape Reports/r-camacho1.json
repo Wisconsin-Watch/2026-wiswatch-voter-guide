@@ -2,11 +2,17 @@
   "candidate_id": "r-camacho1",
   "entity_id": 11959800,
   "contributions_received": 16084.3,
+  "contributions_received_72hr": 2774.69,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2184.37,
-      "count": 4
+      "total": 3959.06,
+      "count": 5
+    },
+    {
+      "name": "Mibesol Reza",
+      "total": 1000.0,
+      "count": 1
     },
     {
       "name": "Antonio Garcia",
@@ -15,11 +21,6 @@
     },
     {
       "name": "Megan Hull",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Mibesol Reza",
       "total": 1000.0,
       "count": 1
     },
@@ -39,17 +40,17 @@
       "count": 2
     },
     {
+      "name": "Phelps Campaign",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
       "name": "James Yourkovich",
       "total": 500.0,
       "count": 1
     },
     {
-      "name": "Jose Perez",
-      "total": 500.0,
-      "count": 1
-    },
-    {
-      "name": "Aranda for WI",
+      "name": "Vice Executive LLC -> Vice Executive LLC",
       "total": 500.0,
       "count": 1
     }

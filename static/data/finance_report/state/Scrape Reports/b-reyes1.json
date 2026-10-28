@@ -2,6 +2,7 @@
   "candidate_id": "b-reyes1",
   "entity_id": 12226234,
   "contributions_received": 284533.68,
+  "contributions_received_72hr": 10567.95,
   "top_donors": [
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -10,8 +11,8 @@
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 68685.79,
-      "count": 9
+      "total": 79253.74,
+      "count": 11
     },
     {
       "name": "Wisconsin Young Republicans",

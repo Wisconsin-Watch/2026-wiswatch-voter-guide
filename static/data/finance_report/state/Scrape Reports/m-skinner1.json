@@ -2,11 +2,12 @@
   "candidate_id": "m-skinner1",
   "entity_id": 1704858,
   "contributions_received": 1400058.89,
+  "contributions_received_72hr": 96078.82,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 899983.75,
-      "count": 12
+      "total": 929525.57,
+      "count": 14
     },
     {
       "name": "Arena Mail & Digitl",
@@ -15,31 +16,31 @@
     },
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 99120.95,
-      "count": 2
+      "total": 102370.95,
+      "count": 3
     },
     {
       "name": "Committee to Elect a Republican Senator",
-      "total": 8000.0,
-      "count": 1
+      "total": 35960.0,
+      "count": 3
     },
     {
-      "name": "Robert Keller",
+      "name": "Republican Party of Wisconsin",
+      "total": 35327.0,
+      "count": 2
+    },
+    {
+      "name": "Feyen for Senate",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "3RD District Republican Party of WI",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "KOCHPAC-KOCH Inc. PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Republican Party of Chippewa County",
+      "name": "Matt Neuman",
       "total": 2000.0,
       "count": 1
     },
@@ -49,7 +50,7 @@
       "count": 1
     },
     {
-      "name": "Matt Neuman",
+      "name": "Republican Party of Chippewa County",
       "total": 2000.0,
       "count": 1
     }

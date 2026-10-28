@@ -2,11 +2,17 @@
   "candidate_id": "j-jacobson1",
   "entity_id": 16793,
   "contributions_received": 1863214.33,
+  "contributions_received_72hr": 12228.09,
   "top_donors": [
     {
       "name": "State Senate Democratic Committee",
       "total": 1522817.97,
       "count": 16
+    },
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 8132.79,
+      "count": 3
     },
     {
       "name": "Linus Upson",
@@ -29,27 +35,22 @@
       "count": 2
     },
     {
-      "name": "WI Laborers District Council",
+      "name": "Robert Haselow",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Wisconsin Carpenters PAC",
+      "name": "Zoe Aron",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "International Union of Painters and Allied Trades Political Action Together Political Committee",
+      "name": "Todd Vogel",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "SEIU Wisconsin State Council PAC",
-      "total": 2000.0,
-      "count": 1
-    },
-    {
-      "name": "Local 400 COPE Fund",
+      "name": "Brennan for Wisconsin",
       "total": 2000.0,
       "count": 1
     }

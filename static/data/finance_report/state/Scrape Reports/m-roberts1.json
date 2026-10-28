@@ -2,16 +2,17 @@
   "candidate_id": "m-roberts1",
   "entity_id": 12047272,
   "contributions_received": 392283.1,
+  "contributions_received_72hr": 16500.0,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
-      "total": 93829.15,
-      "count": 10
+      "total": 97079.15,
+      "count": 11
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 53252.0,
-      "count": 5
+      "total": 63252.0,
+      "count": 6
     },
     {
       "name": "Commitee to Elect a Republican",
@@ -19,37 +20,37 @@
       "count": 1
     },
     {
-      "name": "Cynthia LaConte",
+      "name": "Marissa McCartan",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Adam Beren",
+      "name": "Dan Feyen",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Mary Felzkowski",
+      "name": "KOCHPAC",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Tim Michels",
+      "name": "Deborah Kunes",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Donald Wahlin",
+      "name": "David A. Eckert",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Jodie Fleckenstein",
+      "name": "John Silseth",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Romaine Quinn",
+      "name": "Rob Hutton",
       "total": 2000.0,
       "count": 1
     }

@@ -2,11 +2,22 @@
   "candidate_id": "j-disher1",
   "entity_id": 12228972,
   "contributions_received": 18668.04,
+  "contributions_received_72hr": 19423.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 16323.0,
+      "count": 2
+    },
     {
       "name": "Republican Assembly Campaign Committee",
       "total": 8182.0,
       "count": 1
+    },
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 3359.84,
+      "count": 2
     },
     {
       "name": "Rep Assembly Campaign Com RACC",
@@ -39,17 +50,7 @@
       "count": 1
     },
     {
-      "name": "Republican Assembly Campaign Committee (ID #0400002)",
-      "total": 359.84,
-      "count": 1
-    },
-    {
       "name": "Jeff Kropp",
-      "total": 250.0,
-      "count": 1
-    },
-    {
-      "name": "Mark & Sandra Brystrom",
       "total": 250.0,
       "count": 1
     }

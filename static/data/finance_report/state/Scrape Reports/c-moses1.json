@@ -2,16 +2,22 @@
   "candidate_id": "c-moses1",
   "entity_id": 15939,
   "contributions_received": 786785.52,
+  "contributions_received_72hr": 153991.57,
   "top_donors": [
     {
       "name": "Republican Assembly Campaign Committee",
-      "total": 531948.28,
-      "count": 10
+      "total": 554948.28,
+      "count": 12
+    },
+    {
+      "name": "Republican Assembly Campaign Committee (ID #0400002)",
+      "total": 117594.83,
+      "count": 1
     },
     {
       "name": "Republican Party of Wisconsin",
-      "total": 93382.77,
-      "count": 16
+      "total": 105479.51,
+      "count": 18
     },
     {
       "name": "Republican Party of Wisconsin -> Arena Mail & Digital",
@@ -45,11 +51,6 @@
     },
     {
       "name": "Kevin Blau",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Diane Hendricks",
       "total": 1000.0,
       "count": 1
     }

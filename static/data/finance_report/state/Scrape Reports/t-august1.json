@@ -2,54 +2,55 @@
   "candidate_id": "t-august1",
   "entity_id": 16263,
   "contributions_received": 217701.1,
+  "contributions_received_72hr": 17807.0,
   "top_donors": [
+    {
+      "name": "Republican Party of Wisconsin",
+      "total": 17807.0,
+      "count": 6
+    },
     {
       "name": "Republican Party of Walworth County",
       "total": 13615.86,
       "count": 5
     },
     {
-      "name": "Dean Cady",
+      "name": "Hugh McLaughlin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Tad Eggenberger",
+      "name": "Bell Ambulance, Inc. Employees PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Matthew Siebenaler",
+      "name": "Wisconsin Beverage Association PAC",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Joe Tilton",
+      "name": "Glenn Madrigrano",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "robert marchant",
+      "name": "Paul Salzwedel",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Milwaukee Police Association Political Action Committee",
+      "name": "Eric Tuckner",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "Alliant Energy WI Gov Act Cte",
+      "name": "Heidi Garvin",
       "total": 1000.0,
       "count": 1
     },
     {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "WI Soc Anesthesiologists PAC",
+      "name": "Todd Gutschow",
       "total": 1000.0,
       "count": 1
     }

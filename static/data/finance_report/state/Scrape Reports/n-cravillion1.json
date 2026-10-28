@@ -2,6 +2,7 @@
   "candidate_id": "n-cravillion1",
   "entity_id": 12226986,
   "contributions_received": 82827.99,
+  "contributions_received_72hr": 3041.02,
   "top_donors": [
     {
       "name": "Committee to Elect a Republican Senate",
@@ -14,7 +15,7 @@
       "count": 2
     },
     {
-      "name": "ABCPAC-WIS",
+      "name": "Friends of Mary",
       "total": 2000.0,
       "count": 1
     },
@@ -24,17 +25,12 @@
       "count": 1
     },
     {
-      "name": "Chad Fradette",
+      "name": "ABCPAC-WIS",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Bill Cosh",
-      "total": 2000.0,
-      "count": 4
-    },
-    {
-      "name": "Lee H Kinnard",
+      "name": "Terrence Wall",
       "total": 2000.0,
       "count": 1
     },
@@ -44,14 +40,19 @@
       "count": 1
     },
     {
-      "name": "Plumbers & Steamfitters Local 400 COPE FUND SWEB ID #500330",
+      "name": "Friends of Devin LeMahieu",
       "total": 2000.0,
       "count": 1
     },
     {
-      "name": "Friends of Mary",
+      "name": "Lee H Kinnard",
       "total": 2000.0,
       "count": 1
+    },
+    {
+      "name": "Bill Cosh",
+      "total": 2000.0,
+      "count": 4
     }
   ]
 }

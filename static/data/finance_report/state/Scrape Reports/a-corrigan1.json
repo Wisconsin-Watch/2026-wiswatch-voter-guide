@@ -2,11 +2,12 @@
   "candidate_id": "a-corrigan1",
   "entity_id": 12228150,
   "contributions_received": 14546.77,
+  "contributions_received_72hr": 1761.0,
   "top_donors": [
     {
       "name": "Democratic Party of Wisconsin",
-      "total": 2786.37,
-      "count": 7
+      "total": 4547.37,
+      "count": 8
     },
     {
       "name": "Winnebago County Democratic Party",

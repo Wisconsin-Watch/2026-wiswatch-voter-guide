@@ -2,16 +2,17 @@
   "candidate_id": "d-glasstein1",
   "entity_id": 843082,
   "contributions_received": 91630.26,
+  "contributions_received_72hr": 1673.21,
   "top_donors": [
+    {
+      "name": "Democratic Party of Wisconsin",
+      "total": 15031.17,
+      "count": 9
+    },
     {
       "name": "Democratic Party of Ozaukee County",
       "total": 14935.0,
       "count": 4
-    },
-    {
-      "name": "Democratic Party of Wisconsin",
-      "total": 13357.96,
-      "count": 8
     },
     {
       "name": "Wendy Freitag",

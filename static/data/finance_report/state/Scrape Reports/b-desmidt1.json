@@ -2,6 +2,7 @@
   "candidate_id": "b-desmidt1",
   "entity_id": 15509,
   "contributions_received": 38310.37,
+  "contributions_received_72hr": 2492.58,
   "top_donors": [
     {
       "name": "Kenosha County Democratic Party",
@@ -9,29 +10,14 @@
       "count": 2
     },
     {
+      "name": "Democratic Party of Wisconsin",
+      "total": 2676.95,
+      "count": 5
+    },
+    {
       "name": "TIP FOR WI",
       "total": 1000.0,
       "count": 1
-    },
-    {
-      "name": "Tavern League of Wisconsin",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "Jeffrey S. Lindemann",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "United Association Local 118 PAC",
-      "total": 1000.0,
-      "count": 1
-    },
-    {
-      "name": "REALTORS Political Action Committee - Wisconsin",
-      "total": 1000.0,
-      "count": 2
     },
     {
       "name": "SEIU Wisconsin State Council PAC",
@@ -39,7 +25,12 @@
       "count": 1
     },
     {
-      "name": "WI Pipe Trades Assn PAC",
+      "name": "Lesley Johnson",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "WI PEOPLE Conference",
       "total": 1000.0,
       "count": 1
     },
@@ -49,7 +40,17 @@
       "count": 1
     },
     {
-      "name": "Lesley Johnson",
+      "name": "WI Pipe Trades Assn PAC",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "name": "REALTORS Political Action Committee - Wisconsin",
+      "total": 1000.0,
+      "count": 2
+    },
+    {
+      "name": "United Association Local 118 PAC",
       "total": 1000.0,
       "count": 1
     }
