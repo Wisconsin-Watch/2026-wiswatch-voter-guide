@@ -1,5 +1,6 @@
 <script>
 	import stylizedBkg from '$lib/assets/stylized-bkg.png';
+	import navMenuBackground from '$lib/assets/nav-menu-background.png';
 	import { base } from '$app/paths';
 	import { onMount, onDestroy } from 'svelte';
 	import navMenu from '$lib/navMenu.js';
@@ -89,7 +90,12 @@
 	aria-label="Close menu overlay"
 ></div>
 
-<div id="nav-menu" class="nav-menu" class:open={menuOpen}>
+<div
+	id="nav-menu"
+	class="nav-menu"
+	class:open={menuOpen}
+	style={`--nav-menu-background: url("${navMenuBackground}")`}
+>
 	<div class="nav-menu-header">
 		<h2>Know your race?</h2>
 		<button class="close-btn" onclick={toggleMenu} aria-label="Close menu">✕</button>

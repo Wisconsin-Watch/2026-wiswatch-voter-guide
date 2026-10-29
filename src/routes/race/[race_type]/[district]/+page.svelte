@@ -515,7 +515,7 @@
 
                     {#if race['primary-results']}
                         <div class="info-section ring bento-section">
-                            <h2>Primary results</h2>
+                            <h2>Election results</h2>
                             {#each race['primary-results'].split(/\r?\n/).filter(Boolean) as paragraph}
                                 <p>{@html paragraph}</p>
                             {/each}

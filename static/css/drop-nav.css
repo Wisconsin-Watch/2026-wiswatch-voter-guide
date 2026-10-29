@@ -64,7 +64,7 @@
 	box-shadow: 0 4px 6px 0 #171717;
 
 	min-height: 100vh;
-    background-image: url(/src/lib/assets/nav-menu-background.png);
+    background-image: var(--nav-menu-background);
     background-size: contain;
     background-position: center bottom;
     background-repeat: no-repeat;

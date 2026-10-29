@@ -134,6 +134,15 @@
                         </div>
                     </div>
 
+                        <div class="info-section ring bento-section ap-result-section">
+                            <h2>Election results</h2>
+                            <h3>Quesion 1</h3>
+                                <iframe class="ap-embed" loading="lazy" title="Live election results via the Associated Press" src="https://interactives.apelections.org/election-results/customers/layouts/organization-layouts/published/120503/37936.html" width="100%" frameborder="0" scrolling="no" marginheight="0"></iframe><script defer src="https://interactives.apelections.org/election-results/assets/microsite/resizeClient.js"></script>
+                            <h3>Question 2</h3>
+                                <iframe class="ap-embed" loading="lazy" title="Live election results via the Associated Press" src="https://interactives.apelections.org/election-results/customers/layouts/organization-layouts/published/120503/37949.html" width="100%" frameborder="0" scrolling="no" marginheight="0"></iframe><script defer src="https://interactives.apelections.org/election-results/assets/microsite/resizeClient.js"></script>
+                            <h3>Question 3</h3>
+                                <iframe class="ap-embed" loading="lazy" title="Live election results via the Associated Press" src="https://interactives.apelections.org/election-results/customers/layouts/organization-layouts/published/120503/37950.html" width="100%" frameborder="0" scrolling="no" marginheight="0"></iframe><script defer src="https://interactives.apelections.org/election-results/assets/microsite/resizeClient.js"></script>
+                        </div>
 
             </div>
 
