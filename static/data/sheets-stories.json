@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T16:31:04.435Z",
+  "lastUpdated": "2026-10-30T18:24:35.946Z",
   "stories": [
     {
       "id": 0,
@@ -918,6 +918,26 @@
       "headline": "73rd District Wisconsin Assembly race a rematch",
       "byline": "Shelley Nelson / Superior Telegram",
       "published_date": "2026-10-21T16:33:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 92,
+      "url": "https://madison.com/news/state-regional/wisconsin/article_a2b09096-cf55-55ff-9625-e6e27d124ecf.html",
+      "race_id": "se-11",
+      "headline": "Candidate Q&A: Wisconsin State Senate District 11",
+      "byline": "Samantha Dietel / Wisconsin State Journal",
+      "published_date": "2026-10-26T17:00:00.000Z",
+      "featured": "",
+      "featured_img": ""
+    },
+    {
+      "id": 93,
+      "url": "https://www.jsonline.com/story/communities/west/2026/10/27/dan-knodl-matt-brown-2026-election-wisconsin-assembly-district-24-race/92450894007/",
+      "race_id": "as-24",
+      "headline": "What to know about the Assembly District 24 race: Knodl and Brown",
+      "byline": "Cathy Kozlowicz / Milwaukee Journal Sentinel",
+      "published_date": "2026-10-27T05:06:00.000Z",
       "featured": "",
       "featured_img": ""
     }
