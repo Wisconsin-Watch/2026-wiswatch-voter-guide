@@ -4,6 +4,10 @@
 
 <h1>Release Update</h1>
 
+<h4>Update Nov. 2, 2026</h4>
+
+- Election results page
+
 <h4>Update Oct. 29, 2026</h4>
 
 - Updated funds raised

@@ -2,6 +2,7 @@
 	import stylizedBkg from '$lib/assets/stylized-bkg.png';
 	import navMenuBackground from '$lib/assets/nav-menu-background.png';
 	import { base } from '$app/paths';
+	import { goto } from '$app/navigation';
 	import { onMount, onDestroy } from 'svelte';
 	import navMenu from '$lib/navMenu.js';
 	
@@ -139,6 +140,8 @@
 			<p id="candidate-search-status" class="candidate-search-status" aria-live="polite"></p>
 			<button id="candidate-search-btn" class="search-btn" disabled><span class="button-interaction-layer" aria-hidden="true"></span>Go to Race</button>
 		</div>
+
+		<button id="race-results-nav-btn" class="search-btn" type="button" onclick={() => goto(`${base}/election-results/`)}><span class="button-interaction-layer" aria-hidden="true"></span>Go to Election Results</button>
 	</div>
 </div>
 

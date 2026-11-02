@@ -46,6 +46,33 @@
         text-align: center;
     }
 
+    .election-day-banner {
+        position: relative;
+        width: min(100%, 970px);
+        margin: 0 auto;
+        overflow: hidden;
+        background: #fff;
+    }
+
+    .election-day-banner iframe {
+        display: block;
+        width: 100%;
+        aspect-ratio: 970 / 250;
+        border: 0;
+        pointer-events: none;
+    }
+
+    .election-day-banner-link {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+    }
+
+    .election-day-banner-link:focus-visible {
+        outline: 4px solid #0073aa;
+        outline-offset: -4px;
+    }
+
     .primary-results-notice {
         box-sizing: border-box;
         width: 100%;
@@ -86,6 +113,15 @@
 
     .is-rolling .primary-results-message {
         padding-right: 3rem;
+    }
+
+    .primary-results-message a {
+        color: inherit;
+        text-decoration: underline;
+    }
+
+    .primary-results-message a:hover {
+        color: #3090c9;
     }
 
     @keyframes roll-primary-results {
@@ -895,8 +931,9 @@
     let primaryResultsNoticeText;
     let primaryResultsNoticeObserver;
 
-    const primaryResultsNoticeStart = Date.parse('2026-08-11T00:00:00-05:00');
-    const primaryResultsNoticeEnd = Date.parse('2026-08-19T00:00:00-05:00');
+    const primaryResultsNoticeStart = Date.parse('2026-11-03T20:00:00-06:00');
+    const primaryResultsNoticeEnd = Date.parse('2026-11-05T00:00:00-06:00');
+    const forceShowElectionDayBanner = false; // Set to true to force show the banner for testing
     
     // Statewide races state
     let statewideRaces = [];
@@ -1423,7 +1460,8 @@
     //Ads
     onMount(async () => {
     const now = Date.now();
-    showPrimaryResultsNotice = now >= primaryResultsNoticeStart && now < primaryResultsNoticeEnd;
+    showPrimaryResultsNotice = forceShowElectionDayBanner
+        || (now >= primaryResultsNoticeStart && now < primaryResultsNoticeEnd);
 
     await tick();
     if (showPrimaryResultsNotice && primaryResultsNoticeViewport && primaryResultsNoticeText) {
@@ -1460,11 +1498,11 @@
 
 <div id="content" class="site-content" bind:this={contentElement}>
     {#if showPrimaryResultsNotice}
-        <aside class="primary-results-notice" role="status" aria-label="Primary election results update" bind:this={primaryResultsNoticeViewport}>
+        <aside class="primary-results-notice" role="status" aria-label="Election results update" bind:this={primaryResultsNoticeViewport}>
             <div class="primary-results-track" class:is-rolling={isPrimaryResultsNoticeRolling}>
-                <p class="primary-results-message"><span bind:this={primaryResultsNoticeText}>Primary results are available. Visit each race page for the results.</span></p>
+                <p class="primary-results-message"><span bind:this={primaryResultsNoticeText}>Election results are available. Visit the <a href="{base}/election-results/">election results page</a> or each race page for results.</span></p>
                 {#if isPrimaryResultsNoticeRolling}
-                    <p class="primary-results-message" aria-hidden="true">Primary results are available. Visit each race page for the results.</p>
+                    <p class="primary-results-message" aria-hidden="true">Election results are available. Visit the <a href="{base}/election-results/">election results page</a> or each race page for results.</p>
                 {/if}
             </div>
         </aside>
@@ -1498,6 +1536,22 @@
             </section>
 
         <broadstreet-zone id="after-hero" zone-id="190680"></broadstreet-zone>
+
+            <div class="election-day-banner">
+                {#if showPrimaryResultsNotice}
+                    <iframe
+                        src="{base}/graphics/election-day/electionday.html"
+                        title="Election Day — view live election results"
+                        scrolling="no"
+                    ></iframe>
+                    <a
+                        class="election-day-banner-link"
+                        href="{base}/election-results/"
+                        aria-label="View live election results"
+                    ></a>
+                {/if}
+            </div>
+
 
             <div class="entry-content">
 
