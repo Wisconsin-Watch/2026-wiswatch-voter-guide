@@ -1,3 +1,7 @@
+<h1>The election is over!</h1>
+
+<p>As of Nov.11, 2026, this website is no longer updated. Please support our <a href="https://wisconsinwatch.org/">other projects</a>. See you at the next election!</p>
+
 <h1>Introduction</h1>
 
 <p>Welcome to the 2026 Wisconsin Watch Voter Guide! You can access our web page <a href="https://wisconsinwatch.org/2026/07/2026-wisconsin-watch-voter-guide/">here</a>.</p>
